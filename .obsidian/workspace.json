@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "7b0e8ed45895098d",
+    "type": "split",
+    "children": [
+      {
+        "id": "46bacaca6e84aa1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5bd095e5385a18",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "368b2968a85cc6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c846cec96874d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3139ebbbf901fd0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "4e61ef98b3125028",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ideas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5bc1a8399f0982f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "81c6078d26183ead",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c77388e387e999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda9e7c086abeb64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciberseguridad/Service_Desk.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Service_Desk"
+            }
+          },
+          {
+            "id": "ddc9fa47031af038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "1c77a899b60b06ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d88a58e1fd79b407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "floating": {
+    "id": "b3dfe0fe09c03625",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7e34c2602e3acc5c",
+        "type": "window",
+        "children": [
+          {
+            "id": "1505760161ed7ef6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac8edd6f5e0da047",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1032,
+        "y": -8,
+        "width": 381,
+        "height": 744,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8b5bd095e5385a18",
+  "lastOpenFiles": [
+    "Ciberseguridad/Aprovisionamiento de Usuarios.md",
+    "Ciberseguridad/Fundamentos.md",
+    "Ciberseguridad/Enterprise Single Sign-On.md",
+    "Ciberseguridad/WEB SSO.md",
+    "Ciberseguridad/Servicio de Directorio.md",
+    "Ciberseguridad/Certificado Digital.md",
+    "Ciberseguridad/UTM.md",
+    "Ciberseguridad/Teoría de la información.md",
+    "PBX Conmutador.canvas",
+    "Ciberseguridad/Proxy.md",
+    "Ciberseguridad/IPS.md",
+    "Ciberseguridad/Firewall.md",
+    "Ciberseguridad/IDS.md",
+    "Ciberseguridad/VPN.md",
+    "Ciberseguridad/Datos.md",
+    "Ciberseguridad/Flujo de procesos.md",
+    "Sin nombre",
+    "2025-07-14.md",
+    "Ciberseguridad/Service_Desk.md",
+    "Ciberseguridad/Trend Micro.md",
+    "Ciberseguridad/Tanium.md",
+    "Ciberseguridad/Virtualizacion.md",
+    "Ciberseguridad/Redes.md",
+    "Ciberseguridad/Malwere.md",
+    "Untitled.md",
+    "Fundamentos.md",
+    "Ciberseguridad",
+    "Firewall/Fundamentos.md",
+    "Firewall/PAN",
+    "Firewall",
+    "2025-07-07.md"
+  ]
+}
