@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
     "ancho100"
-  ]
+  ],
+  "cssTheme": "SALEM",
+  "accentColor": "",
+  "theme": "obsidian"
 }
