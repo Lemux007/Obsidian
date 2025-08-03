@@ -11,10 +11,14 @@
             "id": "6f3a52adc97b1f3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Redes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Redes"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ciberseguridad/Redes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Redes"
             }
           },
           {
@@ -186,6 +191,7 @@
   },
   "active": "6f3a52adc97b1f3c",
   "lastOpenFiles": [
+    "Ciberseguridad/Prueba Git.md",
     "Ciberseguridad/Datos.md",
     "Ciberseguridad/Aprovisionamiento de Usuarios.md",
     "Ciberseguridad/Certificado Digital.md",
@@ -215,7 +221,6 @@
     "Ciberseguridad",
     "Firewall/Fundamentos.md",
     "Firewall/PAN",
-    "Firewall",
-    "2025-07-07.md"
+    "Firewall"
   ]
 }
