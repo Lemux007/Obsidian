@@ -11,10 +11,24 @@
             "id": "6f3a52adc97b1f3c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Firewall.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Firewall"
             }
           }
         ]
@@ -205,28 +219,28 @@
   },
   "active": "6f3a52adc97b1f3c",
   "lastOpenFiles": [
+    "Ciberseguridad/Teoría de la información.md",
+    "Ciberseguridad/Datos.md",
+    "Ciberseguridad/Servicio de Directorio.md",
+    "Ciberseguridad/Service_Desk.md",
+    "Ciberseguridad/Prueba Git.md",
     "Ciberseguridad/Malwere.md",
+    "Ciberseguridad/IDS.md",
+    "Ciberseguridad/Flujo de procesos.md",
+    "Ciberseguridad/Certificado Digital.md",
     "Configuration.md",
     "Ciberseguridad/Redes.md",
-    "Ciberseguridad/Prueba Git.md",
-    "Ciberseguridad/Datos.md",
     "Ciberseguridad/Aprovisionamiento de Usuarios.md",
-    "Ciberseguridad/Certificado Digital.md",
     "Ciberseguridad/Fundamentos.md",
     "Ciberseguridad/WEB SSO.md",
     "Ciberseguridad/VPN.md",
     "Ciberseguridad/Virtualizacion.md",
     "Ciberseguridad/UTM.md",
     "Ciberseguridad/Trend Micro.md",
-    "Ciberseguridad/Teoría de la información.md",
     "Ciberseguridad/Tanium.md",
-    "Ciberseguridad/Servicio de Directorio.md",
-    "Ciberseguridad/Service_Desk.md",
     "Ciberseguridad/Proxy.md",
     "Ciberseguridad/IPS.md",
-    "Ciberseguridad/IDS.md",
     "Ciberseguridad/Firewall.md",
-    "Ciberseguridad/Flujo de procesos.md",
     "Ciberseguridad/Enterprise Single Sign-On.md",
     "PBX Conmutador.canvas",
     "Sin nombre",

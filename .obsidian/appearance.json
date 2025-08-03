@@ -4,5 +4,6 @@
   ],
   "cssTheme": "SALEM",
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": false
 }
