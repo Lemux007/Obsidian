@@ -1,28 +1,31 @@
 El usuario desea agregar un correo pero no se aceptan las configuraciones que se proporcionan
 
-### Con Telnet:
 
-1. Abre la terminal (Windows: cmd con `telnet`, Linux/macOS: Terminal).
-    
-2. Usa:
-    
-    bash
-    
-    `telnet mail.tudominio.com 993`
-    
-    para verificar IMAP seguro, o
-    
-    bash
-    
-    `telnet mail.tudominio.com 143`
-    
-    para IMAP sin cifrar.  
-    Si responde con `CONNECTED` u `220 ...`, significa que hay conexión [Server Fault+2freedomain.one+2Dropvps+2](https://freedomain.one/it-tools/email-tools/mx-check/?utm_source=chatgpt.com)[Reddit](https://www.reddit.com/r/verizon/comments/fcwckj?utm_source=chatgpt.com).
-    
-3. Para SMTP:
-    
-    bash
-    
-    `telnet mail.tudominio.com 587`
-    
-    o `465` (SSL) o `25`. De la misma forma, si responde con `220`, está activo.
+Configuración Estandar:
+
+|   |   |
+|---|---|
+|**Servidor IMAP**|outlook.office365.com|
+|**Puerto IMAP**|993|
+|**Cifrado IMAP**|SSL/TLS|
+|**Método de autenticación**|OAuth2/Modern Auth|
+|![transparent170x1px.png](https://support.microsoft.com/images/es-es/d0086c32-4c66-4ef8-bd42-604a68690637)||
+|**Nombre del servidor POP**|outlook.office365.com|
+|**Puerto POP**|995|
+|**Cifrado POP**|SSL/TLS|
+|**Método de autenticación**|OAuth2/Modern Auth|
+|**Nombre del servidor SMTP**|smtp-mail.outlook.com|
+|**Puerto SMTP**|587|
+|**Cifrado SMTP**|STARTTLS|
+|**Método de autenticación**|OAuth2/Modern Auth|
+
+Configuracion usuario:
+![[Imagen de WhatsApp 2025-07-30 a las 09.54.38_ed68ed49.jpg]]
+![[Imagen de WhatsApp 2025-07-30 a las 09.54.58_ff463fc4.jpg]]
+![[Imagen de WhatsApp 2025-07-30 a las 09.55.10_e66bb22c.jpg]]
+
+Configuración Funcional:
+![[Imagen de WhatsApp 2025-07-30 a las 14.01.51_9d222e5e.jpg]]
+![[Imagen de WhatsApp 2025-07-30 a las 14.01.51_05a52d8e.jpg]]
+![[Imagen de WhatsApp 2025-07-30 a las 14.01.51_97128449.jpg]]
+

@@ -1,7 +1,7 @@
 Es un tipo de firewall que engloba diferentes funcionalidades:
 
 - [[UDP]]
-- [[VPN]]
+- [[Ciberseguridad/VPN]]
 - [[Antispam]]
 - [[Antiphishing]]
 - [[Antispyware]]

@@ -1,7 +1,7 @@
 1. [[Teoría de la información]]
 2. [[Firewall]]
 3. [[UTM]]
-4. [[VPN]]
+4. [[Ciberseguridad/VPN]]
 5. [[Proxy]]
 6. [[Certificado Digital]]
 7. [[WEB SSO]]
