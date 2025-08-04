@@ -29,3 +29,4 @@ Configuración Funcional:
 ![[Imagen de WhatsApp 2025-07-30 a las 14.01.51_05a52d8e.jpg]]
 ![[Imagen de WhatsApp 2025-07-30 a las 14.01.51_97128449.jpg]]
 
+QSCgu8lp
