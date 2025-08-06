@@ -30,3 +30,6 @@ Configuración Funcional:
 ![[Imagen de WhatsApp 2025-07-30 a las 14.01.51_97128449.jpg]]
 
 QSCgu8lp
+192.168.1.55	trend123
+192.168.1.5	4dMin2016
+192.168.1.6	4dMin2016
