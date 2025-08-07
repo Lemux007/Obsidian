@@ -1,0 +1,1 @@
+Se calcula por la cantidad de ataques que ha recibido, los bienes impactados y la severidad de cada uno de las amenazas, se puede priorizar en consola.

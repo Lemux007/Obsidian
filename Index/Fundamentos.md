@@ -7,3 +7,5 @@
 7. [[WEB SSO]]
 8. [[Enterprise Single Sign-On]]
 9. [[Aprovisionamiento de Usuarios]]
+10. [[Syslog]]
+11. [[Admon. Vulnerabilidades]]

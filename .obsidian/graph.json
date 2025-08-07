@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:Fundamentos",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 10813664
       }
+    },
+    {
+      "query": "file:Glosario",
+      "color": {
+        "a": 1,
+        "rgb": 59083
+      }
     }
   ],
   "collapse-display": true,
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 0.840104166666667,
   "lineSizeMultiplier": 2.4734375,
   "collapse-forces": false,
-  "centerStrength": 0.536458333333333,
+  "centerStrength": 0.520833333333333,
   "repelStrength": 8.64583333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5359795996226369,
+  "scale": 0.6286999562055899,
   "close": true
 }
