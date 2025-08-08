@@ -37,15 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Index/PAN.md",
+                "file": "Ciberseguridad/BPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PAN"
+              "title": "BPA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,10 +270,14 @@
       }
     ]
   },
-  "active": "95de6398106779c6",
+  "active": "a888927bfe332e82",
   "lastOpenFiles": [
-    "Ciberseguridad/Index/Trend Micro.md",
+    "Ciberseguridad/Certificado Digital.md",
+    "Ciberseguridad/BPA.md",
+    "Ciberseguridad/Aprovisionamiento de Usuarios.md",
+    "Ciberseguridad/Panorama.md",
     "Ciberseguridad/Index/PAN.md",
+    "Ciberseguridad/Index/Trend Micro.md",
     "Ciberseguridad/Index/Tanium.md",
     "Ciberseguridad/Firewall.md",
     "Ciberseguridad/Glosario Trend Micro.md",
@@ -300,12 +305,8 @@
     "Troubleshooting/Error de conexión.md",
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
     "Ciberseguridad/Index/Troubleshooting.md",
-    "Troubleshooting/Allocation Failed.md",
     "PBX Conmutador.canvas",
     "Ciber",
-    "Troubleshooting/Credenciales invalidas.md",
-    "Ciberseguridad/Admon. Vulnerabilidades.md",
-    "Ciberseguridad/Credits.md",
     "Ciberseguridad/Index",
     "Ciberseguridad",
     "Firewall/PAN",
