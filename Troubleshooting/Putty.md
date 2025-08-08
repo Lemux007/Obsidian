@@ -1,4 +1,4 @@
-
+Configuraciones [[PAN]] en Putty
 # Factory reset
 Entrar al CLI por serial y administrador de servidores
 - debug system maintenance-mode

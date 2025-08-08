@@ -8,27 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31478e981bfcf83f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
             "id": "95de6398106779c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Glosario.md",
+                "file": "Ciberseguridad/Index/PAN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PAN"
+            }
+          },
+          {
+            "id": "a888927bfe332e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Index/PAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glosario"
+              "title": "PAN"
             }
           }
         ]
@@ -216,17 +230,61 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31478e981bfcf83f",
+  "floating": {
+    "id": "6df8466bd643a5fa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f0d2c959a546a0f2",
+        "type": "window",
+        "children": [
+          {
+            "id": "8784347685810f69",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "31478e981bfcf83f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Troubleshooting/Putty.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Putty"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -623,
+        "y": 225,
+        "width": 820,
+        "height": 684,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "95de6398106779c6",
   "lastOpenFiles": [
-    "Ciberseguridad/Glosario.md",
+    "Ciberseguridad/Index/Trend Micro.md",
+    "Ciberseguridad/Index/PAN.md",
+    "Ciberseguridad/Index/Tanium.md",
+    "Ciberseguridad/Firewall.md",
     "Ciberseguridad/Glosario Trend Micro.md",
-    "Index/Fundamentos.md",
-    "Ciberseguridad/Syslog.md",
-    "Attack Index.md",
-    "Exposure Index.md",
-    "Troubleshooting/Correo ESM.md",
-    "Ciberseguridad/Trend Micro.md",
+    "Ciberseguridad/Exposure Index.md",
     "Configuration.md",
+    "Ciberseguridad/Zero Trust.md",
+    "Ciberseguridad/Index/Glosario.md",
+    "Troubleshooting/Putty.md",
+    "Ciberseguridad/Index/Fundamentos.md",
+    "Ciberseguridad/Syslog.md",
+    "Ciberseguridad/Attack Index.md",
+    "Troubleshooting/Correo ESM.md",
     "Sin título.md",
     "Images",
     "Images/Imagen de WhatsApp 2025-07-30 a las 09.54.38_ed68ed49.jpg",
@@ -241,19 +299,14 @@
     "Troubleshooting/Azure.md",
     "Troubleshooting/Error de conexión.md",
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
-    "Index/Troubleshooting.md",
+    "Ciberseguridad/Index/Troubleshooting.md",
     "Troubleshooting/Allocation Failed.md",
     "PBX Conmutador.canvas",
     "Ciber",
     "Troubleshooting/Credenciales invalidas.md",
     "Ciberseguridad/Admon. Vulnerabilidades.md",
     "Ciberseguridad/Credits.md",
-    "Ciberseguridad/Córtex.md",
-    "Ciberseguridad/Certificado Digital.md",
-    "Ciberseguridad/Prueba Git.md",
-    "Excalidraw/Drawing 2025-08-01 16.47.14.excalidraw.md",
-    "Ciberseguridad/Datos.md",
-    "Index",
+    "Ciberseguridad/Index",
     "Ciberseguridad",
     "Firewall/PAN",
     "Firewall"
