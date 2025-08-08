@@ -13,26 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Index/PAN.md",
+                "file": "Ciberseguridad/Firewall.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "PAN"
+              "title": "Firewall"
             }
           },
           {
             "id": "a888927bfe332e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Index/Fundamentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fundamentos"
+            }
+          },
+          {
+            "id": "ebd3f27dad1587c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ideas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5
   },
   "right": {
     "id": "81c6078d26183ead",
@@ -112,7 +116,7 @@
       {
         "id": "d6c77388e387e999",
         "type": "tabs",
-        "dimension": 61.143410852713174,
+        "dimension": 61.382113821138205,
         "children": [
           {
             "id": "eda9e7c086abeb64",
@@ -200,7 +204,7 @@
       {
         "id": "e6b64c424e826221",
         "type": "tabs",
-        "dimension": 38.856589147286826,
+        "dimension": 38.61788617886179,
         "children": [
           {
             "id": "39ce12028540f207",
@@ -231,80 +235,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "6df8466bd643a5fa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f0d2c959a546a0f2",
-        "type": "window",
-        "children": [
-          {
-            "id": "8784347685810f69",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "31478e981bfcf83f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Troubleshooting/Putty.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Putty"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -623,
-        "y": 225,
-        "width": 820,
-        "height": 684,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a888927bfe332e82",
+  "active": "3139ebbbf901fd0d",
   "lastOpenFiles": [
-    "Ciberseguridad/Certificado Digital.md",
-    "Ciberseguridad/BPA.md",
-    "Ciberseguridad/Aprovisionamiento de Usuarios.md",
-    "Ciberseguridad/Panorama.md",
-    "Ciberseguridad/Index/PAN.md",
-    "Ciberseguridad/Index/Trend Micro.md",
-    "Ciberseguridad/Index/Tanium.md",
-    "Ciberseguridad/Firewall.md",
-    "Ciberseguridad/Glosario Trend Micro.md",
-    "Ciberseguridad/Exposure Index.md",
-    "Configuration.md",
-    "Ciberseguridad/Zero Trust.md",
-    "Ciberseguridad/Index/Glosario.md",
     "Troubleshooting/Putty.md",
+    "Ciberseguridad/BPA.md",
     "Ciberseguridad/Index/Fundamentos.md",
-    "Ciberseguridad/Syslog.md",
-    "Ciberseguridad/Attack Index.md",
+    "Ciberseguridad/Index/PAN.md",
+    "Ciberseguridad/Antispam.md",
+    "Ciberseguridad/Firewall.md",
+    "Configuration.md",
+    "Troubleshooting/Troubleshooting PAN.md",
+    "Ciberseguridad/Index/Troubleshooting.md",
+    "Troubleshooting/Troubleshooting PAN (1).md",
+    "Images/Pasted image 20250730113304.png",
+    "Troubleshooting/Allocation Failed.md",
+    "Ciberseguridad/Index/Azure.md",
+    "Troubleshooting/Bloqueo de credenciales.md",
     "Troubleshooting/Correo ESM.md",
-    "Sin título.md",
+    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
+    "Troubleshooting/Error de conexión.md",
+    "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
+    "Troubleshooting/Reducción de tamaño VM.md",
+    "Ciberseguridad/Admon. Vulnerabilidades.md",
+    "Ciberseguridad/XDR.md",
+    "Ciberseguridad/estándares.md",
+    "Ciberseguridad/Index/Glosario.md",
+    "Ciberseguridad/Attack Index.md",
+    "Ciberseguridad/Index/Trend Micro.md",
+    "Ciberseguridad/Certificado Digital.md",
+    "Ciberseguridad/Aprovisionamiento de Usuarios.md",
     "Images",
     "Images/Imagen de WhatsApp 2025-07-30 a las 09.54.38_ed68ed49.jpg",
     "Images/Imagen de WhatsApp 2025-07-30 a las 09.55.10_e66bb22c.jpg",
-    "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
     "Images/Imagen de WhatsApp 2025-07-30 a las 14.01.51_97128449.jpg",
     "Images/Imagen de WhatsApp 2025-07-30 a las 14.01.51_05a52d8e.jpg",
     "Images/Imagen de WhatsApp 2025-07-30 a las 14.01.51_9d222e5e.jpg",
     "Images/Imagen de WhatsApp 2025-07-30 a las 09.54.58_ff463fc4.jpg",
-    "Troubleshooting/VPN.md",
-    "Reminders.md",
-    "Troubleshooting/Azure.md",
-    "Troubleshooting/Error de conexión.md",
-    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
-    "Ciberseguridad/Index/Troubleshooting.md",
     "PBX Conmutador.canvas",
     "Ciber",
     "Ciberseguridad/Index",

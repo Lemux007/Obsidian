@@ -1,10 +1,11 @@
 ==**Config:**==
-Software Aceleration off
+Software Acceleration off
 ==**Theme:**==
 SALEM
+ITS Theme
 ==**Plugins:**==
 Advance tables
 Calendar
-Dataview
+Data view
 Git
 Excalidraw

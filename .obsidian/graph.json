@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 59083
       }
+    },
+    {
+      "query": "file:Firewall",
+      "color": {
+        "a": 1,
+        "rgb": 13958912
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 8.64583333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2281472731872341,
+  "scale": 0.6286999562055996,
   "close": true
 }
