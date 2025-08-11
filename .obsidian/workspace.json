@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting/Putty.md",
+                "file": "Troubleshooting/Correo ESM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Putty"
+              "title": "Correo ESM"
             }
           }
         ]
@@ -208,16 +208,18 @@
   },
   "active": "95de6398106779c6",
   "lastOpenFiles": [
+    "Troubleshooting/Bloqueo de credenciales.md",
+    "Troubleshooting/Allocation Failed.md",
+    "Troubleshooting/Reducción de tamaño VM.md",
+    "Troubleshooting/Putty.md",
     "Troubleshooting/Correo ESM.md",
     "Excalidraw/Drawing 2025-08-11 16.31.30.excalidraw.md",
     "Excalidraw",
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
     "Sin título.canvas",
     "Ciberseguridad/Panorama.md",
-    "Troubleshooting/Bloqueo de credenciales.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Ciberseguridad/BPA.md",
-    "Troubleshooting/Putty.md",
     "Ciberseguridad/Index/Fundamentos.md",
     "Ciberseguridad/Index/PAN.md",
     "Ciberseguridad/Antispam.md",
@@ -227,11 +229,9 @@
     "Ciberseguridad/Index/Troubleshooting.md",
     "Troubleshooting/Troubleshooting PAN (1).md",
     "Images/Pasted image 20250730113304.png",
-    "Troubleshooting/Allocation Failed.md",
     "Ciberseguridad/Index/Azure.md",
     "Troubleshooting/Error de conexión.md",
     "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
-    "Troubleshooting/Reducción de tamaño VM.md",
     "Ciberseguridad/Admon. Vulnerabilidades.md",
     "Ciberseguridad/XDR.md",
     "Ciberseguridad/estándares.md",

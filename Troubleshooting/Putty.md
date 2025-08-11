@@ -25,12 +25,12 @@ Si la queremos colocar por DHCP le damos:
 
 Configurar los servicios DNS en DEVICE/Setup/services y colocamos el primario y secundario
 
-Firewall de inspeccion de paquetes de estado: Basados en puertos y dependen en gran medida de la confiabilidad de los dos host, ya que los paquetes no se inspeccionan despues de establecer la conexion.
-Operan hasta la capa 4 (transporte) y mantienen informacion de estado sobre las sesiones de comunicacion que se han establecido entre hosts en dos redes diferentes.
+Firewall de inspección de paquetes de estado: Basados en puertos y dependen en gran medida de la confiabilidad de los dos host, ya que los paquetes no se inspeccionan despues de establecer la conexion.
+Operan hasta la capa 4 (transporte) y mantienen información de estado sobre las sesiones de comunicación que se han establecido entre hosts en dos redes diferentes.
 
-Firewall de aplicaciones: Los Firewalls de aplicaciones a tercera generacion tambien se conocen como puertas de enlace de capa de aplicacion FW basados en proxy y firewalls de proxy inverso.
+Firewall de aplicaciones: Los Firewalls de aplicaciones a tercera generación tambien se conocen como puertas de enlace de capa de aplicación FW basados en proxy y firewalls de proxy inverso.
 
-# Reiniciar managment
+# Reiniciar management
 - debug software restart process management-server
 
 # Instalar dynamic updates
