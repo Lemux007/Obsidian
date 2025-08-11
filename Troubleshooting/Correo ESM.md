@@ -1,6 +1,5 @@
 El usuario desea agregar un correo pero no se aceptan las configuraciones que se proporcionan
 
-
 Configuración Estandar:
 
 |   |   |

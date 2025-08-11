@@ -5,4 +5,3 @@ intranova\su_usuario
 su contraseña
 
 una vez corroborado la imposibilidad de inicio de sesión, es necesario generar un restablecimiento de credenciales, esto se debe de solicitar con el **Gerente de Soporte** en turno.
-

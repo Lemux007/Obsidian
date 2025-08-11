@@ -26,9 +26,10 @@
   "editor:cycle-list-checklist": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "V"
+      "key": "C"
     }
   ],
   "editor:toggle-numbered-list": [
