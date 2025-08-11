@@ -2,7 +2,7 @@ Configuraciones [[PAN]] en Putty
 # Factory reset
 Entrar al CLI por serial y administrador de servidores
 - debug system maintenance-mode
-Vamos al menu y damos en factory reset
+Vamos al menú y damos en factory reset
 Dejamos activadas las opciones del panos en using image y nnsa
 Y hasta que cargue y lo reiniciamos
 
@@ -35,6 +35,6 @@ Firewall de aplicaciones: Los Firewalls de aplicaciones a tercera generacion tam
 
 # Instalar dynamic updates
 Recuperar todos las licencias en device > licenses
-check now en los dynamic updates o software si por ahi no nos salen.
+check now en los dynamic updates o software si por ahí no nos salen.
 Descargar e instalar todas las updates 
 ![[Pasted image 20250730113304.png]]

@@ -11,10 +11,14 @@
             "id": "95de6398106779c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting/Putty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Putty"
             }
           }
         ]
@@ -204,8 +208,12 @@
   },
   "active": "95de6398106779c6",
   "lastOpenFiles": [
-    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
     "Troubleshooting/Correo ESM.md",
+    "Excalidraw/Drawing 2025-08-11 16.31.30.excalidraw.md",
+    "Excalidraw",
+    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
+    "Sin título.canvas",
+    "Ciberseguridad/Panorama.md",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Ciberseguridad/BPA.md",
@@ -229,8 +237,6 @@
     "Ciberseguridad/estándares.md",
     "Ciberseguridad/Index/Glosario.md",
     "Ciberseguridad/Attack Index.md",
-    "Ciberseguridad/Index/Trend Micro.md",
-    "Ciberseguridad/Certificado Digital.md",
     "Images",
     "Images/Imagen de WhatsApp 2025-07-30 a las 09.54.38_ed68ed49.jpg",
     "Images/Imagen de WhatsApp 2025-07-30 a las 09.55.10_e66bb22c.jpg",
