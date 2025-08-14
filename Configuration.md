@@ -9,3 +9,4 @@ Calendar
 Data view
 Git
 Excalidraw
+Recent Files
