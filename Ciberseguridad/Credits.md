@@ -1,6 +1,6 @@
 Localizacion:
 1. **Credit Usage** esquina superior derecha
-2. Settings > Credit Usage
+2. Settings > Credits & Billing
 
 Sistema de desbloqueo de funciones por medio de creditos, ej; XDR Endpoint Sensor equivale a: 10 endpoints  = 200 creditos.
 
