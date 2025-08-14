@@ -5,103 +5,26 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "file:Fundamentos",
+      "query": "tag:#index  ",
       "color": {
         "a": 1,
-        "rgb": 8388608
-      }
-    },
-    {
-      "query": "tag:#fundamentos  ",
-      "color": {
-        "a": 1,
-        "rgb": 43042
-      }
-    },
-    {
-      "query": "file:Trend Micro",
-      "color": {
-        "a": 1,
-        "rgb": 15728640
-      }
-    },
-    {
-      "query": "file:Troubleshooting",
-      "color": {
-        "a": 1,
-        "rgb": 10813664
-      }
-    },
-    {
-      "query": "file:Glosario",
-      "color": {
-        "a": 1,
-        "rgb": 59083
-      }
-    },
-    {
-      "query": "file:Firewall",
-      "color": {
-        "a": 1,
-        "rgb": 13958912
-      }
-    },
-    {
-      "query": "section:(Firewall)",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "section:(Trend Micro)",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "section:(Troubleshooting)",
-      "color": {
-        "a": 1,
-        "rgb": 1357527
-      }
-    },
-    {
-      "query": "file:Cortex",
-      "color": {
-        "a": 1,
-        "rgb": 16711842
-      }
-    },
-    {
-      "query": "section:(Cortex)",
-      "color": {
-        "a": 1,
-        "rgb": 3701
-      }
-    },
-    {
-      "query": "file:Frameworks",
-      "color": {
-        "a": 1,
-        "rgb": 690687
+        "rgb": 16711680
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.840104166666667,
   "lineSizeMultiplier": 2.4734375,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.520833333333333,
   "repelStrength": 8.64583333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6346285513331924,
+  "scale": 0.6346285513331985,
   "close": true
 }

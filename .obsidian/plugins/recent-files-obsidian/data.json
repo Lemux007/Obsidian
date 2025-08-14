@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Glosario",
+      "path": "Ciberseguridad/Index/Glosario.md"
+    },
+    {
+      "basename": "Levantamiento Servidor Y VM_PanOS",
+      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
+    },
+    {
+      "basename": "Frameworks",
+      "path": "Ciberseguridad/Index/Frameworks.md"
+    },
+    {
+      "basename": "MITRE ATT&CK",
+      "path": "Ciberseguridad/MITRE ATT&CK.md"
+    },
+    {
+      "basename": "Glosario Trend Micro",
+      "path": "Ciberseguridad/Glosario Trend Micro.md"
+    },
+    {
+      "basename": "Fundamentos",
+      "path": "Ciberseguridad/Index/Fundamentos.md"
+    },
+    {
+      "basename": "Troubleshooting",
+      "path": "Ciberseguridad/Index/Troubleshooting.md"
+    },
+    {
+      "basename": "Trend Micro",
+      "path": "Ciberseguridad/Index/Trend Micro.md"
+    },
+    {
+      "basename": "Tanium",
+      "path": "Ciberseguridad/Index/Tanium.md"
+    },
+    {
+      "basename": "PAN",
+      "path": "Ciberseguridad/Index/PAN.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Index/Cortex.md"
+    },
+    {
+      "basename": "Azure",
+      "path": "Ciberseguridad/Index/Azure.md"
+    },
+    {
+      "basename": "UTM",
+      "path": "Ciberseguridad/UTM.md"
+    },
+    {
+      "basename": "NIST",
+      "path": "Ciberseguridad/NIST.md"
+    },
+    {
       "basename": "Credits",
       "path": "Ciberseguridad/Credits.md"
     },
@@ -11,10 +67,6 @@
     {
       "basename": "FedRAMP",
       "path": "Ciberseguridad/FedRAMP.md"
-    },
-    {
-      "basename": "Frameworks",
-      "path": "Ciberseguridad/Index/Frameworks.md"
     },
     {
       "basename": "SecOps",
@@ -63,10 +115,6 @@
     {
       "basename": "NIST ESPECIAL",
       "path": "Ciberseguridad/NIST ESPECIAL.md"
-    },
-    {
-      "basename": "NIST",
-      "path": "Ciberseguridad/NIST.md"
     },
     {
       "basename": "Configuration",
