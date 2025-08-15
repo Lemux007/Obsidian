@@ -17,6 +17,7 @@ Configuración Estandar:
 | **Puerto SMTP**                                                                                            | 587                   |
 | **Cifrado SMTP**                                                                                           | STARTTLS              |
 | **Método de autenticación**                                                                                | OAuth2/Modern Auth    |
+|                                                                                                            |                       |
 
 
 Configuracion usuario:

@@ -5,26 +5,82 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#index  ",
+      "query": "file:Fundamentos",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 8388608
+      }
+    },
+    {
+      "query": "tag:#fundamentos  ",
+      "color": {
+        "a": 1,
+        "rgb": 43042
+      }
+    },
+    {
+      "query": "file:Trend Micro",
+      "color": {
+        "a": 1,
+        "rgb": 15728640
+      }
+    },
+    {
+      "query": "file:Troubleshooting",
+      "color": {
+        "a": 1,
+        "rgb": 10813664
+      }
+    },
+    {
+      "query": "file:Glosario",
+      "color": {
+        "a": 1,
+        "rgb": 59083
+      }
+    },
+    {
+      "query": "file:Firewall",
+      "color": {
+        "a": 1,
+        "rgb": 13958912
+      }
+    },
+    {
+      "query": "section:(Firewall)",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "section:(Trend Micro)",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "section:(Troubleshooting)",
+      "color": {
+        "a": 1,
+        "rgb": 1357527
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.840104166666667,
   "lineSizeMultiplier": 2.4734375,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.520833333333333,
   "repelStrength": 8.64583333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6346285513331985,
+  "scale": 0.45266497354560425,
   "close": true
 }

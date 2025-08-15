@@ -1,6 +1,170 @@
 {
   "recentFiles": [
     {
+      "basename": "Advanced Response Actions in Cortex XDR Pro",
+      "path": "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md"
+    },
+    {
+      "basename": "Tipo de datos",
+      "path": "Ciberseguridad/Cortex XDR/Tipo de datos.md"
+    },
+    {
+      "basename": "XQL Building blocks",
+      "path": "Ciberseguridad/Cortex XDR/XQL Building blocks.md"
+    },
+    {
+      "basename": "Working with JSON Objects",
+      "path": "Ciberseguridad/Cortex XDR/Working with JSON Objects.md"
+    },
+    {
+      "basename": "What's new",
+      "path": "Ciberseguridad/Cortex XDR/What's new.md"
+    },
+    {
+      "basename": "Threat Hunting Using Cortex XDR",
+      "path": "Ciberseguridad/Cortex XDR/Threat Hunting Using Cortex XDR.md"
+    },
+    {
+      "basename": "Syntax Basics",
+      "path": "Ciberseguridad/Cortex XDR/Syntax Basics.md"
+    },
+    {
+      "basename": "Search Queries",
+      "path": "Ciberseguridad/Cortex XDR/Search Queries.md"
+    },
+    {
+      "basename": "Response Actions",
+      "path": "Ciberseguridad/Cortex XDR/Response Actions.md"
+    },
+    {
+      "basename": "RELATED DATASETS USING JOINS",
+      "path": "Ciberseguridad/Cortex XDR/RELATED DATASETS USING JOINS.md"
+    },
+    {
+      "basename": "Reglas de automatización",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de automatización.md"
+    },
+    {
+      "basename": "QUERY RESULT VISUALIZATION",
+      "path": "Ciberseguridad/Cortex XDR/QUERY RESULT VISUALIZATION.md"
+    },
+    {
+      "basename": "Profiles and Policy Rules",
+      "path": "Ciberseguridad/Cortex XDR/Profiles and Policy Rules.md"
+    },
+    {
+      "basename": "OPERATORS",
+      "path": "Ciberseguridad/Cortex XDR/OPERATORS.md"
+    },
+    {
+      "basename": "Multi-Method Malware Detection and Prevention",
+      "path": "Ciberseguridad/Cortex XDR/Multi-Method Malware Detection and Prevention.md"
+    },
+    {
+      "basename": "Managment Console",
+      "path": "Ciberseguridad/Cortex XDR/Managment Console.md"
+    },
+    {
+      "basename": "MAnaged Threat Hunting",
+      "path": "Ciberseguridad/Cortex XDR/MAnaged Threat Hunting.md"
+    },
+    {
+      "basename": "Main components",
+      "path": "Ciberseguridad/Cortex XDR/Main components.md"
+    },
+    {
+      "basename": "Introduction to Parsing Rules",
+      "path": "Ciberseguridad/Cortex XDR/Introduction to Parsing Rules.md"
+    },
+    {
+      "basename": "Incidents",
+      "path": "Ciberseguridad/Cortex XDR/Incidents.md"
+    },
+    {
+      "basename": "FUNCTIONS",
+      "path": "Ciberseguridad/Cortex XDR/FUNCTIONS.md"
+    },
+    {
+      "basename": "External Data Collection",
+      "path": "Ciberseguridad/Cortex XDR/External Data Collection.md"
+    },
+    {
+      "basename": "Exploit Protection",
+      "path": "Ciberseguridad/Cortex XDR/Exploit Protection.md"
+    },
+    {
+      "basename": "Discovery, Inventory, and Management of Network Assets",
+      "path": "Ciberseguridad/Cortex XDR/Discovery, Inventory, and Management of Network Assets.md"
+    },
+    {
+      "basename": "Deployment Considerations",
+      "path": "Ciberseguridad/Cortex XDR/Deployment Considerations.md"
+    },
+    {
+      "basename": "Cortex XDR Overview",
+      "path": "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md"
+    },
+    {
+      "basename": "Causality and Analytics Concepts",
+      "path": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md"
+    },
+    {
+      "basename": "Causality Analysis of Alerts",
+      "path": "Ciberseguridad/Cortex XDR/Causality Analysis of Alerts.md"
+    },
+    {
+      "basename": "BROKER VM OVERVIEW",
+      "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
+    },
+    {
+      "basename": "Basic XDR rules",
+      "path": "Ciberseguridad/Cortex XDR/Basic XDR rules.md"
+    },
+    {
+      "basename": "Basic Agent Troubleshooting",
+      "path": "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md"
+    },
+    {
+      "basename": "ALERTS Overview",
+      "path": "Ciberseguridad/Cortex XDR/ALERTS Overview.md"
+    },
+    {
+      "basename": "Alert Exclusions and Exceptions",
+      "path": "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md"
+    },
+    {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "Azure",
+      "path": "Ciberseguridad/Index/Azure.md"
+    },
+    {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "Fundamentos",
+      "path": "Ciberseguridad/Index/Fundamentos.md"
+    },
+    {
+      "basename": "FISMA",
+      "path": "Ciberseguridad/FISMA.md"
+    },
+    {
+      "basename": "NIST",
+      "path": "Ciberseguridad/NIST.md"
+    },
+    {
+      "basename": "Frameworks",
+      "path": "Ciberseguridad/Index/Frameworks.md"
+    },
+    {
+      "basename": "FedRAMP",
+      "path": "Ciberseguridad/FedRAMP.md"
+    },
+    {
       "basename": "Glosario",
       "path": "Ciberseguridad/Index/Glosario.md"
     },
@@ -9,20 +173,12 @@
       "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
     },
     {
-      "basename": "Frameworks",
-      "path": "Ciberseguridad/Index/Frameworks.md"
-    },
-    {
       "basename": "MITRE ATT&CK",
       "path": "Ciberseguridad/MITRE ATT&CK.md"
     },
     {
       "basename": "Glosario Trend Micro",
       "path": "Ciberseguridad/Glosario Trend Micro.md"
-    },
-    {
-      "basename": "Fundamentos",
-      "path": "Ciberseguridad/Index/Fundamentos.md"
     },
     {
       "basename": "Troubleshooting",
@@ -43,82 +199,6 @@
     {
       "basename": "Cortex",
       "path": "Ciberseguridad/Index/Cortex.md"
-    },
-    {
-      "basename": "Azure",
-      "path": "Ciberseguridad/Index/Azure.md"
-    },
-    {
-      "basename": "UTM",
-      "path": "Ciberseguridad/UTM.md"
-    },
-    {
-      "basename": "NIST",
-      "path": "Ciberseguridad/NIST.md"
-    },
-    {
-      "basename": "Credits",
-      "path": "Ciberseguridad/Credits.md"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
-      "basename": "FedRAMP",
-      "path": "Ciberseguridad/FedRAMP.md"
-    },
-    {
-      "basename": "SecOps",
-      "path": "Ciberseguridad/SecOps.md"
-    },
-    {
-      "basename": "Imagen de WhatsApp 2025-07-30 a las 14.01.51_97128449",
-      "path": "Images/Imagen de WhatsApp 2025-07-30 a las 14.01.51_97128449.jpg"
-    },
-    {
-      "basename": "Putty",
-      "path": "Troubleshooting/Putty.md"
-    },
-    {
-      "basename": "Zero Trust",
-      "path": "Ciberseguridad/Zero Trust.md"
-    },
-    {
-      "basename": "Pasted image 20250730113304",
-      "path": "Images/Pasted image 20250730113304.png"
-    },
-    {
-      "basename": "Imagen de WhatsApp 2025-07-30 a las 14.01.51_9d222e5e",
-      "path": "Images/Imagen de WhatsApp 2025-07-30 a las 14.01.51_9d222e5e.jpg"
-    },
-    {
-      "basename": "Imagen de WhatsApp 2025-07-30 a las 14.01.51_05a52d8e",
-      "path": "Images/Imagen de WhatsApp 2025-07-30 a las 14.01.51_05a52d8e.jpg"
-    },
-    {
-      "basename": "Imagen de WhatsApp 2025-07-30 a las 09.55.10_e66bb22c",
-      "path": "Images/Imagen de WhatsApp 2025-07-30 a las 09.55.10_e66bb22c.jpg"
-    },
-    {
-      "basename": "Imagen de WhatsApp 2025-07-30 a las 09.54.58_ff463fc4",
-      "path": "Images/Imagen de WhatsApp 2025-07-30 a las 09.54.58_ff463fc4.jpg"
-    },
-    {
-      "basename": "Imagen de WhatsApp 2025-07-30 a las 09.54.38_ed68ed49",
-      "path": "Images/Imagen de WhatsApp 2025-07-30 a las 09.54.38_ed68ed49.jpg"
-    },
-    {
-      "basename": "FISMA",
-      "path": "Ciberseguridad/FISMA.md"
-    },
-    {
-      "basename": "NIST ESPECIAL",
-      "path": "Ciberseguridad/NIST ESPECIAL.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     }
   ],
   "omittedPaths": [],
