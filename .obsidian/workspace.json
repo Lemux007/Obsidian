@@ -8,17 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b20a046657317c0",
+            "id": "6ccb6d7371c7fb70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md",
+                "file": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced Response Actions in Cortex XDR Pro"
+              "title": "BROKER VM OVERVIEW"
+            }
+          },
+          {
+            "id": "49ef0e73a9e6e12d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bróker VM setup"
+            }
+          },
+          {
+            "id": "20417c5320905961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instalación de la VM del agente"
+            }
+          },
+          {
+            "id": "e5de0a2ee30b220e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/Descargar un archivo OVA para Bróker VM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Descargar un archivo OVA para Bróker VM"
+            }
+          },
+          {
+            "id": "103d490de9d8616b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/Instalar el agente Córtex XDR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instalar el agente Córtex XDR"
+            }
+          },
+          {
+            "id": "bb7876609ee1e5b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Características Adicionales del producto bróker VM"
             }
           }
         ]
@@ -251,12 +321,38 @@
       }
     ]
   },
-  "active": "a50e76c17b583f00",
+  "active": "6ccb6d7371c7fb70",
   "lastOpenFiles": [
-    "Images/Pasted image 20241213162942.png",
-    "Ciberseguridad/Cortex XDR/Tipo de datos.md",
+    "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md",
+    "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
+    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+    "Ciberseguridad/Cortex XDR/Descargar un archivo OVA para Bróker VM.md",
+    "Ciberseguridad/Cortex XDR/Instalar el agente Córtex XDR.md",
+    "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md",
+    "Ciberseguridad/Cortex XDR/Servicios y  applets de bróker VM.md",
+    "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
+    "Ciberseguridad/Index/Cortex.md",
+    "Reglas de supresión IOC-BIOC.md",
+    "PBX Conmutador.canvas",
+    "Ciberseguridad/Cortex XDR/Threat Hunting Using Cortex XDR.md",
+    "Ciberseguridad/Cortex XDR/Reglas de supresión IOC/BIOC 1.md",
+    "Reglas de supresión IOC/BIOC.md",
+    "Ciberseguridad/Cortex XDR/Reglas de supresión IOC/BIOC.md",
+    "Ciberseguridad/Cortex XDR/Reglas de supresión IOC",
+    "Reglas de supresión IOC",
+    "Ciberseguridad/Cortex XDR/Reglas de BIOC.md",
+    "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md",
+    "Ciberseguridad/Cortex XDR/Adición de una regla BIOC.md",
+    "Ciberseguridad/Cortex XDR/Reglas de IOC.md",
+    "Ciberseguridad/Cortex XDR/Habilitación del servicio de CORTEX XDR EDL.md",
+    "Ciberseguridad/Cortex XDR/Excepciones de Alerta.md",
+    "Ciberseguridad/Cortex XDR/Excepciones Globales.md",
+    "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md",
+    "Ciberseguridad/Cortex XDR/ALERTS Overview.md",
+    "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md",
+    "Ciberseguridad/Cortex XDR/Excepciones y Perfiles de Excepciones.md",
     "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md",
-    "Ciberseguridad/Cortex XDR/XQL Building blocks.md",
+    "Images/Pasted image 20241213162942.png",
     "Images/Pasted image 20241213102144.png",
     "Images/Pasted image 20241213102049.png",
     "Images/Pasted image 20241213102037.png",
@@ -266,39 +362,14 @@
     "Images/Pasted image 20241213092559.png",
     "Images/Pasted image 20241213092123.png",
     "Images/Pasted image 20241213092105.png",
-    "Images/Pasted image 20241213091857.png",
-    "Ciberseguridad/Cortex XDR/Working with JSON Objects.md",
-    "Ciberseguridad/Cortex XDR/What's new.md",
-    "Ciberseguridad/Cortex XDR/Threat Hunting Using Cortex XDR.md",
-    "Ciberseguridad/Cortex XDR/Syntax Basics.md",
-    "Ciberseguridad/Cortex XDR/Search Queries.md",
-    "Ciberseguridad/Cortex XDR/Response Actions.md",
-    "Ciberseguridad/Cortex XDR/RELATED DATASETS USING JOINS.md",
-    "Ciberseguridad/Cortex XDR/Reglas de automatización.md",
-    "Ciberseguridad/Cortex XDR/QUERY RESULT VISUALIZATION.md",
-    "Ciberseguridad/Cortex XDR/Profiles and Policy Rules.md",
-    "Ciberseguridad/Cortex XDR/OPERATORS.md",
-    "Ciberseguridad/Cortex XDR/Multi-Method Malware Detection and Prevention.md",
-    "Ciberseguridad/Cortex XDR/Managment Console.md",
-    "Ciberseguridad/Cortex XDR/MAnaged Threat Hunting.md",
-    "Ciberseguridad/Cortex XDR/Main components.md",
-    "Ciberseguridad/Cortex XDR/Introduction to Parsing Rules.md",
-    "Ciberseguridad/Cortex XDR/Incidents.md",
-    "Ciberseguridad/Cortex XDR/FUNCTIONS.md",
-    "Ciberseguridad/Cortex XDR/External Data Collection.md",
-    "Ciberseguridad/Cortex XDR/Exploit Protection.md",
-    "Ciberseguridad/Cortex XDR/Discovery, Inventory, and Management of Network Assets.md",
-    "Ciberseguridad/Cortex XDR/Deployment Considerations.md",
     "Images/desktop.ini",
     "Ciberseguridad/Cortex XDR",
     "Excalidraw",
     "Sin título.canvas",
     "Images",
-    "PBX Conmutador.canvas",
     "Ciber",
     "Ciberseguridad/Index",
     "Ciberseguridad",
-    "Firewall/PAN",
-    "Firewall"
+    "Firewall/PAN"
   ]
 }
