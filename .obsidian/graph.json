@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:Fundamentos",
@@ -32,6 +32,6 @@
   "repelStrength": 9.79166666666667,
   "linkStrength": 1,
   "linkDistance": 145,
-  "scale": 0.38230109687702424,
+  "scale": 0.38230109687702707,
   "close": true
 }
