@@ -11,13 +11,32 @@
             "id": "6f3a52adc97b1f3c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CompTia Networking +/Index CompTia Network +.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index CompTia Network +"
+            }
+          },
+          {
+            "id": "3e5e182563f8bf6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTia Networking +/Study Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Study Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +222,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6f3a52adc97b1f3c",
+  "active": "3e5e182563f8bf6e",
   "lastOpenFiles": [
+    "CompTia Networking +/Study Plan.md",
+    "CompTia Networking +/Index CompTia Network +.md",
+    "CompTia Networking +",
+    "Troubleshooting/Untitled",
     "Images/Pasted image 20241216101219.png",
     "Images/Pasted image 20241216110602.png",
     "Images/Pasted image 20241216101233.png",
@@ -216,7 +239,6 @@
     "Images/Pasted image 20241216113111.png",
     "Images/Pasted image 20241216112421.png",
     "Images/Pasted image 20241216112133.png",
-    "Images/Pasted image 20241216110450.png",
     "Ciberseguridad/SOC.md",
     "Ciberseguridad/NIST.md",
     "Ciberseguridad/NIST ESPECIAL.md",
@@ -240,7 +262,6 @@
     "Ciberseguridad/Cortex XDR/Reglas de BIOC.md",
     "Ciberseguridad/Cortex XDR/QUERY RESULT VISUALIZATION.md",
     "Ciberseguridad/Cortex XDR/Profiles and Policy Rules.md",
-    "Ciberseguridad/Cortex XDR/OPERATORS.md",
     "Ciberseguridad/Cortex XDR",
     "Images",
     "Troubleshooting",

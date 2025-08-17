@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Study Plan",
+      "path": "CompTia Networking +/Study Plan.md"
+    },
+    {
+      "basename": "Index CompTia Network +",
+      "path": "CompTia Networking +/Index CompTia Network +.md"
+    },
+    {
       "basename": "BROKER VM OVERVIEW",
       "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Cortex XDR Overview",
       "path": "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md"
-    },
-    {
-      "basename": "Causality and Analytics Concepts",
-      "path": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md"
-    },
-    {
-      "basename": "Causality Analysis of Alerts",
-      "path": "Ciberseguridad/Cortex XDR/Causality Analysis of Alerts.md"
     }
   ],
   "omittedPaths": [],
