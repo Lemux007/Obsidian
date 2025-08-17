@@ -1,23 +1,24 @@
 El usuario desea agregar un correo pero no se aceptan las configuraciones que se proporcionan
 
-
 Configuración Estandar:
 
-|   |   |
-|---|---|
-|**Servidor IMAP**|outlook.office365.com|
-|**Puerto IMAP**|993|
-|**Cifrado IMAP**|SSL/TLS|
-|**Método de autenticación**|OAuth2/Modern Auth|
-|![transparent170x1px.png](https://support.microsoft.com/images/es-es/d0086c32-4c66-4ef8-bd42-604a68690637)||
-|**Nombre del servidor POP**|outlook.office365.com|
-|**Puerto POP**|995|
-|**Cifrado POP**|SSL/TLS|
-|**Método de autenticación**|OAuth2/Modern Auth|
-|**Nombre del servidor SMTP**|smtp-mail.outlook.com|
-|**Puerto SMTP**|587|
-|**Cifrado SMTP**|STARTTLS|
-|**Método de autenticación**|OAuth2/Modern Auth|
+|                                                                                                            |                       |
+| ---------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Servidor IMAP**                                                                                          | outlook.office365.com |
+| **Puerto IMAP**                                                                                            | 993                   |
+| **Cifrado IMAP**                                                                                           | SSL/TLS               |
+| **Método de autenticación**                                                                                | Auth2/Modern Auth     |
+| ![transparent170x1px.png](https://support.microsoft.com/images/es-es/d0086c32-4c66-4ef8-bd42-604a68690637) |                       |
+| **Nombre del servidor POP**                                                                                | outlook.office365.com |
+| **Puerto POP**                                                                                             | 995                   |
+| **Cifrado POP**                                                                                            | SSL/TLS               |
+| **Método de autenticación**                                                                                | OAuth2/Modern Auth    |
+| **Nombre del servidor SMTP**                                                                               | smtp-mail.outlook.com |
+| **Puerto SMTP**                                                                                            | 587                   |
+| **Cifrado SMTP**                                                                                           | STARTTLS              |
+| **Método de autenticación**                                                                                | OAuth2/Modern Auth    |
+|                                                                                                            |                       |
+
 
 Configuracion usuario:
 ![[Imagen de WhatsApp 2025-07-30 a las 09.54.38_ed68ed49.jpg]]

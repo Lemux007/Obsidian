@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "BROKER VM OVERVIEW",
+      "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
+    },
+    {
+      "basename": "Instalación de la VM del agente",
+      "path": "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md"
+    },
+    {
+      "basename": "Bróker VM setup",
+      "path": "Ciberseguridad/Cortex XDR/Bróker VM setup.md"
+    },
+    {
+      "basename": "Descargar un archivo OVA para Bróker VM",
+      "path": "Ciberseguridad/Cortex XDR/Descargar un archivo OVA para Bróker VM.md"
+    },
+    {
+      "basename": "Instalar el agente Córtex XDR",
+      "path": "Ciberseguridad/Cortex XDR/Instalar el agente Córtex XDR.md"
+    },
+    {
+      "basename": "Características Adicionales del producto bróker VM",
+      "path": "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md"
+    },
+    {
+      "basename": "Servicios y  applets de bróker VM",
+      "path": "Ciberseguridad/Cortex XDR/Servicios y  applets de bróker VM.md"
+    },
+    {
+      "basename": "Basic XDR rules",
+      "path": "Ciberseguridad/Cortex XDR/Basic XDR rules.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Index/Cortex.md"
+    },
+    {
+      "basename": "Reglas de supresión IOC-BIOC",
+      "path": "Reglas de supresión IOC-BIOC.md"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "Threat Hunting Using Cortex XDR",
+      "path": "Ciberseguridad/Cortex XDR/Threat Hunting Using Cortex XDR.md"
+    },
+    {
+      "basename": "Reglas de BIOC",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de BIOC.md"
+    },
+    {
+      "basename": "Reglas de prevención personalizadas",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
+    },
+    {
+      "basename": "Adición de una regla BIOC",
+      "path": "Ciberseguridad/Cortex XDR/Adición de una regla BIOC.md"
+    },
+    {
+      "basename": "Reglas de IOC",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de IOC.md"
+    },
+    {
+      "basename": "Habilitación del servicio de CORTEX XDR EDL",
+      "path": "Ciberseguridad/Cortex XDR/Habilitación del servicio de CORTEX XDR EDL.md"
+    },
+    {
+      "basename": "Excepciones de Alerta",
+      "path": "Ciberseguridad/Cortex XDR/Excepciones de Alerta.md"
+    },
+    {
+      "basename": "Excepciones Globales",
+      "path": "Ciberseguridad/Cortex XDR/Excepciones Globales.md"
+    },
+    {
+      "basename": "Basic Agent Troubleshooting",
+      "path": "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md"
+    },
+    {
+      "basename": "ALERTS Overview",
+      "path": "Ciberseguridad/Cortex XDR/ALERTS Overview.md"
+    },
+    {
+      "basename": "Alert Exclusions and Exceptions",
+      "path": "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md"
+    },
+    {
+      "basename": "Excepciones y Perfiles de Excepciones",
+      "path": "Ciberseguridad/Cortex XDR/Excepciones y Perfiles de Excepciones.md"
+    },
+    {
+      "basename": "Advanced Response Actions in Cortex XDR Pro",
+      "path": "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md"
+    },
+    {
+      "basename": "Tipo de datos",
+      "path": "Ciberseguridad/Cortex XDR/Tipo de datos.md"
+    },
+    {
+      "basename": "XQL Building blocks",
+      "path": "Ciberseguridad/Cortex XDR/XQL Building blocks.md"
+    },
+    {
+      "basename": "Working with JSON Objects",
+      "path": "Ciberseguridad/Cortex XDR/Working with JSON Objects.md"
+    },
+    {
+      "basename": "What's new",
+      "path": "Ciberseguridad/Cortex XDR/What's new.md"
+    },
+    {
+      "basename": "Syntax Basics",
+      "path": "Ciberseguridad/Cortex XDR/Syntax Basics.md"
+    },
+    {
+      "basename": "Search Queries",
+      "path": "Ciberseguridad/Cortex XDR/Search Queries.md"
+    },
+    {
+      "basename": "Response Actions",
+      "path": "Ciberseguridad/Cortex XDR/Response Actions.md"
+    },
+    {
+      "basename": "RELATED DATASETS USING JOINS",
+      "path": "Ciberseguridad/Cortex XDR/RELATED DATASETS USING JOINS.md"
+    },
+    {
+      "basename": "Reglas de automatización",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de automatización.md"
+    },
+    {
+      "basename": "QUERY RESULT VISUALIZATION",
+      "path": "Ciberseguridad/Cortex XDR/QUERY RESULT VISUALIZATION.md"
+    },
+    {
+      "basename": "Profiles and Policy Rules",
+      "path": "Ciberseguridad/Cortex XDR/Profiles and Policy Rules.md"
+    },
+    {
+      "basename": "OPERATORS",
+      "path": "Ciberseguridad/Cortex XDR/OPERATORS.md"
+    },
+    {
+      "basename": "Multi-Method Malware Detection and Prevention",
+      "path": "Ciberseguridad/Cortex XDR/Multi-Method Malware Detection and Prevention.md"
+    },
+    {
+      "basename": "Managment Console",
+      "path": "Ciberseguridad/Cortex XDR/Managment Console.md"
+    },
+    {
+      "basename": "MAnaged Threat Hunting",
+      "path": "Ciberseguridad/Cortex XDR/MAnaged Threat Hunting.md"
+    },
+    {
+      "basename": "Main components",
+      "path": "Ciberseguridad/Cortex XDR/Main components.md"
+    },
+    {
+      "basename": "Introduction to Parsing Rules",
+      "path": "Ciberseguridad/Cortex XDR/Introduction to Parsing Rules.md"
+    },
+    {
+      "basename": "Incidents",
+      "path": "Ciberseguridad/Cortex XDR/Incidents.md"
+    },
+    {
+      "basename": "FUNCTIONS",
+      "path": "Ciberseguridad/Cortex XDR/FUNCTIONS.md"
+    },
+    {
+      "basename": "External Data Collection",
+      "path": "Ciberseguridad/Cortex XDR/External Data Collection.md"
+    },
+    {
+      "basename": "Exploit Protection",
+      "path": "Ciberseguridad/Cortex XDR/Exploit Protection.md"
+    },
+    {
+      "basename": "Discovery, Inventory, and Management of Network Assets",
+      "path": "Ciberseguridad/Cortex XDR/Discovery, Inventory, and Management of Network Assets.md"
+    },
+    {
+      "basename": "Deployment Considerations",
+      "path": "Ciberseguridad/Cortex XDR/Deployment Considerations.md"
+    },
+    {
+      "basename": "Cortex XDR Overview",
+      "path": "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md"
+    },
+    {
+      "basename": "Causality and Analytics Concepts",
+      "path": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md"
+    },
+    {
+      "basename": "Causality Analysis of Alerts",
+      "path": "Ciberseguridad/Cortex XDR/Causality Analysis of Alerts.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

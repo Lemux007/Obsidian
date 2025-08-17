@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -20,10 +20,32 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "section:(Firewall)",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "section:(Trend Micro)",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "section:(Troubleshooting)",
+      "color": {
+        "a": 1,
+        "rgb": 1357527
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
+<<<<<<< HEAD
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 1,
@@ -33,5 +55,16 @@
   "linkStrength": 1,
   "linkDistance": 145,
   "scale": 0.5359795996226318,
+=======
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 0.840104166666667,
+  "lineSizeMultiplier": 2.4734375,
+  "collapse-forces": false,
+  "centerStrength": 0.520833333333333,
+  "repelStrength": 8.64583333333333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.6346285513332224,
+>>>>>>> origin/main
   "close": true
 }

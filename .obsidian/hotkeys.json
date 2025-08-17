@@ -26,9 +26,10 @@
   "editor:cycle-list-checklist": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "V"
+      "key": "C"
     }
   ],
   "editor:toggle-numbered-list": [
@@ -38,6 +39,15 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
     }
   ]
 }
