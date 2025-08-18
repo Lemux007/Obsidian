@@ -1,4 +1,4 @@
-#index 
+#subindex 
 Terminología de [[Trend Micro]]:
 [[Glosario]]
 

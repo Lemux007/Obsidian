@@ -1,3 +1,4 @@
+#subindex 
 1. Configurar de expceciones: Para ver las reglas de excepción nuevas y existentes, vaya a **Configuración > Configuración de excepciones**. En la página Configuración de excepciones, hay cuatro submenús: Exclusiones de alertas, Reglas de supresión de IOC/BIOC, Deshabilitar reglas de prevención y Excepción heredada.
 2. Reglas de exclusion de alertas: Una regla de exclusión de alertas es una regla para suprimir alertas de Cortex XDR.
    Podemos crear exclusiones de alertas en la consola de administracion haciendo clic en ** Manage alert > Excluir alerta**

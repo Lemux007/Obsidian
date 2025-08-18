@@ -10,4 +10,3 @@ Ejemplos:
 
 Opción para uso de [[Certificado Digital]]
 
-#fundamentos 

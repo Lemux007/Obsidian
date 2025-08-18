@@ -9,8 +9,44 @@
       "path": "Ciberseguridad/Cortex XDR/Bróker VM setup.md"
     },
     {
+      "basename": "UTM",
+      "path": "Ciberseguridad/UTM.md"
+    },
+    {
+      "basename": "Fundamentos",
+      "path": "Ciberseguridad/Index/Fundamentos.md"
+    },
+    {
+      "basename": "Certificado Digital",
+      "path": "Ciberseguridad/Certificado Digital.md"
+    },
+    {
+      "basename": "Aprovisionamiento de Usuarios",
+      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
+    },
+    {
+      "basename": "WEB SSO",
+      "path": "Ciberseguridad/WEB SSO.md"
+    },
+    {
+      "basename": "Enterprise Single Sign-On",
+      "path": "Ciberseguridad/Enterprise Single Sign-On.md"
+    },
+    {
+      "basename": "Alert Exclusions and Exceptions",
+      "path": "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md"
+    },
+    {
+      "basename": "Trend Micro",
+      "path": "Ciberseguridad/Index/Trend Micro.md"
+    },
+    {
       "basename": "Glosario Trend Micro",
       "path": "Ciberseguridad/Glosario Trend Micro.md"
+    },
+    {
+      "basename": "Basic XDR rules",
+      "path": "Ciberseguridad/Cortex XDR/Basic XDR rules.md"
     },
     {
       "basename": "Live Terminal Broker VM",
@@ -69,10 +105,6 @@
       "path": "Ciberseguridad/Cortex XDR/Instalar el agente Córtex XDR.md"
     },
     {
-      "basename": "Basic XDR rules",
-      "path": "Ciberseguridad/Cortex XDR/Basic XDR rules.md"
-    },
-    {
       "basename": "Reglas de supresión IOC-BIOC",
       "path": "Ciberseguridad/Cortex XDR/Reglas de supresión IOC-BIOC.md"
     },
@@ -121,10 +153,6 @@
       "path": "Ciberseguridad/Cortex XDR/ALERTS Overview.md"
     },
     {
-      "basename": "Alert Exclusions and Exceptions",
-      "path": "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md"
-    },
-    {
       "basename": "Excepciones y Perfiles de Excepciones",
       "path": "Ciberseguridad/Cortex XDR/Excepciones y Perfiles de Excepciones.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "QUERY RESULT VISUALIZATION",
       "path": "Ciberseguridad/Cortex XDR/QUERY RESULT VISUALIZATION.md"
-    },
-    {
-      "basename": "Profiles and Policy Rules",
-      "path": "Ciberseguridad/Cortex XDR/Profiles and Policy Rules.md"
-    },
-    {
-      "basename": "OPERATORS",
-      "path": "Ciberseguridad/Cortex XDR/OPERATORS.md"
-    },
-    {
-      "basename": "Multi-Method Malware Detection and Prevention",
-      "path": "Ciberseguridad/Cortex XDR/Multi-Method Malware Detection and Prevention.md"
-    },
-    {
-      "basename": "Managment Console",
-      "path": "Ciberseguridad/Cortex XDR/Managment Console.md"
-    },
-    {
-      "basename": "MAnaged Threat Hunting",
-      "path": "Ciberseguridad/Cortex XDR/MAnaged Threat Hunting.md"
-    },
-    {
-      "basename": "Main components",
-      "path": "Ciberseguridad/Cortex XDR/Main components.md"
-    },
-    {
-      "basename": "Introduction to Parsing Rules",
-      "path": "Ciberseguridad/Cortex XDR/Introduction to Parsing Rules.md"
     }
   ],
   "omittedPaths": [],

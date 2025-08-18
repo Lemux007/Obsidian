@@ -6,5 +6,3 @@ Puede utilizar métodos fuertes como:
 - [[Certificado Digital]]  X.509 V3
 - Tokens USB
 - Biometría
-
-#fundamentos 

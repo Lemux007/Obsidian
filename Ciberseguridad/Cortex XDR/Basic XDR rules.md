@@ -1,4 +1,4 @@
-
+#subindex 
 DESCRIPCION GENERAL DE LAS REGLAS XDR
 1. Reglas basadas en indicadores de amenazas personalizados: Se puede crear reglas propias XDR especificando la caracteristica de los indicadores de amenazas como criterios de regla. Para identificar los indicadores de amenazas es buscar clientes potenciales en los conjuntos de datos XDR. Alternativamente, los indicadores de amenazas se pueden obtener de flujos confiables de inteligencia de amenazas.
 	1. Cortex comprueba el flujo de registros entrante con estas reglas, si hay coincidencia xdr genera alerta de deteccion con atributos como: nombre, categoria, gravedad.
