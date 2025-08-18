@@ -1,4 +1,4 @@
-
+#Nodo 
  ==Evaluación del riesgo:==
 		Se debe de determinar el nivel de protección necesario para la red, que aspectos se deben de cubrir para poder mantener "seguro" el sistema.
 		Se debe determinar el impacto de una vulnerabilidad detectada, como afectara a la red, riesgos en la información, perdidas etc.

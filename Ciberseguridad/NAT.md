@@ -1,3 +1,4 @@
+#Nodo 
 Network Address Translation.
 Es el proceso en el que el router reescribe parte de la dirección IP privada para poderla asociar a la IP publica para así poder acceder o comunicarse a internet.
 

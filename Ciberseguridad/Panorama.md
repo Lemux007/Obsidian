@@ -1,1 +1,2 @@
+#Nodo 
 Conexión de los FW, por ejemplo para manejar múltiples FW.

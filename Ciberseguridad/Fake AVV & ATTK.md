@@ -4,4 +4,4 @@ Elimina Rougue Antivirus que tiene comportamientos extraños o que no permiten s
 - Collect suspicios files and sytem information
 - Clean infected computers
 [[Trend Micro]]
-#TrendMicro 
+#Nodo 

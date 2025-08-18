@@ -1,3 +1,4 @@
+#Nodo 
 Best Practice Assignment es la revision de las configuración aplicadas en los [[Firewall]] basados en CIS, NIST, CISSP.
 
 Ubicación archivo de configuración:
