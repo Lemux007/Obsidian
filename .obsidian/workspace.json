@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "b97a0399e8e2e10e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "49ef0e73a9e6e12d",
             "type": "leaf",
             "state": {
@@ -91,7 +105,8 @@
               "title": "Características Adicionales del producto bróker VM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,11 +301,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ccb6d7371c7fb70",
+  "active": "b97a0399e8e2e10e",
   "lastOpenFiles": [
+    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+    "conflict-files-obsidian-git.md",
+    "CompTia Networking +/Study Plan.md",
+    "CompTia Networking +/Index CompTia Network +.md",
+    "CompTia Networking +",
     "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md",
     "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
-    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
     "Ciberseguridad/Cortex XDR/Descargar un archivo OVA para Bróker VM.md",
     "Ciberseguridad/Cortex XDR/Instalar el agente Córtex XDR.md",
     "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md",
@@ -314,9 +333,6 @@
     "Ciberseguridad/Cortex XDR/Excepciones Globales.md",
     "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md",
     "Ciberseguridad/Cortex XDR/ALERTS Overview.md",
-    "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md",
-    "Ciberseguridad/Cortex XDR/Excepciones y Perfiles de Excepciones.md",
-    "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md",
     "Images/Pasted image 20241213162942.png",
     "Images/Pasted image 20241213102144.png",
     "Images/Pasted image 20241213102049.png",
@@ -334,7 +350,6 @@
     "Images",
     "Ciber",
     "Ciberseguridad/Index",
-    "Ciberseguridad",
-    "Firewall/PAN"
+    "Ciberseguridad"
   ]
 }
