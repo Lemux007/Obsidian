@@ -7,7 +7,7 @@
    - La página **Miembro** > **administrar** **usuarios** muestra los usuarios autorizados de CSP en la cuenta de CSP actual, que se muestra en la parte superior de la página.
    - Introduzca la dirección de correo electrónico del usuario, ya que es la clave para localizar al usuario. Debe crear el usuario antes de poder agregarlo a la cuenta. Ingrese las fechas de activación y vencimiento de la membresía. La fecha de activación puede ser cualquier fecha en el futuro.
 
-3. Usuario incial de CSP y cuenta de CSP: Estas se crean automaticamente cuando compra un producto de PAN por primera vez. Al primer usuario CSP se le asigna el rol de superusuario de CSP para la cuenta y se le da el rol administrador de cuentas XDR.
+1. Usuario incial de CSP y cuenta de CSP: Estas se crean automáticamente cuando compra un producto de PAN por primera vez. Al primer usuario CSP se le asigna el rol de superusuario de CSP para la cuenta y se le da el rol administrador de cuentas XDR.
 
 # SERVICIOS DE INFRAESTRUCTURA DE CORTEX
 1. Requisitos de la instancia de Cortex XDR: Una instancia de XDR requiere servicios de infraestructura que deben estar enlazados a regiones especificas. 

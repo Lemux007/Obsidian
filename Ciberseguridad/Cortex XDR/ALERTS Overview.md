@@ -44,3 +44,5 @@ CAMPOS DE ALERTA DESTACADOS
 3. Agregar nuevos valores de campo destacado: vaya a **Respuesta a incidentes > Configuracion de incidentes > Campos destacados** y haga clic en una de las opciones de valor destacado disponibles: Hosts, usuarios, direcciones IP y directorio activo.
 
 4. Cambiar manualmente el estado y la gravedad de las alertas y los incidentes: Podemos cambiar el estado y gravedad de una alerta o incidente haciendo clicl derecho en una alerta y seleccionar Cambiar estado o cambiar gravedad.. y el estado de un incidente o alerta en: Nuevo, en investigacion y resuelto.
+
+[[Causality Analysis of Alerts]]

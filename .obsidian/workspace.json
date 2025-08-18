@@ -13,54 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+                "file": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BROKER VM OVERVIEW"
-            }
-          },
-          {
-            "id": "71db8dc05eafac94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bróker VM setup"
-            }
-          },
-          {
-            "id": "ae4c89593c7335ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/Live Terminal Broker VM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Live Terminal Broker VM"
-            }
-          },
-          {
-            "id": "a692eebe334d2fcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/Reiniciar Broker VM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reiniciar Broker VM"
+              "title": "Causality and Analytics Concepts"
             }
           }
         ]
@@ -95,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cortex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes de Causality and Analytics Concepts"
             }
           },
           {
@@ -165,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Causality and Analytics Concepts"
             }
           },
           {
@@ -193,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Causality and Analytics Concepts"
             }
           },
           {
@@ -243,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,7 +216,8 @@
       "command-palette:Abrir paleta de comandos": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "floating": {
@@ -290,37 +252,113 @@
         "height": 688,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "466b44f4662124fa",
+        "type": "window",
+        "children": [
+          {
+            "id": "31d1230cfa310a1b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6dd8098bf3d48079",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": 0,
+        "width": 640,
+        "height": 984,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "232e54ac9544e58b",
+        "type": "window",
+        "children": [
+          {
+            "id": "22f308cd0ffe524c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e8de70c5cc1176e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ciberseguridad/Index/Cortex.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cortex"
+                }
+              },
+              {
+                "id": "725c15a7408a72ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ciberseguridad/Cortex XDR/ALERTS Overview.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ALERTS Overview"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 0,
+        "width": 640,
+        "height": 984,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "3be8ef884ae89210",
+  "active": "08a727953fbaf314",
   "lastOpenFiles": [
-    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
-    "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
-    "Ciberseguridad/UTM.md",
-    "Ciberseguridad/Index/Fundamentos.md",
-    "Ciberseguridad/Certificado Digital.md",
-    "Ciberseguridad/Aprovisionamiento de Usuarios.md",
-    "Ciberseguridad/WEB SSO.md",
-    "Ciberseguridad/Enterprise Single Sign-On.md",
-    "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md",
-    "Ciberseguridad/Index/Trend Micro.md",
-    "Ciberseguridad/Glosario Trend Micro.md",
-    "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
-    "Ciberseguridad/Cortex XDR/Live Terminal Broker VM.md",
-    "Ciberseguridad/Cortex XDR/Reiniciar Broker VM.md",
-    "Ciberseguridad/Cortex XDR/Registro de broker VM.md",
-    "Ciberseguridad/Cortex XDR/Detalles de configuración de broker VM.md",
-    "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md",
-    "Ciberseguridad/Cortex XDR/Servicios y  applets de bróker VM.md",
-    "Ciberseguridad/Cortex XDR/Configuración de la VM del agente.md",
-    "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md",
-    "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md",
+    "Sin título 1.md",
+    "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md",
+    "Sin título.md",
+    "Ciberseguridad/Cortex XDR/Deployment Considerations.md",
+    "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md",
+    "Ciberseguridad/Cortex XDR/Cadenas de causalidad.md",
+    "Ciberseguridad/Cortex XDR/Instancia de Cortex XDR.md",
+    "Ciberseguridad/Cortex XDR/Ofertas de productos y licencias.md",
     "Ciberseguridad/Index/Cortex.md",
-    "Ciberseguridad/Córtex.md",
-    "CompTia Networking +/Index CompTia Network +.md",
+    "Ciberseguridad/Cortex XDR/Configuración de la VM del agente.md",
+    "Ciberseguridad/Cortex XDR/Motor de análisis.md",
+    "Ciberseguridad/Cortex XDR/Causality Analysis of Alerts.md",
+    "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md",
+    "Ciberseguridad/Cortex XDR/ALERTS Overview.md",
+    "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md",
+    "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
+    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+    "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
+    "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md",
+    "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md",
+    "Ciberseguridad/Cortex XDR/Adición de una regla BIOC.md",
+    "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md",
     "CompTia Networking +/Study Plan.md",
-    "conflict-files-obsidian-git.md",
+    "CompTia Networking +/Index CompTia Network +.md",
+    "Ciberseguridad/Cortex XDR/Servicios y  applets de bróker VM.md",
+    "Ciberseguridad/UTM.md",
     "CompTia Networking +",
     "PBX Conmutador.canvas",
     "Ciberseguridad/Cortex XDR/Reglas de supresión IOC",

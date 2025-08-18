@@ -1,3 +1,4 @@
+#subindex 
 ## 🔹 Phase 1: Networking Foundations (Weeks 1–4)
 
 **Goal:** Build core fundamentals (OSI/TCP-IP, cabling, IP, subnetting, wireless).
