@@ -4,109 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d932eab9f43a5fd4",
+        "id": "9554ec64ac162cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "6ccb6d7371c7fb70",
+            "id": "22f040ef4729c9c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "BROKER VM OVERVIEW"
-            }
-          },
-          {
-            "id": "b97a0399e8e2e10e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "49ef0e73a9e6e12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bróker VM setup"
-            }
-          },
-          {
-            "id": "20417c5320905961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instalación de la VM del agente"
-            }
-          },
-          {
-            "id": "e5de0a2ee30b220e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/Descargar un archivo OVA para Bróker VM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Descargar un archivo OVA para Bróker VM"
-            }
-          },
-          {
-            "id": "103d490de9d8616b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/Instalar el agente Córtex XDR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instalar el agente Córtex XDR"
-            }
-          },
-          {
-            "id": "bb7876609ee1e5b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Características Adicionales del producto bróker VM"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,7 +212,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b97a0399e8e2e10e",
+  "active": "f57143b7aba96585",
   "lastOpenFiles": [
     "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
     "conflict-files-obsidian-git.md",
