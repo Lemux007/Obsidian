@@ -8,13 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22f040ef4729c9c1",
+            "id": "08a727953fbaf314",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "BROKER VM OVERVIEW"
+            }
+          },
+          {
+            "id": "71db8dc05eafac94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bróker VM setup"
+            }
+          },
+          {
+            "id": "ae4c89593c7335ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/Live Terminal Broker VM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Live Terminal Broker VM"
+            }
+          },
+          {
+            "id": "a692eebe334d2fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Cortex XDR/Reiniciar Broker VM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reiniciar Broker VM"
             }
           }
         ]
@@ -49,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cortex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,22 +258,65 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f57143b7aba96585",
+  "floating": {
+    "id": "11c7c2d60f7b003f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3aa570f110199e3f",
+        "type": "window",
+        "children": [
+          {
+            "id": "c5950a88579fc3d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3be8ef884ae89210",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 562,
+        "y": 20,
+        "width": 789,
+        "height": 688,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "08a727953fbaf314",
   "lastOpenFiles": [
-    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
-    "conflict-files-obsidian-git.md",
-    "CompTia Networking +/Study Plan.md",
-    "CompTia Networking +/Index CompTia Network +.md",
-    "CompTia Networking +",
-    "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md",
     "Ciberseguridad/Cortex XDR/Bróker VM setup.md",
+    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+    "Ciberseguridad/Glosario Trend Micro.md",
+    "Ciberseguridad/Cortex XDR/Live Terminal Broker VM.md",
+    "Ciberseguridad/Cortex XDR/Reiniciar Broker VM.md",
+    "Ciberseguridad/Cortex XDR/Registro de broker VM.md",
+    "Ciberseguridad/Cortex XDR/Detalles de configuración de broker VM.md",
+    "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md",
+    "Ciberseguridad/Cortex XDR/Servicios y  applets de bróker VM.md",
+    "Ciberseguridad/Cortex XDR/Configuración de la VM del agente.md",
+    "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md",
+    "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md",
+    "Ciberseguridad/Index/Cortex.md",
+    "Ciberseguridad/Córtex.md",
+    "CompTia Networking +/Index CompTia Network +.md",
+    "CompTia Networking +/Study Plan.md",
+    "conflict-files-obsidian-git.md",
+    "CompTia Networking +",
     "Ciberseguridad/Cortex XDR/Descargar un archivo OVA para Bróker VM.md",
     "Ciberseguridad/Cortex XDR/Instalar el agente Córtex XDR.md",
-    "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md",
-    "Ciberseguridad/Cortex XDR/Servicios y  applets de bróker VM.md",
     "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
-    "Ciberseguridad/Index/Cortex.md",
-    "Reglas de supresión IOC-BIOC.md",
+    "Ciberseguridad/Cortex XDR/Reglas de supresión IOC-BIOC.md",
     "PBX Conmutador.canvas",
     "Ciberseguridad/Cortex XDR/Threat Hunting Using Cortex XDR.md",
     "Ciberseguridad/Cortex XDR/Reglas de supresión IOC/BIOC 1.md",
@@ -236,14 +325,6 @@
     "Ciberseguridad/Cortex XDR/Reglas de supresión IOC",
     "Reglas de supresión IOC",
     "Ciberseguridad/Cortex XDR/Reglas de BIOC.md",
-    "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md",
-    "Ciberseguridad/Cortex XDR/Adición de una regla BIOC.md",
-    "Ciberseguridad/Cortex XDR/Reglas de IOC.md",
-    "Ciberseguridad/Cortex XDR/Habilitación del servicio de CORTEX XDR EDL.md",
-    "Ciberseguridad/Cortex XDR/Excepciones de Alerta.md",
-    "Ciberseguridad/Cortex XDR/Excepciones Globales.md",
-    "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md",
-    "Ciberseguridad/Cortex XDR/ALERTS Overview.md",
     "Images/Pasted image 20241213162942.png",
     "Images/Pasted image 20241213102144.png",
     "Images/Pasted image 20241213102049.png",

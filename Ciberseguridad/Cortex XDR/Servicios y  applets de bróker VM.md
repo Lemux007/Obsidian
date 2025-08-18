@@ -49,4 +49,3 @@
 
 
 [[Características Adicionales del producto bróker VM]]
-[[Bróker VM setup]]

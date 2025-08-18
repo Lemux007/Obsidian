@@ -5,38 +5,26 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Fundamentos",
+      "query": "tag:#index  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#fundamentos  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 15728640
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.814583333333333,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.567708333333333,
-  "repelStrength": 9.79166666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.3046875,
+  "repelStrength": 11.7708333333333,
   "linkStrength": 1,
-<<<<<<< HEAD
-  "linkDistance": 30,
-  "scale": 0.4526649735456147,
-=======
-  "linkDistance": 145,
-  "scale": 0.38230109687702785,
->>>>>>> origin/main
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.1166089157945733,
+  "close": false
 }

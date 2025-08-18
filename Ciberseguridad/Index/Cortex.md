@@ -7,3 +7,5 @@
 5. [[ALERTS Overview]]
 6. [[Basic Agent Troubleshooting]]
 7. [[Basic XDR rules]]
+8. [[BROKER VM OVERVIEW]]
+9. 
