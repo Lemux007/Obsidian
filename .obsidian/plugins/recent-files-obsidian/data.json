@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Titulo",
+      "path": "Templates/Titulo.md"
+    },
+    {
       "basename": "Causality and Analytics Concepts",
       "path": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md"
-    },
-    {
-      "basename": "Sin título 1",
-      "path": "Sin título 1.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "Sin título.md"
     },
     {
       "basename": "Deployment Considerations",
