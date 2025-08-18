@@ -286,41 +286,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "6e268a8e992da129",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b54cc50ff584a926",
-        "type": "window",
-        "children": [
-          {
-            "id": "4dd84cf4f33b8d5b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a50e76c17b583f00",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1040,
-        "y": 142,
-        "width": 789,
-        "height": 688,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "6ccb6d7371c7fb70",
   "lastOpenFiles": [
     "Ciberseguridad/Cortex XDR/Instalación de la VM del agente.md",
