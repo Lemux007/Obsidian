@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Creación VPN",
+      "path": "Troubleshooting/Creación VPN.md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "Ciberseguridad/Firewall.md"
+    },
+    {
       "basename": "Servicio de Directorio",
       "path": "Ciberseguridad/Servicio de Directorio.md"
+    },
+    {
+      "basename": "ALERTS Overview",
+      "path": "Ciberseguridad/Cortex XDR/ALERTS Overview.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Index/Cortex.md"
     },
     {
       "basename": "Service_Desk",
@@ -27,10 +43,6 @@
     {
       "basename": "Panorama",
       "path": "Ciberseguridad/Panorama.md"
-    },
-    {
-      "basename": "Firewall",
-      "path": "Ciberseguridad/Firewall.md"
     },
     {
       "basename": "NIST ESPECIAL",
@@ -169,10 +181,6 @@
       "path": "Ciberseguridad/Cortex XDR/Ofertas de productos y licencias.md"
     },
     {
-      "basename": "Cortex",
-      "path": "Ciberseguridad/Index/Cortex.md"
-    },
-    {
       "basename": "Configuración de la VM del agente",
       "path": "Ciberseguridad/Cortex XDR/Configuración de la VM del agente.md"
     },
@@ -189,16 +197,8 @@
       "path": "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md"
     },
     {
-      "basename": "ALERTS Overview",
-      "path": "Ciberseguridad/Cortex XDR/ALERTS Overview.md"
-    },
-    {
       "basename": "Características Adicionales del producto bróker VM",
       "path": "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md"
-    },
-    {
-      "basename": "Bróker VM setup",
-      "path": "Ciberseguridad/Cortex XDR/Bróker VM setup.md"
     }
   ],
   "omittedPaths": [],
