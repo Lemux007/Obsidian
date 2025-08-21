@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "XQL",
+      "path": "XQL.md"
+    },
+    {
+      "basename": "XQL Building blocks",
+      "path": "Ciberseguridad/Cortex XDR/XQL Building blocks.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Index/Cortex.md"
+    },
+    {
+      "basename": "Deployment Considerations",
+      "path": "Ciberseguridad/Cortex XDR/Deployment Considerations.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "Working with JSON Objects",
+      "path": "Ciberseguridad/Cortex XDR/Working with JSON Objects.md"
+    },
+    {
+      "basename": "Acceso a JSON mediante el formato sugar sintáctico",
+      "path": "Ciberseguridad/Cortex XDR/Acceso a JSON mediante el formato sugar sintáctico.md"
+    },
+    {
+      "basename": "Accesing JSON using extra functions",
+      "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
+    },
+    {
+      "basename": "Campos y variables JSON",
+      "path": "Ciberseguridad/Cortex XDR/Campos y variables JSON.md"
+    },
+    {
+      "basename": "What's new",
+      "path": "Ciberseguridad/Cortex XDR/What's new.md"
+    },
+    {
+      "basename": "Trabajar con Incidentes",
+      "path": "Ciberseguridad/Cortex XDR/Trabajar con Incidentes.md"
+    },
+    {
+      "basename": "Uso de las funciones XQL en consultas",
+      "path": "Ciberseguridad/Cortex XDR/Uso de las funciones XQL en consultas.md"
+    },
+    {
+      "basename": "Tipos de Union",
+      "path": "Ciberseguridad/Cortex XDR/Tipos de Union.md"
+    },
+    {
+      "basename": "Tipos de datos en la etapa de filtro",
+      "path": "Ciberseguridad/Cortex XDR/Tipos de datos en la etapa de filtro.md"
+    },
+    {
+      "basename": "Tipos de datos en asignaciones de fases de alteración",
+      "path": "Ciberseguridad/Cortex XDR/Tipos de datos en asignaciones de fases de alteración.md"
+    },
+    {
+      "basename": "Tipo de datos",
+      "path": "Ciberseguridad/Cortex XDR/Tipo de datos.md"
+    },
+    {
+      "basename": "Campos multivalor",
+      "path": "Ciberseguridad/Cortex XDR/Campos multivalor.md"
+    },
+    {
+      "basename": "Threat Hunting Using Cortex XDR",
+      "path": "Ciberseguridad/Cortex XDR/Threat Hunting Using Cortex XDR.md"
+    },
+    {
+      "basename": "Búsqueda orientada a datos",
+      "path": "Ciberseguridad/Cortex XDR/Búsqueda orientada a datos.md"
+    },
+    {
+      "basename": "Caza orientada a la familia de malware",
+      "path": "Ciberseguridad/Cortex XDR/Caza orientada a la familia de malware.md"
+    },
+    {
+      "basename": "Caza orientada a la técnica",
+      "path": "Ciberseguridad/Cortex XDR/Caza orientada a la técnica.md"
+    },
+    {
+      "basename": "Metodologías de búsqueda de amenazas",
+      "path": "Ciberseguridad/Cortex XDR/Metodologías de búsqueda de amenazas.md"
+    },
+    {
+      "basename": "Técnicas de Protección",
+      "path": "Ciberseguridad/Cortex XDR/Técnicas de Protección.md"
+    },
+    {
+      "basename": "Técnicas de Explotación",
+      "path": "Ciberseguridad/Cortex XDR/Técnicas de Explotación.md"
+    },
+    {
+      "basename": "Syntax Basics",
+      "path": "Ciberseguridad/Cortex XDR/Syntax Basics.md"
+    },
+    {
+      "basename": "Entorno de desarrollo de XQL",
+      "path": "Ciberseguridad/Cortex XDR/Entorno de desarrollo de XQL.md"
+    },
+    {
+      "basename": "Fundamentos de XQL",
+      "path": "Ciberseguridad/Cortex XDR/Fundamentos de XQL.md"
+    },
+    {
+      "basename": "Servicios y  applets de bróker VM",
+      "path": "Ciberseguridad/Cortex XDR/Servicios y  applets de bróker VM.md"
+    },
+    {
+      "basename": "Search Queries",
+      "path": "Ciberseguridad/Cortex XDR/Search Queries.md"
+    },
+    {
+      "basename": "Administración de consultas",
+      "path": "Ciberseguridad/Cortex XDR/Administración de consultas.md"
+    },
+    {
+      "basename": "Creación de consultas sencillas",
+      "path": "Ciberseguridad/Cortex XDR/Creación de consultas sencillas.md"
+    },
+    {
+      "basename": "Response Actions",
+      "path": "Ciberseguridad/Cortex XDR/Response Actions.md"
+    },
+    {
+      "basename": "Centro de actividades",
+      "path": "Ciberseguridad/Cortex XDR/Centro de actividades.md"
+    },
+    {
+      "basename": "Acciones de respuesta de endpoints",
+      "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
+    },
+    {
+      "basename": "Descripción general de las acciones de respuesta",
+      "path": "Ciberseguridad/Cortex XDR/Descripción general de las acciones de respuesta.md"
+    },
+    {
+      "basename": "RELATED DATASETS USING JOINS",
+      "path": "Ciberseguridad/Cortex XDR/RELATED DATASETS USING JOINS.md"
+    },
+    {
+      "basename": "Reiniciar Broker VM",
+      "path": "Ciberseguridad/Cortex XDR/Reiniciar Broker VM.md"
+    },
+    {
+      "basename": "Reglas de supresión IOC-BIOC",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de supresión IOC-BIOC.md"
+    },
+    {
+      "basename": "Join stage basics",
+      "path": "Ciberseguridad/Cortex XDR/Join stage basics.md"
+    },
+    {
+      "basename": "Reglas de puntuación de incidentes",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de puntuación de incidentes.md"
+    },
+    {
+      "basename": "Basic XDR rules",
+      "path": "Ciberseguridad/Cortex XDR/Basic XDR rules.md"
+    },
+    {
+      "basename": "Reglas de BIOC",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de BIOC.md"
+    },
+    {
+      "basename": "Reglas de IOC",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de IOC.md"
+    },
+    {
+      "basename": "OPERATORS",
+      "path": "Ciberseguridad/Cortex XDR/OPERATORS.md"
+    },
+    {
+      "basename": "Reglas de automatización",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de automatización.md"
+    },
+    {
+      "basename": "Incidents",
+      "path": "Ciberseguridad/Cortex XDR/Incidents.md"
+    },
+    {
+      "basename": "Pestañas de vista avanzada",
+      "path": "Ciberseguridad/Cortex XDR/Pestañas de vista avanzada.md"
+    },
+    {
+      "basename": "Reglas de prevención personalizadas",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
+    },
+    {
+      "basename": "Reglas de Política",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de Política.md"
+    },
+    {
+      "basename": "Gestión de reglas de automatización",
+      "path": "Ciberseguridad/Cortex XDR/Gestión de reglas de automatización.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
