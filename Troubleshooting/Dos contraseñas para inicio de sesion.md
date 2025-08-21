@@ -1,3 +1,4 @@
+#Nodo
 El usuario ==**remoto**== presenta constantes bloqueos de inicio de sesión en VPN, y se hacen numerosos reinicios y desbloqueos de credenciales, finalmente el usuario comenta que ha estado ingresando con dos contraseñas de inicio de sesión una para ingresar al equipo y otra para conectar a la VPN, no ha asistido a site en un tiempo prolongado de tiempo
 
 **Solución:**

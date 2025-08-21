@@ -1,3 +1,4 @@
+#subnodo
 
 Consta de dos pasos
 1. **Definir la condición de la regla y establecer un nombre de regla**: Definira la condicion de regla que consta de indicadores de amenaza y un nombre de regla BIOC. Definir una condicion regla BIOC es lo mismo que crear una busqueda de consulta, solo que BIOC genera alerta. 

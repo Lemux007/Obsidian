@@ -1,3 +1,4 @@
+#Nodo
 
 1. Acceso a la maquina virtual del broker para la configuracion: La maquina virtual del agente registrada se configura desde la pagina Maquinas virtuales de agente de Cortex XDR
    - Acceso a cortex XDR: Despues de registrar la VM una ventana indicara que inicie sesion en la consola de administracion de cortex

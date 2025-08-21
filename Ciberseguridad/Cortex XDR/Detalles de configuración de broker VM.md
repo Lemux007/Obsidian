@@ -1,3 +1,4 @@
+#Nodo
 1. Configuraciones de Access Broker VM: ***Clic detecho en la VM > Administracion de agente > Configurar***
    - Maquinas virtuales de broker registrado: Muestra las maquinas virtuales de broker registradas en este inquilino de cortex xdr
    - Encabezados de columna: Muestran oara cada broker VM el nombre del dispositivo, la interfaz externa, todas las interfaces, la version del broker VM, estado de configuracion, uso de CPU, uso de memoria, uso del disco.

@@ -10,6 +10,6 @@
 		Comprobar que las remediaciones que aplicamos al sistema están en pleno funcionamiento por lo que es crucial una validación exhaustiva y correcta.
 
 ==Cumplimiento.== 
-		Las remediaciones deben cumplir con las políticas de la institución y aplicar todos los [[estándares]] aplicables
+		Las remediaciones deben cumplir con las políticas de la institución y aplicar todos los estándares aplicables
 
 #fundamentos 

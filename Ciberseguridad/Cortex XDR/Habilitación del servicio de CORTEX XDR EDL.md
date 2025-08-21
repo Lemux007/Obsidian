@@ -1,3 +1,4 @@
+#Nodo
 Listas dinamicas externas (EDL): Tipo de lista de bloqueo en la que cada linea es una direccion IP separada o una entrada de nombre de host que se va a bloquear.
    - Consumidores tipicos de EDL son NGFW (PAN-OS)
 

@@ -1,3 +1,4 @@
+#Nodo
 
 REGLAS BIOC
 1. Trabajar con BIOCs: Las reglas de BIOC estan pensadas para detectar amenazas avanzadas en funcion de las caracteristicas del comportamiento.

@@ -1,3 +1,4 @@
+#subnodo
 
 1. Descripcion general de las reglas de prevencion personalizadas: Son reglas BIOC que se transfieren a los endpoints mediante perfiles de restriccion.
    Funcionalidad: Permite a los agentes bloquear actividades que coinciden con los criterios de la regla.

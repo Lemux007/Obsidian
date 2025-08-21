@@ -1,3 +1,4 @@
+#subnodo
 1. Tipos de licencia de Cortex XDR
 	1. Prevent: Capacidades de prevencion de malware y exploits
 	2. Pro por endpoint: Proteccion avanzada de endpoints y capacidades de recopilacion y respuesta de datos

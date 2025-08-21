@@ -1,3 +1,4 @@
+#Nodo
 
 1. Conexion de la maquina virtual del agente a la instancia de XDR: Se utiliza un token para conectar la maquina virtual de Broker a la instancia de Cortex XDR
    Como generar y utilizar un token:

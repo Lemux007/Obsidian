@@ -1,2 +1,2 @@
-#Nodo 
+#subnodo 
 Conexión de los FW, por ejemplo para manejar múltiples FW.

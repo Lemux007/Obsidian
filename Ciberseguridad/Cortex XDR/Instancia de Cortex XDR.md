@@ -1,3 +1,4 @@
+#subnodo
 
 1. Capacidades de la instancia de Cortex XDR:
 	1. Gestion de puntos finales: Proporciona capacidades centralizadas para administrar agentes de corte XDR en los terminales, como agrupar los terminales en funcion a algunos criterios, crear paquetes de instalacion, o actualizar software de forma masiva.

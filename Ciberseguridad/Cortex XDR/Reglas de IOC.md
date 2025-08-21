@@ -1,3 +1,4 @@
+#Nodo
 
 1. Trabajar con los IOCs: Las reglas IOC estan destinaads a detectar malware simple y conocido. se crean en **Reglas de deteeccion > paginas de IOC**
    

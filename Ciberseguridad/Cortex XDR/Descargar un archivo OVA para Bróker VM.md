@@ -1,3 +1,4 @@
+#Nodo
 
 1. Imagenes de Broker VM: Obtenga imágenes de máquina virtual de Broker a través de la consola de administración de Cortex XDR, a la que accede iniciando sesión en el inquilino de Cortex XDR. La imagen de máquina virtual de Broker que utilice depende del entorno de máquina virtual. Palo Alto Networks proporciona tipos de imágenes de VM de Broker para varios entornos de hipervisor estándar.
    - Disco duro virtual (VHD)

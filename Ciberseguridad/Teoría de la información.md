@@ -1,3 +1,4 @@
+#Nodo
 La información esta formada por [[Datos]] con el propósito de transmitir un mensaje esto hace que se altere la visión de un sujeto o sistema que recibe la información ,esta formada por:
 
 Significado, ¿Qué quiere decir?

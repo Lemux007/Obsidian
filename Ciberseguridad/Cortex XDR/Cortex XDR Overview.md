@@ -1,3 +1,4 @@
+#Nodo
 # AGENTE DE CORTEX XDR
 1. Componentes principales de Cortex XDR: Consta de una instancia de XDR basada en la nube y agentes de cortex XDR instalados en los puntos finales de las organizaciones en las instalaciones o en la nube. 
    - **Instancia de Cortex XDR**: Una instancia de Cortex XDR es un componente en la nube que proporciona una gestión centralizada de la seguridad de los endpoints de las organizaciones, incluida la gestión de endpoints, la gestión de políticas de seguridad en los endpoints, la investigación de incidentes y alertas, y la respuesta a las amenazas.

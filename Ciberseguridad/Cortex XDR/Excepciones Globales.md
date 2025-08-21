@@ -1,3 +1,4 @@
+#Nodo
 
 1. Aplicaciones de excepciones globales: Las excepciones globales se aplican incondicionalmente a todos los puntos de conexión. Como alternativa, puede navegar a **Endpoints > Policy Management > Profiles > Exceptions Profiles** y aplicar excepciones a endpoints específicos mediante reglas de política. Las excepciones en ambos ámbitos agregan todas las excepciones aplicadas.
    - Las excepciones en los perfiles de execepciones se aplican a los puntos de conexion determinados por las directivas

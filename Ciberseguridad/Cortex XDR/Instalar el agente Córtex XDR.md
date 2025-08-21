@@ -1,3 +1,4 @@
+#Nodo
 
 1. Acceso a cortex XDR: Acceda a cortex XDR desde un navegador en el endpoint en el que desea crear un paquete de instalacion y descarge el paquete de instalacion.
    - URL for cortex XDR agent

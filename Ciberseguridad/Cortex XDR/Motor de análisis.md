@@ -1,3 +1,4 @@
+#subnodo
 
 1. Analisis del comportamiento: El motor de análisis de Cortex XDR detecta y responde a las amenazas ocultas posteriores a la intrusión que han evadido las defensas de la red antes de que los ataques arruinen los sistemas.
    

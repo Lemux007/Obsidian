@@ -1,3 +1,4 @@
+#subnodo
 
 1. Características de la maquina virtual del agente
 	1. Actualizaciones y mejoras de Broker VM: Una vez instalado, el broker recibe automáticamente actualizaciones y mejoras de Cortex XDR, y esta disposición proporciona a los usuarios nuevas capacidades sin necesidad de instalar una nueva máquina virtual. 

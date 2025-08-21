@@ -1,3 +1,4 @@
+#Nodo
 OBJETOS, ATRIBUTOS Y ACCIONES DE ALERTA
 1. Objetos relacionados con alertas: Al analizar una alerta, puede comprender mejor la causa de lo que sucedio en contexto para valida si una alerta requiere accion adicional
    - Comun a todos los tipos de licencia:

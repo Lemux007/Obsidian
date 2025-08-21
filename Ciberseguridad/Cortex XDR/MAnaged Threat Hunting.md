@@ -1,3 +1,4 @@
+#Nodo
 # DESCRIPCION GENERAL DE MANAGED THREAT HUNTING
 1. Como funciona la busqueda administrada de amenazas: Cortex XDR Managed Threat Hunting se basa en Cortex XDR y esta enriquecido con contexto. El equipo de caza de amenazas esta respaldado por Unit 42
 	1. Built on Cortex XDR: Obtiene analisis sobre datos integrados y de endpoints, redes y nubes para una busqueda de amenaza inigualable.

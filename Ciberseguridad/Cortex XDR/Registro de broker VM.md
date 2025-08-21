@@ -1,3 +1,4 @@
+#Nodo
 1. Descargar registros: Se almacenan en broker VM y se pueden ver alli o descargarse desde la pagina Broker VMs de la consola de administracion de Cortex XDR. Seleccione **Administracion de agentes > Descargar los registros mas recientes**
 
 2. Ver registros: Los registros ayudan a supervisar el uso de la administracion, el rendimiento, las redes, los applets y los servicios internos de broker VM. Tambien pueden ayudar con la solucion de problemas.

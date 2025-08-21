@@ -1,3 +1,4 @@
+#Nodo
 [[Error de conexión]]
 Se debe de solicitar a al usuario ingresar al portal: https://mail.novasistemas.com.mx/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.novasistemas.com.mx%2fowa e ingresar sus credenciales de la siguiente forma:
 

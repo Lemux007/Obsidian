@@ -1,3 +1,4 @@
+#Nodo
 INVENTARIO DE ACTIVOS
 1. Activo de red / Network Assets: Es cualquiero nodo direccionable IP en una red informatica. Por ejemplo un equipo host o un enrutador. Ej: Un equipo host o un router. 
    Es como minimo, un dispositivo compatible con IP en su red. 

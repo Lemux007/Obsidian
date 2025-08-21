@@ -1,3 +1,4 @@
+#Nodo
 METODOLOGIAS Y RECURSOS DE SOLUCION DE PROBLEMAS
 1. Actividades de solucion de problemas: Disciplina de ingenieria que consta de habilidades en estas areas: 
 	1. Metodologias

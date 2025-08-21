@@ -1,3 +1,4 @@
+#Nodo
 SUGERENCIAS DE CORRECCION
 1. Acciones de respuesta avanzadas: Algunas acciones de respuesta de XDR requieren: 
    - licencias

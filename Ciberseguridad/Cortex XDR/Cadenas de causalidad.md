@@ -1,3 +1,4 @@
+#Nodo 
 
 # CADENAS DE CAUSALIDAD
 1. Region de ataque: Una región de ataque es un grupo de procesos en el árbol de procesos jerárquicos que están involucrados en un ataque. Uno de los desafíos que se presentan en este escenario es cómo distinguir qué procesos estuvieron involucrados en el ataque.

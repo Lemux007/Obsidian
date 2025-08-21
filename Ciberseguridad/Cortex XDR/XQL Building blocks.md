@@ -1,3 +1,5 @@
+#Nodo
+
 # ETAPAS DE XQL
 1. Etapas de una consulta: Las etapas son los bloques de creacion basicos de una consulta XQL. Una consulta XQL consta de una o varias fases separadas por una barra vertical (|), el simbolo delimitador de fase. Algunas de las etapaps de una consulta XQL son el conjunto de datos, los campos, el filtro, la combinacion, la ordenacion y la modificacion.
    - Etapas para la realizacion de operaciones: Cada fase realiza una operacion determinada en la evaluacion de consultas. Entre los ejemplos de operaciones se incluyen la configuracion del conjunto de datos, el filtrado, la especificacion de campos, la ordenacion y la limitacion.

@@ -1,3 +1,4 @@
+#Nodo
 
 1. Creacion de excepciones de alerta: Clico del boton secundario en una alerta > crear excepcion de alerta
    La creacion de excepciones de alerta solo esta disponible para algunos tipos de alerta, por ejemplo wildfire no puede.

@@ -1,3 +1,5 @@
+#Nodo
+
 # CONCEPTOS BASICOS DE LAS REGLAS DE ANALISIS
 1. Informacion general sobre las reglas de analisis: El tema de las reglas de analisis no esta directamente en el dominio XQL. Sin embargo, debido a que su sintaxis se deriva de XQL. aqui ofrecemos una breve introduccion a las reglas de analisis.
    Definicion de reglas de analisis: Una regla de analisis analiza una entrada de registro sin procesar, aplica la logica de la regla a los campos de registro de entrada de analisis y a continuacion, prepara y devuelve una o varias filas para agregarlas a los conjuntos de datos. Dicha definicion dice que las reglas de analisis no estan en el dominio XQL; por ejemplo, no se puede utilizar una regla de analisis par consultar conjuntos de datos. En su lugar, las reglas de analisis son un componente del flujo de ingesta de datos XSIAM.

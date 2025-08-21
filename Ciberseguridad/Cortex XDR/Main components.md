@@ -1,3 +1,5 @@
+#Nodo
+
 INSTANCIA DE CORTEX XDR (Entorno dedicado a cortex)
 	En general se crea una instancia de cortex xdr por inquilino o cliente, que puede ser una organizacion, empresa o equipo. por ejemplo una isntancia de cortex xdr se crea en google cloud plattform a traves de la activacion de instancias
 		Activacion de instancia y del inquilino hace referencia a la misma tarea

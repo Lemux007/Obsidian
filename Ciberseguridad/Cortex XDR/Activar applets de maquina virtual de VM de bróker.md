@@ -1,3 +1,4 @@
+#Nodo
 VIRTUAL DE BROKER
 1. Menu de VM de broker y activacion de applet: En el menú Máquina virtual de agente de cada máquina virtual de agente se enumeran los applets disponibles. Para cada applet inactivado, el único submenú es su activación. Por ejemplo, la selección del recopilador CSV del menú VM del agente tiene un submenú con Activar como opción. Al seleccionar **Activar** para el **recopilador de CSV**, se accede a la página Activar applet del recopilador de CSV.
 2. Activacion del applet del recopilador de syslog: Como ejemplo de lo sencillo que puede ser activar un applet, en esta seccion se muestra la activacion del applet syslog collector:

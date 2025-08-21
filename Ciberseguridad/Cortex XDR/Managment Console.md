@@ -1,3 +1,5 @@
+
+#Nodo
 DESCRIPCION GENERAL DE LA CONSOLA DE ADMINISTRACION CORTEX XDR
 1. Acceso a la consola: https:// subdominio.xdr | region.paloaltonetworks.com, para autenticarse especificar usuario y contraseña de CSP
 2. Panel de navegacion: Paneles de control e informes, Respuesta a incidentes, Reglas de deteccion, assets, endpoinst.

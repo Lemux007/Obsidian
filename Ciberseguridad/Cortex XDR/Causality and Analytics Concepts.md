@@ -1,3 +1,5 @@
+#subindex 
+
 # Log stitching / costura de troncos
 1. Alertas y registros: Hay dos tipos de datos que se envian a una instancia de XDR
 	1. Alertas: Las alertas se crean instantáneamente para capturar detalles de actividades sospechosas y se cargan inmediatamente en una instancia de Cortex XDR. Sin embargo, la rápida creación y procesamiento de una alerta no le permite capturar detalles de todas las actividades. Por ejemplo, una alerta no puede contener interacciones proceso-recurso; por lo tanto, no es útil para el análisis de amenazas conductuales por sí solo

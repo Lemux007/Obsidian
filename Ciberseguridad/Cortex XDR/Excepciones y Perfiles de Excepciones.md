@@ -1,3 +1,4 @@
+#Nodo
 # EXCEPCIONES Y PERFILES DE EXCEPCIONES
 1. Excepciones de alerta frente a exclusiones de alerta: *Una exclusion silencia alertas para que no aparezcan en la consola de Cortex XDR, una excepcion deshabilita por completo la proteccion, una exclusion de alerta es diferente a una excepcion de alerta.*
 2. Perfiles de excepciones: Puede crear excepciones en perfiles de excepcion. Una excepcion en la consola de administracion de Cortex XDR es una configuracion de desactivacion de proteccion. Puede ajustar eficazmente la configuración de seguridad mediante excepciones que anulen la configuración de seguridad aplicada en los puntos de conexión

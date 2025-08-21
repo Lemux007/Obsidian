@@ -18,14 +18,21 @@
       "query": "tag:#subindex",
       "color": {
         "a": 1,
-        "rgb": 16414976
+        "rgb": 16740884
       }
     },
     {
       "query": "tag:#Nodo  ",
       "color": {
         "a": 1,
-        "rgb": 51330
+        "rgb": 1179392
+      }
+    },
+    {
+      "query": "tag:#subnodo  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514836
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 148,
-  "scale": 0.3213363860503847,
-  "close": true
+  "scale": 0.3213363860504255,
+  "close": false
 }

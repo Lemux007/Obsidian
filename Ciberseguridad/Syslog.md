@@ -1,3 +1,4 @@
+#Nodo
 Estándar de facto, es un protocolo, aplicación o biblioteca de registro de eventos en un sistema de red IP, genera "logs" o entradas de registro que funcionan de apoyo para el conocimiento de los eventos que se llevan a cabo en el sistema, se incluye fecha y hora en los registros para así generar una línea de tiempo.
 
 Visor de Eventos (Windows):

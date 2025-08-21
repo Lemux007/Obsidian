@@ -1,3 +1,6 @@
+#subindex 
+
+- 
 # INTRODUCCION A BROKER VM
 1. Broker VM como canal de comunicaciones: Algunos puntos de conexión de la red interna utilizan agentes de Cortex XDR para comunicarse con Cortex XDR. Incluso cuando los dispositivos no ejecutan agentes, Broker VM proporciona un canal de comunicación alternativo y seguro para comunicar información relacionada con la seguridad a los servidores Cortex XDR.
    - Agentes: Cortex XDR se compone del trabajo combinado de Cortex XDR, que reside en Google Cloud Platform (GCP), y agentes y dispositivos de terceros que forman parte de su centro de datos, infraestructura híbrida o en la nube.

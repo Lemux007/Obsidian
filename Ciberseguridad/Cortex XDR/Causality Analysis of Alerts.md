@@ -1,3 +1,4 @@
+#subnodo
 PUNTO DE VISTA DE CAUSALIDAD
 1. Escenario de ataque: Un analista de SOC supervisa continuamente las alertas y los incidentes en la consola de gestion de XDR. Considere el siguiente escenrio de ataque sobre una alerta causada por un usuario final y la investigacion que sigue.
    **Alerta que provoca una accion del usuario final**: Un usuario final inexperto y desprevenido hace doble clicl en un archivo en su punto de conexion lo que hace que ejecute un archivo que contiene un script malintencionado. 

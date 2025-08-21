@@ -1,3 +1,4 @@
+#Nodo
 # SERVICIOS Y APPLETS DE BROKER VM
 1. Arquitectura de Broker VM:
    - Broker VM como plataforma: *Broker VM es un canal seguro de comunicación entre su entorno local y el servidor Cortex XDR en la nube.* Broker VM también es una plataforma para ejecutar applets, que se ejecutan como contenedores separados. Esos applets están aislados entre sí y pueden comunicarse por separado con su instancia de Cortex XDR basada en la nube.

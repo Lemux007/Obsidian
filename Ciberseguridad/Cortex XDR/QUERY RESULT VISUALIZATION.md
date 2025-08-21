@@ -1,4 +1,5 @@
-# RESULTADOS DE LA CONSULTA EN TABLAS
+#Nodo
+
 1. Pestaña resultados de la consulta: Cortex XSIAM coloca los resultados de la ejecucion de una consulta XQL en un conjunto de resultados. Hay varias maneras de mostrar el contenido del conjunto de resultados. 
    - Pagina de busqueda de XQL: Puede editar y ejecutar consultas XQL en la pagina Busqueda XQL de la consola de administracion
    - Modos de visualizacion: Se colocan tres modos de visualizacion como botones de accion en la esquina superior izquierda
