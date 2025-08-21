@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Switch",
+      "path": "CompTia Networking +/Switch.md"
+    },
+    {
+      "basename": "MAC",
+      "path": "CompTia Networking +/MAC.md"
+    },
+    {
+      "basename": "ASIC",
+      "path": "CompTia Networking +/ASIC.md"
+    },
+    {
+      "basename": "Network Devices",
+      "path": "CompTia Networking +/Network Devices.md"
+    },
+    {
+      "basename": "Index CompTia Network +",
+      "path": "CompTia Networking +/Index CompTia Network +.md"
+    },
+    {
+      "basename": "Fase 1",
+      "path": "CompTia Networking +/Fase 1.md"
+    },
+    {
+      "basename": "Router",
+      "path": "CompTia Networking +/Router.md"
+    },
+    {
+      "basename": "Subindex",
+      "path": "Templates/Subindex.md"
+    },
+    {
+      "basename": "Nodo",
+      "path": "Templates/Nodo.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Templates/Index.md"
+    },
+    {
+      "basename": "Study Plan",
+      "path": "CompTia Networking +/Study Plan.md"
+    },
+    {
       "basename": "Creación VPN",
       "path": "Troubleshooting/Creación VPN.md"
     },
@@ -145,18 +189,6 @@
       "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
     },
     {
-      "basename": "Nodo",
-      "path": "Templates/Nodo.md"
-    },
-    {
-      "basename": "Subindex",
-      "path": "Templates/Subindex.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Templates/Index.md"
-    },
-    {
       "basename": "Causality and Analytics Concepts",
       "path": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Cortex XDR Overview",
       "path": "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md"
-    },
-    {
-      "basename": "Cadenas de causalidad",
-      "path": "Ciberseguridad/Cortex XDR/Cadenas de causalidad.md"
-    },
-    {
-      "basename": "Instancia de Cortex XDR",
-      "path": "Ciberseguridad/Cortex XDR/Instancia de Cortex XDR.md"
-    },
-    {
-      "basename": "Ofertas de productos y licencias",
-      "path": "Ciberseguridad/Cortex XDR/Ofertas de productos y licencias.md"
-    },
-    {
-      "basename": "Configuración de la VM del agente",
-      "path": "Ciberseguridad/Cortex XDR/Configuración de la VM del agente.md"
-    },
-    {
-      "basename": "Motor de análisis",
-      "path": "Ciberseguridad/Cortex XDR/Motor de análisis.md"
-    },
-    {
-      "basename": "Causality Analysis of Alerts",
-      "path": "Ciberseguridad/Cortex XDR/Causality Analysis of Alerts.md"
-    },
-    {
-      "basename": "Advanced Response Actions in Cortex XDR Pro",
-      "path": "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md"
-    },
-    {
-      "basename": "Características Adicionales del producto bróker VM",
-      "path": "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md"
     }
   ],
   "omittedPaths": [],
