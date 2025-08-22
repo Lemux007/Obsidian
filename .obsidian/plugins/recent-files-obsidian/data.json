@@ -2,15 +2,23 @@
   "recentFiles": [
     {
       "basename": "XQL",
-      "path": "XQL.md"
+      "path": "Ciberseguridad/Index/XQL.md"
     },
     {
-      "basename": "XQL Building blocks",
-      "path": "Ciberseguridad/Cortex XDR/XQL Building blocks.md"
+      "basename": "Aprovisionamiento de Usuarios",
+      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
     },
     {
       "basename": "Cortex",
       "path": "Ciberseguridad/Index/Cortex.md"
+    },
+    {
+      "basename": "Frameworks",
+      "path": "Ciberseguridad/Index/Frameworks.md"
+    },
+    {
+      "basename": "XQL Building blocks",
+      "path": "Ciberseguridad/Cortex XDR/XQL Building blocks.md"
     },
     {
       "basename": "Deployment Considerations",
@@ -191,14 +199,6 @@
     {
       "basename": "Reglas de prevención personalizadas",
       "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
-    },
-    {
-      "basename": "Reglas de Política",
-      "path": "Ciberseguridad/Cortex XDR/Reglas de Política.md"
-    },
-    {
-      "basename": "Gestión de reglas de automatización",
-      "path": "Ciberseguridad/Cortex XDR/Gestión de reglas de automatización.md"
     }
   ],
   "omittedPaths": [],
