@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "Reglas de BIOC",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de BIOC.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Cortex.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Index/Cortex.md"
+    },
+    {
+      "basename": "Motor de análisis",
+      "path": "Ciberseguridad/Cortex XDR/Motor de análisis.md"
+    },
+    {
+      "basename": "External Data Collection",
+      "path": "Ciberseguridad/Cortex XDR/External Data Collection.md"
+    },
+    {
+      "basename": "Gestion de conjunto de datos",
+      "path": "Ciberseguridad/Cortex XDR/Gestion de conjunto de datos.md"
+    },
+    {
+      "basename": "Cortex XDR Ingestion flow",
+      "path": "Ciberseguridad/Cortex XDR/Cortex XDR Ingestion flow.md"
+    },
+    {
+      "basename": "Deployment Considerations",
+      "path": "Ciberseguridad/Cortex XDR/Deployment Considerations.md"
+    },
+    {
+      "basename": "Control de acceso",
+      "path": "Ciberseguridad/Cortex XDR/Control de acceso.md"
+    },
+    {
+      "basename": "Activación de instancias de Cortex XDR",
+      "path": "Ciberseguridad/Cortex XDR/Activación de instancias de Cortex XDR.md"
+    },
+    {
+      "basename": "Servicios de infraestructura de Cortex",
+      "path": "Ciberseguridad/Cortex XDR/Servicios de infraestructura de Cortex.md"
+    },
+    {
+      "basename": "Portal de atención al cliente",
+      "path": "Ciberseguridad/Cortex XDR/Portal de atención al cliente.md"
+    },
+    {
+      "basename": "Managed Threat Hunting",
+      "path": "Ciberseguridad/Cortex XDR/Managed Threat Hunting.md"
+    },
+    {
+      "basename": "Proceso de Evaluación",
+      "path": "Ciberseguridad/Cortex XDR/Proceso de Evaluación.md"
+    },
+    {
+      "basename": "Descripción general de managed Threat Hunting",
+      "path": "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md"
+    },
+    {
+      "basename": "Servicio de Directorio",
+      "path": "Ciberseguridad/Servicio de Directorio.md"
+    },
+    {
+      "basename": "Fundamentos",
+      "path": "Ciberseguridad/Index/Fundamentos.md"
+    },
+    {
+      "basename": "Frameworks",
+      "path": "Ciberseguridad/Index/Frameworks.md"
+    },
+    {
+      "basename": "Zero Trust",
+      "path": "Ciberseguridad/Zero Trust.md"
+    },
+    {
+      "basename": "Troubleshooting",
+      "path": "Ciberseguridad/Index/Troubleshooting.md"
+    },
+    {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "PAN",
+      "path": "Ciberseguridad/Index/PAN.md"
+    },
+    {
+      "basename": "Levantamiento Servidor Y VM_PanOS",
+      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Creación VPN",
+      "path": "Troubleshooting/Creación VPN.md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "Ciberseguridad/Firewall.md"
+    },
+    {
       "basename": "XQL",
       "path": "Ciberseguridad/Index/XQL.md"
     },
@@ -9,20 +113,8 @@
       "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
     },
     {
-      "basename": "Cortex",
-      "path": "Ciberseguridad/Index/Cortex.md"
-    },
-    {
-      "basename": "Frameworks",
-      "path": "Ciberseguridad/Index/Frameworks.md"
-    },
-    {
       "basename": "XQL Building blocks",
       "path": "Ciberseguridad/Cortex XDR/XQL Building blocks.md"
-    },
-    {
-      "basename": "Deployment Considerations",
-      "path": "Ciberseguridad/Cortex XDR/Deployment Considerations.md"
     },
     {
       "basename": "Configuration",
@@ -107,98 +199,6 @@
     {
       "basename": "Syntax Basics",
       "path": "Ciberseguridad/Cortex XDR/Syntax Basics.md"
-    },
-    {
-      "basename": "Entorno de desarrollo de XQL",
-      "path": "Ciberseguridad/Cortex XDR/Entorno de desarrollo de XQL.md"
-    },
-    {
-      "basename": "Fundamentos de XQL",
-      "path": "Ciberseguridad/Cortex XDR/Fundamentos de XQL.md"
-    },
-    {
-      "basename": "Servicios y  applets de bróker VM",
-      "path": "Ciberseguridad/Cortex XDR/Servicios y  applets de bróker VM.md"
-    },
-    {
-      "basename": "Search Queries",
-      "path": "Ciberseguridad/Cortex XDR/Search Queries.md"
-    },
-    {
-      "basename": "Administración de consultas",
-      "path": "Ciberseguridad/Cortex XDR/Administración de consultas.md"
-    },
-    {
-      "basename": "Creación de consultas sencillas",
-      "path": "Ciberseguridad/Cortex XDR/Creación de consultas sencillas.md"
-    },
-    {
-      "basename": "Response Actions",
-      "path": "Ciberseguridad/Cortex XDR/Response Actions.md"
-    },
-    {
-      "basename": "Centro de actividades",
-      "path": "Ciberseguridad/Cortex XDR/Centro de actividades.md"
-    },
-    {
-      "basename": "Acciones de respuesta de endpoints",
-      "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
-    },
-    {
-      "basename": "Descripción general de las acciones de respuesta",
-      "path": "Ciberseguridad/Cortex XDR/Descripción general de las acciones de respuesta.md"
-    },
-    {
-      "basename": "RELATED DATASETS USING JOINS",
-      "path": "Ciberseguridad/Cortex XDR/RELATED DATASETS USING JOINS.md"
-    },
-    {
-      "basename": "Reiniciar Broker VM",
-      "path": "Ciberseguridad/Cortex XDR/Reiniciar Broker VM.md"
-    },
-    {
-      "basename": "Reglas de supresión IOC-BIOC",
-      "path": "Ciberseguridad/Cortex XDR/Reglas de supresión IOC-BIOC.md"
-    },
-    {
-      "basename": "Join stage basics",
-      "path": "Ciberseguridad/Cortex XDR/Join stage basics.md"
-    },
-    {
-      "basename": "Reglas de puntuación de incidentes",
-      "path": "Ciberseguridad/Cortex XDR/Reglas de puntuación de incidentes.md"
-    },
-    {
-      "basename": "Basic XDR rules",
-      "path": "Ciberseguridad/Cortex XDR/Basic XDR rules.md"
-    },
-    {
-      "basename": "Reglas de BIOC",
-      "path": "Ciberseguridad/Cortex XDR/Reglas de BIOC.md"
-    },
-    {
-      "basename": "Reglas de IOC",
-      "path": "Ciberseguridad/Cortex XDR/Reglas de IOC.md"
-    },
-    {
-      "basename": "OPERATORS",
-      "path": "Ciberseguridad/Cortex XDR/OPERATORS.md"
-    },
-    {
-      "basename": "Reglas de automatización",
-      "path": "Ciberseguridad/Cortex XDR/Reglas de automatización.md"
-    },
-    {
-      "basename": "Incidents",
-      "path": "Ciberseguridad/Cortex XDR/Incidents.md"
-    },
-    {
-      "basename": "Pestañas de vista avanzada",
-      "path": "Ciberseguridad/Cortex XDR/Pestañas de vista avanzada.md"
-    },
-    {
-      "basename": "Reglas de prevención personalizadas",
-      "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
     }
   ],
   "omittedPaths": [],

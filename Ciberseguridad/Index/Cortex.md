@@ -23,3 +23,6 @@
 21. [[Response Actions]]
 22. [[Threat Hunting Using Cortex XDR]]
 23. [[What's new]]
+24. [[Managed Threat Hunting]]
+25. [[Deployment Considerations]]
+26. [[External Data Collection]]

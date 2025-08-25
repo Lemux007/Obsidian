@@ -7,3 +7,4 @@
 6. [[Syslog]]
 7. [[Admon. Vulnerabilidades]]
 8. [[NAT]]
+9. [[Servicio de Directorio]]

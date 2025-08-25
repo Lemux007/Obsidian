@@ -1,3 +1,5 @@
+#Nodo
+
 Es una o el conjunto de aplicaciones que funcionan para el control de usuarios de alguna red así como para gestionar los recursos de red, y asi poder asignar acceso a los recursos de la red y los recursos compartidos.
 
 No es lo mismo que un repositorio de directorio, que es la base de datos que contiene los objetos que gestiona el servicio de directorio.

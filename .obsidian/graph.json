@@ -34,9 +34,16 @@
         "a": 1,
         "rgb": 16514836
       }
+    },
+    {
+      "query": "file:Configuration",
+      "color": {
+        "a": 1,
+        "rgb": 7078128
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1,
@@ -46,6 +53,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 148,
-  "scale": 0.16348370567223983,
-  "close": false
+  "scale": 0.6316046762909356,
+  "close": true
 }
