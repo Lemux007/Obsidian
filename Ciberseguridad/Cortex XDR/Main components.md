@@ -9,15 +9,15 @@ INSTANCIA DE CORTEX XDR (Entorno dedicado a cortex)
 
 4. Consola de administracion Cortex XDR: se usa para interactuar con la instancia. los usuarios tipicos son operadores SOC, analistas de soc e ingenieros de seguridad.
 	1. Investigar: Incidentes y alertas y responder a amenazas
-	2. Gestionar: Seguridad en los edp a traves de politicas y perfiles
-	4. Crear: actualizar agentes o crear paquetes de instalacion
-	5. Ver: paneles y generar informes
+	2. Gestionar: Seguridad en los edp a través de politicas y perfiles
+	3. Crear: actualizar agentes o crear paquetes de instalación
+	4. Ver: paneles y generar informes
 	   
 	   
-5. Administración de A2: autenticación y autorización necesarias para interactuar con las instancias de cortex XDR. Por ejemplo, para acceder a la instancia de administración de Cortex XDR.
-	1. Aplicaciones en la nube: Portal de atención al cliente, puerta de enlace cortex XDR, inicio de sesión único.
+5. Administración de A2: autenticación y autorización necesarias para interactuar con las instancias de Cortex XDR. Por ejemplo, para acceder a la instancia de administración de Cortex XDR.
+	1. Aplicaciones en la nube: Portal de atención al cliente, puerta de enlace Cortex XDR, inicio de sesión único.
 	   
-6. Portal de atencion al cliente: Los clientes de PAN pueden acceder al portal de soporte para realizar las tareas relacionadas con el producto, como crear un caso de soporte, registrar un dispositivo, administrar otros activos como licencias, descargar SW etc.
+6. Portal de atención al cliente: Los clientes de PAN pueden acceder al portal de soporte para realizar las tareas relacionadas con el producto, como crear un caso de soporte, registrar un dispositivo, administrar otros activos como licencias, descargar SW etc.
    
 7. Puerta de enlace Cortex XDR: Usada para administrar instancias, incluida la activacion de nuevas, visualizacion y el acceso a instancias a utorizadas.
 8. Inicio de sesion unico: El inicio de sesión único (SSO) proporciona un método de autenticación coherente para todas las aplicaciones en la nube, CSP, la puerta de enlace Cortex XDR y la consola de administración Cortex XDR de una instancia.
@@ -35,9 +35,9 @@ TRABAJAR CON UN AGENTE DE CORTEX XDR
 2. Agente de CORTEX XDR para hosts de kubernetes: Kubernetes es una plataforma de orquestacion de codigo abierto para automatizar las operaciones de contenedores de linux, como la implementacion, administracion y escalado de aplicaciones de contenedores
 	1. Comando para instalar el agente Cortex XDR dentro de Kubernetes **kubectl apply -f cortex-xdr.yaml**
 	   
-3. Instalacion y actualizaciones
-	1. Configuracion inicial: Cree un paquete de instalacion del agente en consola, mueva el paquete a los puntos finales.
-	2. Actualizacion de software del agente: Posible actualizar varios agentes desde la consola, se puede definir una implementacion diferida de la actualizacion automatica, Posible realizar seguimiento en el campo ESTADO de que actualizacion de agente fallo y crear acciones para uno o mas de los agentes con errores, Centro de actividades y registros de auditoria de agentes pueden realizar seguimiento de agentes fallidos.
+3. Instalación y actualizaciones
+	1. Configuración inicial: Cree un paquete de instalación del agente en consola, mueva el paquete a los puntos finales.
+	2. Actualización de software del agente: Posible actualizar varios agentes desde la consola, se puede definir una implementación diferida de la actualización automática, Posible realizar seguimiento en el campo ESTADO de que actualización de agente fallo y crear acciones para uno o mas de los agentes con errores, Centro de actividades y registros de auditoria de agentes pueden realizar seguimiento de agentes fallidos.
 	3. Actualizacion de contenido: Distinguir contenido de: actualizaciones dinamicas y actualizaciones de SW,  las actualizaciones de contenido contienen firmas nuevas y actualizadas, las actualizaciones de contenido se envian automaticamente a los agentes, la configuracion del contenido se puede retrasar de 1 a 30 dias.
 	   
 4. Actualizaciones de contenido: Las actualizaciones parciales permiten a los agentes recibir solo las nuevas incorporaciones y actualizaciones. Lista de posibles contenidos:
