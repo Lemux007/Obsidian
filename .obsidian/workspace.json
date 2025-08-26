@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Aprovisionamiento de Usuarios.md",
+                "file": "Ciberseguridad/Cortex XDR/Main components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aprovisionamiento de Usuarios"
+              "title": "Main components"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BIOC",
+                "query": "main",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,9 +256,14 @@
   },
   "active": "e33003f08bfa65b6",
   "lastOpenFiles": [
+    "Ciberseguridad/Enterprise Single Sign-On.md",
+    "Ciberseguridad/Cortex XDR/Main components.md",
+    "Ciberseguridad/Credits.md",
+    "Ciberseguridad/Cortex.md",
+    "Ciberseguridad/Certificado Digital.md",
+    "Ciberseguridad/Aprovisionamiento de Usuarios.md",
     "Ciberseguridad/Admon. Vulnerabilidades.md",
     "Ciberseguridad/Cortex XDR/Reglas de BIOC.md",
-    "Ciberseguridad/Cortex.md",
     "CompTia Networking +/ASIC.md",
     "Ciberseguridad/Cortex XDR/Live Terminal Broker VM.md",
     "Ciberseguridad/Index/Glosario.md",
@@ -276,11 +282,6 @@
     "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md",
     "Ciberseguridad/Servicio de Directorio.md",
     "Ciberseguridad/Index/Fundamentos.md",
-    "Ciberseguridad/Index/Tanium.md",
-    "Ciberseguridad/Service_Desk.md",
-    "Ciberseguridad/Index/Frameworks.md",
-    "Ciberseguridad/Zero Trust.md",
-    "Ciberseguridad/Redes.md",
     "Images/Pasted image 20250819154048.png",
     "Images/Pasted image 20250819154025.png",
     "Templates",

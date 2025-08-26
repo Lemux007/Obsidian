@@ -1,11 +1,11 @@
 #Nodo
 
 INSTANCIA DE CORTEX XDR (Entorno dedicado a cortex)
-	En general se crea una instancia de cortex xdr por inquilino o cliente, que puede ser una organizacion, empresa o equipo. por ejemplo una isntancia de cortex xdr se crea en google cloud plattform a traves de la activacion de instancias
+	En general se crea una instancia de cortex xdr por inquilino o cliente, que puede ser una organizacion, empresa o equipo. por ejemplo una instancia de cortex xdr se crea en google cloud plattform a traves de la activacion de instancias
 		Activacion de instancia y del inquilino hace referencia a la misma tarea
 1. Una instancia: Practica comun crear dos o mas instancia para separar los entornos de prueba y produccion.
 2. Activacion de instancias: Requiere de una licencia en forma de numero de serie, es una tarea unica que tarda hasta una hora, en la activacion se crean instancias de componentes de SW y se extienden en GoogleCP.
-3. Interacciones: Usuarios de cortex XDR pueden interactuar con sus instancias mediante la consola de administracion de Cortex XDR, la API de cortex XDR e integraciones externas.
+3. Interacciones: Usuarios de cortex XDR pueden interactuar con sus instancias mediante la consola de administracion de Cortex XDR, la API de Cortex XDR e integraciones externas.
 
 4. Consola de administracion Cortex XDR: se usa para interactuar con la instancia. los usuarios tipicos son operadores SOC, analistas de soc e ingenieros de seguridad.
 	1. Investigar: Incidentes y alertas y responder a amenazas
@@ -21,7 +21,6 @@ INSTANCIA DE CORTEX XDR (Entorno dedicado a cortex)
    
 7. Puerta de enlace Cortex XDR: Usada para administrar instancias, incluida la activacion de nuevas, visualizacion y el acceso a instancias a utorizadas.
 8. Inicio de sesion unico: El inicio de sesión único (SSO) proporciona un método de autenticación coherente para todas las aplicaciones en la nube, CSP, la puerta de enlace Cortex XDR y la consola de administración Cortex XDR de una instancia.
-
   
 
 La autenticación de dos factores se puede configurar por usuario de CSP. La autorización se gestiona a través del control de acceso basado en roles (RBAC) para los usuarios de CSP y los scripts externos mediante la API de Cortex XDR. En el caso de los scripts externos, la autenticación se proporciona mediante la generación de claves.
