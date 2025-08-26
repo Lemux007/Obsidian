@@ -50,14 +50,14 @@ TRABAJAR CON UN AGENTE DE CORTEX XDR
 	7. Bloquear los archivos listados por los firmantes.
 	8. Scripts de python proporcionados por Palo Alto Networks.
 	   
-5. Actualizaciones periodicas: Por defecto desactivadas. Cuando está activado, el agente de Cortex XDR recibe actualizaciones de contenido menores. De lo contrario, los agentes de Cortex XDR seguirán recibiendo actualizaciones de contenido para las versiones principales.
+5. Actualizaciones periódicas: Por defecto desactivadas. Cuando está activado, el agente de Cortex XDR recibe actualizaciones de contenido menores. De lo contrario, los agentes de Cortex XDR seguirán recibiendo actualizaciones de contenido para las versiones principales.
    
 6. Distribucion de agentes punto a punto: P2P
 	1. Difusion de agentes del mismo nivel: Cuando un agente XDR intenta recuperar uan nueva version, transmitira sus agentes pares en la misma subred dos veces, una en la primera hora y otra en las siguientes 5 hrs.
 	2. Descargar fuente: En configuracion/informacion general/fuente de descarga puede elegir la fuente de descarga de la que los agentes recuperan la actualizaciones: P2P, VM de brokers (si esta configurado), servidor de cortex XDR
 	   
 7. Comunicacion entre la instancia de cortex XDR y los agentes: Hay dos tipos de protocolo diferenes que usan XDR y agentes XDR para comunicarse:
-	1. Basado en HTTPS: Usado cuando el agente inicia la comunicacion para los casos, incluido el envio de un latido periodico o de los datos de preencion de alertas a la instancia de cortex XDR despues de un ataque.
-	2. Basado en WebSocket: Protocolo de comunicacion full duplex con estado que permite la comunicacion interactiva bidireccional entre una instancia XDR y agentes XDR.
+	1. Basado en HTTPS: Usado cuando el agente inicia la comunicación para los casos, incluido el envió de un latido periódico o de los datos de prevención de alertas a la instancia de cortex XDR después de un ataque.
+	2. Basado en WebSocket: Protocolo de comunicación full dúplex con estado que permite la comunicación interactiva bidireccional entre una instancia XDR y agentes XDR.
 
 ![[Pasted image 20250110135923.png]]

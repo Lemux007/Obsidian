@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "main",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,8 +255,8 @@
   },
   "active": "a0a191dd454b125b",
   "lastOpenFiles": [
-    "Ciberseguridad/Index/Cortex.md",
     "Ciberseguridad/Cortex XDR/Main components.md",
+    "Ciberseguridad/Index/Cortex.md",
     "Ciberseguridad/Enterprise Single Sign-On.md",
     "Ciberseguridad/Credits.md",
     "Ciberseguridad/Cortex.md",
