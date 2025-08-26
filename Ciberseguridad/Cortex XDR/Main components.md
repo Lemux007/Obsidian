@@ -1,9 +1,9 @@
 #Nodo
 
 INSTANCIA DE CORTEX XDR (Entorno dedicado a cortex)
-	En general se crea una instancia de cortex xdr por inquilino o cliente, que puede ser una organizacion, empresa o equipo. por ejemplo una instancia de cortex xdr se crea en google cloud plattform a traves de la activacion de instancias
-		Activacion de instancia y del inquilino hace referencia a la misma tarea
-1. Una instancia: Practica comun crear dos o mas instancia para separar los entornos de prueba y produccion.
+	En general se crea una instancia de cortex xdr por inquilino o cliente, que puede ser una organización, empresa o equipo. por ejemplo una instancia de cortex xdr se crea en Google cloud plattform a través de la activación de instancias
+		Activación de instancia y del inquilino hace referencia a la misma tarea
+1. Una instancia: Practica común crear dos o mas instancia para separar los entornos de prueba y produccion.
 2. Activacion de instancias: Requiere de una licencia en forma de numero de serie, es una tarea unica que tarda hasta una hora, en la activacion se crean instancias de componentes de SW y se extienden en GoogleCP.
 3. Interacciones: Usuarios de cortex XDR pueden interactuar con sus instancias mediante la consola de administracion de Cortex XDR, la API de Cortex XDR e integraciones externas.
 
@@ -15,7 +15,7 @@ INSTANCIA DE CORTEX XDR (Entorno dedicado a cortex)
 	   
 	   
 5. Administración de A2: autenticación y autorización necesarias para interactuar con las instancias de cortex XDR. Por ejemplo, para acceder a la instancia de administración de Cortex XDR.
-	1. Aplicaciones en la nube: Portal de atención al cliente, puerta de enlace cortex XDR, inicio de sesion unico.
+	1. Aplicaciones en la nube: Portal de atención al cliente, puerta de enlace cortex XDR, inicio de sesión único.
 	   
 6. Portal de atencion al cliente: Los clientes de PAN pueden acceder al portal de soporte para realizar las tareas relacionadas con el producto, como crear un caso de soporte, registrar un dispositivo, administrar otros activos como licencias, descargar SW etc.
    

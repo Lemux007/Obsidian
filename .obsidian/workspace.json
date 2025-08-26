@@ -201,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,7 +253,7 @@
       }
     ]
   },
-  "active": "a0a191dd454b125b",
+  "active": "e33003f08bfa65b6",
   "lastOpenFiles": [
     "Ciberseguridad/Cortex XDR/Main components.md",
     "Ciberseguridad/Index/Cortex.md",
