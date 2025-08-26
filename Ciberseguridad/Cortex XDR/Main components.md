@@ -14,8 +14,8 @@ INSTANCIA DE CORTEX XDR (Entorno dedicado a cortex)
 	5. Ver: paneles y generar informes
 	   
 	   
-5. Administracion de A2: autenticacion y autorizacion necesarias para interactuar con las instancias de cortex XDR. Por ejemplo, para acceder a la instancia de administracion de Cortex XDR.
-	1. Aplicaciones en la nube: Portal de atencion al cliente, puerta de enlace cortex XDR, inicio de sesion unico.
+5. Administración de A2: autenticación y autorización necesarias para interactuar con las instancias de cortex XDR. Por ejemplo, para acceder a la instancia de administración de Cortex XDR.
+	1. Aplicaciones en la nube: Portal de atención al cliente, puerta de enlace cortex XDR, inicio de sesion unico.
 	   
 6. Portal de atencion al cliente: Los clientes de PAN pueden acceder al portal de soporte para realizar las tareas relacionadas con el producto, como crear un caso de soporte, registrar un dispositivo, administrar otros activos como licencias, descargar SW etc.
    
