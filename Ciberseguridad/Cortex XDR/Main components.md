@@ -41,10 +41,10 @@ TRABAJAR CON UN AGENTE DE CORTEX XDR
 	3. Actualizacion de contenido: Distinguir contenido de: actualizaciones dinamicas y actualizaciones de SW,  las actualizaciones de contenido contienen firmas nuevas y actualizadas, las actualizaciones de contenido se envian automaticamente a los agentes, la configuracion del contenido se puede retrasar de 1 a 30 dias.
 	   
 4. Actualizaciones de contenido: Las actualizaciones parciales permiten a los agentes recibir solo las nuevas incorporaciones y actualizaciones. Lista de posibles contenidos:
-	1. Configuracion en los perfiles predeterminados
-	2. Modelos y reglas de analisis local
+	1. Configuración en los perfiles predeterminados
+	2. Modelos y reglas de análisis local
 	3. Listas de procesos protegidos de forma predeterminada
-	4. Reglas de protecion contra amenazas conductuales
+	4. Reglas de protección contra amenazas conductuales
 	5. Listas de firmantes conocidos de confianza
 	6. Scripts utilizados por los agentes
 	7. Bloquear los archivos listados por los firmantes

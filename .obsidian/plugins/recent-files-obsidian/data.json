@@ -5,6 +5,10 @@
       "path": "Ciberseguridad/Cortex XDR/Main components.md"
     },
     {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Index/Cortex.md"
+    },
+    {
       "basename": "Enterprise Single Sign-On",
       "path": "Ciberseguridad/Enterprise Single Sign-On.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Glosario",
       "path": "Ciberseguridad/Index/Glosario.md"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Ciberseguridad/Index/Cortex.md"
     },
     {
       "basename": "Motor de análisis",
