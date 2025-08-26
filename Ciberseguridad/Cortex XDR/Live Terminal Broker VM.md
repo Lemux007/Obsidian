@@ -1,2 +1,3 @@
-#Nodo
+#subnodo
+
 Conexión de terminal en vivo broker vm: Puede acceder a la linea de comandos del broker directamente desde la consola de gestión de Cortex XDR. puede utilizar la linea de comandos de broker VM para hacer cosas como acceder a los registros broker VM; realizar manipulaciones de archivos, reiniciar, detener y comprobar el estado de los applets; iniciar, detener y comprobar el estado de los servicios internos del broker VM; restablecer la contraseña de la interfaz de usuario web de la maquina virtual del agente; y usar comandos estándar de linux, como comandos, para capturar el trafico de red.

@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Aprovisionamiento de Usuarios",
+      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
+    },
+    {
+      "basename": "Admon. Vulnerabilidades",
+      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
+    },
+    {
       "basename": "Reglas de BIOC",
       "path": "Ciberseguridad/Cortex XDR/Reglas de BIOC.md"
     },
     {
       "basename": "Cortex",
       "path": "Ciberseguridad/Cortex.md"
+    },
+    {
+      "basename": "ASIC",
+      "path": "CompTia Networking +/ASIC.md"
+    },
+    {
+      "basename": "Live Terminal Broker VM",
+      "path": "Ciberseguridad/Cortex XDR/Live Terminal Broker VM.md"
+    },
+    {
+      "basename": "Glosario",
+      "path": "Ciberseguridad/Index/Glosario.md"
     },
     {
       "basename": "Cortex",
@@ -109,10 +129,6 @@
       "path": "Ciberseguridad/Index/XQL.md"
     },
     {
-      "basename": "Aprovisionamiento de Usuarios",
-      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
-    },
-    {
       "basename": "XQL Building blocks",
       "path": "Ciberseguridad/Cortex XDR/XQL Building blocks.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Caza orientada a la técnica",
       "path": "Ciberseguridad/Cortex XDR/Caza orientada a la técnica.md"
-    },
-    {
-      "basename": "Metodologías de búsqueda de amenazas",
-      "path": "Ciberseguridad/Cortex XDR/Metodologías de búsqueda de amenazas.md"
-    },
-    {
-      "basename": "Técnicas de Protección",
-      "path": "Ciberseguridad/Cortex XDR/Técnicas de Protección.md"
-    },
-    {
-      "basename": "Técnicas de Explotación",
-      "path": "Ciberseguridad/Cortex XDR/Técnicas de Explotación.md"
-    },
-    {
-      "basename": "Syntax Basics",
-      "path": "Ciberseguridad/Cortex XDR/Syntax Basics.md"
     }
   ],
   "omittedPaths": [],
