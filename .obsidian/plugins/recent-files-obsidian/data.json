@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "OSI Model",
+      "path": "CompTia Networking +/Fase 1/OSI Model.md"
+    },
+    {
+      "basename": "Drawing 2025-08-28 10.43.24.excalidraw",
+      "path": "Excalidraw/Drawing 2025-08-28 10.43.24.excalidraw.md"
+    },
+    {
       "basename": "Switch",
       "path": "CompTia Networking +/Fase 1/Switch.md"
+    },
+    {
+      "basename": "ASIC",
+      "path": "CompTia Networking +/Fase 1/ASIC.md"
     },
     {
       "basename": "Router",
@@ -59,10 +71,6 @@
     {
       "basename": "Reglas de BIOC",
       "path": "Ciberseguridad/Cortex XDR/Reglas de BIOC.md"
-    },
-    {
-      "basename": "ASIC",
-      "path": "CompTia Networking +/Fase 1/ASIC.md"
     },
     {
       "basename": "Live Terminal Broker VM",
@@ -191,14 +199,6 @@
     {
       "basename": "Campos y variables JSON",
       "path": "Ciberseguridad/Cortex XDR/Campos y variables JSON.md"
-    },
-    {
-      "basename": "What's new",
-      "path": "Ciberseguridad/Cortex XDR/What's new.md"
-    },
-    {
-      "basename": "Trabajar con Incidentes",
-      "path": "Ciberseguridad/Cortex XDR/Trabajar con Incidentes.md"
     }
   ],
   "omittedPaths": [],
