@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Layer 2 Data Link",
-      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
+      "basename": "Diagrama OSI Model",
+      "path": "Excalidraw/Diagrama OSI Model.md"
     },
     {
       "basename": "OSI Model",
@@ -13,12 +13,16 @@
       "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
     },
     {
-      "basename": "Switch",
-      "path": "CompTia Networking +/Fase 1/Switch.md"
+      "basename": "Layer 2 Data Link",
+      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
     },
     {
-      "basename": "OSI Model",
-      "path": "Excalidraw/OSI Model.md"
+      "basename": "Layer 3 Network",
+      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
+    },
+    {
+      "basename": "Switch",
+      "path": "CompTia Networking +/Fase 1/Switch.md"
     },
     {
       "basename": "Fase 1",
@@ -195,10 +199,6 @@
     {
       "basename": "Configuration",
       "path": "Configuration.md"
-    },
-    {
-      "basename": "Working with JSON Objects",
-      "path": "Ciberseguridad/Cortex XDR/Working with JSON Objects.md"
     }
   ],
   "omittedPaths": [],
