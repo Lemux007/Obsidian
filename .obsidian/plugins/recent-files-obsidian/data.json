@@ -5,6 +5,18 @@
       "path": "CompTia Networking +/Fase 1/OSI Model.md"
     },
     {
+      "basename": "Layer 2 Data Link",
+      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
+    },
+    {
+      "basename": "Layer 1 Physical",
+      "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
+    },
+    {
+      "basename": "Switch",
+      "path": "CompTia Networking +/Fase 1/Switch.md"
+    },
+    {
       "basename": "OSI Model",
       "path": "Excalidraw/OSI Model.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Drawing 2025-08-28 10.43.24.excalidraw",
       "path": "Excalidraw/Drawing 2025-08-28 10.43.24.excalidraw.md"
-    },
-    {
-      "basename": "Switch",
-      "path": "CompTia Networking +/Fase 1/Switch.md"
     },
     {
       "basename": "ASIC",
@@ -191,14 +199,6 @@
     {
       "basename": "Working with JSON Objects",
       "path": "Ciberseguridad/Cortex XDR/Working with JSON Objects.md"
-    },
-    {
-      "basename": "Acceso a JSON mediante el formato sugar sintáctico",
-      "path": "Ciberseguridad/Cortex XDR/Acceso a JSON mediante el formato sugar sintáctico.md"
-    },
-    {
-      "basename": "Accesing JSON using extra functions",
-      "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
     }
   ],
   "omittedPaths": [],

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTia Networking +/Fase 1/OSI Model.md",
+                "file": "CompTia Networking +/Fase 1/Layer 2 Data Link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI Model"
+              "title": "Layer 2 Data Link"
             }
           }
         ]
@@ -98,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -262,20 +263,22 @@
         "y": 176,
         "width": 816,
         "height": 688,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "e33003f08bfa65b6",
+  "active": "3d2aacc59387298f",
   "lastOpenFiles": [
+    "CompTia Networking +/Fase 1/OSI Model.md",
+    "CompTia Networking +/Fase 1/Layer 2 Data Link.md",
+    "CompTia Networking +/Fase 1/Layer 1 Physical.md",
+    "CompTia Networking +/Fase 1/Switch.md",
     "Pasted image 20250828105206.png",
     "Excalidraw/OSI Model.md",
-    "CompTia Networking +/Fase 1/OSI Model.md",
     "CompTia Networking +/Fase 1/Fase 1.md",
     "Excalidraw/Drawing 2025-08-28 10.43.24.excalidraw.md",
     "Sin título.canvas",
-    "CompTia Networking +/Fase 1/Switch.md",
     "CompTia Networking +/Fase 1/ASIC.md",
     "CompTia Networking +/Fase 1/Router.md",
     "CompTia Networking +/Fase 1/Network Devices.md",
@@ -296,7 +299,6 @@
     "Ciberseguridad/Cortex XDR/Motor de análisis.md",
     "Ciberseguridad/Cortex XDR/External Data Collection.md",
     "Ciberseguridad/Cortex XDR/Gestion de conjunto de datos.md",
-    "Ciberseguridad/Cortex XDR/Cortex XDR Ingestion flow.md",
     "Images/Pasted image 20250819154048.png",
     "Images/Pasted image 20250819154025.png",
     "Templates",
@@ -311,7 +313,6 @@
     "Images/Pasted image 20241213101313.png",
     "Images/Pasted image 20241213101113.png",
     "Images/Pasted image 20241213095639.png",
-    "Images/Pasted image 20241213092559.png",
     "Images/desktop.ini",
     "Ciberseguridad/Cortex XDR",
     "Excalidraw",

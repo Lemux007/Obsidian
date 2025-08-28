@@ -7,5 +7,7 @@ Operan mayormente en Hardware, por medio de un [[ASIC]](Application Specifc Inte
 
 Puede ser un switch capa 3 (Network) si incluye alguna funcionalidad tipo router.
 
+Cuando un dispositivo envía paquetes de datos al switch este relaciona su [[MAC]] addresses con el puerto en el que lo esta enviando, por lo que si alguien envía paquetes a este mismo dispositivo con su [[MAC]] addresses el switch lo manda al puerto que tiene guardado en su tabla, en el caso que no tenga registro de el destinatario genera flooding o inunda todos los puertos (menos el de entrada).
+
 
 
