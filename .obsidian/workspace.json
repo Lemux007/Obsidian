@@ -223,15 +223,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "aa4094fe01fc604d",
+        "id": "c212576068080150",
         "type": "window",
         "children": [
           {
-            "id": "f89fecf8f1f566f5",
+            "id": "ec19c231bb68fea8",
             "type": "tabs",
             "children": [
               {
-                "id": "a0a191dd454b125b",
+                "id": "3d2aacc59387298f",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -244,16 +244,16 @@
           }
         ],
         "direction": "vertical",
-        "x": -1652,
-        "y": 210,
-        "width": 1366,
+        "x": 585,
+        "y": 21,
+        "width": 816,
         "height": 688,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "e33003f08bfa65b6",
+  "active": "3d2aacc59387298f",
   "lastOpenFiles": [
     "Ciberseguridad/Cortex XDR/Main components.md",
     "Ciberseguridad/Index/Cortex.md",

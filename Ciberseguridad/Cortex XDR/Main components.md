@@ -4,7 +4,7 @@ INSTANCIA DE CORTEX XDR (Entorno dedicado a cortex)
 	En general se crea una instancia de cortex xdr por inquilino o cliente, que puede ser una organización, empresa o equipo. por ejemplo una instancia de cortex xdr se crea en Google cloud plattform a través de la activación de instancias
 		Activación de instancia y del inquilino hace referencia a la misma tarea
 1. Una instancia: Practica común crear dos o mas instancia para separar los entornos de prueba y produccion.
-2. Activacion de instancias: Requiere de una licencia en forma de numero de serie, es una tarea unica que tarda hasta una hora, en la activacion se crean instancias de componentes de SW y se extienden en GoogleCP.
+2. Activacion de instancias: Requiere de una licencia en forma de numero de serie, es una tarea unica que tarda hasta una hora, en la activación se crean instancias de componentes de SW y se extienden en GoogleCP.
 3. Interacciones: Usuarios de cortex XDR pueden interactuar con sus instancias mediante la consola de administracion de Cortex XDR, la API de Cortex XDR e integraciones externas.
 
 4. Consola de administracion Cortex XDR: se usa para interactuar con la instancia. los usuarios tipicos son operadores SOC, analistas de soc e ingenieros de seguridad.
