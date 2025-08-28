@@ -5,6 +5,14 @@
       "path": "CompTia Networking +/Fase 1/OSI Model.md"
     },
     {
+      "basename": "OSI Model",
+      "path": "Excalidraw/OSI Model.md"
+    },
+    {
+      "basename": "Fase 1",
+      "path": "CompTia Networking +/Fase 1/Fase 1.md"
+    },
+    {
       "basename": "Drawing 2025-08-28 10.43.24.excalidraw",
       "path": "Excalidraw/Drawing 2025-08-28 10.43.24.excalidraw.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "MAC",
       "path": "CompTia Networking +/Fase 1/MAC.md"
-    },
-    {
-      "basename": "Fase 1",
-      "path": "CompTia Networking +/Fase 1/Fase 1.md"
     },
     {
       "basename": "Index CompTia Network +",
@@ -195,10 +199,6 @@
     {
       "basename": "Accesing JSON using extra functions",
       "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
-    },
-    {
-      "basename": "Campos y variables JSON",
-      "path": "Ciberseguridad/Cortex XDR/Campos y variables JSON.md"
     }
   ],
   "omittedPaths": [],

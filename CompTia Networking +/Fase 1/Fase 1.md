@@ -1,4 +1,4 @@
 #subindex 
 
-1. [[OSI Model]]
+1. [[CompTia Networking +/Fase 1/OSI Model]]
 2. [[Network Devices]]
