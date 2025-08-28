@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Switch",
+      "path": "CompTia Networking +/Fase 1/Switch.md"
+    },
+    {
+      "basename": "Router",
+      "path": "CompTia Networking +/Fase 1/Router.md"
+    },
+    {
+      "basename": "Network Devices",
+      "path": "CompTia Networking +/Fase 1/Network Devices.md"
+    },
+    {
+      "basename": "MAC",
+      "path": "CompTia Networking +/Fase 1/MAC.md"
+    },
+    {
+      "basename": "Fase 1",
+      "path": "CompTia Networking +/Fase 1/Fase 1.md"
+    },
+    {
+      "basename": "Index CompTia Network +",
+      "path": "CompTia Networking +/Index CompTia Network +.md"
+    },
+    {
       "basename": "Main components",
       "path": "Ciberseguridad/Cortex XDR/Main components.md"
     },
@@ -38,7 +62,7 @@
     },
     {
       "basename": "ASIC",
-      "path": "CompTia Networking +/ASIC.md"
+      "path": "CompTia Networking +/Fase 1/ASIC.md"
     },
     {
       "basename": "Live Terminal Broker VM",
@@ -175,30 +199,6 @@
     {
       "basename": "Trabajar con Incidentes",
       "path": "Ciberseguridad/Cortex XDR/Trabajar con Incidentes.md"
-    },
-    {
-      "basename": "Uso de las funciones XQL en consultas",
-      "path": "Ciberseguridad/Cortex XDR/Uso de las funciones XQL en consultas.md"
-    },
-    {
-      "basename": "Tipos de Union",
-      "path": "Ciberseguridad/Cortex XDR/Tipos de Union.md"
-    },
-    {
-      "basename": "Tipos de datos en la etapa de filtro",
-      "path": "Ciberseguridad/Cortex XDR/Tipos de datos en la etapa de filtro.md"
-    },
-    {
-      "basename": "Tipos de datos en asignaciones de fases de alteración",
-      "path": "Ciberseguridad/Cortex XDR/Tipos de datos en asignaciones de fases de alteración.md"
-    },
-    {
-      "basename": "Tipo de datos",
-      "path": "Ciberseguridad/Cortex XDR/Tipo de datos.md"
-    },
-    {
-      "basename": "Campos multivalor",
-      "path": "Ciberseguridad/Cortex XDR/Campos multivalor.md"
     }
   ],
   "omittedPaths": [],
