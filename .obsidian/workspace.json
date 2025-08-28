@@ -35,7 +35,8 @@
               "title": "Layer 2 Data Link"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +99,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,8 +270,8 @@
   },
   "active": "3d2aacc59387298f",
   "lastOpenFiles": [
-    "CompTia Networking +/Fase 1/OSI Model.md",
     "CompTia Networking +/Fase 1/Layer 2 Data Link.md",
+    "CompTia Networking +/Fase 1/OSI Model.md",
     "CompTia Networking +/Fase 1/Layer 1 Physical.md",
     "CompTia Networking +/Fase 1/Switch.md",
     "Pasted image 20250828105206.png",
