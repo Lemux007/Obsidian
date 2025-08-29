@@ -1,12 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Diagrama OSI Model",
-      "path": "Excalidraw/Diagrama OSI Model.md"
+      "basename": "Adición de una regla BIOC",
+      "path": "Ciberseguridad/Cortex XDR/Adición de una regla BIOC.md"
+    },
+    {
+      "basename": "Activar applets de maquina virtual de VM de bróker",
+      "path": "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md"
+    },
+    {
+      "basename": "Activación de instancias de Cortex XDR",
+      "path": "Ciberseguridad/Cortex XDR/Activación de instancias de Cortex XDR.md"
+    },
+    {
+      "basename": "Acciones de respuesta de endpoints",
+      "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
+    },
+    {
+      "basename": "Acceso a JSON mediante el formato sugar sintáctico",
+      "path": "Ciberseguridad/Cortex XDR/Acceso a JSON mediante el formato sugar sintáctico.md"
+    },
+    {
+      "basename": "Accesing JSON using extra functions",
+      "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
+    },
+    {
+      "basename": "VLAN",
+      "path": "Ciberseguridad/VLAN.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "Ciberseguridad/Proxy.md"
+    },
+    {
+      "basename": "MITRE ATT&CK",
+      "path": "Ciberseguridad/MITRE ATT&CK.md"
+    },
+    {
+      "basename": "HouseCall",
+      "path": "Ciberseguridad/HouseCall.md"
+    },
+    {
+      "basename": "Credits",
+      "path": "Ciberseguridad/Credits.md"
+    },
+    {
+      "basename": "Certificado Digital",
+      "path": "Ciberseguridad/Certificado Digital.md"
+    },
+    {
+      "basename": "Attack Index",
+      "path": "Ciberseguridad/Attack Index.md"
+    },
+    {
+      "basename": "Aprovisionamiento de Usuarios",
+      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
+    },
+    {
+      "basename": "Admon. Vulnerabilidades",
+      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
+    },
+    {
+      "basename": "Layer 4 Transport",
+      "path": "CompTia Networking +/Fase 1/Layer 4 Transport.md"
+    },
+    {
+      "basename": "Layer 3 Network",
+      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
     },
     {
       "basename": "OSI Model",
       "path": "CompTia Networking +/Fase 1/OSI Model.md"
+    },
+    {
+      "basename": "Switch",
+      "path": "CompTia Networking +/Fase 1/Switch.md"
+    },
+    {
+      "basename": "Router",
+      "path": "CompTia Networking +/Fase 1/Router.md"
+    },
+    {
+      "basename": "Diagrama OSI Model",
+      "path": "Excalidraw/Diagrama OSI Model.md"
     },
     {
       "basename": "Layer 1 Physical",
@@ -15,14 +91,6 @@
     {
       "basename": "Layer 2 Data Link",
       "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
-    },
-    {
-      "basename": "Layer 3 Network",
-      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
-    },
-    {
-      "basename": "Switch",
-      "path": "CompTia Networking +/Fase 1/Switch.md"
     },
     {
       "basename": "Fase 1",
@@ -35,10 +103,6 @@
     {
       "basename": "ASIC",
       "path": "CompTia Networking +/Fase 1/ASIC.md"
-    },
-    {
-      "basename": "Router",
-      "path": "CompTia Networking +/Fase 1/Router.md"
     },
     {
       "basename": "Network Devices",
@@ -65,24 +129,8 @@
       "path": "Ciberseguridad/Enterprise Single Sign-On.md"
     },
     {
-      "basename": "Credits",
-      "path": "Ciberseguridad/Credits.md"
-    },
-    {
       "basename": "Cortex",
       "path": "Ciberseguridad/Cortex.md"
-    },
-    {
-      "basename": "Certificado Digital",
-      "path": "Ciberseguridad/Certificado Digital.md"
-    },
-    {
-      "basename": "Aprovisionamiento de Usuarios",
-      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
-    },
-    {
-      "basename": "Admon. Vulnerabilidades",
-      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
     },
     {
       "basename": "Reglas de BIOC",
@@ -121,10 +169,6 @@
       "path": "Ciberseguridad/Cortex XDR/Control de acceso.md"
     },
     {
-      "basename": "Activación de instancias de Cortex XDR",
-      "path": "Ciberseguridad/Cortex XDR/Activación de instancias de Cortex XDR.md"
-    },
-    {
       "basename": "Servicios de infraestructura de Cortex",
       "path": "Ciberseguridad/Cortex XDR/Servicios de infraestructura de Cortex.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Frameworks",
       "path": "Ciberseguridad/Index/Frameworks.md"
-    },
-    {
-      "basename": "Zero Trust",
-      "path": "Ciberseguridad/Zero Trust.md"
-    },
-    {
-      "basename": "Troubleshooting",
-      "path": "Ciberseguridad/Index/Troubleshooting.md"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
-      "basename": "PAN",
-      "path": "Ciberseguridad/Index/PAN.md"
-    },
-    {
-      "basename": "Levantamiento Servidor Y VM_PanOS",
-      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "Troubleshooting/VPN.md"
-    },
-    {
-      "basename": "Creación VPN",
-      "path": "Troubleshooting/Creación VPN.md"
-    },
-    {
-      "basename": "Firewall",
-      "path": "Ciberseguridad/Firewall.md"
-    },
-    {
-      "basename": "XQL",
-      "path": "Ciberseguridad/Index/XQL.md"
-    },
-    {
-      "basename": "XQL Building blocks",
-      "path": "Ciberseguridad/Cortex XDR/XQL Building blocks.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     }
   ],
   "omittedPaths": [],
