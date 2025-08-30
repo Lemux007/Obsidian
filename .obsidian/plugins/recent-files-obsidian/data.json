@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20250828105206",
+      "path": "Images/Pasted image 20250828105206.png"
+    },
+    {
       "basename": "XQL",
       "path": "Ciberseguridad/Index/XQL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Deployment Considerations",
       "path": "Ciberseguridad/Cortex XDR/Deployment Considerations.md"
-    },
-    {
-      "basename": "Cortex XDR Overview",
-      "path": "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md"
     }
   ],
   "omittedPaths": [],

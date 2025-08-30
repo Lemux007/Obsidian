@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21b4582c5dd91a74",
+        "id": "58c7c1ad77fe53f5",
         "type": "tabs",
         "children": [
           {
-            "id": "093ab938246fc486",
+            "id": "6b7d8b4d34e8578d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -80,8 +80,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,8 +215,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "093ab938246fc486",
+  "active": "6b7d8b4d34e8578d",
   "lastOpenFiles": [
+    "Images/Pasted image 20250828105206.png",
     "Ciberseguridad/Index/XQL.md",
     "Templates/Subnodo.md",
     "Templates/Subindex.md",
@@ -245,7 +245,6 @@
     "Ciberseguridad/Cortex XDR/Live Terminal Broker VM.md",
     "Ciberseguridad/Cortex XDR/Join stage basics.md",
     "Ciberseguridad/Cortex XDR/Instancia de Cortex XDR.md",
-    "Ciberseguridad/Cortex XDR/Gestión de reglas de automatización.md",
     "Excalidraw",
     "CompTia Networking +",
     "Troubleshooting/Untitled",
