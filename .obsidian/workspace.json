@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00a289a6173089b3",
+        "id": "7337d924f6928c06",
         "type": "tabs",
         "children": [
           {
-            "id": "e33003f08bfa65b6",
+            "id": "6b7a1c6bc5025e3d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -218,8 +218,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e33003f08bfa65b6",
+  "active": "f57143b7aba96585",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Ciberseguridad/Index/PAN.md",
     "Ciberseguridad/Cortex.md",
     "Ciberseguridad/Index/Certificaciones.md",
@@ -255,7 +256,6 @@
     "Ciberseguridad/Index/Trend Campus Foundation.md",
     "CompTia Networking +/Fase 1/Layer 1 Physical.md",
     "Ciberseguridad/Index/Cortex.md",
-    "CompTia Networking +/Fase 1/Layer 4 Transport.md",
     "Media/Pasted image 20250828105206.png",
     "Media/Pasted image 20250901121459.png",
     "Images/Pasted image 20250901120804.png",
