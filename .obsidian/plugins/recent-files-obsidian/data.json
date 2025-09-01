@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
-    },
-    {
       "basename": "PAN",
       "path": "Ciberseguridad/Index/PAN.md"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
     },
     {
       "basename": "Trend Micro Certificaciones",
@@ -195,10 +195,6 @@
     {
       "basename": "Attack Index",
       "path": "Ciberseguridad/Attack Index.md"
-    },
-    {
-      "basename": "Aprovisionamiento de Usuarios",
-      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
     }
   ],
   "omittedPaths": [],
