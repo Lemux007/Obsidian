@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "Pasted image 20250828105206",
+      "path": "Images/Pasted image 20250828105206.png"
+    },
+    {
+      "basename": "Pasted image 20250901121459",
+      "path": "Images/Pasted image 20250901121459.png"
+    },
+    {
       "basename": "Adición de una regla BIOC",
       "path": "Ciberseguridad/Cortex XDR/Adición de una regla BIOC.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Descripción general de managed Threat Hunting",
       "path": "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md"
-    },
-    {
-      "basename": "Servicio de Directorio",
-      "path": "Ciberseguridad/Servicio de Directorio.md"
-    },
-    {
-      "basename": "Fundamentos",
-      "path": "Ciberseguridad/Index/Fundamentos.md"
-    },
-    {
-      "basename": "Frameworks",
-      "path": "Ciberseguridad/Index/Frameworks.md"
     }
   ],
   "omittedPaths": [],
