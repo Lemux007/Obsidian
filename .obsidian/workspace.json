@@ -11,10 +11,14 @@
             "id": "e33003f08bfa65b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -214,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3139ebbbf901fd0d",
+  "active": "e33003f08bfa65b6",
   "lastOpenFiles": [
     "Ciberseguridad/Index/PAN.md",
     "Ciberseguridad/Cortex.md",
