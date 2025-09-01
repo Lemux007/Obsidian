@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
+      "basename": "Layer 1 Physical",
+      "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
+    },
+    {
+      "basename": "PAN",
+      "path": "Ciberseguridad/Index/PAN.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Index/Cortex.md"
+    },
+    {
+      "basename": "Layer 4 Transport",
+      "path": "CompTia Networking +/Fase 1/Layer 4 Transport.md"
+    },
+    {
+      "basename": "MAC",
+      "path": "CompTia Networking +/Fase 1/MAC.md"
+    },
+    {
+      "basename": "Layer 3 Network",
+      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
+    },
+    {
+      "basename": "Layer 2 Data Link",
+      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
+    },
+    {
+      "basename": "OSI Model",
+      "path": "CompTia Networking +/Fase 1/OSI Model.md"
+    },
+    {
+      "basename": "Network Devices",
+      "path": "CompTia Networking +/Fase 1/Network Devices.md"
+    },
+    {
+      "basename": "Fase 1",
+      "path": "CompTia Networking +/Fase 1/Fase 1.md"
+    },
+    {
+      "basename": "ASIC",
+      "path": "CompTia Networking +/Fase 1/ASIC.md"
+    },
+    {
+      "basename": "Index CompTia Network +",
+      "path": "CompTia Networking +/Index CompTia Network +.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
     {
       "basename": "Pasted image 20250828105206",
-      "path": "Images/Pasted image 20250828105206.png"
+      "path": "Media/Pasted image 20250828105206.png"
     },
     {
       "basename": "Pasted image 20250901121459",
-      "path": "Images/Pasted image 20250901121459.png"
+      "path": "Media/Pasted image 20250901121459.png"
     },
     {
       "basename": "Adición de una regla BIOC",
@@ -73,18 +125,6 @@
       "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
     },
     {
-      "basename": "Layer 4 Transport",
-      "path": "CompTia Networking +/Fase 1/Layer 4 Transport.md"
-    },
-    {
-      "basename": "Layer 3 Network",
-      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
-    },
-    {
-      "basename": "OSI Model",
-      "path": "CompTia Networking +/Fase 1/OSI Model.md"
-    },
-    {
       "basename": "Switch",
       "path": "CompTia Networking +/Fase 1/Switch.md"
     },
@@ -97,44 +137,12 @@
       "path": "Excalidraw/Diagrama OSI Model.md"
     },
     {
-      "basename": "Layer 1 Physical",
-      "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
-    },
-    {
-      "basename": "Layer 2 Data Link",
-      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
-    },
-    {
-      "basename": "Fase 1",
-      "path": "CompTia Networking +/Fase 1/Fase 1.md"
-    },
-    {
       "basename": "Drawing 2025-08-28 10.43.24.excalidraw",
       "path": "Excalidraw/Drawing 2025-08-28 10.43.24.excalidraw.md"
     },
     {
-      "basename": "ASIC",
-      "path": "CompTia Networking +/Fase 1/ASIC.md"
-    },
-    {
-      "basename": "Network Devices",
-      "path": "CompTia Networking +/Fase 1/Network Devices.md"
-    },
-    {
-      "basename": "MAC",
-      "path": "CompTia Networking +/Fase 1/MAC.md"
-    },
-    {
-      "basename": "Index CompTia Network +",
-      "path": "CompTia Networking +/Index CompTia Network +.md"
-    },
-    {
       "basename": "Main components",
       "path": "Ciberseguridad/Cortex XDR/Main components.md"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Ciberseguridad/Index/Cortex.md"
     },
     {
       "basename": "Enterprise Single Sign-On",
@@ -191,14 +199,6 @@
     {
       "basename": "Managed Threat Hunting",
       "path": "Ciberseguridad/Cortex XDR/Managed Threat Hunting.md"
-    },
-    {
-      "basename": "Proceso de Evaluación",
-      "path": "Ciberseguridad/Cortex XDR/Proceso de Evaluación.md"
-    },
-    {
-      "basename": "Descripción general de managed Threat Hunting",
-      "path": "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md"
     }
   ],
   "omittedPaths": [],
