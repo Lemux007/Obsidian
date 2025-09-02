@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "PAN",
-      "path": "Ciberseguridad/Index/PAN.md"
+      "basename": "Cortex Foundations - The Learning Center",
+      "path": "Ciberseguridad/Index/Cortex Foundations - The Learning Center.md"
+    },
+    {
+      "basename": "Introduction to SecOps",
+      "path": "Ciberseguridad/Index/Introduction to SecOps.md"
+    },
+    {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/Index/PAN Certificaciones.md"
     },
     {
       "basename": "Certificaciones",
       "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
+      "basename": "PAN",
+      "path": "Ciberseguridad/Index/PAN.md"
     },
     {
       "basename": "Trend Micro Certificaciones",
@@ -15,14 +27,6 @@
     {
       "basename": "Tanium Certificaciones",
       "path": "Ciberseguridad/Index/Tanium Certificaciones.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/Index/PAN Certificaciones.md"
-    },
-    {
-      "basename": "Introduction to SecOps",
-      "path": "Ciberseguridad/Index/Introduction to SecOps.md"
     },
     {
       "basename": "Working with Tanium Core",

@@ -4,7 +4,9 @@
 - [[Certified XDR Engineer]]
 - [[Certified XSOAR Engineer]]
 - [[Certified XSIAM Analyst / Engineer]]
-- [[Introduction to SecOps]]
+- [[Cortex XDR Features - The Learning Center]]
+- [[Palo Alto Networks Certified XDR Analyst - The Learning Center]]
+- [[Cortex Foundations - The Learning Center]]
 
 ### Prisma
 - [[Certified SSE (Prisma Access) Engineer]]
