@@ -5,59 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#index  ",
-      "color": {
-        "a": 1,
-        "rgb": 15728640
-      }
-    },
-    {
-      "query": "tag:#subindex",
-      "color": {
-        "a": 1,
-        "rgb": 16740884
-      }
-    },
-    {
-      "query": "tag:#Nodo  ",
-      "color": {
-        "a": 1,
-        "rgb": 1179392
-      }
-    },
-    {
-      "query": "tag:#subnodo  ",
-      "color": {
-        "a": 1,
-        "rgb": 16514836
-      }
-    },
-    {
-      "query": "file:Configuration",
-      "color": {
-        "a": 1,
-        "rgb": 7078128
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.3203125,
-  "repelStrength": 10.0520833333333,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-<<<<<<< HEAD
-  "linkDistance": 168,
-  "scale": 0.28710824750441805,
-=======
-  "linkDistance": 123,
-  "scale": 0.28710824750439284,
->>>>>>> origin/main
+  "linkDistance": 250,
+  "scale": 0.3628873693012124,
   "close": true
 }
