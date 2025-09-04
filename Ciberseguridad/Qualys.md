@@ -12,4 +12,4 @@ Building blocks:
 			- VM(Public-Private Cloud, Vmware, Hyper-V,Citrix)
 		- Qualys Cloud Connector
 			- Public Cloud - AWS,Azure,GCP & Oracle
-			- 
+
