@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Error de conexión",
+      "path": "Troubleshooting/Error de conexión.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
+      "basename": "Troubleshooting",
+      "path": "Ciberseguridad/Index/Troubleshooting.md"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
@@ -25,24 +45,12 @@
       "path": "Ciberseguridad/Tanium Cloud Deployment.md"
     },
     {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
       "basename": "Credenciales invalidas",
       "path": "Troubleshooting/Credenciales invalidas.md"
     },
     {
-      "basename": "VPN",
-      "path": "Troubleshooting/VPN.md"
-    },
-    {
       "basename": "Dos contraseñas para inicio de sesion",
       "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
-    },
-    {
-      "basename": "Troubleshooting",
-      "path": "Ciberseguridad/Index/Troubleshooting.md"
     },
     {
       "basename": "Introduction to SecOps",
@@ -59,10 +67,6 @@
     {
       "basename": "PAN Certificaciones",
       "path": "Ciberseguridad/PAN Certificaciones.md"
-    },
-    {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
     },
     {
       "basename": "PAN",
@@ -195,10 +199,6 @@
     {
       "basename": "Activación de instancias de Cortex XDR",
       "path": "Ciberseguridad/Cortex XDR/Activación de instancias de Cortex XDR.md"
-    },
-    {
-      "basename": "Acciones de respuesta de endpoints",
-      "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
     }
   ],
   "omittedPaths": [],
