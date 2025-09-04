@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Troubleshooting",
+      "path": "Ciberseguridad/Index/Troubleshooting.md"
+    },
+    {
+      "basename": "Azure",
+      "path": "Ciberseguridad/Index/Azure.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Troubleshooting/Index/Cortex.md"
+    },
+    {
+      "basename": "Allocation Failed",
+      "path": "Troubleshooting/Allocation Failed.md"
+    },
+    {
+      "basename": "Cleaner",
+      "path": "Ciberseguridad/Cortex XDR/Cleaner.md"
+    },
+    {
+      "basename": "BPA",
+      "path": "Ciberseguridad/BPA.md"
+    },
+    {
+      "basename": "Qualys",
+      "path": "Ciberseguridad/Qualys.md"
+    },
+    {
+      "basename": "Aprovisionamiento de Usuarios",
+      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
+    },
+    {
+      "basename": "Admon. Vulnerabilidades",
+      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
       "basename": "Error de conexión",
       "path": "Troubleshooting/Error de conexión.md"
     },
@@ -11,26 +55,6 @@
     {
       "basename": "Bloqueo de credenciales",
       "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
-      "basename": "Troubleshooting",
-      "path": "Ciberseguridad/Index/Troubleshooting.md"
-    },
-    {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
-    },
-    {
-      "basename": "Admon. Vulnerabilidades",
-      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
-    },
-    {
-      "basename": "Aprovisionamiento de Usuarios",
-      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
     },
     {
       "basename": "Trend Micro",
@@ -175,30 +199,6 @@
     {
       "basename": "ASIC",
       "path": "CompTia Networking +/Fase 1/ASIC.md"
-    },
-    {
-      "basename": "Index CompTia Network +",
-      "path": "CompTia Networking +/Index CompTia Network +.md"
-    },
-    {
-      "basename": "Pasted image 20250828105206",
-      "path": "Media/Pasted image 20250828105206.png"
-    },
-    {
-      "basename": "Pasted image 20250901121459",
-      "path": "Media/Pasted image 20250901121459.png"
-    },
-    {
-      "basename": "Adición de una regla BIOC",
-      "path": "Ciberseguridad/Cortex XDR/Adición de una regla BIOC.md"
-    },
-    {
-      "basename": "Activar applets de maquina virtual de VM de bróker",
-      "path": "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md"
-    },
-    {
-      "basename": "Activación de instancias de Cortex XDR",
-      "path": "Ciberseguridad/Cortex XDR/Activación de instancias de Cortex XDR.md"
     }
   ],
   "omittedPaths": [],
