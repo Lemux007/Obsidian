@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Cortex Foundations - The Learning Center",
+      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
+    },
+    {
+      "basename": "SOC Processes",
+      "path": "Ciberseguridad/SOC Processes.md"
+    },
+    {
+      "basename": "Introduction to SecOps",
+      "path": "Ciberseguridad/Introduction to SecOps.md"
+    },
+    {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/PAN Certificaciones.md"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
       "basename": "Qualys",
       "path": "Ciberseguridad/Qualys.md"
     },
@@ -41,10 +61,6 @@
       "path": "Configuration.md"
     },
     {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
-    },
-    {
       "basename": "Error de conexión",
       "path": "Troubleshooting/Error de conexión.md"
     },
@@ -77,20 +93,8 @@
       "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
     },
     {
-      "basename": "Introduction to SecOps",
-      "path": "Ciberseguridad/Introduction to SecOps.md"
-    },
-    {
       "basename": "Operational Technology Understanding the Basics",
       "path": "Ciberseguridad/Operational Technology Understanding the Basics.md"
-    },
-    {
-      "basename": "Cortex Foundations - The Learning Center",
-      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN Certificaciones.md"
     },
     {
       "basename": "PAN",
@@ -195,10 +199,6 @@
     {
       "basename": "Fase 1",
       "path": "CompTia Networking +/Fase 1/Fase 1.md"
-    },
-    {
-      "basename": "ASIC",
-      "path": "CompTia Networking +/Fase 1/ASIC.md"
     }
   ],
   "omittedPaths": [],

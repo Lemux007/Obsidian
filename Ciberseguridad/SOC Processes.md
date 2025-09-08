@@ -1,0 +1,1 @@
+![[281_3_442400_1757369471_Palo Alto Networks Course Certificate of Completion.pdf]]

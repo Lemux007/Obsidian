@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0a569bec85d48ab",
+            "id": "2fbdf13f67cb5ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Qualys.md",
+                "file": "Ciberseguridad/Cortex Foundations - The Learning Center.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qualys"
+              "title": "Cortex Foundations - The Learning Center"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SOC process",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 216.5
   },
   "right": {
     "id": "81c6078d26183ead",
@@ -218,8 +218,50 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "37855f705624c31c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5d6c37521ff2452c",
+        "type": "window",
+        "children": [
+          {
+            "id": "ae458220d80c7669",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f0a569bec85d48ab",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -586,
+        "y": 196,
+        "width": 600,
+        "height": 688,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "3139ebbbf901fd0d",
   "lastOpenFiles": [
+    "Ciberseguridad/SOC Processes.md",
+    "Media/281_3_442400_1757369471_Palo Alto Networks Course Certificate of Completion.pdf",
+    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
+    "Ciberseguridad/Introduction to SecOps.md",
+    "Ciberseguridad/PAN Certificaciones.md",
+    "Ciberseguridad/Index/Certificaciones.md",
+    "Ciberseguridad/Qualys.md",
     "Ciberseguridad/Index/Troubleshooting.md",
     "Ciberseguridad/Index/Azure.md",
     "Troubleshooting/Index/Cortex.md",
@@ -229,11 +271,9 @@
     "Troubleshooting/Index",
     "Ciberseguridad/Cortex XDR/Cleaner.md",
     "Ciberseguridad/BPA.md",
-    "Ciberseguridad/Qualys.md",
     "Ciberseguridad/Aprovisionamiento de Usuarios.md",
     "Ciberseguridad/Admon. Vulnerabilidades.md",
     "Configuration.md",
-    "Ciberseguridad/Index/Certificaciones.md",
     "Troubleshooting/Error de conexión.md",
     "Troubleshooting/VPN.md",
     "Troubleshooting/Bloqueo de credenciales.md",
@@ -242,11 +282,6 @@
     "Ciberseguridad/Tanium Cloud Deployment.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
-    "Ciberseguridad/Introduction to SecOps.md",
-    "Ciberseguridad/Operational Technology Understanding the Basics.md",
-    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
-    "Ciberseguridad/PAN Certificaciones.md",
-    "Ciberseguridad/Index/Cortex XDR Features - The Learning Center.md",
     "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf",
     "Media/Working with Tanium Core.pdf",
     "Media/Tanium Cloud Deployment.pdf",
@@ -255,7 +290,6 @@
     "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 3.pdf",
     "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 2.pdf",
     "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 1.pdf",
-    "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management.pdf",
     "Media/Pasted image 20250828105206.png",
     "Media/Pasted image 20250901121459.png",
     "Images/Pasted image 20250901120804.png",
