@@ -97,7 +97,7 @@
       {
         "id": "d6c77388e387e999",
         "type": "tabs",
-        "dimension": 61.38211382113821,
+        "dimension": 52.88461538461539,
         "children": [
           {
             "id": "eda9e7c086abeb64",
@@ -185,7 +185,7 @@
       {
         "id": "e6b64c424e826221",
         "type": "tabs",
-        "dimension": 38.61788617886179,
+        "dimension": 47.11538461538461,
         "children": [
           {
             "id": "39ce12028540f207",
@@ -253,7 +253,7 @@
       }
     ]
   },
-  "active": "3139ebbbf901fd0d",
+  "active": "2fbdf13f67cb5ddb",
   "lastOpenFiles": [
     "Ciberseguridad/SOC Processes.md",
     "Media/281_3_442400_1757369471_Palo Alto Networks Course Certificate of Completion.pdf",
