@@ -218,41 +218,6 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "37855f705624c31c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5d6c37521ff2452c",
-        "type": "window",
-        "children": [
-          {
-            "id": "ae458220d80c7669",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f0a569bec85d48ab",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -586,
-        "y": 196,
-        "width": 600,
-        "height": 688,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2fbdf13f67cb5ddb",
   "lastOpenFiles": [
     "Ciberseguridad/SOC Processes.md",
