@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Cortex Foundations - The Learning Center.md",
+                "file": "Ciberseguridad/BPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cortex Foundations - The Learning Center"
-            }
-          },
-          {
-            "id": "5bc1ab726e5d06ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/BPAs Tanium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BPAs Tanium"
+              "title": "BPA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bc1ab726e5d06ce",
+  "active": "2fbdf13f67cb5ddb",
   "lastOpenFiles": [
     "Ciberseguridad/BPAs Tanium.md",
     "Ciberseguridad/Cortex Foundations - The Learning Center.md",

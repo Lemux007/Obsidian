@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BPA",
+      "path": "Ciberseguridad/BPA.md"
+    },
+    {
       "basename": "BPAs Tanium",
       "path": "Ciberseguridad/BPAs Tanium.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Cleaner",
       "path": "Ciberseguridad/Cortex XDR/Cleaner.md"
-    },
-    {
-      "basename": "BPA",
-      "path": "Ciberseguridad/BPA.md"
     },
     {
       "basename": "Aprovisionamiento de Usuarios",
