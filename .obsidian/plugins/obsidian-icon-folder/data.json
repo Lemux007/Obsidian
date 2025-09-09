@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "3️⃣",
+      "2️⃣",
+      "LiGrid2x2",
+      "1️⃣",
+      "LiAlignJustify"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,8 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "CompTia Networking +/Fase 1/Network Devices.md": "2️⃣",
+  "CompTia Networking +/Fase 1/Fase 1.md": "1️⃣",
+  "CompTia Networking +/Fase 1/OSI Model.md": "3️⃣"
 }
