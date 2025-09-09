@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BPAs Tanium",
+      "path": "Ciberseguridad/BPAs Tanium.md"
+    },
+    {
       "basename": "Cortex Foundations - The Learning Center",
       "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Network Devices",
       "path": "CompTia Networking +/Fase 1/Network Devices.md"
-    },
-    {
-      "basename": "Fase 1",
-      "path": "CompTia Networking +/Fase 1/Fase 1.md"
     }
   ],
   "omittedPaths": [],
