@@ -11,35 +11,35 @@
       "query": "tag:#index  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 15728640
       }
     },
     {
-      "query": "tag:#subindex  ",
+      "query": "tag:#subindex",
       "color": {
         "a": 1,
-        "rgb": 16734464
+        "rgb": 16740884
       }
     },
     {
       "query": "tag:#Nodo  ",
       "color": {
         "a": 1,
-        "rgb": 2031360
+        "rgb": 1179392
       }
     },
     {
       "query": "tag:#subnodo  ",
       "color": {
         "a": 1,
-        "rgb": 16768256
+        "rgb": 16514836
       }
     },
     {
       "query": "file:Configuration",
       "color": {
         "a": 1,
-        "rgb": 5832959
+        "rgb": 7078128
       }
     }
   ],
@@ -48,11 +48,11 @@
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.348958333333333,
-  "repelStrength": 8.02083333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.359375,
+  "repelStrength": 8.4375,
   "linkStrength": 1,
-  "linkDistance": 130,
-  "scale": 0.3628873693012159,
+  "linkDistance": 123,
+  "scale": 0.39134443333245156,
   "close": true
 }
