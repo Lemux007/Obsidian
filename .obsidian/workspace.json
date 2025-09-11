@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/BPA.md",
+                "file": "Ciberseguridad/BPAs Tanium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BPA"
+              "title": "BPAs Tanium"
+            }
+          },
+          {
+            "id": "8b0a0390d9ca5749",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,11 +229,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fbdf13f67cb5ddb",
+  "active": "8b0a0390d9ca5749",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Ciberseguridad/BPA.md",
     "Ciberseguridad/BPAs Tanium.md",
+    "Ciberseguridad/BPA.md",
+    "conflict-files-obsidian-git.md",
     "Ciberseguridad/Cortex Foundations - The Learning Center.md",
     "Ciberseguridad/SOC Processes.md",
     "Media/281_3_442400_1757369471_Palo Alto Networks Course Certificate of Completion.pdf",
