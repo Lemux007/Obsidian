@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "36243f34e3b02f85",
+    "id": "7b0e8ed45895098d",
     "type": "split",
     "children": [
       {
-        "id": "7428a8ed5c6a722b",
+        "id": "58c7c1ad77fe53f5",
         "type": "tabs",
         "children": [
           {
-            "id": "a8fb3b94472e18a2",
+            "id": "6b7d8b4d34e8578d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting/Credenciales invalidas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credenciales invalidas"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be81bb4665014839",
+    "id": "368b2968a85cc6fc",
     "type": "split",
     "children": [
       {
-        "id": "1aa785ec416d7b6e",
+        "id": "0c846cec96874d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "e0df027a8de43730",
+            "id": "3139ebbbf901fd0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "4a6a9ae491db0f02",
+            "id": "4e61ef98b3125028",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ideas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "46cc15c8e27a1cbc",
+            "id": "5bc1a8399f0982f9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +73,34 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "3a3970585581df83",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
-    "id": "3b51eabc682af302",
+    "id": "81c6078d26183ead",
     "type": "split",
     "children": [
       {
-        "id": "2fc63a201f8e938a",
+        "id": "d6c77388e387e999",
         "type": "tabs",
+        "dimension": 61.143410852713174,
         "children": [
           {
-            "id": "3c1c6e1680d9e593",
+            "id": "eda9e7c086abeb64",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -99,39 +114,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "7d65a2e781c73abb",
+            "id": "ddc9fa47031af038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "1c77a899b60b06ed",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "7e7921f06e56ef02",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes"
-            }
-          },
-          {
-            "id": "4872dc76667c5807",
+            "id": "d88a58e1fd79b407",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -141,21 +157,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Outline"
             }
           },
           {
-            "id": "b33ec432ce3104d8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "a361c99cb4766eea",
+            "id": "f57143b7aba96585",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,29 +169,104 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "520e47cac19ad4f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "e6b64c424e826221",
+        "type": "tabs",
+        "dimension": 38.856589147286826,
+        "children": [
+          {
+            "id": "39ce12028540f207",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a361c99cb4766eea",
-  "lastOpenFiles": []
+  "active": "6b7d8b4d34e8578d",
+  "lastOpenFiles": [
+    "Troubleshooting/VPN.md",
+    "Troubleshooting/Error de conexión.md",
+    "Troubleshooting/Index/Cortex.md",
+    "Troubleshooting/Index",
+    "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 3.pdf",
+    "Media/Working with Tanium Core.pdf",
+    "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management.pdf",
+    "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 2.pdf",
+    "Media/Pasted image 20250828105206.png",
+    "Media/Tanium Cloud Deployment.pdf",
+    "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 1.pdf",
+    "Media/Pasted image 20250901121459.png",
+    "Media/Pasted image 20250819154048.png",
+    "Media/Pasted image 20250819154025.png",
+    "Media/Pasted image 20250113124336.png",
+    "Media/Pasted image 20250730113304.png",
+    "Media/Pasted image 20250110175348.png",
+    "Media/Pasted image 20250110174807.png",
+    "Media/Pasted image 20250110174143.png",
+    "Media/Pasted image 20250110163328.png",
+    "Media/Getting Started with Tanium.pdf",
+    "Media/Forensics - Operational Technology 1.pdf",
+    "Media/Forensics - Operational Technology.pdf",
+    "Ciberseguridad/Getting Started with Tanium WBT.md",
+    "Ciberseguridad/Forensics Understanding the Basics.md",
+    "Ciberseguridad/Email and Collaboration Security.md",
+    "Ciberseguridad/Email Risk Management.md",
+    "Ciberseguridad/Delivering Tanium Support Services.md",
+    "Ciberseguridad/Cortex XDR/MITRE Understanding the Basics.md",
+    "Ciberseguridad/Cortex XDR/Cleaner.md",
+    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
+    "Ciberseguridad/Containers Understanding the Basics.md",
+    "Ciberseguridad/BPAs Tanium.md",
+    "Ciberseguridad/Index/XQL.md",
+    "Templates/Subnodo.md",
+    "Templates/Subindex.md",
+    "Templates/Nodo.md",
+    "Templates/Index.md",
+    "CompTia Networking +/Fase 1/Switch.md",
+    "CompTia Networking +/Fase 1/Router.md",
+    "CompTia Networking +/Fase 1/Network Devices.md",
+    "CompTia Networking +/Fase 1/OSI Model.md",
+    "CompTia Networking +/Fase 1/MAC.md",
+    "CompTia Networking +/Fase 1/Layer 2 Data Link.md",
+    "CompTia Networking +/Fase 1/Layer 3 Network.md",
+    "CompTia Networking +/Fase 1/Fase 1.md",
+    "PBX Conmutador.canvas"
+  ]
 }
