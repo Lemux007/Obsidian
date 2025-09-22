@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Glosario Tanium",
+      "path": "Ciberseguridad/Tanium/Glosario Tanium.md"
+    },
+    {
+      "basename": "Tanium",
+      "path": "Ciberseguridad/Index/Tanium.md"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
       "basename": "BPAs Tanium",
       "path": "Ciberseguridad/BPAs Tanium.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "PAN Certificaciones",
       "path": "Ciberseguridad/PAN Certificaciones.md"
-    },
-    {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
     },
     {
       "basename": "Qualys",
@@ -191,10 +199,6 @@
     {
       "basename": "Layer 2 Data Link",
       "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
-    },
-    {
-      "basename": "OSI Model",
-      "path": "CompTia Networking +/Fase 1/OSI Model.md"
     }
   ],
   "omittedPaths": [],
