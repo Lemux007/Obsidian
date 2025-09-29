@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Sin título 1",
+      "path": "Ciberseguridad/Radware/Sin título 1.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "Ciberseguridad/Radware/Sin título.md"
+    },
+    {
+      "basename": "BROKER VM OVERVIEW",
+      "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
+    },
+    {
+      "basename": "Basic XDR rules",
+      "path": "Ciberseguridad/Cortex XDR/Basic XDR rules.md"
+    },
+    {
+      "basename": "Campos multivalor",
+      "path": "Ciberseguridad/Cortex XDR/Campos multivalor.md"
+    },
+    {
+      "basename": "Basic Agent Troubleshooting",
+      "path": "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md"
+    },
+    {
+      "basename": "Alert Exclusions and Exceptions",
+      "path": "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md"
+    },
+    {
+      "basename": "Activar applets de maquina virtual de VM de bróker",
+      "path": "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md"
+    },
+    {
+      "basename": "Acciones de respuesta de endpoints",
+      "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
+    },
+    {
+      "basename": "Credits",
+      "path": "Ciberseguridad/Credits.md"
+    },
+    {
+      "basename": "Datos",
+      "path": "Ciberseguridad/Datos.md"
+    },
+    {
+      "basename": "Introduction to SecOps",
+      "path": "Ciberseguridad/Introduction to SecOps.md"
+    },
+    {
+      "basename": "Cortex Foundations - The Learning Center",
+      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
+    },
+    {
+      "basename": "Attack Index",
+      "path": "Ciberseguridad/Attack Index.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Dos contraseñas para inicio de sesion",
+      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
+      "basename": "Error de conexión",
+      "path": "Troubleshooting/Error de conexión.md"
+    },
+    {
       "basename": "Glosario Tanium",
       "path": "Ciberseguridad/Tanium/Glosario Tanium.md"
     },
@@ -21,16 +93,8 @@
       "path": "Ciberseguridad/BPA.md"
     },
     {
-      "basename": "Cortex Foundations - The Learning Center",
-      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
-    },
-    {
       "basename": "SOC Processes",
       "path": "Ciberseguridad/SOC Processes.md"
-    },
-    {
-      "basename": "Introduction to SecOps",
-      "path": "Ciberseguridad/Introduction to SecOps.md"
     },
     {
       "basename": "PAN Certificaciones",
@@ -73,18 +137,6 @@
       "path": "Configuration.md"
     },
     {
-      "basename": "Error de conexión",
-      "path": "Troubleshooting/Error de conexión.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "Troubleshooting/VPN.md"
-    },
-    {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
       "basename": "Trend Micro",
       "path": "Ciberseguridad/Index/Trend Micro.md"
     },
@@ -99,10 +151,6 @@
     {
       "basename": "Credenciales invalidas",
       "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "Dos contraseñas para inicio de sesion",
-      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
     },
     {
       "basename": "Operational Technology Understanding the Basics",
@@ -147,54 +195,6 @@
     {
       "basename": "Trend Vision One XDR for Cloud",
       "path": "Ciberseguridad/Trend Vision One XDR for Cloud.md"
-    },
-    {
-      "basename": "Vision One for Administrators",
-      "path": "Ciberseguridad/Vision One for Administrators.md"
-    },
-    {
-      "basename": "Containers Understanding the Basics",
-      "path": "Ciberseguridad/Containers Understanding the Basics.md"
-    },
-    {
-      "basename": "MITRE Understanding the Basics",
-      "path": "Ciberseguridad/Cortex XDR/MITRE Understanding the Basics.md"
-    },
-    {
-      "basename": "Trend Vision One Credits 101",
-      "path": "Ciberseguridad/Trend Vision One Credits 101.md"
-    },
-    {
-      "basename": "Forensics Understanding the Basics",
-      "path": "Ciberseguridad/Forensics Understanding the Basics.md"
-    },
-    {
-      "basename": "Trend Vision One Understanding the Basics",
-      "path": "Ciberseguridad/Trend Vision One Understanding the Basics.md"
-    },
-    {
-      "basename": "Trend Campus Foundation",
-      "path": "Ciberseguridad/Trend Campus Foundation.md"
-    },
-    {
-      "basename": "Layer 1 Physical",
-      "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Ciberseguridad/Index/Cortex.md"
-    },
-    {
-      "basename": "Layer 4 Transport",
-      "path": "CompTia Networking +/Fase 1/Layer 4 Transport.md"
-    },
-    {
-      "basename": "MAC",
-      "path": "CompTia Networking +/Fase 1/MAC.md"
-    },
-    {
-      "basename": "Layer 3 Network",
-      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
     }
   ],
   "omittedPaths": [],
