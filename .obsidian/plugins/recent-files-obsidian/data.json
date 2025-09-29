@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Sin título 1",
       "path": "Ciberseguridad/Radware/Sin título 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Trend Vision One XDR for Cloud",
       "path": "Ciberseguridad/Trend Vision One XDR for Cloud.md"
-    },
-    {
-      "basename": "Vision One for Administrators",
-      "path": "Ciberseguridad/Vision One for Administrators.md"
     }
   ],
   "omittedPaths": [],
