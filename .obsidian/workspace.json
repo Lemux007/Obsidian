@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e893386b534db2a1",
+            "id": "53d74459b15c4a6d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Radware/Sin título 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 1"
             }
           }
         ]
@@ -196,8 +200,66 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e893386b534db2a1",
+  "floating": {
+    "id": "42c168983668ffe5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "01c51c79ae85ce70",
+        "type": "window",
+        "children": [
+          {
+            "id": "3822eba936a37f05",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8222be340643d73",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "BROKER VM OVERVIEW"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 126,
+        "y": 49,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "53d74459b15c4a6d",
   "lastOpenFiles": [
+    "Ciberseguridad/Radware/Sin título.md",
+    "Ciberseguridad/Radware/Sin título 1.md",
+    "Ciberseguridad/Radware",
+    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+    "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
+    "Ciberseguridad/Cortex XDR/Campos multivalor.md",
+    "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md",
+    "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md",
+    "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md",
+    "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md",
+    "Ciberseguridad/Credits.md",
+    "Ciberseguridad/Datos.md",
+    "Ciberseguridad/Introduction to SecOps.md",
+    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
+    "Ciberseguridad/Attack Index.md",
+    "Troubleshooting/VPN.md",
+    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
+    "Troubleshooting/Bloqueo de credenciales.md",
+    "Troubleshooting/Error de conexión.md",
     "Ciberseguridad/Tanium/Glosario Tanium.md",
     "conflict-files-obsidian-git.md",
     "Ciberseguridad/Index/Tanium.md",
