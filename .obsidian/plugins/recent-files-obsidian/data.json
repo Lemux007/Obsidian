@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "BROKER VM OVERVIEW",
+      "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
       "basename": "2025-09-29",
       "path": "Ciberseguridad/Radware/2025-09-29.md"
     },
     {
       "basename": "Radware",
       "path": "Ciberseguridad/Radware/Radware.md"
-    },
-    {
-      "basename": "BROKER VM OVERVIEW",
-      "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
     },
     {
       "basename": "Basic XDR rules",
@@ -131,10 +135,6 @@
     {
       "basename": "Admon. Vulnerabilidades",
       "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "Trend Micro",
