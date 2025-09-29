@@ -214,10 +214,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fbdf13f67cb5ddb",
+  "active": "f57143b7aba96585",
   "lastOpenFiles": [
-    "Ciberseguridad/BPA.md",
     "conflict-files-obsidian-git.md",
+    "Ciberseguridad/Tanium/Glosario Tanium.md",
+    "Ciberseguridad/Tanium",
+    "Ciberseguridad/Index/Tanium.md",
+    "Ciberseguridad/BPA.md",
     "Ciberseguridad/BPAs Tanium.md",
     "Ciberseguridad/Cortex Foundations - The Learning Center.md",
     "Ciberseguridad/SOC Processes.md",
@@ -242,8 +245,6 @@
     "Troubleshooting/Bloqueo de credenciales.md",
     "Ciberseguridad/Index/Trend Micro.md",
     "Ciberseguridad/Index/XQL.md",
-    "Ciberseguridad/Tanium Cloud Deployment.md",
-    "Troubleshooting/Credenciales invalidas.md",
     "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf",
     "Media/Working with Tanium Core.pdf",
     "Media/Tanium Cloud Deployment.pdf",
@@ -251,7 +252,6 @@
     "Media/Getting Started with Tanium.pdf",
     "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 3.pdf",
     "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 2.pdf",
-    "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 1.pdf",
     "Media/Pasted image 20250828105206.png",
     "Media/Pasted image 20250901121459.png",
     "Images/Pasted image 20250901120804.png",

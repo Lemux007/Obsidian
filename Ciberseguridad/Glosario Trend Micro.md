@@ -1,6 +1,6 @@
 #subindex 
 Terminología de [[Trend Micro]]:
-[[Glosario]]
+[[Ciberseguridad/Index/Glosario]]
 
 1. [[Risk Index]]: Es el puntaje dado por la consola debido a los posibles riesgos, ataques y/o riesgos por configuraciones.
 
