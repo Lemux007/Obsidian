@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Radware/Sin título 1.md",
+                "file": "Ciberseguridad/Radware/2025-09-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título 1"
+              "title": "2025-09-29"
             }
           }
         ]
@@ -239,11 +239,12 @@
       }
     ]
   },
-  "active": "a361c99cb4766eea",
+  "active": "e0df027a8de43730",
   "lastOpenFiles": [
+    "Ciberseguridad/Radware/Radware.md",
+    "Ciberseguridad/Radware/2025-09-29.md",
     "Ciberseguridad/Radware/Sin título 1.md",
     "conflict-files-obsidian-git.md",
-    "Ciberseguridad/Radware/Sin título.md",
     "Ciberseguridad/Radware",
     "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
     "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
