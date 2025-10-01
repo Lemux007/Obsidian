@@ -11,10 +11,14 @@
             "id": "11830b552f7673e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting/Correo ESM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Correo ESM"
             }
           }
         ]
@@ -196,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0df027a8de43730",
+  "active": "11830b552f7673e3",
   "lastOpenFiles": [
     "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
     "Configuration.md",
