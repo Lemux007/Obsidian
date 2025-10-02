@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -202,6 +203,8 @@
   },
   "active": "11830b552f7673e3",
   "lastOpenFiles": [
+    "Pasted image 20251002121341.png",
+    "Pasted image 20251002121231.png",
     "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
     "Configuration.md",
     "Ciberseguridad/Radware/2025-09-29.md",

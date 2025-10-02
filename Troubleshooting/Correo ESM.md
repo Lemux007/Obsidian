@@ -38,3 +38,5 @@ QSCgu8lp
 192.168.1.6	4dMin2016
 
 https://187.245.211.130/owa
+
+![[Pasted image 20251002121231.png]]![[Pasted image 20251002121341.png]]
