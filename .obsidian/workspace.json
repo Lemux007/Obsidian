@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e00b37bbcb8488f",
+        "id": "155ce0707e47aa38",
         "type": "tabs",
         "children": [
           {
-            "id": "8860e667f72489a6",
+            "id": "39fe6afe9bc3bc3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Configuration.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Configuration"
             }
           }
         ]
@@ -231,7 +235,7 @@
       }
     ]
   },
-  "active": "a361c99cb4766eea",
+  "active": "39fe6afe9bc3bc3c",
   "lastOpenFiles": [
     "Media/Pasted image 20251002121231.png",
     "Notas Random",

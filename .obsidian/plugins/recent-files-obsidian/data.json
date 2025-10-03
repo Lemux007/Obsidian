@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
       "basename": "Pasted image 20251002121231",
       "path": "Media/Pasted image 20251002121231.png"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "BROKER VM OVERVIEW",
       "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "Basic XDR rules",

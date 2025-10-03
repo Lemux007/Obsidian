@@ -1,3 +1,8 @@
+==Nova==
+[https://academy.novasistemas.com.mx:8443/](https://academy.novasistemas.com.mx:8443/)
+
+Zb4/bz7%mbr
+
 ==**Config:**==
 Software Acceleration off
 ==**Theme:**==
