@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Preguntas seguridad",
+      "path": "Troubleshooting/Preguntas seguridad.md"
+    },
+    {
+      "basename": "IMG_1837",
+      "path": "Media/IMG_1837.jpeg"
+    },
+    {
+      "basename": "IMG_1836",
+      "path": "Media/IMG_1836.jpeg"
+    },
+    {
+      "basename": "2025-09-29",
+      "path": "Ciberseguridad/Radware/2025-09-29.md"
+    },
+    {
+      "basename": "Radware",
+      "path": "Ciberseguridad/Radware/Radware.md"
+    },
+    {
       "basename": "Correo ESM",
       "path": "Troubleshooting/Correo ESM.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "Configuration",
       "path": "Configuration.md"
-    },
-    {
-      "basename": "2025-09-29",
-      "path": "Ciberseguridad/Radware/2025-09-29.md"
-    },
-    {
-      "basename": "Radware",
-      "path": "Ciberseguridad/Radware/Radware.md"
     },
     {
       "basename": "Basic XDR rules",
@@ -187,18 +199,6 @@
     {
       "basename": "Email Risk Management",
       "path": "Ciberseguridad/Email Risk Management.md"
-    },
-    {
-      "basename": "XDR for Email",
-      "path": "Ciberseguridad/XDR for Email.md"
-    },
-    {
-      "basename": "Email and Collaboration Security",
-      "path": "Ciberseguridad/Email and Collaboration Security.md"
-    },
-    {
-      "basename": "Trend Vision One XDR for Cloud",
-      "path": "Ciberseguridad/Trend Vision One XDR for Cloud.md"
     }
   ],
   "omittedPaths": [],
