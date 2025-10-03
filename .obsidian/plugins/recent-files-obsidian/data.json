@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20251002121231",
+      "path": "Media/Pasted image 20251002121231.png"
+    },
+    {
+      "basename": "Pasted image 20251002121341",
+      "path": "Media/Pasted image 20251002121341.png"
+    },
+    {
       "basename": "Preguntas seguridad",
       "path": "Troubleshooting/Preguntas seguridad.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Delivering Tanium Support Services",
       "path": "Ciberseguridad/Delivering Tanium Support Services.md"
-    },
-    {
-      "basename": "Getting Started with Tanium WBT",
-      "path": "Ciberseguridad/Getting Started with Tanium WBT.md"
-    },
-    {
-      "basename": "Email Risk Management",
-      "path": "Ciberseguridad/Email Risk Management.md"
     }
   ],
   "omittedPaths": [],
