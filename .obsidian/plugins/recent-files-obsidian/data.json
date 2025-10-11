@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Ciberseguridad/Index/Cortex.md"
+    },
+    {
+      "basename": "Advanced Response Actions in Cortex XDR Pro",
+      "path": "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md"
+    },
+    {
+      "basename": "Habilitación del servicio de CORTEX XDR EDL",
+      "path": "Ciberseguridad/Cortex XDR/Habilitación del servicio de CORTEX XDR EDL.md"
+    },
+    {
+      "basename": "Descripción general de managed Threat Hunting",
+      "path": "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Ciberseguridad/Cortex XDR/Functions.md"
+    },
+    {
+      "basename": "Funciones XQL",
+      "path": "Ciberseguridad/Cortex XDR/Funciones XQL.md"
+    },
+    {
+      "basename": "Gestion de conjunto de datos",
+      "path": "Ciberseguridad/Cortex XDR/Gestion de conjunto de datos.md"
+    },
+    {
+      "basename": "Fundamentos de XQL",
+      "path": "Ciberseguridad/Cortex XDR/Fundamentos de XQL.md"
+    },
+    {
+      "basename": "Glosario Tanium",
+      "path": "Ciberseguridad/Tanium/Glosario Tanium.md"
+    },
+    {
       "basename": "2025-09-29",
       "path": "Ciberseguridad/Radware/2025-09-29.md"
     },
@@ -31,10 +71,6 @@
     {
       "basename": "IMG_1836",
       "path": "Media/IMG_1836.jpeg"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
     },
     {
       "basename": "BROKER VM OVERVIEW",
@@ -101,10 +137,6 @@
       "path": "Troubleshooting/Error de conexión.md"
     },
     {
-      "basename": "Glosario Tanium",
-      "path": "Ciberseguridad/Tanium/Glosario Tanium.md"
-    },
-    {
       "basename": "Tanium",
       "path": "Ciberseguridad/Index/Tanium.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "XQL",
       "path": "Ciberseguridad/Index/XQL.md"
-    },
-    {
-      "basename": "Tanium Cloud Deployment",
-      "path": "Ciberseguridad/Tanium Cloud Deployment.md"
-    },
-    {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "Operational Technology Understanding the Basics",
-      "path": "Ciberseguridad/Operational Technology Understanding the Basics.md"
-    },
-    {
-      "basename": "PAN",
-      "path": "Ciberseguridad/Index/PAN.md"
-    },
-    {
-      "basename": "Trend Micro Certificaciones",
-      "path": "Ciberseguridad/Trend Micro Certificaciones.md"
-    },
-    {
-      "basename": "Tanium Certificaciones",
-      "path": "Ciberseguridad/Tanium Certificaciones.md"
-    },
-    {
-      "basename": "Working with Tanium Core",
-      "path": "Ciberseguridad/Working with Tanium Core.md"
-    },
-    {
-      "basename": "Delivering Tanium Support Services",
-      "path": "Ciberseguridad/Delivering Tanium Support Services.md"
     }
   ],
   "omittedPaths": [],
