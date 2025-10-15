@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Apps",
+      "path": "Apps.md"
+    },
+    {
       "basename": "Correo ESM",
       "path": "Troubleshooting/Correo ESM.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Trend Micro",
       "path": "Ciberseguridad/Index/Trend Micro.md"
-    },
-    {
-      "basename": "XQL",
-      "path": "Ciberseguridad/Index/XQL.md"
     }
   ],
   "omittedPaths": [],
