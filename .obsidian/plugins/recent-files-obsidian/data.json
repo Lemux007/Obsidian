@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
       "basename": "Apps",
       "path": "Apps.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Radware",
       "path": "Ciberseguridad/Radware/Radware.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "Pasted image 20251002121231",
@@ -195,10 +199,6 @@
     {
       "basename": "Admon. Vulnerabilidades",
       "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
-    },
-    {
-      "basename": "Trend Micro",
-      "path": "Ciberseguridad/Index/Trend Micro.md"
     }
   ],
   "omittedPaths": [],

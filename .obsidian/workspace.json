@@ -11,10 +11,14 @@
             "id": "2fbdf13f67cb5ddb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Configuration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuration"
             }
           }
         ]
@@ -216,6 +220,8 @@
   },
   "active": "2fbdf13f67cb5ddb",
   "lastOpenFiles": [
+    "Configuration.md",
+    "PBX Conmutador.canvas",
     "Ciberseguridad/Radware/2025-09-29.md",
     "Troubleshooting/Preguntas seguridad.md",
     "Media/Pasted image 20251002121341.png",
@@ -249,7 +255,6 @@
     "Troubleshooting/Index",
     "Ciberseguridad/Cortex XDR/Cleaner.md",
     "Ciberseguridad/Aprovisionamiento de Usuarios.md",
-    "Ciberseguridad/Admon. Vulnerabilidades.md",
     "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf",
     "Media/Working with Tanium Core.pdf",
     "Media/Tanium Cloud Deployment.pdf",
@@ -262,7 +267,6 @@
     "Images/Pasted image 20250901120747.png",
     "Images/Pasted image 20250901120739.png",
     "Images/Pasted image 20250901120721.png",
-    "Sin título.canvas",
-    "PBX Conmutador.canvas"
+    "Sin título.canvas"
   ]
 }
