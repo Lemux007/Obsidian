@@ -1,52 +1,41 @@
 {
   "main": {
-    "id": "36243f34e3b02f85",
+    "id": "7b0e8ed45895098d",
     "type": "split",
     "children": [
       {
-        "id": "155ce0707e47aa38",
+        "id": "3b69b3a39f134173",
         "type": "tabs",
         "children": [
           {
-            "id": "e0baa02d0bcf0538",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "beab1cd724d9df37",
+            "id": "2fbdf13f67cb5ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apps.md",
+                "file": "Ciberseguridad/Radware/2025-09-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apps"
+              "title": "2025-09-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "be81bb4665014839",
+    "id": "368b2968a85cc6fc",
     "type": "split",
     "children": [
       {
-        "id": "1aa785ec416d7b6e",
+        "id": "0c846cec96874d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "e0df027a8de43730",
+            "id": "3139ebbbf901fd0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,28 +44,28 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "4a6a9ae491db0f02",
+            "id": "4e61ef98b3125028",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SOC process",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Buscar"
             }
           },
           {
-            "id": "46cc15c8e27a1cbc",
+            "id": "5bc1a8399f0982f9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,24 +73,34 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "8a59c32ed546c708",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 216.5
   },
   "right": {
-    "id": "3b51eabc682af302",
+    "id": "81c6078d26183ead",
     "type": "split",
     "children": [
       {
-        "id": "2fc63a201f8e938a",
+        "id": "d6c77388e387e999",
         "type": "tabs",
-        "dimension": 57.92682926829268,
+        "dimension": 52.88461538461539,
         "children": [
           {
-            "id": "3c1c6e1680d9e593",
+            "id": "eda9e7c086abeb64",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -119,13 +118,26 @@
             }
           },
           {
-            "id": "7d65a2e781c73abb",
+            "id": "ddc9fa47031af038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "1c77a899b60b06ed",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -134,36 +146,21 @@
             }
           },
           {
-            "id": "7e7921f06e56ef02",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Ciberseguridad/Tanium/Glosario Tanium.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes de Glosario Tanium"
-            }
-          },
-          {
-            "id": "4872dc76667c5807",
+            "id": "d88a58e1fd79b407",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Tanium/Glosario Tanium.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Glosario Tanium"
+              "title": "Esquema"
             }
           },
           {
-            "id": "a361c99cb4766eea",
+            "id": "f57143b7aba96585",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -171,17 +168,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "520e47cac19ad4f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       },
       {
-        "id": "77f2903fd4791bbf",
+        "id": "e6b64c424e826221",
         "type": "tabs",
-        "dimension": 42.073170731707314,
+        "dimension": 47.11538461538461,
         "children": [
           {
-            "id": "b33ec432ce3104d8",
+            "id": "39ce12028540f207",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -194,57 +201,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "beab1cd724d9df37",
+  "active": "f57143b7aba96585",
   "lastOpenFiles": [
-    "Apps.md",
-    "Troubleshooting/Correo ESM.md",
-    "Ciberseguridad/Index/Cortex.md",
-    "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md",
-    "Ciberseguridad/Cortex XDR/Habilitación del servicio de CORTEX XDR EDL.md",
-    "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md",
-    "Ciberseguridad/Cortex XDR/Functions.md",
-    "Ciberseguridad/Cortex XDR/Funciones XQL.md",
-    "Ciberseguridad/Cortex XDR/Gestion de conjunto de datos.md",
-    "Ciberseguridad/Cortex XDR/Fundamentos de XQL.md",
-    "Ciberseguridad/Tanium/Glosario Tanium.md",
-    "Ciberseguridad/Radware/2025-09-29.md",
-    "Ciberseguridad/Radware/Radware.md",
-    "Configuration.md",
-    "Media/Pasted image 20251002121231.png",
-    "Notas Random",
-    "Media/Pasted image 20251002121341.png",
     "Troubleshooting/Preguntas seguridad.md",
+    "Media/Pasted image 20251002121341.png",
+    "Media/Pasted image 20251002121231.png",
     "Media/IMG_1837.jpeg",
     "Media/IMG_1836.jpeg",
-    "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
+    "Apps.md",
     "conflict-files-obsidian-git.md",
+    "Ciberseguridad/Radware/Radware.md",
+    "Ciberseguridad/Radware/2025-09-29.md",
+    "Ciberseguridad/Radware/Sin título.md",
     "Ciberseguridad/Radware/Sin título 1.md",
     "Ciberseguridad/Radware",
-    "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
-    "Ciberseguridad/Cortex XDR/Campos multivalor.md",
-    "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md",
-    "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md",
-    "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md",
-    "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md",
-    "Ciberseguridad/Credits.md",
-    "Ciberseguridad/Datos.md",
-    "Ciberseguridad/Tanium"
+    "Ciberseguridad/Tanium/Glosario Tanium.md",
+    "Ciberseguridad/Tanium",
+    "Ciberseguridad/Index/Tanium.md",
+    "Ciberseguridad/BPA.md",
+    "Ciberseguridad/BPAs Tanium.md",
+    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
+    "Ciberseguridad/SOC Processes.md",
+    "Media/281_3_442400_1757369471_Palo Alto Networks Course Certificate of Completion.pdf",
+    "Ciberseguridad/Introduction to SecOps.md",
+    "Ciberseguridad/PAN Certificaciones.md",
+    "Ciberseguridad/Index/Certificaciones.md",
+    "Ciberseguridad/Qualys.md",
+    "Ciberseguridad/Index/Troubleshooting.md",
+    "Ciberseguridad/Index/Azure.md",
+    "Troubleshooting/Index/Cortex.md",
+    "Troubleshooting/Allocation Failed.md",
+    "Troubleshooting/Index/Sin título.md",
+    "Troubleshooting/Sin título.md",
+    "Troubleshooting/Index",
+    "Ciberseguridad/Cortex XDR/Cleaner.md",
+    "Ciberseguridad/Aprovisionamiento de Usuarios.md",
+    "Ciberseguridad/Admon. Vulnerabilidades.md",
+    "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf",
+    "Media/Working with Tanium Core.pdf",
+    "Media/Tanium Cloud Deployment.pdf",
+    "Media/Delivering Tanium Support Services.pdf",
+    "Media/Getting Started with Tanium.pdf",
+    "Media/Trend Vision One XDR for Cloud-Email and Collaboration Security-XDR for Email-Email Risk Management 3.pdf",
+    "Media/Pasted image 20250828105206.png",
+    "Media/Pasted image 20250901121459.png",
+    "Images/Pasted image 20250901120804.png",
+    "Images/Pasted image 20250901120747.png",
+    "Images/Pasted image 20250901120739.png",
+    "Images/Pasted image 20250901120721.png",
+    "Sin título.canvas",
+    "PBX Conmutador.canvas"
   ]
 }
