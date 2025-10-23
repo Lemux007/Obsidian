@@ -1,4 +1,4 @@
 Pc Manager
 Axis
 KeePassXC
-RingCent
+RingCentral
