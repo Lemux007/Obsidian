@@ -195,10 +195,6 @@
     {
       "basename": "Aprovisionamiento de Usuarios",
       "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
-    },
-    {
-      "basename": "Admon. Vulnerabilidades",
-      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
     }
   ],
   "omittedPaths": [],

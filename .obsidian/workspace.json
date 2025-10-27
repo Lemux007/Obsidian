@@ -216,6 +216,8 @@
   },
   "active": "e0baa02d0bcf0538",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Troubleshooting/Credenciales invalidas.md",
     "Apps.md",
     "Troubleshooting/Correo ESM.md",
     "Ciberseguridad/Index/Cortex.md",
@@ -237,7 +239,6 @@
     "Media/IMG_1837.jpeg",
     "Media/IMG_1836.jpeg",
     "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
-    "conflict-files-obsidian-git.md",
     "Ciberseguridad/Radware/Sin título 1.md",
     "Ciberseguridad/Radware",
     "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
@@ -247,7 +248,6 @@
     "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md",
     "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md",
     "Ciberseguridad/Credits.md",
-    "Ciberseguridad/Datos.md",
     "Ciberseguridad/Tanium"
   ]
 }
