@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
+      "basename": "2025-09-29",
+      "path": "Ciberseguridad/Radware/2025-09-29.md"
     },
     {
-      "basename": "Apps",
-      "path": "Apps.md"
+      "basename": "Radware",
+      "path": "Ciberseguridad/Radware/Radware.md"
+    },
+    {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
     },
     {
       "basename": "Correo ESM",
@@ -47,14 +51,6 @@
     {
       "basename": "Glosario Tanium",
       "path": "Ciberseguridad/Tanium/Glosario Tanium.md"
-    },
-    {
-      "basename": "2025-09-29",
-      "path": "Ciberseguridad/Radware/2025-09-29.md"
-    },
-    {
-      "basename": "Radware",
-      "path": "Ciberseguridad/Radware/Radware.md"
     },
     {
       "basename": "Configuration",
