@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Credenciales invalidas",
       "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
     },
     {
       "basename": "Cortex",
