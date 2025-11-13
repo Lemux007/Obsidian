@@ -11,14 +11,10 @@
             "id": "e0baa02d0bcf0538",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN revertir commit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PAN revertir commit"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -200,11 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a361c99cb4766eea",
+  "active": "e0baa02d0bcf0538",
   "lastOpenFiles": [
-    "PAN revertir commit.md",
-    "conflict-files-obsidian-git.md",
     "Configuration.md",
+    "conflict-files-obsidian-git.md",
+    "PAN revertir commit.md",
     "Ciberseguridad/Radware/2025-09-29.md",
     "Ciberseguridad/Radware/Radware.md",
     "Troubleshooting/Credenciales invalidas.md",
