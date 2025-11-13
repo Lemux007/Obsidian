@@ -32,19 +32,38 @@
       "query": "tag:#subnodo  ",
       "color": {
         "a": 1,
+<<<<<<< HEAD
+        "rgb": 16514842
+=======
         "rgb": 16774912
+>>>>>>> origin/main
       }
     },
     {
       "query": "file:configuration",
       "color": {
         "a": 1,
+<<<<<<< HEAD
+        "rgb": 5431473
+=======
         "rgb": 5431008
+>>>>>>> origin/main
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
+<<<<<<< HEAD
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.337370242214533,
+  "repelStrength": 7.71626297577855,
+  "linkStrength": 1,
+  "linkDistance": 107,
+  "scale": 0.4320097534698986,
+=======
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -53,6 +72,11 @@
   "repelStrength": 8.56770833333333,
   "linkStrength": 1,
   "linkDistance": 121,
+<<<<<<< HEAD
   "scale": 0.36288736930121773,
+=======
+  "scale": 0.7132754626224498,
+>>>>>>> origin/main
+>>>>>>> origin/main
   "close": true
 }
