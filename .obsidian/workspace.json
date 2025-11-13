@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "155ce0707e47aa38",
+        "id": "d7bbda617d6bff65",
         "type": "tabs",
         "children": [
           {
-            "id": "e0baa02d0bcf0538",
+            "id": "3486cf315f00bb49",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -196,8 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0baa02d0bcf0538",
+  "active": "3486cf315f00bb49",
   "lastOpenFiles": [
+    "Troubleshooting/Allocation Failed.md",
+    "Ciberseguridad/Cortex XDR/Reglas de Política.md",
     "Configuration.md",
     "conflict-files-obsidian-git.md",
     "PAN revertir commit.md",
@@ -228,8 +230,6 @@
     "Ciberseguridad/Cortex XDR/Campos multivalor.md",
     "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md",
     "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md",
-    "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md",
-    "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md",
     "Ciberseguridad/Tanium"
   ]
 }
