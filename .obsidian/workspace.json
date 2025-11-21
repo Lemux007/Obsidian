@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bd38a3fd444f77d",
+        "id": "aebad07b34e88d32",
         "type": "tabs",
         "children": [
           {
-            "id": "12eee5961661e03c",
+            "id": "d3916a68b957c492",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -214,11 +214,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12eee5961661e03c",
+  "active": "d3916a68b957c492",
   "lastOpenFiles": [
+    "Configuration.md",
+    "Troubleshooting/Putty.md",
     "conflict-files-obsidian-git.md",
     "Sin título.md",
-    "Configuration.md",
     "Troubleshooting/Correo ESM.md",
     "PBX Conmutador.canvas",
     "Ciberseguridad/Radware/2025-09-29.md",
@@ -249,7 +250,6 @@
     "Troubleshooting/Index/Cortex.md",
     "Troubleshooting/Allocation Failed.md",
     "Troubleshooting/Index/Sin título.md",
-    "Troubleshooting/Sin título.md",
     "Troubleshooting/Index",
     "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf",
     "Media/Working with Tanium Core.pdf",
