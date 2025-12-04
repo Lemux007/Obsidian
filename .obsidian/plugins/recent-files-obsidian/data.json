@@ -195,10 +195,6 @@
     {
       "basename": "Cleaner",
       "path": "Ciberseguridad/Cortex XDR/Cleaner.md"
-    },
-    {
-      "basename": "Aprovisionamiento de Usuarios",
-      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
     }
   ],
   "omittedPaths": [],
