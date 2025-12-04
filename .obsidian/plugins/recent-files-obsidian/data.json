@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Acceso a JSON mediante el formato sugar sintáctico",
       "path": "Ciberseguridad/Cortex XDR/Acceso a JSON mediante el formato sugar sintáctico.md"
-    },
-    {
-      "basename": "Accesing JSON using extra functions",
-      "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
     }
   ],
   "omittedPaths": [],
