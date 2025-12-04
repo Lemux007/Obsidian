@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "2025-09-29",
+      "path": "Ciberseguridad/Radware/2025-09-29.md"
+    },
+    {
+      "basename": "Radware",
+      "path": "Ciberseguridad/Radware/Radware.md"
+    },
+    {
       "basename": "Funciones XQL",
       "path": "Ciberseguridad/Cortex XDR/Funciones XQL.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Accesing JSON using extra functions",
       "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
-    },
-    {
-      "basename": "Putty",
-      "path": "Troubleshooting/Putty.md"
-    },
-    {
-      "basename": "2025-09-29",
-      "path": "Ciberseguridad/Radware/2025-09-29.md"
-    },
-    {
-      "basename": "Radware",
-      "path": "Ciberseguridad/Radware/Radware.md"
     }
   ],
   "omittedPaths": [],
