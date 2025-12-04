@@ -1,16 +1,184 @@
 {
   "recentFiles": [
     {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "Pruebas ESM",
+      "path": "Pruebas ESM.md"
+    },
+    {
+      "basename": "Escaneo de endpoints",
+      "path": "Ciberseguridad/Cortex XDR/Escaneo de endpoints.md"
+    },
+    {
+      "basename": "Entorno de desarrollo de XQL",
+      "path": "Ciberseguridad/Cortex XDR/Entorno de desarrollo de XQL.md"
+    },
+    {
+      "basename": "Discovery, Inventory, and Management of Network Assets",
+      "path": "Ciberseguridad/Cortex XDR/Discovery, Inventory, and Management of Network Assets.md"
+    },
+    {
+      "basename": "Detalles de configuración de broker VM",
+      "path": "Ciberseguridad/Cortex XDR/Detalles de configuración de broker VM.md"
+    },
+    {
+      "basename": "Descripción general de managed Threat Hunting",
+      "path": "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md"
+    },
+    {
+      "basename": "Descripción general de las acciones de respuesta",
+      "path": "Ciberseguridad/Cortex XDR/Descripción general de las acciones de respuesta.md"
+    },
+    {
+      "basename": "Descargar un archivo OVA para Bróker VM",
+      "path": "Ciberseguridad/Cortex XDR/Descargar un archivo OVA para Bróker VM.md"
+    },
+    {
+      "basename": "Deployment Considerations",
+      "path": "Ciberseguridad/Cortex XDR/Deployment Considerations.md"
+    },
+    {
+      "basename": "Creación de reglas de automatización",
+      "path": "Ciberseguridad/Cortex XDR/Creación de reglas de automatización.md"
+    },
+    {
+      "basename": "Creación de Incidentes",
+      "path": "Ciberseguridad/Cortex XDR/Creación de Incidentes.md"
+    },
+    {
+      "basename": "Creación de consultas sencillas",
+      "path": "Ciberseguridad/Cortex XDR/Creación de consultas sencillas.md"
+    },
+    {
+      "basename": "Cortex XDR Overview",
+      "path": "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md"
+    },
+    {
+      "basename": "Cortex XDR Ingestion flow",
+      "path": "Ciberseguridad/Cortex XDR/Cortex XDR Ingestion flow.md"
+    },
+    {
+      "basename": "Control de acceso",
+      "path": "Ciberseguridad/Cortex XDR/Control de acceso.md"
+    },
+    {
+      "basename": "Configuracion de seguridad de perfil de malware",
+      "path": "Ciberseguridad/Cortex XDR/Configuracion de seguridad de perfil de malware.md"
+    },
+    {
+      "basename": "Configuración de la VM del agente",
+      "path": "Ciberseguridad/Cortex XDR/Configuración de la VM del agente.md"
+    },
+    {
+      "basename": "Comparación y operadores booleanos",
+      "path": "Ciberseguridad/Cortex XDR/Comparación y operadores booleanos.md"
+    },
+    {
+      "basename": "Cleaner",
+      "path": "Ciberseguridad/Cortex XDR/Cleaner.md"
+    },
+    {
+      "basename": "Centro de actividades",
+      "path": "Ciberseguridad/Cortex XDR/Centro de actividades.md"
+    },
+    {
+      "basename": "Caza orientada a la técnica",
+      "path": "Ciberseguridad/Cortex XDR/Caza orientada a la técnica.md"
+    },
+    {
+      "basename": "Caza orientada a la familia de malware",
+      "path": "Ciberseguridad/Cortex XDR/Caza orientada a la familia de malware.md"
+    },
+    {
+      "basename": "Causality and Analytics Concepts",
+      "path": "Ciberseguridad/Cortex XDR/Causality and Analytics Concepts.md"
+    },
+    {
+      "basename": "Causality Analysis of Alerts",
+      "path": "Ciberseguridad/Cortex XDR/Causality Analysis of Alerts.md"
+    },
+    {
+      "basename": "Características Adicionales del producto bróker VM",
+      "path": "Ciberseguridad/Cortex XDR/Características Adicionales del producto bróker VM.md"
+    },
+    {
+      "basename": "Campos y variables JSON",
+      "path": "Ciberseguridad/Cortex XDR/Campos y variables JSON.md"
+    },
+    {
+      "basename": "Campos multivalor",
+      "path": "Ciberseguridad/Cortex XDR/Campos multivalor.md"
+    },
+    {
+      "basename": "Cadenas de causalidad",
+      "path": "Ciberseguridad/Cortex XDR/Cadenas de causalidad.md"
+    },
+    {
+      "basename": "Búsqueda orientada a datos",
+      "path": "Ciberseguridad/Cortex XDR/Búsqueda orientada a datos.md"
+    },
+    {
+      "basename": "Funciones XQL",
+      "path": "Ciberseguridad/Cortex XDR/Funciones XQL.md"
+    },
+    {
+      "basename": "Basic Agent Troubleshooting",
+      "path": "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md"
+    },
+    {
+      "basename": "ALERTS Overview",
+      "path": "Ciberseguridad/Cortex XDR/ALERTS Overview.md"
+    },
+    {
+      "basename": "Alert Exclusions and Exceptions",
+      "path": "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md"
+    },
+    {
+      "basename": "Excepciones y Perfiles de Excepciones",
+      "path": "Ciberseguridad/Cortex XDR/Excepciones y Perfiles de Excepciones.md"
+    },
+    {
+      "basename": "Advanced Response Actions in Cortex XDR Pro",
+      "path": "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md"
+    },
+    {
+      "basename": "Administración de consultas",
+      "path": "Ciberseguridad/Cortex XDR/Administración de consultas.md"
+    },
+    {
+      "basename": "Adición de una regla BIOC",
+      "path": "Ciberseguridad/Cortex XDR/Adición de una regla BIOC.md"
+    },
+    {
+      "basename": "Activar applets de maquina virtual de VM de bróker",
+      "path": "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md"
+    },
+    {
+      "basename": "Activación de instancias de Cortex XDR",
+      "path": "Ciberseguridad/Cortex XDR/Activación de instancias de Cortex XDR.md"
+    },
+    {
+      "basename": "Acciones de respuesta de endpoints",
+      "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
+    },
+    {
+      "basename": "Acceso a JSON mediante el formato sugar sintáctico",
+      "path": "Ciberseguridad/Cortex XDR/Acceso a JSON mediante el formato sugar sintáctico.md"
+    },
+    {
+      "basename": "Accesing JSON using extra functions",
+      "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
     {
       "basename": "Putty",
       "path": "Troubleshooting/Putty.md"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
     },
     {
       "basename": "2025-09-29",
@@ -29,172 +197,8 @@
       "path": "Ciberseguridad/Index/Cortex.md"
     },
     {
-      "basename": "Advanced Response Actions in Cortex XDR Pro",
-      "path": "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md"
-    },
-    {
       "basename": "Habilitación del servicio de CORTEX XDR EDL",
       "path": "Ciberseguridad/Cortex XDR/Habilitación del servicio de CORTEX XDR EDL.md"
-    },
-    {
-      "basename": "Descripción general de managed Threat Hunting",
-      "path": "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Ciberseguridad/Cortex XDR/Functions.md"
-    },
-    {
-      "basename": "Funciones XQL",
-      "path": "Ciberseguridad/Cortex XDR/Funciones XQL.md"
-    },
-    {
-      "basename": "Gestion de conjunto de datos",
-      "path": "Ciberseguridad/Cortex XDR/Gestion de conjunto de datos.md"
-    },
-    {
-      "basename": "Fundamentos de XQL",
-      "path": "Ciberseguridad/Cortex XDR/Fundamentos de XQL.md"
-    },
-    {
-      "basename": "Glosario Tanium",
-      "path": "Ciberseguridad/Tanium/Glosario Tanium.md"
-    },
-    {
-      "basename": "Pasted image 20251002121231",
-      "path": "Media/Pasted image 20251002121231.png"
-    },
-    {
-      "basename": "Pasted image 20251002121341",
-      "path": "Media/Pasted image 20251002121341.png"
-    },
-    {
-      "basename": "Preguntas seguridad",
-      "path": "Troubleshooting/Preguntas seguridad.md"
-    },
-    {
-      "basename": "IMG_1837",
-      "path": "Media/IMG_1837.jpeg"
-    },
-    {
-      "basename": "IMG_1836",
-      "path": "Media/IMG_1836.jpeg"
-    },
-    {
-      "basename": "BROKER VM OVERVIEW",
-      "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
-    },
-    {
-      "basename": "Basic XDR rules",
-      "path": "Ciberseguridad/Cortex XDR/Basic XDR rules.md"
-    },
-    {
-      "basename": "Campos multivalor",
-      "path": "Ciberseguridad/Cortex XDR/Campos multivalor.md"
-    },
-    {
-      "basename": "Basic Agent Troubleshooting",
-      "path": "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md"
-    },
-    {
-      "basename": "Alert Exclusions and Exceptions",
-      "path": "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md"
-    },
-    {
-      "basename": "Activar applets de maquina virtual de VM de bróker",
-      "path": "Ciberseguridad/Cortex XDR/Activar applets de maquina virtual de VM de bróker.md"
-    },
-    {
-      "basename": "Acciones de respuesta de endpoints",
-      "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
-    },
-    {
-      "basename": "Credits",
-      "path": "Ciberseguridad/Credits.md"
-    },
-    {
-      "basename": "Datos",
-      "path": "Ciberseguridad/Datos.md"
-    },
-    {
-      "basename": "Introduction to SecOps",
-      "path": "Ciberseguridad/Introduction to SecOps.md"
-    },
-    {
-      "basename": "Cortex Foundations - The Learning Center",
-      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
-    },
-    {
-      "basename": "Attack Index",
-      "path": "Ciberseguridad/Attack Index.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "Troubleshooting/VPN.md"
-    },
-    {
-      "basename": "Dos contraseñas para inicio de sesion",
-      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
-    },
-    {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
-      "basename": "Error de conexión",
-      "path": "Troubleshooting/Error de conexión.md"
-    },
-    {
-      "basename": "Tanium",
-      "path": "Ciberseguridad/Index/Tanium.md"
-    },
-    {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
-    },
-    {
-      "basename": "BPAs Tanium",
-      "path": "Ciberseguridad/BPAs Tanium.md"
-    },
-    {
-      "basename": "BPA",
-      "path": "Ciberseguridad/BPA.md"
-    },
-    {
-      "basename": "SOC Processes",
-      "path": "Ciberseguridad/SOC Processes.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN Certificaciones.md"
-    },
-    {
-      "basename": "Qualys",
-      "path": "Ciberseguridad/Qualys.md"
-    },
-    {
-      "basename": "Troubleshooting",
-      "path": "Ciberseguridad/Index/Troubleshooting.md"
-    },
-    {
-      "basename": "Azure",
-      "path": "Ciberseguridad/Index/Azure.md"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Troubleshooting/Index/Cortex.md"
-    },
-    {
-      "basename": "Allocation Failed",
-      "path": "Troubleshooting/Allocation Failed.md"
-    },
-    {
-      "basename": "Cleaner",
-      "path": "Ciberseguridad/Cortex XDR/Cleaner.md"
-    },
-    {
-      "basename": "Aprovisionamiento de Usuarios",
-      "path": "Ciberseguridad/Aprovisionamiento de Usuarios.md"
     }
   ],
   "omittedPaths": [],
