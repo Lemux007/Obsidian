@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Funciones XQL",
+      "path": "Ciberseguridad/Cortex XDR/Funciones XQL.md"
+    },
+    {
+      "basename": "FUNCTIONS",
+      "path": "Ciberseguridad/Cortex XDR/FUNCTIONS.md"
+    },
+    {
+      "basename": "XQL",
+      "path": "Ciberseguridad/Index/XQL.md"
+    },
+    {
+      "basename": "Syntax Basics",
+      "path": "Ciberseguridad/Cortex XDR/Syntax Basics.md"
+    },
+    {
+      "basename": "Entorno de desarrollo de XQL",
+      "path": "Ciberseguridad/Cortex XDR/Entorno de desarrollo de XQL.md"
+    },
+    {
+      "basename": "Fundamentos de XQL",
+      "path": "Ciberseguridad/Cortex XDR/Fundamentos de XQL.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "Escaneo de endpoints",
       "path": "Ciberseguridad/Cortex XDR/Escaneo de endpoints.md"
-    },
-    {
-      "basename": "Entorno de desarrollo de XQL",
-      "path": "Ciberseguridad/Cortex XDR/Entorno de desarrollo de XQL.md"
     },
     {
       "basename": "Discovery, Inventory, and Management of Network Assets",
@@ -121,10 +141,6 @@
       "path": "Ciberseguridad/Cortex XDR/Búsqueda orientada a datos.md"
     },
     {
-      "basename": "Funciones XQL",
-      "path": "Ciberseguridad/Cortex XDR/Funciones XQL.md"
-    },
-    {
       "basename": "Basic Agent Troubleshooting",
       "path": "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md"
     },
@@ -183,14 +199,6 @@
     {
       "basename": "Radware",
       "path": "Ciberseguridad/Radware/Radware.md"
-    },
-    {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Ciberseguridad/Index/Cortex.md"
     }
   ],
   "omittedPaths": [],
