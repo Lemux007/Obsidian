@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
+      "basename": "Configuration",
+      "path": "Configuration.md"
     },
     {
-      "basename": "Pruebas ESM",
-      "path": "Pruebas ESM.md"
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
     },
     {
       "basename": "Escaneo de endpoints",
@@ -173,10 +173,6 @@
       "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
     },
     {
-      "basename": "Configuration",
-      "path": "Configuration.md"
-    },
-    {
       "basename": "Putty",
       "path": "Troubleshooting/Putty.md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "Cortex",
       "path": "Ciberseguridad/Index/Cortex.md"
-    },
-    {
-      "basename": "Habilitación del servicio de CORTEX XDR EDL",
-      "path": "Ciberseguridad/Cortex XDR/Habilitación del servicio de CORTEX XDR EDL.md"
     }
   ],
   "omittedPaths": [],

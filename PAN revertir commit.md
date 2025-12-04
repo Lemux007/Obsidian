@@ -1,2 +1,0 @@
--mainSysroot01
--selct running config
