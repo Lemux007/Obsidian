@@ -15,7 +15,7 @@
    - xdr_data: Disponible en todos los tipos de licencia de cortex XSIaM. puede cambiar el conjunto de datos predeterminado en **Configuraciones > administracion de conjunto de datos** desde la consola de administracion de Cortex XSIAM.
 
 3. Saltos de linea en XQL: No hay ninguna restriccion en el numero de fases de una consulta XQL, lo que permie consultas potencialmente complejas. El compilador de consultas XQL omite los saltos de linea, lo que le permite dar formato a la consulta mediante saltos de linea para mejorar la legibilidad
-   ![[Pasted image 20241212162238.png]]
+   ![[Pasted image 20241212162238.png|1000]]
    4. Comentarios en XQL Puede agregar comentarios en consultas XQL utilizando los mismos metodos que usaria en C/C++ y java. El compilador de consultas XQL omite los comentarios. Hay dos tipos de comentarios en XQL, en linea y bloque.
       - // Comentarios en linea
       - /* Comentarios en 

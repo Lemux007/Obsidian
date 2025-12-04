@@ -37,7 +37,7 @@
 	   - Modulos de proteccion de malware especificamente diseñados para un tipo de ataque. 
 	   - Las restricciones son simples listas de direcciones y caminos desde donde los usuarios puedan correr archivos
 	   - Veredicto de hash de wildfire y el local analysis
-	     ![[Pasted image 20241211101931.png|800]]
+	     ![[Pasted image 20241211101931.png|1000]]
 	 1. Monitoreo posterior a la ejecucion: Una vez que los modulos de protección finalizan el examen permiten ejecutar el archivo y los modulos de proteccion posteriores a la ejecucion comienzan a monitorear continuamente las actividades del proceso en curso para detectar cualquier comportamiento anormal.
 	    ![[Pasted image 20241211102126.png]]
 8. Carga de alertas y registros: XDR puede cargar dos tipos de datos: Alertas y Registros

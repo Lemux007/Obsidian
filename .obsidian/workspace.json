@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "507b016c2f7c3d9d",
+        "id": "a57e3aee5e1878a6",
         "type": "tabs",
         "children": [
           {
-            "id": "831be76f602607b4",
+            "id": "cd1c38cbb6a7358e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Troubleshooting/Correo ESM.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Correo ESM"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -200,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "831be76f602607b4",
+  "active": "cd1c38cbb6a7358e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Troubleshooting/Correo ESM.md",
     "Excalidraw/Drawing 2025-12-01 10.35.27.excalidraw.md",
     "Ciberseguridad/Radware/2025-09-29.md",
@@ -209,7 +206,6 @@
     "Troubleshooting/Allocation Failed.md",
     "Ciberseguridad/Cortex XDR/Reglas de Política.md",
     "Configuration.md",
-    "conflict-files-obsidian-git.md",
     "PAN revertir commit.md",
     "Ciberseguridad/Radware/Radware.md",
     "Troubleshooting/Credenciales invalidas.md",

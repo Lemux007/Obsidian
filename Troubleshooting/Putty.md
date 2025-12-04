@@ -11,19 +11,21 @@ Iniciamos en sysroot0
 
 
 # Configuración de inicio 
+se
 Desactivar ZTP: set system ztp disable
 
 - configure
 - set deviceconfig system ip-address 192.168.78.252
 Si la queremos colocar por DHCP le damos: 
 - configure
-- set deviceconfig system type dhcp-client
+
 - set deviceconfig system dhcp-client-options accept-dhcp-domain no
 - set deviceconfig system dhcp-client-options accept-dhcp-hostname no
 - set deviceconfig system dhcp-client-options send-client-id no
 - set deviceconfig system dhcp-client-options send-hostname no
 - commit
-
+- set deviceconfig system type dhcp-client
+- 
 Configurar los servicios DNS en DEVICE/Setup/services y colocamos el primario y secundario
 
 Firewall de inspección de paquetes de estado: Basados en puertos y dependen en gran medida de la confiabilidad de los dos host, ya que los paquetes no se inspeccionan despues de establecer la conexion.
