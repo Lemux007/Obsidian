@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd1c38cbb6a7358e",
+            "id": "4e23333f6b8c1f07",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -196,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd1c38cbb6a7358e",
+  "active": "4e23333f6b8c1f07",
   "lastOpenFiles": [
+    "Configuration.md",
     "conflict-files-obsidian-git.md",
     "Troubleshooting/Correo ESM.md",
     "Excalidraw/Drawing 2025-12-01 10.35.27.excalidraw.md",
@@ -205,7 +206,6 @@
     "Troubleshooting/Preguntas seguridad.md",
     "Troubleshooting/Allocation Failed.md",
     "Ciberseguridad/Cortex XDR/Reglas de Política.md",
-    "Configuration.md",
     "PAN revertir commit.md",
     "Ciberseguridad/Radware/Radware.md",
     "Troubleshooting/Credenciales invalidas.md",
