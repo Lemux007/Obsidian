@@ -11,10 +11,14 @@
             "id": "bc71f73cc14843dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Configuration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuration"
             }
           }
         ]
@@ -214,8 +218,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f57143b7aba96585",
+  "active": "3139ebbbf901fd0d",
   "lastOpenFiles": [
+    "Drawing 2025-12-22 17.45.51.excalidraw.md",
+    "Configuration.md",
+    "Drawing 2025-12-22 17.27.07.excalidraw.md",
+    "Untitled 1.canvas",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Ciberseguridad/Radware/2025-09-29.md",
@@ -226,7 +235,6 @@
     "Ciberseguridad/Cortex XDR/Syntax Basics.md",
     "Ciberseguridad/Cortex XDR/Entorno de desarrollo de XQL.md",
     "Ciberseguridad/Cortex XDR/Fundamentos de XQL.md",
-    "Configuration.md",
     "Troubleshooting/Correo ESM.md",
     "Pruebas ESM.md",
     "PAN revertir commit.md",
@@ -240,9 +248,6 @@
     "Ciberseguridad/Cortex XDR/Creación de reglas de automatización.md",
     "Ciberseguridad/Cortex XDR/Creación de Incidentes.md",
     "Ciberseguridad/Cortex XDR/Creación de consultas sencillas.md",
-    "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md",
-    "Ciberseguridad/Cortex XDR/Cortex XDR Ingestion flow.md",
-    "Ciberseguridad/Cortex XDR/Control de acceso.md",
     "PBX Conmutador.canvas",
     "Media/Pasted image 20251002121341.png",
     "Media/Pasted image 20251002121231.png",
