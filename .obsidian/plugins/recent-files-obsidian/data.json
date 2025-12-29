@@ -5,16 +5,20 @@
       "path": "Ciberseguridad/Radware/Radware.md"
     },
     {
+      "basename": "Cortex Foundations - The Learning Center",
+      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
+    },
+    {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/PAN Certificaciones.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Ciberseguridad/Radware/Untitled.md"
     },
     {
       "basename": "Certificaciones",
       "path": "Ciberseguridad/Index/Certificaciones.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN Certificaciones.md"
     },
     {
       "basename": "Azure",
@@ -155,10 +159,6 @@
     {
       "basename": "Introduction to SecOps",
       "path": "Ciberseguridad/Introduction to SecOps.md"
-    },
-    {
-      "basename": "Cortex Foundations - The Learning Center",
-      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
     },
     {
       "basename": "Attack Index",
