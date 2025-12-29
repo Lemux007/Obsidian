@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Application Protection Training for Partners",
+      "path": "Ciberseguridad/Radware/Application Protection Training for Partners.md"
+    },
+    {
       "basename": "Radware",
       "path": "Ciberseguridad/Radware/Radware.md"
+    },
+    {
+      "basename": "Pre-Sales Certification",
+      "path": "Ciberseguridad/Radware/Pre-Sales Certification.md"
     },
     {
       "basename": "Cortex Foundations - The Learning Center",
@@ -191,14 +199,6 @@
     {
       "basename": "BPA",
       "path": "Ciberseguridad/BPA.md"
-    },
-    {
-      "basename": "SOC Processes",
-      "path": "Ciberseguridad/SOC Processes.md"
-    },
-    {
-      "basename": "Qualys",
-      "path": "Ciberseguridad/Qualys.md"
     }
   ],
   "omittedPaths": [],
