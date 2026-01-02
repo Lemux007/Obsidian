@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "14f9e082743a1028",
+        "id": "5af603210894f7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "bc71f73cc14843dd",
+            "id": "fde865be0125880c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Radware/Application Protection Training for Partners.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Application Protection Training for Partners"
-            }
-          },
-          {
-            "id": "692ff1b61ee61a21",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +214,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3139ebbbf901fd0d",
+  "active": "fde865be0125880c",
   "lastOpenFiles": [
-    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
+    "Troubleshooting/Bloqueo de credenciales.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
+    "Troubleshooting/VPN.md",
+    "Troubleshooting/Correo ESM.md",
+    "Troubleshooting/Creación VPN.md",
+    "Troubleshooting/Credenciales invalidas.md",
+    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
+    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
     "Media/1764889433920appoutputcertificate1PfANjOgsc.png",
     "Ciberseguridad/Radware/Radware.md",
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
@@ -259,11 +250,6 @@
     "Ciberseguridad/Index/XQL.md",
     "Ciberseguridad/Cortex XDR/Syntax Basics.md",
     "Ciberseguridad/Cortex XDR/Entorno de desarrollo de XQL.md",
-    "Ciberseguridad/Cortex XDR/Fundamentos de XQL.md",
-    "Troubleshooting/Correo ESM.md",
-    "Pruebas ESM.md",
-    "PAN revertir commit.md",
-    "Ciberseguridad/Cortex XDR/Escaneo de endpoints.md",
     "Media/Pasted image 20251002121341.png",
     "Media/Pasted image 20251002121231.png",
     "Media/IMG_1837.jpeg",
