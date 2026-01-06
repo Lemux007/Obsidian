@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Error de conexión",
+      "path": "Troubleshooting/Error de conexión.md"
     },
     {
       "basename": "Configuration",
@@ -31,10 +43,6 @@
     {
       "basename": "Radware",
       "path": "Ciberseguridad/Radware/Radware.md"
-    },
-    {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
     },
     {
       "basename": "Cortex",
@@ -137,20 +145,12 @@
       "path": "Ciberseguridad/Attack Index.md"
     },
     {
-      "basename": "VPN",
-      "path": "Troubleshooting/VPN.md"
-    },
-    {
       "basename": "Dos contraseñas para inicio de sesion",
       "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
     },
     {
       "basename": "Bloqueo de credenciales",
       "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
-      "basename": "Error de conexión",
-      "path": "Troubleshooting/Error de conexión.md"
     },
     {
       "basename": "Tanium",

@@ -14,7 +14,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Graph view"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -183,23 +183,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "4e23333f6b8c1f07",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "PBX Conmutador.canvas",
     "Untitled.canvas",
+    "Troubleshooting/Credenciales invalidas.md",
+    "Troubleshooting/VPN.md",
+    "Troubleshooting/Error de conexión.md",
+    "conflict-files-obsidian-git.md",
     "Configuration.md",
     "Troubleshooting/Correo ESM.md",
     "Excalidraw/Drawing 2025-12-01 10.35.27.excalidraw.md",
@@ -209,7 +213,6 @@
     "Ciberseguridad/Cortex XDR/Reglas de Política.md",
     "PAN revertir commit.md",
     "Ciberseguridad/Radware/Radware.md",
-    "Troubleshooting/Credenciales invalidas.md",
     "Apps.md",
     "Ciberseguridad/Index/Cortex.md",
     "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md",
@@ -228,8 +231,6 @@
     "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md",
     "Ciberseguridad/Radware/Sin título 1.md",
     "Ciberseguridad/Radware",
-    "Ciberseguridad/Cortex XDR/Basic XDR rules.md",
-    "Ciberseguridad/Cortex XDR/Campos multivalor.md",
     "Ciberseguridad/Tanium"
   ]
 }
