@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Trend Micro Certificaciones",
+      "path": "Ciberseguridad/Trend Micro Certificaciones.md"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/PAN Certificaciones.md"
+    },
+    {
+      "basename": "Cursos completados",
+      "path": "Ciberseguridad/Cursos completados.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.base"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "Drawing 2026-01-08 11.55.17.excalidraw",
+      "path": "Excalidraw/Drawing 2026-01-08 11.55.17.excalidraw.md"
+    },
+    {
       "basename": "Frameworks",
       "path": "Ciberseguridad/Index/Frameworks.md"
     },
@@ -9,20 +37,12 @@
       "path": "Ciberseguridad/NIST ESPECIAL.md"
     },
     {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
-    },
-    {
       "basename": "Bloqueo de credenciales",
       "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
     {
       "basename": "Credenciales invalidas",
       "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "PBX Conmutador",
-      "path": "PBX Conmutador.canvas"
     },
     {
       "basename": "VPN",
@@ -179,26 +199,6 @@
     {
       "basename": "SOC Processes",
       "path": "Ciberseguridad/SOC Processes.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN Certificaciones.md"
-    },
-    {
-      "basename": "Qualys",
-      "path": "Ciberseguridad/Qualys.md"
-    },
-    {
-      "basename": "Troubleshooting",
-      "path": "Ciberseguridad/Index/Troubleshooting.md"
-    },
-    {
-      "basename": "Azure",
-      "path": "Ciberseguridad/Index/Azure.md"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Troubleshooting/Index/Cortex.md"
     }
   ],
   "omittedPaths": [],

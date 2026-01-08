@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a57e3aee5e1878a6",
+        "id": "254ad35ee4f1c995",
         "type": "tabs",
         "children": [
           {
-            "id": "4e23333f6b8c1f07",
+            "id": "9cb28a6dac3caeee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Trend Micro Certificaciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trend Micro Certificaciones"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Tanium/Glosario Tanium.md",
+                "file": "Ciberseguridad/Trend Micro Certificaciones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Glosario Tanium"
+              "title": "Outline of Trend Micro Certificaciones"
             }
           },
           {
@@ -155,6 +159,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "1dc494b3ef9204fe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -196,11 +210,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e23333f6b8c1f07",
+  "active": "9cb28a6dac3caeee",
   "lastOpenFiles": [
+    "Ciberseguridad/Index/Certificaciones.md",
+    "Ciberseguridad/PAN Certificaciones.md",
+    "Ciberseguridad/Cursos completados.md",
+    "Untitled.base",
+    "PBX Conmutador.canvas",
+    "Excalidraw/Drawing 2026-01-08 11.55.17.excalidraw.md",
     "Ciberseguridad/Index/Frameworks.md",
     "Ciberseguridad/NIST ESPECIAL.md",
-    "Ciberseguridad/Index/Certificaciones.md",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Troubleshooting/Credenciales invalidas.md",
     "conflict-files-obsidian-git.md",
@@ -210,7 +229,6 @@
     "Ciberseguridad/Radware/Untitled.md",
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
-    "PBX Conmutador.canvas",
     "Untitled.canvas",
     "Troubleshooting/VPN.md",
     "Troubleshooting/Error de conexión.md",
@@ -226,9 +244,6 @@
     "Apps.md",
     "Ciberseguridad/Index/Cortex.md",
     "Ciberseguridad/Cortex XDR/Advanced Response Actions in Cortex XDR Pro.md",
-    "Ciberseguridad/Cortex XDR/Habilitación del servicio de CORTEX XDR EDL.md",
-    "Ciberseguridad/Cortex XDR/Descripción general de managed Threat Hunting.md",
-    "Ciberseguridad/Cortex XDR/Functions.md",
     "Media/Pasted image 20251002121231.png",
     "Notas Random",
     "Media/Pasted image 20251002121341.png",
