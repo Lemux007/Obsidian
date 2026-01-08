@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "PBX Conmutador",
-      "path": "PBX Conmutador.canvas"
+      "basename": "Frameworks",
+      "path": "Ciberseguridad/Index/Frameworks.md"
+    },
+    {
+      "basename": "NIST ESPECIAL",
+      "path": "Ciberseguridad/NIST ESPECIAL.md"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
     {
       "basename": "Credenciales invalidas",
       "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
     },
     {
       "basename": "VPN",
@@ -149,16 +165,8 @@
       "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
     },
     {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
       "basename": "Tanium",
       "path": "Ciberseguridad/Index/Tanium.md"
-    },
-    {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
     },
     {
       "basename": "BPAs Tanium",
@@ -191,10 +199,6 @@
     {
       "basename": "Cortex",
       "path": "Troubleshooting/Index/Cortex.md"
-    },
-    {
-      "basename": "Cleaner",
-      "path": "Ciberseguridad/Cortex XDR/Cleaner.md"
     }
   ],
   "omittedPaths": [],
