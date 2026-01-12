@@ -1,2 +1,2 @@
 #Nodo
-![[Pasted image 20260112125653.png]]
+![[Pasted image 20260112125653.png|900]]
