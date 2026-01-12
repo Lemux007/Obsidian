@@ -148,12 +148,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Firewall Avanzado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Firewall Avanzado"
+              "title": "Outgoing links"
             }
           },
           {
@@ -162,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Firewall Avanzado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Firewall Avanzado"
+              "title": "Outline"
             }
           },
           {
@@ -265,12 +263,12 @@
       }
     ]
   },
-  "active": "a361c99cb4766eea",
+  "active": "900bef124c391955",
   "lastOpenFiles": [
+    "Ciberseguridad/Firewall Avanzado.md",
     "Ciberseguridad/Firewall Basico.md",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
-    "Ciberseguridad/Firewall Avanzado.md",
     "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md",
     "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md",
     "Ciberseguridad/Cortex XDR/Acceso a JSON mediante el formato sugar sintáctico.md",
