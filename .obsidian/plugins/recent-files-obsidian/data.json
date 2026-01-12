@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Firewall Avanzado",
+      "path": "Ciberseguridad/Firewall Avanzado.md"
+    },
+    {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/Firewall Basico.md"
+    },
+    {
+      "basename": "Accesing JSON using extra functions",
+      "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
+    },
+    {
       "basename": "Acciones de respuesta de endpoints",
       "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
     },
     {
       "basename": "Acceso a JSON mediante el formato sugar sintáctico",
       "path": "Ciberseguridad/Cortex XDR/Acceso a JSON mediante el formato sugar sintáctico.md"
-    },
-    {
-      "basename": "Accesing JSON using extra functions",
-      "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
     },
     {
       "basename": "Configuration",
@@ -191,14 +199,6 @@
     {
       "basename": "Campos multivalor",
       "path": "Ciberseguridad/Cortex XDR/Campos multivalor.md"
-    },
-    {
-      "basename": "Basic Agent Troubleshooting",
-      "path": "Ciberseguridad/Cortex XDR/Basic Agent Troubleshooting.md"
-    },
-    {
-      "basename": "Alert Exclusions and Exceptions",
-      "path": "Ciberseguridad/Cortex XDR/Alert Exclusions and Exceptions.md"
     }
   ],
   "omittedPaths": [],
