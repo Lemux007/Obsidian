@@ -5,6 +5,10 @@
       "path": "Ciberseguridad/WEB SSO.md"
     },
     {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/PAN Certificaciones.md"
+    },
+    {
       "basename": "Perfiles",
       "path": "Ciberseguridad/Cortex XDR/Perfiles.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Qualys",
       "path": "Ciberseguridad/Qualys.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN Certificaciones.md"
     },
     {
       "basename": "Proxy",

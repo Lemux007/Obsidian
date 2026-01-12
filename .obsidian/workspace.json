@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "WEB SSO"
             }
-          },
-          {
-            "id": "2835bd846f877165",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#nodoo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,8 +218,44 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "5c5affa64f1ddd48",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4281badb3baeb37f",
+        "type": "window",
+        "children": [
+          {
+            "id": "810a3cc7b43d73ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2835bd846f877165",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -907,
+        "y": 120,
+        "width": 652,
+        "height": 760,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "2835bd846f877165",
   "lastOpenFiles": [
+    "Ciberseguridad/PAN Certificaciones.md",
     "Ciberseguridad/WEB SSO.md",
     "Ciberseguridad/Cortex XDR/Perfiles.md",
     "Ciberseguridad/Trend Vision One XDR for Cloud.md",
@@ -242,7 +267,6 @@
     "Ciberseguridad/SOC.md",
     "Ciberseguridad/SecOps.md",
     "Ciberseguridad/Qualys.md",
-    "Ciberseguridad/PAN Certificaciones.md",
     "Ciberseguridad/Proxy.md",
     "Ciberseguridad/Operational Technology Understanding the Basics.md",
     "Ciberseguridad/Forensics Understanding the Basics.md",

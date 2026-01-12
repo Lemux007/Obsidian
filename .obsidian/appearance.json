@@ -1,9 +1,10 @@
 {
   "enabledCssSnippets": [
-    "ancho100"
+    "ancho100",
+    "Graphlinecolor"
   ],
-  "cssTheme": "Hackthebox",
-  "accentColor": "#f5cc5c",
+  "cssTheme": "Flexoki",
+  "accentColor": "#7d5cf5",
   "theme": "obsidian",
   "baseFontSizeAction": false
 }
