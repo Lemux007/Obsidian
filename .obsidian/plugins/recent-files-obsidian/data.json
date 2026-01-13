@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/Firewall Basico.md"
+    },
+    {
       "basename": "WEB SSO",
       "path": "Ciberseguridad/WEB SSO.md"
     },
@@ -143,10 +147,6 @@
     {
       "basename": "Configuration",
       "path": "Configuration.md"
-    },
-    {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/Firewall Basico.md"
     },
     {
       "basename": "Firewall Avanzado",

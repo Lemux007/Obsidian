@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/WEB SSO.md",
+                "file": "Ciberseguridad/Firewall Basico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WEB SSO"
+              "title": "Firewall Basico"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -100,11 +101,22 @@
         "dimension": 53.84615384615385,
         "children": [
           {
+            "id": "a361c99cb4766eea",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "3c1c6e1680d9e593",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciberseguridad/WEB SSO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for WEB SSO"
             }
           },
           {
@@ -138,11 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ciberseguridad/WEB SSO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from WEB SSO"
             }
           },
           {
@@ -151,22 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ciberseguridad/WEB SSO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "a361c99cb4766eea",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of WEB SSO"
             }
           },
           {
@@ -179,8 +183,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "77f2903fd4791bbf",
@@ -201,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,10 +256,11 @@
       }
     ]
   },
-  "active": "2835bd846f877165",
+  "active": "375c18f857bdada3",
   "lastOpenFiles": [
-    "Ciberseguridad/PAN Certificaciones.md",
+    "Ciberseguridad/Firewall Basico.md",
     "Ciberseguridad/WEB SSO.md",
+    "Ciberseguridad/PAN Certificaciones.md",
     "Ciberseguridad/Cortex XDR/Perfiles.md",
     "Ciberseguridad/Trend Vision One XDR for Cloud.md",
     "Ciberseguridad/Trend Vision One Credits 101.md",
@@ -280,7 +284,6 @@
     "Excalidraw/Diagrama OSI Model.md",
     "CompTia Networking +/Study Plan.md",
     "CompTia Networking +/Fase 1/Network Devices.md",
-    "CompTia Networking +/Fase 1/MAC.md",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
     "Media/300 101E  DefensePro X Level 1 Technical.png",
