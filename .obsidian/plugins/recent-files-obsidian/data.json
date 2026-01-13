@@ -5,6 +5,10 @@
       "path": "Ciberseguridad/Firewall Basico.md"
     },
     {
+      "basename": "Reglas de prevención personalizadas",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
+    },
+    {
       "basename": "WEB SSO",
       "path": "Ciberseguridad/WEB SSO.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Certificaciones",
       "path": "Ciberseguridad/Index/Certificaciones.md"
-    },
-    {
-      "basename": "Radware",
-      "path": "Ciberseguridad/Radware/Radware.md"
     }
   ],
   "omittedPaths": [],

@@ -247,17 +247,18 @@
           }
         ],
         "direction": "vertical",
-        "x": -907,
-        "y": 120,
-        "width": 652,
-        "height": 760,
+        "x": -1158,
+        "y": 205,
+        "width": 435,
+        "height": 507,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "375c18f857bdada3",
+  "active": "2835bd846f877165",
   "lastOpenFiles": [
+    "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md",
     "Ciberseguridad/Firewall Basico.md",
     "Ciberseguridad/WEB SSO.md",
     "Ciberseguridad/PAN Certificaciones.md",
@@ -283,7 +284,6 @@
     "Ciberseguridad/BPAs Tanium.md",
     "Excalidraw/Diagrama OSI Model.md",
     "CompTia Networking +/Study Plan.md",
-    "CompTia Networking +/Fase 1/Network Devices.md",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
     "Media/300 101E  DefensePro X Level 1 Technical.png",
