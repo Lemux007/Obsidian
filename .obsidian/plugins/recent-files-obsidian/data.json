@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2026-01-13 17.00.17.excalidraw",
+      "path": "Excalidraw/Drawing 2026-01-13 17.00.17.excalidraw.md"
+    },
+    {
       "basename": "Firewall Basico",
       "path": "Ciberseguridad/Firewall Basico.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MITRE Understanding the Basics",
       "path": "Ciberseguridad/Cortex XDR/MITRE Understanding the Basics.md"
-    },
-    {
-      "basename": "Certificaciones",
-      "path": "Ciberseguridad/Index/Certificaciones.md"
     }
   ],
   "omittedPaths": [],

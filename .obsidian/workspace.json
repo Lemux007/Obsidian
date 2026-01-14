@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Firewall Basico"
             }
+          },
+          {
+            "id": "7202ea1c7c3aa3ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-13 17.00.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-13 17.00.17.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -256,9 +268,12 @@
       }
     ]
   },
-  "active": "2835bd846f877165",
+  "active": "7202ea1c7c3aa3ae",
   "lastOpenFiles": [
     "Ciberseguridad/Firewall Basico.md",
+    "Excalidraw/Drawing 2026-01-13 17.00.17.excalidraw.md",
+    "Media/Pasted Image 20260113171145_174.png",
+    "Media/Pasted Image 20260113170931_592.png",
     "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md",
     "Ciberseguridad/WEB SSO.md",
     "Ciberseguridad/PAN Certificaciones.md",
@@ -282,8 +297,6 @@
     "Ciberseguridad/Certificado Digital.md",
     "Ciberseguridad/Containers Understanding the Basics.md",
     "Ciberseguridad/BPAs Tanium.md",
-    "Excalidraw/Diagrama OSI Model.md",
-    "CompTia Networking +/Study Plan.md",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
     "Media/300 101E  DefensePro X Level 1 Technical.png",
@@ -296,8 +309,6 @@
     "Untitled.canvas",
     "Media/Pasted image 20251002121231.png",
     "Notas Random",
-    "Media/Pasted image 20251002121341.png",
-    "Media/IMG_1837.jpeg",
     "Ciberseguridad/Radware",
     "Ciberseguridad/Tanium"
   ]
