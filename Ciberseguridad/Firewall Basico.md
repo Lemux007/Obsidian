@@ -18,3 +18,4 @@ c. Configure las reglas de seguridad necesarias para que la Zona Trust tenga ac
 d. Los usuarios de la zona Trust tendrán negado el acceso a aplicaciones Peer to Peer, Facebook y youtube, excepto el usuario de la IP 10.1.1.15 el cual tendrá acceso a todo.
 
 e. Configure la publicación de un servidor Web que vive en la zona DMZ y tiene la IP 172.16.1.15
+

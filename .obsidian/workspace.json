@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "654af9e1b56fbb19",
+        "id": "e845d64e64f9f311",
         "type": "tabs",
         "children": [
           {
-            "id": "375c18f857bdada3",
+            "id": "3e1c5a12d6a51587",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Firewall Basico.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Firewall Basico"
-            }
-          },
-          {
-            "id": "7202ea1c7c3aa3ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-13 17.00.17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-13 17.00.17.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,44 +216,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "5c5affa64f1ddd48",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4281badb3baeb37f",
-        "type": "window",
-        "children": [
-          {
-            "id": "810a3cc7b43d73ff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2835bd846f877165",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1158,
-        "y": 205,
-        "width": 435,
-        "height": 507,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7202ea1c7c3aa3ae",
+  "active": "3e1c5a12d6a51587",
   "lastOpenFiles": [
+    "Ciberseguridad/Credits.md",
+    "Ciberseguridad/Index/Trend Micro.md",
+    "Ciberseguridad/RootKitBuster.md",
+    "Ciberseguridad/Fake AVV & ATTK.md",
+    "Ciberseguridad/HouseCall.md",
+    "Ciberseguridad/Attack Index.md",
+    "Ciberseguridad/Tanium Cloud Deployment.md",
+    "Ciberseguridad/Tr",
+    "Ciberseguridad/Linux/1-15-26.md",
+    "Notas Random/2026-01-15.md",
     "Ciberseguridad/Firewall Basico.md",
+    "Ciberseguridad/Linux",
     "Excalidraw/Drawing 2026-01-13 17.00.17.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Media/Pasted Image 20260113171145_174.png",
@@ -289,15 +248,6 @@
     "Ciberseguridad/SecOps.md",
     "Ciberseguridad/Qualys.md",
     "Ciberseguridad/Proxy.md",
-    "Ciberseguridad/Operational Technology Understanding the Basics.md",
-    "Ciberseguridad/Forensics Understanding the Basics.md",
-    "Ciberseguridad/Glosario Trend Micro.md",
-    "Ciberseguridad/Email Risk Management.md",
-    "Ciberseguridad/Exposure Index.md",
-    "Ciberseguridad/Delivering Tanium Support Services.md",
-    "Ciberseguridad/Certificado Digital.md",
-    "Ciberseguridad/Containers Understanding the Basics.md",
-    "Ciberseguridad/BPAs Tanium.md",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
     "Media/300 101E  DefensePro X Level 1 Technical.png",

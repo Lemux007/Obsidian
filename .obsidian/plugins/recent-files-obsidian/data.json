@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2026-01-13 17.00.17.excalidraw",
-      "path": "Excalidraw/Drawing 2026-01-13 17.00.17.excalidraw.md"
+      "basename": "Credits",
+      "path": "Ciberseguridad/Credits.md"
+    },
+    {
+      "basename": "Trend Micro",
+      "path": "Ciberseguridad/Index/Trend Micro.md"
+    },
+    {
+      "basename": "RootKitBuster",
+      "path": "Ciberseguridad/RootKitBuster.md"
+    },
+    {
+      "basename": "Fake AVV & ATTK",
+      "path": "Ciberseguridad/Fake AVV & ATTK.md"
+    },
+    {
+      "basename": "HouseCall",
+      "path": "Ciberseguridad/HouseCall.md"
+    },
+    {
+      "basename": "Attack Index",
+      "path": "Ciberseguridad/Attack Index.md"
+    },
+    {
+      "basename": "Tanium Cloud Deployment",
+      "path": "Ciberseguridad/Tanium Cloud Deployment.md"
+    },
+    {
+      "basename": "1-15-26",
+      "path": "Ciberseguridad/Linux/1-15-26.md"
+    },
+    {
+      "basename": "2026-01-15",
+      "path": "Notas Random/2026-01-15.md"
     },
     {
       "basename": "Firewall Basico",
@@ -167,34 +199,6 @@
     {
       "basename": "Acciones de respuesta de endpoints",
       "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
-    },
-    {
-      "basename": "Acceso a JSON mediante el formato sugar sintáctico",
-      "path": "Ciberseguridad/Cortex XDR/Acceso a JSON mediante el formato sugar sintáctico.md"
-    },
-    {
-      "basename": "Preguntas seguridad",
-      "path": "Troubleshooting/Preguntas seguridad.md"
-    },
-    {
-      "basename": "300 101E  DefensePro X Level 1 Technical",
-      "path": "Media/300 101E  DefensePro X Level 1 Technical.png"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Troubleshooting/Index/Cortex.md"
-    },
-    {
-      "basename": "Email and Collaboration Security",
-      "path": "Ciberseguridad/Email and Collaboration Security.md"
-    },
-    {
-      "basename": "Trend Micro Certificaciones",
-      "path": "Ciberseguridad/Trend Micro Certificaciones.md"
-    },
-    {
-      "basename": "Vision One for Administrators",
-      "path": "Ciberseguridad/Vision One for Administrators.md"
     }
   ],
   "omittedPaths": [],
