@@ -11,10 +11,10 @@
             "id": "3e1c5a12d6a51587",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -67,7 +67,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           },
           {
@@ -216,8 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e1c5a12d6a51587",
+  "active": "a3e6c54a14b814d7",
   "lastOpenFiles": [
+    "Troubleshooting/Credenciales invalidas.md",
+    "Troubleshooting/VPN.md",
+    "Troubleshooting/Reducción de tamaño VM.md",
+    "Troubleshooting/Correo ESM.md",
     "Ciberseguridad/Credits.md",
     "Ciberseguridad/Index/Trend Micro.md",
     "Ciberseguridad/RootKitBuster.md",
@@ -244,10 +248,6 @@
     "Ciberseguridad/Tanium Certificaciones.md",
     "Ciberseguridad/Teoría de la información.md",
     "Ciberseguridad/SOC Processes.md",
-    "Ciberseguridad/SOC.md",
-    "Ciberseguridad/SecOps.md",
-    "Ciberseguridad/Qualys.md",
-    "Ciberseguridad/Proxy.md",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
     "Media/300 101E  DefensePro X Level 1 Technical.png",

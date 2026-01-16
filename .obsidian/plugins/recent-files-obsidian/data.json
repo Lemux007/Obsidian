@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Reducción de tamaño VM",
+      "path": "Troubleshooting/Reducción de tamaño VM.md"
+    },
+    {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
       "basename": "Credits",
       "path": "Ciberseguridad/Credits.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "OSI Model",
       "path": "CompTia Networking +/Fase 1/OSI Model.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
-    },
-    {
-      "basename": "Firewall Avanzado",
-      "path": "Ciberseguridad/Firewall Avanzado.md"
-    },
-    {
-      "basename": "Accesing JSON using extra functions",
-      "path": "Ciberseguridad/Cortex XDR/Accesing JSON using extra functions.md"
-    },
-    {
-      "basename": "Acciones de respuesta de endpoints",
-      "path": "Ciberseguridad/Cortex XDR/Acciones de respuesta de endpoints.md"
     }
   ],
   "omittedPaths": [],
