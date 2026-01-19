@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#nodoo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,6 +218,7 @@
   },
   "active": "a3e6c54a14b814d7",
   "lastOpenFiles": [
+    "Notas Random/2026-01-15.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Troubleshooting/VPN.md",
     "Troubleshooting/Reducción de tamaño VM.md",
@@ -229,9 +230,8 @@
     "Ciberseguridad/HouseCall.md",
     "Ciberseguridad/Attack Index.md",
     "Ciberseguridad/Tanium Cloud Deployment.md",
-    "Ciberseguridad/Tr",
+    "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Linux/1-15-26.md",
-    "Notas Random/2026-01-15.md",
     "Ciberseguridad/Firewall Basico.md",
     "Ciberseguridad/Linux",
     "Excalidraw/Drawing 2026-01-13 17.00.17.excalidraw.md",
