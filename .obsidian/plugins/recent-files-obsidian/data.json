@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
+      "basename": "Radware",
+      "path": "Ciberseguridad/Radware/Radware.md"
+    },
+    {
+      "basename": "300-101E",
+      "path": "Ciberseguridad/Radware/300-101E.md"
+    },
+    {
+      "basename": "Application Protection Training for Partners",
+      "path": "Ciberseguridad/Radware/Application Protection Training for Partners.md"
+    },
+    {
+      "basename": "Pre-Sales Certification",
+      "path": "Ciberseguridad/Radware/Pre-Sales Certification.md"
+    },
+    {
+      "basename": "Tanium Certificaciones",
+      "path": "Ciberseguridad/Tanium Certificaciones.md"
+    },
+    {
+      "basename": "Working with Tanium Core",
+      "path": "Ciberseguridad/Working with Tanium Core.md"
+    },
+    {
+      "basename": "Tanium Cloud Deployment",
+      "path": "Ciberseguridad/Tanium Cloud Deployment.md"
+    },
+    {
+      "basename": "Delivering Tanium Support Services",
+      "path": "Ciberseguridad/Delivering Tanium Support Services.md"
+    },
+    {
+      "basename": "Tanium Essentials (TANE) 7.4.5",
+      "path": "Ciberseguridad/Tanium Essentials (TANE) 7.4.5.md"
+    },
+    {
+      "basename": "Getting Started with Tanium WBT",
+      "path": "Ciberseguridad/Getting Started with Tanium WBT.md"
+    },
+    {
+      "basename": "Trend Micro Certificaciones",
+      "path": "Ciberseguridad/Trend Micro Certificaciones.md"
+    },
+    {
+      "basename": "Email Risk Management",
+      "path": "Ciberseguridad/Email Risk Management.md"
+    },
+    {
+      "basename": "XDR for Email",
+      "path": "Ciberseguridad/XDR for Email.md"
+    },
+    {
+      "basename": "Email and Collaboration Security",
+      "path": "Ciberseguridad/Email and Collaboration Security.md"
+    },
+    {
+      "basename": "Trend Vision One XDR for Cloud",
+      "path": "Ciberseguridad/Trend Vision One XDR for Cloud.md"
+    },
+    {
+      "basename": "Containers Understanding the Basics",
+      "path": "Ciberseguridad/Containers Understanding the Basics.md"
+    },
+    {
+      "basename": "Vision One for Administrators",
+      "path": "Ciberseguridad/Vision One for Administrators.md"
+    },
+    {
+      "basename": "MITRE Understanding the Basics",
+      "path": "Ciberseguridad/Cortex XDR/MITRE Understanding the Basics.md"
+    },
+    {
+      "basename": "Trend Vision One Credits 101",
+      "path": "Ciberseguridad/Trend Vision One Credits 101.md"
+    },
+    {
+      "basename": "Forensics Understanding the Basics",
+      "path": "Ciberseguridad/Forensics Understanding the Basics.md"
+    },
+    {
+      "basename": "Operational Technology Understanding the Basics",
+      "path": "Ciberseguridad/Operational Technology Understanding the Basics.md"
+    },
+    {
+      "basename": "Trend Vision One Understanding the Basics",
+      "path": "Ciberseguridad/Trend Vision One Understanding the Basics.md"
+    },
+    {
+      "basename": "Trend Campus Foundation",
+      "path": "Ciberseguridad/Trend Campus Foundation.md"
+    },
+    {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/PAN Certificaciones.md"
+    },
+    {
+      "basename": "Cortex Foundations - The Learning Center",
+      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
+    },
+    {
+      "basename": "SOC Processes",
+      "path": "Ciberseguridad/SOC Processes.md"
+    },
+    {
+      "basename": "Introduction to SecOps",
+      "path": "Ciberseguridad/Introduction to SecOps.md"
+    },
+    {
       "basename": "2026-01-16",
       "path": "Notas Random/2026-01-16.md"
     },
@@ -45,10 +157,6 @@
       "path": "Ciberseguridad/Attack Index.md"
     },
     {
-      "basename": "Tanium Cloud Deployment",
-      "path": "Ciberseguridad/Tanium Cloud Deployment.md"
-    },
-    {
       "basename": "1-15-26",
       "path": "Ciberseguridad/Linux/1-15-26.md"
     },
@@ -69,36 +177,12 @@
       "path": "Ciberseguridad/WEB SSO.md"
     },
     {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN Certificaciones.md"
-    },
-    {
       "basename": "Perfiles",
       "path": "Ciberseguridad/Cortex XDR/Perfiles.md"
     },
     {
-      "basename": "Trend Vision One XDR for Cloud",
-      "path": "Ciberseguridad/Trend Vision One XDR for Cloud.md"
-    },
-    {
-      "basename": "Trend Vision One Credits 101",
-      "path": "Ciberseguridad/Trend Vision One Credits 101.md"
-    },
-    {
-      "basename": "Trend Campus Foundation",
-      "path": "Ciberseguridad/Trend Campus Foundation.md"
-    },
-    {
-      "basename": "Tanium Certificaciones",
-      "path": "Ciberseguridad/Tanium Certificaciones.md"
-    },
-    {
       "basename": "Teoría de la información",
       "path": "Ciberseguridad/Teoría de la información.md"
-    },
-    {
-      "basename": "SOC Processes",
-      "path": "Ciberseguridad/SOC Processes.md"
     },
     {
       "basename": "SOC",
@@ -115,90 +199,6 @@
     {
       "basename": "Proxy",
       "path": "Ciberseguridad/Proxy.md"
-    },
-    {
-      "basename": "Operational Technology Understanding the Basics",
-      "path": "Ciberseguridad/Operational Technology Understanding the Basics.md"
-    },
-    {
-      "basename": "Forensics Understanding the Basics",
-      "path": "Ciberseguridad/Forensics Understanding the Basics.md"
-    },
-    {
-      "basename": "Glosario Trend Micro",
-      "path": "Ciberseguridad/Glosario Trend Micro.md"
-    },
-    {
-      "basename": "Email Risk Management",
-      "path": "Ciberseguridad/Email Risk Management.md"
-    },
-    {
-      "basename": "Exposure Index",
-      "path": "Ciberseguridad/Exposure Index.md"
-    },
-    {
-      "basename": "Delivering Tanium Support Services",
-      "path": "Ciberseguridad/Delivering Tanium Support Services.md"
-    },
-    {
-      "basename": "Certificado Digital",
-      "path": "Ciberseguridad/Certificado Digital.md"
-    },
-    {
-      "basename": "Containers Understanding the Basics",
-      "path": "Ciberseguridad/Containers Understanding the Basics.md"
-    },
-    {
-      "basename": "BPAs Tanium",
-      "path": "Ciberseguridad/BPAs Tanium.md"
-    },
-    {
-      "basename": "Diagrama OSI Model",
-      "path": "Excalidraw/Diagrama OSI Model.md"
-    },
-    {
-      "basename": "Study Plan",
-      "path": "CompTia Networking +/Study Plan.md"
-    },
-    {
-      "basename": "Network Devices",
-      "path": "CompTia Networking +/Fase 1/Network Devices.md"
-    },
-    {
-      "basename": "MAC",
-      "path": "CompTia Networking +/Fase 1/MAC.md"
-    },
-    {
-      "basename": "Layer 4 Transport",
-      "path": "CompTia Networking +/Fase 1/Layer 4 Transport.md"
-    },
-    {
-      "basename": "Layer 3 Network",
-      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
-    },
-    {
-      "basename": "Layer 2 Data Link",
-      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
-    },
-    {
-      "basename": "Layer 1 Physical",
-      "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
-    },
-    {
-      "basename": "Fase 1",
-      "path": "CompTia Networking +/Fase 1/Fase 1.md"
-    },
-    {
-      "basename": "Profiles and Policy Rules",
-      "path": "Ciberseguridad/Cortex XDR/Profiles and Policy Rules.md"
-    },
-    {
-      "basename": "BROKER VM OVERVIEW",
-      "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
-    },
-    {
-      "basename": "Managment Console",
-      "path": "Ciberseguridad/Cortex XDR/Managment Console.md"
     }
   ],
   "omittedPaths": [],
