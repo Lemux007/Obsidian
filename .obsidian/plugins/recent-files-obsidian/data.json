@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Listing files",
       "path": "Excalidraw/Listing files.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SOC",
       "path": "Ciberseguridad/SOC.md"
-    },
-    {
-      "basename": "SecOps",
-      "path": "Ciberseguridad/SecOps.md"
     }
   ],
   "omittedPaths": [],
