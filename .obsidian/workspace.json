@@ -11,12 +11,14 @@
             "id": "2acc1ece1d759ee6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Listing files.md"
+                "file": "Ciberseguridad/Trend Micro/Licencias.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Listing files"
+              "icon": "lucide-file",
+              "title": "Licencias"
             }
           },
           {
@@ -234,8 +236,10 @@
   },
   "active": "2acc1ece1d759ee6",
   "lastOpenFiles": [
-    "Ciberseguridad/Linux/1-15-26.md",
+    "Ciberseguridad/Trend Micro/Despliegue agente.md",
+    "Ciberseguridad/Trend Micro/Licencias.md",
     "Excalidraw/Listing files.md",
+    "Ciberseguridad/Linux/1-15-26.md",
     "CompTia Networking +/Index CompTia Network +.md",
     "conflict-files-obsidian-git.md",
     "Notas Random/2026-01-16.md",
@@ -247,7 +251,6 @@
     "CompTia Networking +/Fase 1/MAC.md",
     "CompTia Networking +/Fase 1/Fase 1.md",
     "CompTia Networking +/Fase 1/Fase 12.md",
-    "Ciberseguridad/Trend Micro/Despliegue agente.md",
     "Ciberseguridad/Attack Index.md",
     "Ciberseguridad/Firewall Basico.md",
     "Ciberseguridad/Untitled",
@@ -260,7 +263,6 @@
     "Ciberseguridad/Datos.md",
     "Ciberseguridad/Credits.md",
     "Ciberseguridad/Cortex Foundations - The Learning Center.md",
-    "Ciberseguridad/Containers Understanding the Basics.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Linux",
     "Media/Pasted Image 20260113171145_174.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Licencias",
+      "path": "Ciberseguridad/Trend Micro/Licencias.md"
+    },
+    {
+      "basename": "Despliegue agente",
+      "path": "Ciberseguridad/Trend Micro/Despliegue agente.md"
+    },
+    {
       "basename": "Listing files",
       "path": "Excalidraw/Listing files.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Fase 1",
       "path": "CompTia Networking +/Fase 1/Fase 1.md"
-    },
-    {
-      "basename": "Despliegue agente",
-      "path": "Ciberseguridad/Trend Micro/Despliegue agente.md"
     },
     {
       "basename": "Attack Index",
