@@ -1,6 +1,126 @@
 {
   "recentFiles": [
     {
+      "basename": "Listing files",
+      "path": "Excalidraw/Listing files.md"
+    },
+    {
+      "basename": "Index CompTia Network +",
+      "path": "CompTia Networking +/Index CompTia Network +.md"
+    },
+    {
+      "basename": "OSI Model1",
+      "path": "CompTia Networking +/Fase 1/OSI Model1.md"
+    },
+    {
+      "basename": "Network Devices2",
+      "path": "CompTia Networking +/Fase 1/Network Devices2.md"
+    },
+    {
+      "basename": "MAC",
+      "path": "CompTia Networking +/Fase 1/MAC.md"
+    },
+    {
+      "basename": "Fase 1",
+      "path": "CompTia Networking +/Fase 1/Fase 1.md"
+    },
+    {
+      "basename": "Despliegue agente",
+      "path": "Ciberseguridad/Trend Micro/Despliegue agente.md"
+    },
+    {
+      "basename": "1-15-26",
+      "path": "Ciberseguridad/Linux/1-15-26.md"
+    },
+    {
+      "basename": "Attack Index",
+      "path": "Ciberseguridad/Attack Index.md"
+    },
+    {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/Firewall Basico.md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "Ciberseguridad/Firewall.md"
+    },
+    {
+      "basename": "Firewall Avanzado",
+      "path": "Ciberseguridad/Firewall Avanzado.md"
+    },
+    {
+      "basename": "FedRAMP",
+      "path": "Ciberseguridad/FedRAMP.md"
+    },
+    {
+      "basename": "Email Risk Management",
+      "path": "Ciberseguridad/Email Risk Management.md"
+    },
+    {
+      "basename": "Email and Collaboration Security",
+      "path": "Ciberseguridad/Email and Collaboration Security.md"
+    },
+    {
+      "basename": "Delivering Tanium Support Services",
+      "path": "Ciberseguridad/Delivering Tanium Support Services.md"
+    },
+    {
+      "basename": "Datos",
+      "path": "Ciberseguridad/Datos.md"
+    },
+    {
+      "basename": "Credits",
+      "path": "Ciberseguridad/Credits.md"
+    },
+    {
+      "basename": "Cortex Foundations - The Learning Center",
+      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
+    },
+    {
+      "basename": "Containers Understanding the Basics",
+      "path": "Ciberseguridad/Containers Understanding the Basics.md"
+    },
+    {
+      "basename": "Certificado Digital",
+      "path": "Ciberseguridad/Certificado Digital.md"
+    },
+    {
+      "basename": "BPAs Tanium",
+      "path": "Ciberseguridad/BPAs Tanium.md"
+    },
+    {
+      "basename": "BPA",
+      "path": "Ciberseguridad/BPA.md"
+    },
+    {
+      "basename": "Vision One for Administrators",
+      "path": "Ciberseguridad/Vision One for Administrators.md"
+    },
+    {
+      "basename": "VLAN",
+      "path": "Ciberseguridad/VLAN.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Ciberseguridad/VPN.md"
+    },
+    {
+      "basename": "WEB SSO",
+      "path": "Ciberseguridad/WEB SSO.md"
+    },
+    {
+      "basename": "Working with Tanium Core",
+      "path": "Ciberseguridad/Working with Tanium Core.md"
+    },
+    {
+      "basename": "XDR for Email",
+      "path": "Ciberseguridad/XDR for Email.md"
+    },
+    {
+      "basename": "Zero Trust",
+      "path": "Ciberseguridad/Zero Trust.md"
+    },
+    {
       "basename": "Credenciales invalidas",
       "path": "Troubleshooting/Credenciales invalidas.md"
     },
@@ -15,10 +135,6 @@
     {
       "basename": "Correo ESM",
       "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
-      "basename": "Credits",
-      "path": "Ciberseguridad/Credits.md"
     },
     {
       "basename": "Trend Micro",
@@ -37,28 +153,12 @@
       "path": "Ciberseguridad/HouseCall.md"
     },
     {
-      "basename": "Attack Index",
-      "path": "Ciberseguridad/Attack Index.md"
-    },
-    {
       "basename": "Tanium Cloud Deployment",
       "path": "Ciberseguridad/Tanium Cloud Deployment.md"
     },
     {
-      "basename": "1-15-26",
-      "path": "Ciberseguridad/Linux/1-15-26.md"
-    },
-    {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/Firewall Basico.md"
-    },
-    {
       "basename": "Reglas de prevención personalizadas",
       "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
-    },
-    {
-      "basename": "WEB SSO",
-      "path": "Ciberseguridad/WEB SSO.md"
     },
     {
       "basename": "PAN Certificaciones",
@@ -99,102 +199,6 @@
     {
       "basename": "SecOps",
       "path": "Ciberseguridad/SecOps.md"
-    },
-    {
-      "basename": "Qualys",
-      "path": "Ciberseguridad/Qualys.md"
-    },
-    {
-      "basename": "Proxy",
-      "path": "Ciberseguridad/Proxy.md"
-    },
-    {
-      "basename": "Operational Technology Understanding the Basics",
-      "path": "Ciberseguridad/Operational Technology Understanding the Basics.md"
-    },
-    {
-      "basename": "Forensics Understanding the Basics",
-      "path": "Ciberseguridad/Forensics Understanding the Basics.md"
-    },
-    {
-      "basename": "Glosario Trend Micro",
-      "path": "Ciberseguridad/Glosario Trend Micro.md"
-    },
-    {
-      "basename": "Email Risk Management",
-      "path": "Ciberseguridad/Email Risk Management.md"
-    },
-    {
-      "basename": "Exposure Index",
-      "path": "Ciberseguridad/Exposure Index.md"
-    },
-    {
-      "basename": "Delivering Tanium Support Services",
-      "path": "Ciberseguridad/Delivering Tanium Support Services.md"
-    },
-    {
-      "basename": "Certificado Digital",
-      "path": "Ciberseguridad/Certificado Digital.md"
-    },
-    {
-      "basename": "Containers Understanding the Basics",
-      "path": "Ciberseguridad/Containers Understanding the Basics.md"
-    },
-    {
-      "basename": "BPAs Tanium",
-      "path": "Ciberseguridad/BPAs Tanium.md"
-    },
-    {
-      "basename": "Diagrama OSI Model",
-      "path": "Excalidraw/Diagrama OSI Model.md"
-    },
-    {
-      "basename": "Study Plan",
-      "path": "CompTia Networking +/Study Plan.md"
-    },
-    {
-      "basename": "Network Devices",
-      "path": "CompTia Networking +/Fase 1/Network Devices.md"
-    },
-    {
-      "basename": "MAC",
-      "path": "CompTia Networking +/Fase 1/MAC.md"
-    },
-    {
-      "basename": "Layer 4 Transport",
-      "path": "CompTia Networking +/Fase 1/Layer 4 Transport.md"
-    },
-    {
-      "basename": "Layer 3 Network",
-      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
-    },
-    {
-      "basename": "Layer 2 Data Link",
-      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
-    },
-    {
-      "basename": "Layer 1 Physical",
-      "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
-    },
-    {
-      "basename": "Fase 1",
-      "path": "CompTia Networking +/Fase 1/Fase 1.md"
-    },
-    {
-      "basename": "Profiles and Policy Rules",
-      "path": "Ciberseguridad/Cortex XDR/Profiles and Policy Rules.md"
-    },
-    {
-      "basename": "BROKER VM OVERVIEW",
-      "path": "Ciberseguridad/Cortex XDR/BROKER VM OVERVIEW.md"
-    },
-    {
-      "basename": "Managment Console",
-      "path": "Ciberseguridad/Cortex XDR/Managment Console.md"
-    },
-    {
-      "basename": "OSI Model",
-      "path": "CompTia Networking +/Fase 1/OSI Model.md"
     }
   ],
   "omittedPaths": [],
