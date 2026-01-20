@@ -34,21 +34,21 @@
             }
           },
           {
-            "id": "a85eef36c5a84d2e",
+            "id": "ea6c3e3685c15882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ciberseguridad/Linux/1-15-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "1-15-26"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,8 +247,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a85eef36c5a84d2e",
+  "active": "2acc1ece1d759ee6",
   "lastOpenFiles": [
+    "Ciberseguridad/Linux/1-15-26.md",
     "Excalidraw/Listing files.md",
     "conflict-files-obsidian-git.md",
     "Notas Random/2026-01-16.md",
@@ -262,7 +263,6 @@
     "CompTia Networking +/Fase 1/Fase 1.md",
     "CompTia Networking +/Fase 1/Fase 12.md",
     "Ciberseguridad/Trend Micro/Despliegue agente.md",
-    "Ciberseguridad/Linux/1-15-26.md",
     "Ciberseguridad/Attack Index.md",
     "Ciberseguridad/Firewall Basico.md",
     "Ciberseguridad/Untitled",
