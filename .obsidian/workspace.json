@@ -11,12 +11,14 @@
             "id": "2acc1ece1d759ee6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Listing files.md"
+                "file": "Ciberseguridad/Firewall Basico.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Listing files"
+              "icon": "lucide-file",
+              "title": "Firewall Basico"
             }
           },
           {
@@ -31,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "1-15-26"
+            }
+          },
+          {
+            "id": "19f5422381369ef1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Listing files.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Listing files"
             }
           }
         ]
@@ -109,7 +123,7 @@
       {
         "id": "2fc63a201f8e938a",
         "type": "tabs",
-        "dimension": 53.84615384615385,
+        "dimension": 53.8563829787234,
         "children": [
           {
             "id": "a361c99cb4766eea",
@@ -199,7 +213,7 @@
       {
         "id": "77f2903fd4791bbf",
         "type": "tabs",
-        "dimension": 46.15384615384615,
+        "dimension": 46.1436170212766,
         "children": [
           {
             "id": "b33ec432ce3104d8",
@@ -234,8 +248,10 @@
   },
   "active": "2acc1ece1d759ee6",
   "lastOpenFiles": [
-    "Ciberseguridad/Linux/1-15-26.md",
     "Excalidraw/Listing files.md",
+    "Ciberseguridad/Linux/1-15-26.md",
+    "Ciberseguridad/Firewall Basico.md",
+    "Ciberseguridad/Firewall Avanzado.md",
     "Notas Random/2026-01-16.md",
     "Ciberseguridad/Trend Micro/Despliegue agente.md",
     "Ciberseguridad/Trend Micro/Licencias.md",
@@ -250,10 +266,8 @@
     "CompTia Networking +/Fase 1/Fase 1.md",
     "CompTia Networking +/Fase 1/Fase 12.md",
     "Ciberseguridad/Attack Index.md",
-    "Ciberseguridad/Firewall Basico.md",
     "Ciberseguridad/Untitled",
     "Ciberseguridad/Firewall.md",
-    "Ciberseguridad/Firewall Avanzado.md",
     "Ciberseguridad/FedRAMP.md",
     "Ciberseguridad/Email Risk Management.md",
     "Ciberseguridad/Email and Collaboration Security.md",
