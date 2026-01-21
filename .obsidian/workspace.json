@@ -11,14 +11,12 @@
             "id": "2acc1ece1d759ee6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ciberseguridad/Trend Micro/Licencias.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Listing files.md"
               },
-              "icon": "lucide-file",
-              "title": "Licencias"
+              "icon": "excalidraw-icon",
+              "title": "Listing files"
             }
           },
           {
@@ -236,13 +234,13 @@
   },
   "active": "2acc1ece1d759ee6",
   "lastOpenFiles": [
+    "Ciberseguridad/Linux/1-15-26.md",
+    "Excalidraw/Listing files.md",
+    "Notas Random/2026-01-16.md",
     "Ciberseguridad/Trend Micro/Despliegue agente.md",
     "Ciberseguridad/Trend Micro/Licencias.md",
-    "Excalidraw/Listing files.md",
-    "Ciberseguridad/Linux/1-15-26.md",
     "CompTia Networking +/Index CompTia Network +.md",
     "conflict-files-obsidian-git.md",
-    "Notas Random/2026-01-16.md",
     "Ciberseguridad/Tanium Essentials (TANE) 7.4.5.md",
     "CompTia Networking +/Fase 1/OSI Model1.md",
     "CompTia Networking +/Fase 1/OSI Model.md",
