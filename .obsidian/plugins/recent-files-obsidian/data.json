@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/Firewall Basico.md"
-    },
-    {
       "basename": "Listing files",
       "path": "Excalidraw/Listing files.md"
     },
     {
+      "basename": "Cortex XDR Overview",
+      "path": "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md"
+    },
+    {
       "basename": "1-15-26",
       "path": "Ciberseguridad/Linux/1-15-26.md"
+    },
+    {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/Firewall Basico.md"
+    },
+    {
+      "basename": "Configuracion de seguridad de perfil de malware",
+      "path": "Ciberseguridad/Cortex XDR/Configuracion de seguridad de perfil de malware.md"
+    },
+    {
+      "basename": "Metodologías de búsqueda de amenazas",
+      "path": "Ciberseguridad/Cortex XDR/Metodologías de búsqueda de amenazas.md"
+    },
+    {
+      "basename": "Funciones XQL",
+      "path": "Ciberseguridad/Cortex XDR/Funciones XQL.md"
+    },
+    {
+      "basename": "External Data Collection",
+      "path": "Ciberseguridad/Cortex XDR/External Data Collection.md"
     },
     {
       "basename": "Firewall Avanzado",
@@ -179,22 +199,6 @@
     {
       "basename": "Trend Campus Foundation",
       "path": "Ciberseguridad/Trend Campus Foundation.md"
-    },
-    {
-      "basename": "Tanium Certificaciones",
-      "path": "Ciberseguridad/Tanium Certificaciones.md"
-    },
-    {
-      "basename": "Teoría de la información",
-      "path": "Ciberseguridad/Teoría de la información.md"
-    },
-    {
-      "basename": "SOC Processes",
-      "path": "Ciberseguridad/SOC Processes.md"
-    },
-    {
-      "basename": "SOC",
-      "path": "Ciberseguridad/SOC.md"
     }
   ],
   "omittedPaths": [],

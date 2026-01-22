@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "19f5422381369ef1",
+            "id": "6424f6da9af34a63",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -47,7 +47,8 @@
               "title": "Listing files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,11 +248,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2acc1ece1d759ee6",
+  "active": "6424f6da9af34a63",
   "lastOpenFiles": [
+    "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md",
     "Excalidraw/Listing files.md",
     "Ciberseguridad/Linux/1-15-26.md",
     "Ciberseguridad/Firewall Basico.md",
+    "Ciberseguridad/Cortex XDR/Configuracion de seguridad de perfil de malware.md",
+    "Ciberseguridad/Cortex XDR/Metodologías de búsqueda de amenazas.md",
+    "Ciberseguridad/Cortex XDR/Funciones XQL.md",
+    "Ciberseguridad/Cortex XDR/External Data Collection.md",
     "Ciberseguridad/Firewall Avanzado.md",
     "Notas Random/2026-01-16.md",
     "Ciberseguridad/Trend Micro/Despliegue agente.md",
@@ -270,11 +277,6 @@
     "Ciberseguridad/Firewall.md",
     "Ciberseguridad/FedRAMP.md",
     "Ciberseguridad/Email Risk Management.md",
-    "Ciberseguridad/Email and Collaboration Security.md",
-    "Ciberseguridad/Delivering Tanium Support Services.md",
-    "Ciberseguridad/Datos.md",
-    "Ciberseguridad/Credits.md",
-    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Linux",
     "Media/Pasted Image 20260113171145_174.png",
