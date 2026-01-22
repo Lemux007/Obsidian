@@ -39,12 +39,14 @@
             "id": "6424f6da9af34a63",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Listing files.md"
+                "file": "CompTia Networking +/Fase 1/Fase 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Listing files"
+              "icon": "lucide-file",
+              "title": "Fase 1"
             }
           }
         ],
@@ -111,8 +113,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,8 +251,10 @@
   },
   "active": "6424f6da9af34a63",
   "lastOpenFiles": [
-    "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md",
+    "CompTia Networking +/Study Plan.md",
+    "CompTia Networking +/Index CompTia Network +.md",
     "Excalidraw/Listing files.md",
+    "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md",
     "Ciberseguridad/Linux/1-15-26.md",
     "Ciberseguridad/Firewall Basico.md",
     "Ciberseguridad/Cortex XDR/Configuracion de seguridad de perfil de malware.md",
@@ -262,7 +265,6 @@
     "Notas Random/2026-01-16.md",
     "Ciberseguridad/Trend Micro/Despliegue agente.md",
     "Ciberseguridad/Trend Micro/Licencias.md",
-    "CompTia Networking +/Index CompTia Network +.md",
     "conflict-files-obsidian-git.md",
     "Ciberseguridad/Tanium Essentials (TANE) 7.4.5.md",
     "CompTia Networking +/Fase 1/OSI Model1.md",
@@ -276,7 +278,6 @@
     "Ciberseguridad/Untitled",
     "Ciberseguridad/Firewall.md",
     "Ciberseguridad/FedRAMP.md",
-    "Ciberseguridad/Email Risk Management.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Linux",
     "Media/Pasted Image 20260113171145_174.png",
