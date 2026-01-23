@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e845d64e64f9f311",
+        "id": "189f51b1cc38f381",
         "type": "tabs",
         "children": [
           {
-            "id": "ea6c3e3685c15882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Linux/1-15-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-15-26"
-            }
-          },
-          {
-            "id": "65bc16ac1f1dda56",
+            "id": "51161b6dd9734b74",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -32,9 +18,22 @@
               "icon": "excalidraw-icon",
               "title": "Listing files"
             }
+          },
+          {
+            "id": "a6cb078bb32ddc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/BPAs Tanium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BPAs Tanium"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,12 +96,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -149,7 +148,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -163,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Trend Micro/Despliegue agente.md",
+                "file": "Excalidraw/Listing files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Despliegue agente"
+              "title": "Outgoing links from Listing files"
             }
           },
           {
@@ -177,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Trend Micro/Despliegue agente.md",
+                "file": "Excalidraw/Listing files.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Despliegue agente"
+              "title": "Outline of Listing files"
             }
           },
           {
@@ -234,9 +233,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65bc16ac1f1dda56",
+  "active": "51161b6dd9734b74",
   "lastOpenFiles": [
+    "Ciberseguridad/BPAs Tanium.md",
     "Excalidraw/Listing files.md",
+    "Configuration.md",
+    "Ciberseguridad/Untitled.md",
+    "Templates/Nodo.md",
+    "Test.md",
+    "Templates/Excalidraw template.md",
+    "Templates/Untitled.md",
+    "Excalidraw/Diagrama OSI Model.md",
+    "Excalidraw/Untitled.md",
     "Ciberseguridad/Linux/1-15-26.md",
     "Ciberseguridad/Firewall Basico.md",
     "CompTia Networking +/Fase 1/Fase 1.md",
@@ -253,16 +261,7 @@
     "Ciberseguridad/Trend Micro/Licencias.md",
     "conflict-files-obsidian-git.md",
     "Ciberseguridad/Tanium Essentials (TANE) 7.4.5.md",
-    "CompTia Networking +/Fase 1/OSI Model1.md",
-    "CompTia Networking +/Fase 1/OSI Model.md",
-    "CompTia Networking +/Fase 1/Network Devices2.md",
-    "CompTia Networking +/Fase 1/Network Devices.md",
-    "CompTia Networking +/Fase 1/MAC.md",
-    "CompTia Networking +/Fase 1/Fase 12.md",
-    "Ciberseguridad/Attack Index.md",
     "Ciberseguridad/Untitled",
-    "Ciberseguridad/Firewall.md",
-    "Ciberseguridad/FedRAMP.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Linux",
     "Media/Pasted Image 20260113171145_174.png",

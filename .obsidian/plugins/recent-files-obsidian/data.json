@@ -5,6 +5,30 @@
       "path": "Excalidraw/Listing files.md"
     },
     {
+      "basename": "BPAs Tanium",
+      "path": "Ciberseguridad/BPAs Tanium.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "Nodo",
+      "path": "Templates/Nodo.md"
+    },
+    {
+      "basename": "Excalidraw template",
+      "path": "Templates/Excalidraw template.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Templates/Untitled.md"
+    },
+    {
+      "basename": "Diagrama OSI Model",
+      "path": "Excalidraw/Diagrama OSI Model.md"
+    },
+    {
       "basename": "1-15-26",
       "path": "Ciberseguridad/Linux/1-15-26.md"
     },
@@ -109,10 +133,6 @@
       "path": "Ciberseguridad/Certificado Digital.md"
     },
     {
-      "basename": "BPAs Tanium",
-      "path": "Ciberseguridad/BPAs Tanium.md"
-    },
-    {
       "basename": "BPA",
       "path": "Ciberseguridad/BPA.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Tanium Cloud Deployment",
       "path": "Ciberseguridad/Tanium Cloud Deployment.md"
-    },
-    {
-      "basename": "Reglas de prevención personalizadas",
-      "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN Certificaciones.md"
-    },
-    {
-      "basename": "Perfiles",
-      "path": "Ciberseguridad/Cortex XDR/Perfiles.md"
-    },
-    {
-      "basename": "Trend Vision One XDR for Cloud",
-      "path": "Ciberseguridad/Trend Vision One XDR for Cloud.md"
-    },
-    {
-      "basename": "Trend Vision One Credits 101",
-      "path": "Ciberseguridad/Trend Vision One Credits 101.md"
     }
   ],
   "omittedPaths": [],
