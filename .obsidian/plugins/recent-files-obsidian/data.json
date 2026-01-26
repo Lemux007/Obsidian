@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "Dos contraseñas para inicio de sesion",
+      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
+      "basename": "Creación VPN",
+      "path": "Troubleshooting/Creación VPN.md"
+    },
+    {
       "basename": "Listing files",
       "path": "Excalidraw/Listing files.md"
     },
@@ -165,14 +185,6 @@
       "path": "Ciberseguridad/Zero Trust.md"
     },
     {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "Troubleshooting/VPN.md"
-    },
-    {
       "basename": "Reducción de tamaño VM",
       "path": "Troubleshooting/Reducción de tamaño VM.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "RootKitBuster",
       "path": "Ciberseguridad/RootKitBuster.md"
-    },
-    {
-      "basename": "Fake AVV & ATTK",
-      "path": "Ciberseguridad/Fake AVV & ATTK.md"
-    },
-    {
-      "basename": "HouseCall",
-      "path": "Ciberseguridad/HouseCall.md"
-    },
-    {
-      "basename": "Tanium Cloud Deployment",
-      "path": "Ciberseguridad/Tanium Cloud Deployment.md"
     }
   ],
   "omittedPaths": [],
