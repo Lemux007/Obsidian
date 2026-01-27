@@ -13,16 +13,7 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "Ciberseguridad",
-      "template": "Templates/Excalidraw template.md"
-    },
-    {
-      "folder": "/",
-      "template": "Templates/Excalidraw template.md"
-    }
-  ],
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {

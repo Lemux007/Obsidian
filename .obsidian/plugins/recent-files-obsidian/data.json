@@ -1,32 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "VPN",
-      "path": "Troubleshooting/VPN.md"
+      "basename": "Network Security Professional",
+      "path": "Ciberseguridad/Index/Network Security Professional.md"
     },
     {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
+      "basename": "OCI Oracle Cloud Infrastructure",
+      "path": "Ciberseguridad/Oracle/OCI Oracle Cloud Infrastructure.md"
     },
     {
-      "basename": "Dos contraseñas para inicio de sesion",
-      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
+      "basename": "PAN",
+      "path": "Ciberseguridad/Index/PAN.md"
     },
     {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
+      "basename": "Network Security NetSec Professional",
+      "path": "Ciberseguridad/Index/Network Security NetSec Professional.md"
     },
     {
-      "basename": "Creación VPN",
-      "path": "Troubleshooting/Creación VPN.md"
+      "basename": "BPA",
+      "path": "Ciberseguridad/BPA.md"
+    },
+    {
+      "basename": "Introduction to Parsing Rules",
+      "path": "Ciberseguridad/Cortex XDR/Introduction to Parsing Rules.md"
+    },
+    {
+      "basename": "Windows Server Administration",
+      "path": "Ciberseguridad/Windows Server/Windows Server Administration.md"
+    },
+    {
+      "basename": "Levantamiento Servidor Y VM_PanOS",
+      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
+    },
+    {
+      "basename": "Oracle",
+      "path": "Ciberseguridad/Oracle/Oracle.md"
+    },
+    {
+      "basename": "Windows Server",
+      "path": "Ciberseguridad/Windows Server/Windows Server.md"
+    },
+    {
+      "basename": "Drawing",
+      "path": "Templates/Drawing.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "Ciberseguridad/Linux/Linux.md"
     },
     {
       "basename": "Listing files",
       "path": "Excalidraw/Listing files.md"
     },
     {
+      "basename": "Dos contraseñas para inicio de sesion",
+      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
+    },
+    {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "Creación VPN",
+      "path": "Troubleshooting/Creación VPN.md"
+    },
+    {
+      "basename": "Putty",
+      "path": "Troubleshooting/Putty.md"
+    },
+    {
+      "basename": "Preguntas seguridad",
+      "path": "Troubleshooting/Preguntas seguridad.md"
+    },
+    {
+      "basename": "Error de conexión",
+      "path": "Troubleshooting/Error de conexión.md"
+    },
+    {
       "basename": "BPAs Tanium",
       "path": "Ciberseguridad/BPAs Tanium.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
     {
       "basename": "Configuration",
@@ -47,10 +107,6 @@
     {
       "basename": "Diagrama OSI Model",
       "path": "Excalidraw/Diagrama OSI Model.md"
-    },
-    {
-      "basename": "1-15-26",
-      "path": "Ciberseguridad/Linux/1-15-26.md"
     },
     {
       "basename": "Firewall Basico",
@@ -139,66 +195,6 @@
     {
       "basename": "Credits",
       "path": "Ciberseguridad/Credits.md"
-    },
-    {
-      "basename": "Cortex Foundations - The Learning Center",
-      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
-    },
-    {
-      "basename": "Containers Understanding the Basics",
-      "path": "Ciberseguridad/Containers Understanding the Basics.md"
-    },
-    {
-      "basename": "Certificado Digital",
-      "path": "Ciberseguridad/Certificado Digital.md"
-    },
-    {
-      "basename": "BPA",
-      "path": "Ciberseguridad/BPA.md"
-    },
-    {
-      "basename": "Vision One for Administrators",
-      "path": "Ciberseguridad/Vision One for Administrators.md"
-    },
-    {
-      "basename": "VLAN",
-      "path": "Ciberseguridad/VLAN.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "Ciberseguridad/VPN.md"
-    },
-    {
-      "basename": "WEB SSO",
-      "path": "Ciberseguridad/WEB SSO.md"
-    },
-    {
-      "basename": "Working with Tanium Core",
-      "path": "Ciberseguridad/Working with Tanium Core.md"
-    },
-    {
-      "basename": "XDR for Email",
-      "path": "Ciberseguridad/XDR for Email.md"
-    },
-    {
-      "basename": "Zero Trust",
-      "path": "Ciberseguridad/Zero Trust.md"
-    },
-    {
-      "basename": "Reducción de tamaño VM",
-      "path": "Troubleshooting/Reducción de tamaño VM.md"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
-      "basename": "Trend Micro",
-      "path": "Ciberseguridad/Index/Trend Micro.md"
-    },
-    {
-      "basename": "RootKitBuster",
-      "path": "Ciberseguridad/RootKitBuster.md"
     }
   ],
   "omittedPaths": [],

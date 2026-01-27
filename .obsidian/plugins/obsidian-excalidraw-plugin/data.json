@@ -42,7 +42,7 @@
   "isLeftHanded": false,
   "desktopUIMode": "tray",
   "tabletUIMode": "compact",
-  "iframeMatchExcalidrawTheme": true,
+  "iframeMatchExcalidrawTheme": false,
   "matchTheme": false,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
