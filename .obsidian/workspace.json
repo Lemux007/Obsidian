@@ -20,20 +20,6 @@
             }
           },
           {
-            "id": "c0c5f6a7723fe396",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://libraries.excalidraw.com/?target=_blank&referrer=app%3A%2F%2Fobsidian.md&useHash=true&token=u8lIt8aznYdSglWcKDT7F&theme=dark&version=2&sort=default",
-                "title": "Excalidraw Libraries",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Excalidraw Libraries"
-            }
-          },
-          {
             "id": "24566a691970cfe8",
             "type": "leaf",
             "state": {
@@ -308,20 +294,20 @@
       }
     ]
   },
-  "active": "a361c99cb4766eea",
+  "active": "b90341377337afc3",
   "lastOpenFiles": [
+    "Ciberseguridad/Linux/1-15-26.md",
+    "Ciberseguridad/Index/Network Security NetSec Professional.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Ciberseguridad/Index/Network Security NetSec Professional.md",
     "Libraries/network-topology-icons.excalidrawlib",
     "Libraries/it-icons.excalidrawlib",
     "Libraries/collective-operation.excalidrawlib",
     "Libraries",
     "Ciberseguridad/Index/Network Security Professional.md",
     "Ciberseguridad/Oracle/OCI Oracle Cloud Infrastructure.md",
-    "Ciberseguridad/Linux/1-15-26.md",
     "Ciberseguridad/Index/PAN.md",
     "Ciberseguridad/BPA.md",
     "Ciberseguridad/Cortex XDR/Introduction to Parsing Rules.md",
@@ -356,7 +342,6 @@
     "Media/1764889433920appoutputcertificate1PfANjOgsc.png",
     "Media/1761802153059appoutputcertificateTZJTc0t0bQ.png",
     "Media/1761802153059appoutputcertificateTZJTc0t0bQ 1.png",
-    "Untitled.canvas",
-    "Media/Pasted image 20251002121231.png"
+    "Untitled.canvas"
   ]
 }
