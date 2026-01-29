@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Cortex",
-      "path": "Troubleshooting/Index/Cortex.md"
+      "basename": "Network Based Attacks",
+      "path": "Ciberseguridad/PAN/Network Based Attacks.md"
     },
     {
       "basename": "Network Security NetSec Professional",
       "path": "Ciberseguridad/PAN/Network Security NetSec Professional.md"
     },
     {
+      "basename": "Introduction to SecOps",
+      "path": "Ciberseguridad/PAN/Introduction to SecOps.md"
+    },
+    {
+      "basename": "Network Security Professional",
+      "path": "Ciberseguridad/PAN/Network Security Professional.md"
+    },
+    {
       "basename": "1-15-26",
       "path": "Ciberseguridad/Linux/1-15-26.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Troubleshooting/Index/Cortex.md"
     },
     {
       "basename": "Bloqueo de credenciales",
@@ -181,24 +193,12 @@
       "path": "Ciberseguridad/FISMA.md"
     },
     {
-      "basename": "Introduction to SecOps",
-      "path": "Ciberseguridad/PAN/Introduction to SecOps.md"
-    },
-    {
       "basename": "HouseCall",
       "path": "Ciberseguridad/Trend Micro/HouseCall.md"
     },
     {
       "basename": "Glosario Trend Micro",
       "path": "Ciberseguridad/Trend Micro/Glosario Trend Micro.md"
-    },
-    {
-      "basename": "Getting Started with Tanium WBT",
-      "path": "Ciberseguridad/Tanium/Getting Started with Tanium WBT.md"
-    },
-    {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/Firewall Basico.md"
     }
   ],
   "omittedPaths": [],
