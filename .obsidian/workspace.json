@@ -287,17 +287,17 @@
         "direction": "vertical",
         "x": -640,
         "y": 0,
-        "width": 640,
-        "height": 976,
-        "maximize": false,
+        "width": 427,
+        "height": 501,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "b90341377337afc3",
+  "active": "78713ee25d2a0ad9",
   "lastOpenFiles": [
-    "Ciberseguridad/Linux/1-15-26.md",
     "Ciberseguridad/Index/Network Security NetSec Professional.md",
+    "Ciberseguridad/Linux/1-15-26.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
     "Excalidraw/Scripts/Downloaded",
