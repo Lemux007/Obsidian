@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f9d690e66091cb9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ciberseguridad/Index/Network Based Attacks.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Network Based Attacks"
-            }
-          },
-          {
             "id": "a91d5ac278f2a2ed",
             "type": "leaf",
             "state": {
@@ -37,12 +25,14 @@
             "id": "f43da8ac7aeebfc7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Listing files.md"
+                "file": "Troubleshooting/Index/Cortex.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Listing files"
+              "icon": "lucide-file",
+              "title": "Cortex"
             }
           },
           {
@@ -51,14 +41,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ciberseguridad/Index/Network Security NetSec Professional.md"
+                "file": "Ciberseguridad/PAN/Network Security NetSec Professional.md"
               },
               "icon": "excalidraw-icon",
               "title": "Network Security NetSec Professional"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Linux/1-15-26.md",
+                "file": "Troubleshooting/Index/Cortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1-15-26"
+              "title": "Backlinks for Cortex"
             }
           },
           {
@@ -294,50 +284,50 @@
   },
   "active": "f43da8ac7aeebfc7",
   "lastOpenFiles": [
-    "Ciberseguridad/Index/Network Security NetSec Professional.md",
-    "Excalidraw/Listing files.md",
+    "Ciberseguridad/PAN/Network Security NetSec Professional.md",
+    "Troubleshooting/Index/Cortex.md",
     "Ciberseguridad/Linux/1-15-26.md",
-    "Ciberseguridad/Index/Analyzing the Threat Lifecycle.md",
-    "Ciberseguridad/Index/Network Based Attacks.md",
-    "Ciberseguridad/Index/Network Security Professional.md",
-    "Ciberseguridad/Oracle/OCI Oracle Cloud Infrastructure.md",
+    "Troubleshooting/Bloqueo de credenciales.md",
+    "Troubleshooting/Allocation Failed.md",
+    "Configuration.md",
+    "Notas Random/2026-01-16.md",
+    "Templates/Untitled.md",
+    "CompTia Networking +/Diagrama OSI Model.md",
+    "Ciberseguridad/Linux/Listing files.md",
+    "Templates/Excalidraw template.md",
+    "Templates/Index.md",
+    "Templates/Drawing.md",
+    "PBX Conmutador.canvas",
+    "Ciberseguridad/WEB SSO.md",
+    "Ciberseguridad/Zero Trust.md",
+    "Ciberseguridad/Trend Micro/XDR for Email.md",
+    "Ciberseguridad/Tanium/Working with Tanium Core.md",
+    "Ciberseguridad/VPN.md",
+    "Ciberseguridad/VLAN.md",
+    "Ciberseguridad/Trend Micro/Vision One for Administrators.md",
+    "Ciberseguridad/UTM.md",
+    "Ciberseguridad/Trend Micro/Trend Vision One XDR for Cloud.md",
+    "Ciberseguridad/Teoría de la información.md",
+    "Ciberseguridad/Trend Micro/Trend Vision One Understanding the Basics.md",
+    "Ciberseguridad/Trend Micro/Trend Vision One Credits 101.md",
+    "Ciberseguridad/Trend Micro/Trend Micro Certificaciones.md",
+    "Ciberseguridad/PAN",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Libraries/network-topology-icons.excalidrawlib",
     "Libraries/it-icons.excalidrawlib",
     "Libraries/collective-operation.excalidrawlib",
     "Libraries",
-    "Ciberseguridad/Index/PAN.md",
-    "Ciberseguridad/BPA.md",
-    "Ciberseguridad/Cortex XDR/Introduction to Parsing Rules.md",
-    "Ciberseguridad/Windows Server/Windows Server Administration.md",
-    "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
-    "Ciberseguridad/Oracle/Oracle.md",
-    "Excalidraw/Drawing 2026-01-27 12.06.20.excalidraw.md",
-    "Ciberseguridad/Windows Server/Windows Server.md",
     "Ciberseguridad/Windows Server",
-    "Templates/Drawing.md",
-    "Ciberseguridad/Oracle/Drawing 2026-01-27 10.00.30.excalidraw.md",
-    "Ciberseguridad/Linux/Linux.md",
     "Ciberseguridad/Oracle",
-    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
-    "Troubleshooting/Credenciales invalidas.md",
-    "Troubleshooting/Creación VPN.md",
-    "Troubleshooting/Putty.md",
-    "Troubleshooting/Preguntas seguridad.md",
-    "Troubleshooting/Error de conexión.md",
-    "Ciberseguridad/BPAs Tanium.md",
     "Ciberseguridad/Trend Micro",
-    "Ciberseguridad/Linux",
     "Media/Pasted Image 20260113171145_174.png",
     "Media/Pasted Image 20260113170931_592.png",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
     "Media/300 101E  DefensePro X Level 1 Technical.png",
     "Media/300 101E  DefensePro X Level 1 Technical 1.png",
-    "PBX Conmutador.canvas",
     "Media/1764889433920appoutputcertificate1PfANjOgsc.png",
     "Media/1761802153059appoutputcertificateTZJTc0t0bQ.png",
     "Media/1761802153059appoutputcertificateTZJTc0t0bQ 1.png",

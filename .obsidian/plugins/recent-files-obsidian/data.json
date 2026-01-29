@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Listing files",
-      "path": "Excalidraw/Listing files.md"
+      "basename": "Cortex",
+      "path": "Troubleshooting/Index/Cortex.md"
     },
     {
       "basename": "Network Security NetSec Professional",
-      "path": "Ciberseguridad/Index/Network Security NetSec Professional.md"
+      "path": "Ciberseguridad/PAN/Network Security NetSec Professional.md"
     },
     {
       "basename": "1-15-26",
       "path": "Ciberseguridad/Linux/1-15-26.md"
     },
     {
-      "basename": "Analyzing the Threat Lifecycle",
-      "path": "Ciberseguridad/Index/Analyzing the Threat Lifecycle.md"
-    },
-    {
-      "basename": "Network Based Attacks",
-      "path": "Ciberseguridad/Index/Network Based Attacks.md"
-    },
-    {
-      "basename": "Network Security Professional",
-      "path": "Ciberseguridad/Index/Network Security Professional.md"
-    },
-    {
-      "basename": "OCI Oracle Cloud Infrastructure",
-      "path": "Ciberseguridad/Oracle/OCI Oracle Cloud Infrastructure.md"
-    },
-    {
-      "basename": "PAN",
-      "path": "Ciberseguridad/Index/PAN.md"
-    },
-    {
-      "basename": "BPA",
-      "path": "Ciberseguridad/BPA.md"
-    },
-    {
-      "basename": "Introduction to Parsing Rules",
-      "path": "Ciberseguridad/Cortex XDR/Introduction to Parsing Rules.md"
-    },
-    {
-      "basename": "Windows Server Administration",
-      "path": "Ciberseguridad/Windows Server/Windows Server Administration.md"
-    },
-    {
-      "basename": "Levantamiento Servidor Y VM_PanOS",
-      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
-    },
-    {
-      "basename": "Oracle",
-      "path": "Ciberseguridad/Oracle/Oracle.md"
-    },
-    {
-      "basename": "Windows Server",
-      "path": "Ciberseguridad/Windows Server/Windows Server.md"
-    },
-    {
-      "basename": "Drawing",
-      "path": "Templates/Drawing.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Ciberseguridad/Linux/Linux.md"
-    },
-    {
-      "basename": "Dos contraseñas para inicio de sesion",
-      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
-    },
-    {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "Creación VPN",
-      "path": "Troubleshooting/Creación VPN.md"
-    },
-    {
-      "basename": "Putty",
-      "path": "Troubleshooting/Putty.md"
-    },
-    {
-      "basename": "Preguntas seguridad",
-      "path": "Troubleshooting/Preguntas seguridad.md"
-    },
-    {
-      "basename": "Error de conexión",
-      "path": "Troubleshooting/Error de conexión.md"
-    },
-    {
-      "basename": "BPAs Tanium",
-      "path": "Ciberseguridad/BPAs Tanium.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "Troubleshooting/VPN.md"
-    },
-    {
       "basename": "Bloqueo de credenciales",
       "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
+      "basename": "Allocation Failed",
+      "path": "Troubleshooting/Allocation Failed.md"
     },
     {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
     {
-      "basename": "Nodo",
-      "path": "Templates/Nodo.md"
-    },
-    {
-      "basename": "Excalidraw template",
-      "path": "Templates/Excalidraw template.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Templates/Untitled.md"
-    },
-    {
-      "basename": "Diagrama OSI Model",
-      "path": "Excalidraw/Diagrama OSI Model.md"
-    },
-    {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/Firewall Basico.md"
-    },
-    {
-      "basename": "Fase 1",
-      "path": "CompTia Networking +/Fase 1/Fase 1.md"
-    },
-    {
-      "basename": "Study Plan",
-      "path": "CompTia Networking +/Study Plan.md"
-    },
-    {
-      "basename": "Index CompTia Network +",
-      "path": "CompTia Networking +/Index CompTia Network +.md"
-    },
-    {
-      "basename": "Cortex XDR Overview",
-      "path": "Ciberseguridad/Cortex XDR/Cortex XDR Overview.md"
-    },
-    {
-      "basename": "Configuracion de seguridad de perfil de malware",
-      "path": "Ciberseguridad/Cortex XDR/Configuracion de seguridad de perfil de malware.md"
-    },
-    {
-      "basename": "Metodologías de búsqueda de amenazas",
-      "path": "Ciberseguridad/Cortex XDR/Metodologías de búsqueda de amenazas.md"
-    },
-    {
-      "basename": "Funciones XQL",
-      "path": "Ciberseguridad/Cortex XDR/Funciones XQL.md"
-    },
-    {
-      "basename": "External Data Collection",
-      "path": "Ciberseguridad/Cortex XDR/External Data Collection.md"
-    },
-    {
-      "basename": "Firewall Avanzado",
-      "path": "Ciberseguridad/Firewall Avanzado.md"
-    },
-    {
       "basename": "2026-01-16",
       "path": "Notas Random/2026-01-16.md"
     },
     {
-      "basename": "OSI Model1",
-      "path": "CompTia Networking +/Fase 1/OSI Model1.md"
+      "basename": "Diagrama OSI Model",
+      "path": "CompTia Networking +/Diagrama OSI Model.md"
     },
     {
-      "basename": "Network Devices2",
-      "path": "CompTia Networking +/Fase 1/Network Devices2.md"
+      "basename": "Listing files",
+      "path": "Ciberseguridad/Linux/Listing files.md"
     },
     {
-      "basename": "MAC",
-      "path": "CompTia Networking +/Fase 1/MAC.md"
+      "basename": "Index",
+      "path": "Templates/Index.md"
     },
     {
-      "basename": "Attack Index",
-      "path": "Ciberseguridad/Attack Index.md"
+      "basename": "Drawing",
+      "path": "Templates/Drawing.md"
     },
     {
-      "basename": "Firewall",
-      "path": "Ciberseguridad/Firewall.md"
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
     },
     {
-      "basename": "FedRAMP",
-      "path": "Ciberseguridad/FedRAMP.md"
+      "basename": "WEB SSO",
+      "path": "Ciberseguridad/WEB SSO.md"
     },
     {
-      "basename": "Email Risk Management",
-      "path": "Ciberseguridad/Email Risk Management.md"
+      "basename": "Zero Trust",
+      "path": "Ciberseguridad/Zero Trust.md"
     },
     {
-      "basename": "Email and Collaboration Security",
-      "path": "Ciberseguridad/Email and Collaboration Security.md"
+      "basename": "XDR for Email",
+      "path": "Ciberseguridad/Trend Micro/XDR for Email.md"
     },
     {
-      "basename": "Delivering Tanium Support Services",
-      "path": "Ciberseguridad/Delivering Tanium Support Services.md"
+      "basename": "Working with Tanium Core",
+      "path": "Ciberseguridad/Tanium/Working with Tanium Core.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Ciberseguridad/VPN.md"
+    },
+    {
+      "basename": "VLAN",
+      "path": "Ciberseguridad/VLAN.md"
+    },
+    {
+      "basename": "Vision One for Administrators",
+      "path": "Ciberseguridad/Trend Micro/Vision One for Administrators.md"
+    },
+    {
+      "basename": "UTM",
+      "path": "Ciberseguridad/UTM.md"
+    },
+    {
+      "basename": "Trend Vision One XDR for Cloud",
+      "path": "Ciberseguridad/Trend Micro/Trend Vision One XDR for Cloud.md"
+    },
+    {
+      "basename": "Teoría de la información",
+      "path": "Ciberseguridad/Teoría de la información.md"
+    },
+    {
+      "basename": "Trend Vision One Understanding the Basics",
+      "path": "Ciberseguridad/Trend Micro/Trend Vision One Understanding the Basics.md"
+    },
+    {
+      "basename": "Trend Vision One Credits 101",
+      "path": "Ciberseguridad/Trend Micro/Trend Vision One Credits 101.md"
+    },
+    {
+      "basename": "Trend Micro Certificaciones",
+      "path": "Ciberseguridad/Trend Micro/Trend Micro Certificaciones.md"
+    },
+    {
+      "basename": "Trend Campus Foundation",
+      "path": "Ciberseguridad/Trend Micro/Trend Campus Foundation.md"
+    },
+    {
+      "basename": "Tanium Certificaciones",
+      "path": "Ciberseguridad/Tanium/Tanium Certificaciones.md"
+    },
+    {
+      "basename": "Tanium Cloud Deployment",
+      "path": "Ciberseguridad/Tanium/Tanium Cloud Deployment.md"
+    },
+    {
+      "basename": "Syslog",
+      "path": "Ciberseguridad/Syslog.md"
+    },
+    {
+      "basename": "SOC",
+      "path": "Ciberseguridad/SOC.md"
+    },
+    {
+      "basename": "Servicio de Directorio",
+      "path": "Ciberseguridad/Servicio de Directorio.md"
+    },
+    {
+      "basename": "Qualys",
+      "path": "Ciberseguridad/Qualys.md"
+    },
+    {
+      "basename": "SOC Processes",
+      "path": "Ciberseguridad/PAN/SOC Processes.md"
+    },
+    {
+      "basename": "RootKitBuster",
+      "path": "Ciberseguridad/Trend Micro/RootKitBuster.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "Ciberseguridad/Proxy.md"
+    },
+    {
+      "basename": "Panorama",
+      "path": "Ciberseguridad/Panorama.md"
+    },
+    {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/PAN/PAN Certificaciones.md"
+    },
+    {
+      "basename": "Operational Technology Understanding the Basics",
+      "path": "Ciberseguridad/Trend Micro/Operational Technology Understanding the Basics.md"
+    },
+    {
+      "basename": "NIST ESPECIAL",
+      "path": "Ciberseguridad/NIST ESPECIAL.md"
+    },
+    {
+      "basename": "NIST",
+      "path": "Ciberseguridad/NIST.md"
+    },
+    {
+      "basename": "NAT",
+      "path": "Ciberseguridad/NAT.md"
+    },
+    {
+      "basename": "MITRE ATT&CK",
+      "path": "Ciberseguridad/MITRE ATT&CK.md"
+    },
+    {
+      "basename": "IPS",
+      "path": "Ciberseguridad/IPS.md"
+    },
+    {
+      "basename": "IDS",
+      "path": "Ciberseguridad/IDS.md"
+    },
+    {
+      "basename": "FISMA",
+      "path": "Ciberseguridad/FISMA.md"
+    },
+    {
+      "basename": "Introduction to SecOps",
+      "path": "Ciberseguridad/PAN/Introduction to SecOps.md"
+    },
+    {
+      "basename": "HouseCall",
+      "path": "Ciberseguridad/Trend Micro/HouseCall.md"
+    },
+    {
+      "basename": "Glosario Trend Micro",
+      "path": "Ciberseguridad/Trend Micro/Glosario Trend Micro.md"
+    },
+    {
+      "basename": "Getting Started with Tanium WBT",
+      "path": "Ciberseguridad/Tanium/Getting Started with Tanium WBT.md"
+    },
+    {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/Firewall Basico.md"
     }
   ],
   "omittedPaths": [],
