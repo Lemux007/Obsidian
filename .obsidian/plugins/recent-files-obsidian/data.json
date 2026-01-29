@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Network Security NetSec Professional",
+      "path": "Ciberseguridad/Index/Network Security NetSec Professional.md"
+    },
+    {
       "basename": "Analyzing the Threat Lifecycle",
       "path": "Ciberseguridad/Index/Analyzing the Threat Lifecycle.md"
     },
     {
-      "basename": "Network Security NetSec Professional",
-      "path": "Ciberseguridad/Index/Network Security NetSec Professional.md"
+      "basename": "Network Based Attacks",
+      "path": "Ciberseguridad/Index/Network Based Attacks.md"
     },
     {
       "basename": "Network Security Professional",
@@ -195,10 +199,6 @@
     {
       "basename": "Delivering Tanium Support Services",
       "path": "Ciberseguridad/Delivering Tanium Support Services.md"
-    },
-    {
-      "basename": "Datos",
-      "path": "Ciberseguridad/Datos.md"
     }
   ],
   "omittedPaths": [],
