@@ -246,17 +246,17 @@
         "direction": "vertical",
         "x": -640,
         "y": 0,
-        "width": 427,
-        "height": 501,
+        "width": 285,
+        "height": 335,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b90341377337afc3",
+  "active": "43b3a682215cf504",
   "lastOpenFiles": [
-    "Ciberseguridad/PAN/Network Security NetSec Professional.md",
     "Ciberseguridad/PAN/Network Based Attacks.md",
+    "Ciberseguridad/PAN/Network Security NetSec Professional.md",
     "Ciberseguridad/PAN/Introduction to SecOps.md",
     "Ciberseguridad/PAN/Network Security Professional.md",
     "Ciberseguridad/Linux/1-15-26.md",
