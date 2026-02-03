@@ -18,6 +18,20 @@
               "icon": "excalidraw-icon",
               "title": "Network Based Attacks"
             }
+          },
+          {
+            "id": "5647b60f4bf572de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTia Networking +/Fase 1/OSI Model1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSI Model1"
+            }
           }
         ]
       }
@@ -86,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -244,19 +259,30 @@
           }
         ],
         "direction": "vertical",
-        "x": -640,
-        "y": 0,
-        "width": 285,
-        "height": 335,
-        "maximize": true,
+        "x": -809,
+        "y": 265,
+        "width": 190,
+        "height": 223,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "b90341377337afc3",
   "lastOpenFiles": [
-    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
+    "CompTia Networking +/Fase 1/OSI Model1.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
+    "CompTia Networking +/Fase 1/MAC.md",
+    "CompTia Networking +/Fase 1/Layer 3 Network.md",
+    "CompTia Networking +/Fase 1/Layer 2 Data Link.md",
+    "CompTia Networking +/Fase 1/Layer 1 Physical.md",
+    "CompTia Networking +/Fase 1/Fase 1.md",
+    "CompTia Networking +/Fase 1/Layer 4 Transport.md",
+    "Notas Random/2026-01-16.md",
+    "CompTia Networking +/Study Plan.md",
+    "CompTia Networking +/Index CompTia Network +.md",
+    "CompTia Networking +/Diagrama OSI Model.md",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md",
     "Ciberseguridad/PAN/Network Security Professional 1.md",
     "Ciberseguridad/PAN/Certs/SOC Processes.md",
@@ -270,21 +296,10 @@
     "Troubleshooting/Bloqueo de credenciales.md",
     "Troubleshooting/Allocation Failed.md",
     "Configuration.md",
-    "Notas Random/2026-01-16.md",
     "Templates/Untitled.md",
-    "CompTia Networking +/Diagrama OSI Model.md",
     "Ciberseguridad/Linux/Listing files.md",
     "Templates/Excalidraw template.md",
-    "Templates/Index.md",
-    "Templates/Drawing.md",
     "PBX Conmutador.canvas",
-    "Ciberseguridad/WEB SSO.md",
-    "Ciberseguridad/Zero Trust.md",
-    "Ciberseguridad/Trend Micro/XDR for Email.md",
-    "Ciberseguridad/Tanium/Working with Tanium Core.md",
-    "Ciberseguridad/VPN.md",
-    "Ciberseguridad/VLAN.md",
-    "Ciberseguridad/Trend Micro/Vision One for Administrators.md",
     "Ciberseguridad/PAN",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded",

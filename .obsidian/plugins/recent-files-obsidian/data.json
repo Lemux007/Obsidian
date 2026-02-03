@@ -5,6 +5,50 @@
       "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md"
     },
     {
+      "basename": "OSI Model1",
+      "path": "CompTia Networking +/Fase 1/OSI Model1.md"
+    },
+    {
+      "basename": "MAC",
+      "path": "CompTia Networking +/Fase 1/MAC.md"
+    },
+    {
+      "basename": "Layer 3 Network",
+      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
+    },
+    {
+      "basename": "Layer 2 Data Link",
+      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
+    },
+    {
+      "basename": "Layer 1 Physical",
+      "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
+    },
+    {
+      "basename": "Fase 1",
+      "path": "CompTia Networking +/Fase 1/Fase 1.md"
+    },
+    {
+      "basename": "Layer 4 Transport",
+      "path": "CompTia Networking +/Fase 1/Layer 4 Transport.md"
+    },
+    {
+      "basename": "2026-01-16",
+      "path": "Notas Random/2026-01-16.md"
+    },
+    {
+      "basename": "Study Plan",
+      "path": "CompTia Networking +/Study Plan.md"
+    },
+    {
+      "basename": "Index CompTia Network +",
+      "path": "CompTia Networking +/Index CompTia Network +.md"
+    },
+    {
+      "basename": "Diagrama OSI Model",
+      "path": "CompTia Networking +/Diagrama OSI Model.md"
+    },
+    {
       "basename": "Network Security NetSec Professional",
       "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md"
     },
@@ -43,14 +87,6 @@
     {
       "basename": "Configuration",
       "path": "Configuration.md"
-    },
-    {
-      "basename": "2026-01-16",
-      "path": "Notas Random/2026-01-16.md"
-    },
-    {
-      "basename": "Diagrama OSI Model",
-      "path": "CompTia Networking +/Diagrama OSI Model.md"
     },
     {
       "basename": "Listing files",
@@ -163,38 +199,6 @@
     {
       "basename": "Operational Technology Understanding the Basics",
       "path": "Ciberseguridad/Trend Micro/Operational Technology Understanding the Basics.md"
-    },
-    {
-      "basename": "NIST ESPECIAL",
-      "path": "Ciberseguridad/NIST ESPECIAL.md"
-    },
-    {
-      "basename": "NIST",
-      "path": "Ciberseguridad/NIST.md"
-    },
-    {
-      "basename": "NAT",
-      "path": "Ciberseguridad/NAT.md"
-    },
-    {
-      "basename": "MITRE ATT&CK",
-      "path": "Ciberseguridad/MITRE ATT&CK.md"
-    },
-    {
-      "basename": "IPS",
-      "path": "Ciberseguridad/IPS.md"
-    },
-    {
-      "basename": "IDS",
-      "path": "Ciberseguridad/IDS.md"
-    },
-    {
-      "basename": "FISMA",
-      "path": "Ciberseguridad/FISMA.md"
-    },
-    {
-      "basename": "HouseCall",
-      "path": "Ciberseguridad/Trend Micro/HouseCall.md"
     }
   ],
   "omittedPaths": [],
