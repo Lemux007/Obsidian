@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ciberseguridad/PAN/Network Based Attacks.md"
+                "file": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md"
               },
               "icon": "excalidraw-icon",
               "title": "Network Based Attacks"
@@ -248,17 +248,23 @@
         "y": 0,
         "width": 285,
         "height": 335,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "43b3a682215cf504",
+  "active": "b90341377337afc3",
   "lastOpenFiles": [
-    "Ciberseguridad/PAN/Network Based Attacks.md",
-    "Ciberseguridad/PAN/Network Security NetSec Professional.md",
-    "Ciberseguridad/PAN/Introduction to SecOps.md",
-    "Ciberseguridad/PAN/Network Security Professional.md",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md",
+    "Ciberseguridad/PAN/Network Security Professional 1.md",
+    "Ciberseguridad/PAN/Certs/SOC Processes.md",
+    "Ciberseguridad/PAN/Certs/PAN Certificaciones.md",
+    "Ciberseguridad/PAN/Certs/Introduction to SecOps.md",
+    "Ciberseguridad/PAN/Certs",
+    "Ciberseguridad/PAN/C",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional",
     "Ciberseguridad/Linux/1-15-26.md",
     "Troubleshooting/Index/Cortex.md",
     "Troubleshooting/Bloqueo de credenciales.md",
@@ -279,9 +285,6 @@
     "Ciberseguridad/VPN.md",
     "Ciberseguridad/VLAN.md",
     "Ciberseguridad/Trend Micro/Vision One for Administrators.md",
-    "Ciberseguridad/UTM.md",
-    "Ciberseguridad/Trend Micro/Trend Vision One XDR for Cloud.md",
-    "Ciberseguridad/Teoría de la información.md",
     "Ciberseguridad/PAN",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded",
@@ -290,9 +293,6 @@
     "Libraries/it-icons.excalidrawlib",
     "Libraries/collective-operation.excalidrawlib",
     "Libraries",
-    "Ciberseguridad/Windows Server",
-    "Ciberseguridad/Oracle",
-    "Ciberseguridad/Trend Micro",
     "Media/Pasted Image 20260113171145_174.png",
     "Media/Pasted Image 20260113170931_592.png",
     "Media/Pasted image 20260112125653.png",

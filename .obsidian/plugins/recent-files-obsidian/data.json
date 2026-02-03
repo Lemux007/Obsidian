@@ -2,19 +2,27 @@
   "recentFiles": [
     {
       "basename": "Network Based Attacks",
-      "path": "Ciberseguridad/PAN/Network Based Attacks.md"
+      "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md"
     },
     {
       "basename": "Network Security NetSec Professional",
-      "path": "Ciberseguridad/PAN/Network Security NetSec Professional.md"
-    },
-    {
-      "basename": "Introduction to SecOps",
-      "path": "Ciberseguridad/PAN/Introduction to SecOps.md"
+      "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md"
     },
     {
       "basename": "Network Security Professional",
-      "path": "Ciberseguridad/PAN/Network Security Professional.md"
+      "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md"
+    },
+    {
+      "basename": "SOC Processes",
+      "path": "Ciberseguridad/PAN/Certs/SOC Processes.md"
+    },
+    {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/PAN/Certs/PAN Certificaciones.md"
+    },
+    {
+      "basename": "Introduction to SecOps",
+      "path": "Ciberseguridad/PAN/Certs/Introduction to SecOps.md"
     },
     {
       "basename": "1-15-26",
@@ -141,10 +149,6 @@
       "path": "Ciberseguridad/Qualys.md"
     },
     {
-      "basename": "SOC Processes",
-      "path": "Ciberseguridad/PAN/SOC Processes.md"
-    },
-    {
       "basename": "RootKitBuster",
       "path": "Ciberseguridad/Trend Micro/RootKitBuster.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "Panorama",
       "path": "Ciberseguridad/Panorama.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN/PAN Certificaciones.md"
     },
     {
       "basename": "Operational Technology Understanding the Basics",
@@ -195,10 +195,6 @@
     {
       "basename": "HouseCall",
       "path": "Ciberseguridad/Trend Micro/HouseCall.md"
-    },
-    {
-      "basename": "Glosario Trend Micro",
-      "path": "Ciberseguridad/Trend Micro/Glosario Trend Micro.md"
     }
   ],
   "omittedPaths": [],
