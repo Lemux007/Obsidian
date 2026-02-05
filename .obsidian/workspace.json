@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/PAN/Firewall Avanzado.md",
+                "file": "Ciberseguridad/PAN/Firewall Basico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firewall Avanzado"
+              "title": "Firewall Basico"
+            }
+          },
+          {
+            "id": "734f09fd18c8a9cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ciberseguridad/PAN/FW Basico.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "FW Basico"
             }
           }
         ]
@@ -255,10 +267,13 @@
       }
     ]
   },
-  "active": "d8c9d5f188f44201",
+  "active": "b90341377337afc3",
   "lastOpenFiles": [
-    "Ciberseguridad/PAN/Firewall Avanzado.md",
+    "Ciberseguridad/PAN/FW Basico.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
+    "Templates/Drawing.md",
+    "Templates/Drawing.md",
+    "Ciberseguridad/PAN/Firewall Avanzado.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
     "CompTia Networking +/Fase 1/OSI Model1.md",
     "CompTia Networking +/Fase 1/MAC.md",
@@ -283,9 +298,6 @@
     "Ciberseguridad/Linux/1-15-26.md",
     "Troubleshooting/Index/Cortex.md",
     "Troubleshooting/Bloqueo de credenciales.md",
-    "Troubleshooting/Allocation Failed.md",
-    "Configuration.md",
-    "Templates/Untitled.md",
     "PBX Conmutador.canvas",
     "Ciberseguridad/PAN",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",

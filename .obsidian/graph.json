@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Firewall basico",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 13.8062283737024,
   "linkStrength": 0.880622837370242,
   "linkDistance": 255,
-  "scale": 0.40520344029838334,
+  "scale": 0.18009041442850945,
   "close": false
 }

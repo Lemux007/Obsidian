@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Firewall Avanzado",
-      "path": "Ciberseguridad/PAN/Firewall Avanzado.md"
-    },
-    {
       "basename": "Firewall Basico",
       "path": "Ciberseguridad/PAN/Firewall Basico.md"
+    },
+    {
+      "basename": "FW Basico",
+      "path": "Ciberseguridad/PAN/FW Basico.md"
+    },
+    {
+      "basename": "Drawing",
+      "path": "Templates/Drawing.md"
+    },
+    {
+      "basename": "Firewall Avanzado",
+      "path": "Ciberseguridad/PAN/Firewall Avanzado.md"
     },
     {
       "basename": "Network Based Attacks",
@@ -105,10 +113,6 @@
       "path": "Templates/Index.md"
     },
     {
-      "basename": "Drawing",
-      "path": "Templates/Drawing.md"
-    },
-    {
       "basename": "PBX Conmutador",
       "path": "PBX Conmutador.canvas"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Qualys",
       "path": "Ciberseguridad/Qualys.md"
-    },
-    {
-      "basename": "RootKitBuster",
-      "path": "Ciberseguridad/Trend Micro/RootKitBuster.md"
-    },
-    {
-      "basename": "Proxy",
-      "path": "Ciberseguridad/Proxy.md"
     }
   ],
   "omittedPaths": [],

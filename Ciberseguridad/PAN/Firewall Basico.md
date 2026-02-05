@@ -19,6 +19,9 @@ d. Los usuarios de la zona Trust tendrán negado el acceso a aplicaciones Peer 
 
 e. Configure la publicación de un servidor Web que vive en la zona DMZ y tiene la IP 172.16.1.15
 
+# Creacion de Objetos
+
+
 
 
 ## a) Configurar interfaces en Capa 3 y crear zonas
