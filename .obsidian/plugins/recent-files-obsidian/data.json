@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Firewall Avanzado",
+      "path": "Ciberseguridad/PAN/Firewall Avanzado.md"
+    },
+    {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/PAN/Firewall Basico.md"
+    },
+    {
       "basename": "Network Based Attacks",
       "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Proxy",
       "path": "Ciberseguridad/Proxy.md"
-    },
-    {
-      "basename": "Panorama",
-      "path": "Ciberseguridad/Panorama.md"
-    },
-    {
-      "basename": "Operational Technology Understanding the Basics",
-      "path": "Ciberseguridad/Trend Micro/Operational Technology Understanding the Basics.md"
     }
   ],
   "omittedPaths": [],
