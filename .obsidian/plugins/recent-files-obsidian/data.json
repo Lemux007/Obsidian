@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "FW Basico",
-      "path": "Ciberseguridad/PAN/FW Basico.md"
+      "basename": "Putty",
+      "path": "Troubleshooting/Putty.md"
     },
     {
       "basename": "Firewall Basico",
       "path": "Ciberseguridad/PAN/Firewall Basico.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Reducción de tamaño VM",
+      "path": "Troubleshooting/Reducción de tamaño VM.md"
+    },
+    {
+      "basename": "Preguntas seguridad",
+      "path": "Troubleshooting/Preguntas seguridad.md"
+    },
+    {
+      "basename": "Levantamiento Servidor Y VM_PanOS",
+      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "Ciberseguridad/Firewall.md"
+    },
+    {
+      "basename": "FW Basico",
+      "path": "Ciberseguridad/PAN/FW Basico.md"
+    },
+    {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
     {
       "basename": "Network Security NetSec Professional",
@@ -93,16 +129,8 @@
       "path": "Troubleshooting/Index/Cortex.md"
     },
     {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
       "basename": "Allocation Failed",
       "path": "Troubleshooting/Allocation Failed.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "Listing files",
@@ -171,30 +199,6 @@
     {
       "basename": "Trend Campus Foundation",
       "path": "Ciberseguridad/Trend Micro/Trend Campus Foundation.md"
-    },
-    {
-      "basename": "Tanium Certificaciones",
-      "path": "Ciberseguridad/Tanium/Tanium Certificaciones.md"
-    },
-    {
-      "basename": "Tanium Cloud Deployment",
-      "path": "Ciberseguridad/Tanium/Tanium Cloud Deployment.md"
-    },
-    {
-      "basename": "Syslog",
-      "path": "Ciberseguridad/Syslog.md"
-    },
-    {
-      "basename": "SOC",
-      "path": "Ciberseguridad/SOC.md"
-    },
-    {
-      "basename": "Servicio de Directorio",
-      "path": "Ciberseguridad/Servicio de Directorio.md"
-    },
-    {
-      "basename": "Qualys",
-      "path": "Ciberseguridad/Qualys.md"
     }
   ],
   "omittedPaths": [],

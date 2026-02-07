@@ -11,12 +11,28 @@
             "id": "734f09fd18c8a9cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/PAN/FW Basico.md"
+                "file": "Troubleshooting/Putty.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "FW Basico"
+              "icon": "lucide-file",
+              "title": "Putty"
+            }
+          },
+          {
+            "id": "319e286e4b170a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/PAN/Firewall Basico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Firewall Basico"
             }
           }
         ]
@@ -51,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Firewall",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -247,8 +262,8 @@
         "direction": "vertical",
         "x": -1139,
         "y": 232,
-        "width": 945,
-        "height": 755,
+        "width": 631,
+        "height": 501,
         "maximize": true,
         "zoom": -1
       },
@@ -273,15 +288,28 @@
                   "icon": "lucide-file",
                   "title": "Firewall Basico"
                 }
+              },
+              {
+                "id": "bf7883bcf15f8d6e",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.11.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.11.7"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": -1053,
         "y": 150,
-        "width": 944,
-        "height": 752,
+        "width": 629,
+        "height": 501,
         "maximize": false,
         "zoom": -1
       }
@@ -289,8 +317,17 @@
   },
   "active": "734f09fd18c8a9cf",
   "lastOpenFiles": [
+    "Troubleshooting/Putty.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
+    "Configuration.md",
+    "Troubleshooting/VPN.md",
+    "Troubleshooting/Reducción de tamaño VM.md",
+    "Troubleshooting/Preguntas seguridad.md",
+    "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
+    "Ciberseguridad/Firewall.md",
     "Ciberseguridad/PAN/FW Basico.md",
+    "Troubleshooting/Credenciales invalidas.md",
+    "Troubleshooting/Bloqueo de credenciales.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
@@ -306,18 +343,9 @@
     "CompTia Networking +/Fase 1/Layer 4 Transport.md",
     "Notas Random/2026-01-16.md",
     "CompTia Networking +/Study Plan.md",
-    "CompTia Networking +/Index CompTia Network +.md",
-    "CompTia Networking +/Diagrama OSI Model.md",
-    "Ciberseguridad/PAN/Network Security Professional 1.md",
-    "Ciberseguridad/PAN/Certs/SOC Processes.md",
-    "Ciberseguridad/PAN/Certs/PAN Certificaciones.md",
-    "Ciberseguridad/PAN/Certs/Introduction to SecOps.md",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",
-    "Ciberseguridad/Linux/1-15-26.md",
-    "Troubleshooting/Index/Cortex.md",
-    "Troubleshooting/Bloqueo de credenciales.md",
     "PBX Conmutador.canvas",
     "Ciberseguridad/PAN",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
