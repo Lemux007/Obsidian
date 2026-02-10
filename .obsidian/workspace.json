@@ -13,26 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting/Putty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Putty"
-            }
-          },
-          {
-            "id": "319e286e4b170a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Ciberseguridad/PAN/Firewall Basico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Firewall Basico"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d6e887f2687e0d04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0bec0599a464f06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ciberseguridad/PAN/FW Basico.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "FW Basico"
             }
           }
         ]
@@ -102,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -234,98 +239,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "81e5d24c69d2a4c8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4641cbaf3175f8d6",
-        "type": "window",
-        "children": [
-          {
-            "id": "4ef804f5c4bf16c2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d8c9d5f188f44201",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1139,
-        "y": 232,
-        "width": 631,
-        "height": 501,
-        "maximize": true,
-        "zoom": -1
-      },
-      {
-        "id": "ee4ff73f8942b1a4",
-        "type": "window",
-        "children": [
-          {
-            "id": "b7a3a09a3bdcba12",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b90341377337afc3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ciberseguridad/PAN/Firewall Basico.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Firewall Basico"
-                }
-              },
-              {
-                "id": "bf7883bcf15f8d6e",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.11.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.11.7"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": -1053,
-        "y": 150,
-        "width": 629,
-        "height": 501,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "734f09fd18c8a9cf",
+  "active": "d0bec0599a464f06",
   "lastOpenFiles": [
-    "Troubleshooting/Putty.md",
+    "Media/Pasted Image 20260209160938_091.png",
     "Ciberseguridad/PAN/Firewall Basico.md",
+    "Ciberseguridad/PAN/FW Basico.md",
+    "Troubleshooting/Putty.md",
+    "Ciberseguridad/Admon. Vulnerabilidades.md",
     "Configuration.md",
     "Troubleshooting/VPN.md",
     "Troubleshooting/Reducción de tamaño VM.md",
     "Troubleshooting/Preguntas seguridad.md",
     "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
     "Ciberseguridad/Firewall.md",
-    "Ciberseguridad/PAN/FW Basico.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
@@ -341,8 +267,6 @@
     "CompTia Networking +/Fase 1/Layer 1 Physical.md",
     "CompTia Networking +/Fase 1/Fase 1.md",
     "CompTia Networking +/Fase 1/Layer 4 Transport.md",
-    "Notas Random/2026-01-16.md",
-    "CompTia Networking +/Study Plan.md",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",

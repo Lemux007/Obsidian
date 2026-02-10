@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Putty",
-      "path": "Troubleshooting/Putty.md"
+      "basename": "FW Basico",
+      "path": "Ciberseguridad/PAN/FW Basico.md"
     },
     {
       "basename": "Firewall Basico",
       "path": "Ciberseguridad/PAN/Firewall Basico.md"
+    },
+    {
+      "basename": "Putty",
+      "path": "Troubleshooting/Putty.md"
+    },
+    {
+      "basename": "Admon. Vulnerabilidades",
+      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
     },
     {
       "basename": "Configuration",
@@ -31,10 +39,6 @@
     {
       "basename": "Firewall",
       "path": "Ciberseguridad/Firewall.md"
-    },
-    {
-      "basename": "FW Basico",
-      "path": "Ciberseguridad/PAN/FW Basico.md"
     },
     {
       "basename": "Credenciales invalidas",
@@ -195,10 +199,6 @@
     {
       "basename": "Trend Micro Certificaciones",
       "path": "Ciberseguridad/Trend Micro/Trend Micro Certificaciones.md"
-    },
-    {
-      "basename": "Trend Campus Foundation",
-      "path": "Ciberseguridad/Trend Micro/Trend Campus Foundation.md"
     }
   ],
   "omittedPaths": [],
