@@ -9,6 +9,14 @@
       "path": "Ciberseguridad/PAN/Firewall Basico.md"
     },
     {
+      "basename": "2-10-2026",
+      "path": "Ciberseguridad/TryHackMe/2-10-2026.md"
+    },
+    {
+      "basename": "PAN preguntas",
+      "path": "Sell/PAN preguntas.md"
+    },
+    {
       "basename": "Putty",
       "path": "Troubleshooting/Putty.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Trend Vision One Understanding the Basics",
       "path": "Ciberseguridad/Trend Micro/Trend Vision One Understanding the Basics.md"
-    },
-    {
-      "basename": "Trend Vision One Credits 101",
-      "path": "Ciberseguridad/Trend Micro/Trend Vision One Credits 101.md"
-    },
-    {
-      "basename": "Trend Micro Certificaciones",
-      "path": "Ciberseguridad/Trend Micro/Trend Micro Certificaciones.md"
     }
   ],
   "omittedPaths": [],
