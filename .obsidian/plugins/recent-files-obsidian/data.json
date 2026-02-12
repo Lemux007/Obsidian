@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Introduction to AD DS",
+      "path": "Ciberseguridad/Windows Server/Introduction to AD DS.md"
+    },
+    {
       "basename": "Windows Server Administration",
       "path": "Ciberseguridad/Windows Server/Windows Server Administration.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UTM",
       "path": "Ciberseguridad/UTM.md"
-    },
-    {
-      "basename": "Trend Vision One XDR for Cloud",
-      "path": "Ciberseguridad/Trend Micro/Trend Vision One XDR for Cloud.md"
     }
   ],
   "omittedPaths": [],

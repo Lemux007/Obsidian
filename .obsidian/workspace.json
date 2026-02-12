@@ -11,12 +11,14 @@
             "id": "580c0b0ed8442b16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Windows Server/Windows Server Administration.md"
+                "file": "Ciberseguridad/Windows Server/Introduction to AD DS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Windows Server Administration"
+              "icon": "lucide-file",
+              "title": "Introduction to AD DS"
             }
           }
         ]
@@ -220,8 +222,10 @@
   },
   "active": "580c0b0ed8442b16",
   "lastOpenFiles": [
-    "Ciberseguridad/Windows Server/Windows Server.md",
+    "Media/Pasted image 20260212135824.png",
     "Ciberseguridad/Windows Server/Windows Server Administration.md",
+    "Ciberseguridad/Windows Server/Introduction to AD DS.md",
+    "Ciberseguridad/Windows Server/Windows Server.md",
     "Ciberseguridad/PAN/FW Basico.md",
     "C3r71f1{a{c10n3$.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
@@ -247,8 +251,6 @@
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
     "Templates/Drawing.md",
     "Templates/Drawing.md",
-    "Ciberseguridad/PAN/Firewall Avanzado.md",
-    "CompTia Networking +/Fase 1/OSI Model1.md",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",
