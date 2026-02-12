@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ciberseguridad/PAN/FW Basico.md"
+                "file": "Ciberseguridad/Windows Server/Windows Server Administration.md"
               },
               "icon": "excalidraw-icon",
-              "title": "FW Basico"
+              "title": "Windows Server Administration"
             }
           }
         ]
@@ -220,14 +220,16 @@
   },
   "active": "580c0b0ed8442b16",
   "lastOpenFiles": [
+    "Ciberseguridad/Windows Server/Windows Server.md",
+    "Ciberseguridad/Windows Server/Windows Server Administration.md",
+    "Ciberseguridad/PAN/FW Basico.md",
+    "C3r71f1{a{c10n3$.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
     "Ciberseguridad/TryHackMe/2-10-2026.md",
     "Sell/PAN preguntas.md",
     "Ciberseguridad/TryHackMe",
     "Ciberseguridad/Untitled.md",
-    "Ciberseguridad/PAN/FW Basico.md",
     "Sell",
-    "Untitled.md",
     "Ciberseguridad/Radware/Untitled.md",
     "Media/Pasted Image 20260209160938_091.png",
     "Troubleshooting/Putty.md",
@@ -247,8 +249,6 @@
     "Templates/Drawing.md",
     "Ciberseguridad/PAN/Firewall Avanzado.md",
     "CompTia Networking +/Fase 1/OSI Model1.md",
-    "CompTia Networking +/Fase 1/MAC.md",
-    "CompTia Networking +/Fase 1/Layer 3 Network.md",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",

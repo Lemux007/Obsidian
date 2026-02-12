@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows Server Administration",
+      "path": "Ciberseguridad/Windows Server/Windows Server Administration.md"
+    },
+    {
+      "basename": "Windows Server",
+      "path": "Ciberseguridad/Windows Server/Windows Server.md"
+    },
+    {
       "basename": "FW Basico",
       "path": "Ciberseguridad/PAN/FW Basico.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Trend Vision One XDR for Cloud",
       "path": "Ciberseguridad/Trend Micro/Trend Vision One XDR for Cloud.md"
-    },
-    {
-      "basename": "Teoría de la información",
-      "path": "Ciberseguridad/Teoría de la información.md"
-    },
-    {
-      "basename": "Trend Vision One Understanding the Basics",
-      "path": "Ciberseguridad/Trend Micro/Trend Vision One Understanding the Basics.md"
     }
   ],
   "omittedPaths": [],
