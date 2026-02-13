@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d96c0bfbec35b6e",
+        "id": "86f53a296b2465b1",
         "type": "tabs",
         "children": [
           {
-            "id": "580c0b0ed8442b16",
+            "id": "6b8c292b15c16367",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Windows Server/Introduction to AD DS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction to AD DS"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -220,16 +216,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "580c0b0ed8442b16",
+  "active": "6b8c292b15c16367",
   "lastOpenFiles": [
+    "CompTia Networking +/Fase 1/OSI Model1.md",
+    "Ciberseguridad/TryHackMe/2-10-2026.md",
+    "Ciberseguridad/Windows Server/Introduction to AD DS.md",
     "Media/Pasted image 20260212135824.png",
     "Ciberseguridad/Windows Server/Windows Server Administration.md",
-    "Ciberseguridad/Windows Server/Introduction to AD DS.md",
     "Ciberseguridad/Windows Server/Windows Server.md",
     "Ciberseguridad/PAN/FW Basico.md",
     "C3r71f1{a{c10n3$.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
-    "Ciberseguridad/TryHackMe/2-10-2026.md",
     "Sell/PAN preguntas.md",
     "Ciberseguridad/TryHackMe",
     "Ciberseguridad/Untitled.md",
@@ -268,7 +265,6 @@
     "Media/300 101E  DefensePro X Level 1 Technical.png",
     "Media/300 101E  DefensePro X Level 1 Technical 1.png",
     "Media/1764889433920appoutputcertificate1PfANjOgsc.png",
-    "Media/1761802153059appoutputcertificateTZJTc0t0bQ.png",
     "Untitled.canvas"
   ]
 }
