@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Certificaciones TryHackMe",
+      "path": "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md"
+    },
+    {
+      "basename": "Presecurity-THM-4S6ZUQ73JP",
+      "path": "Media/Presecurity-THM-4S6ZUQ73JP.pdf"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
+      "basename": "Radware",
+      "path": "Ciberseguridad/Radware/Radware.md"
+    },
+    {
       "basename": "Windows Server Administration",
       "path": "Ciberseguridad/Windows Server/Windows Server Administration.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Working with Tanium Core",
       "path": "Ciberseguridad/Tanium/Working with Tanium Core.md"
-    },
-    {
-      "basename": "VPN",
-      "path": "Ciberseguridad/VPN.md"
-    },
-    {
-      "basename": "VLAN",
-      "path": "Ciberseguridad/VLAN.md"
-    },
-    {
-      "basename": "Vision One for Administrators",
-      "path": "Ciberseguridad/Trend Micro/Vision One for Administrators.md"
-    },
-    {
-      "basename": "UTM",
-      "path": "Ciberseguridad/UTM.md"
     }
   ],
   "omittedPaths": [],

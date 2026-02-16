@@ -11,12 +11,14 @@
             "id": "6b8c292b15c16367",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Windows Server/Windows Server Administration.md"
+                "file": "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Windows Server Administration"
+              "icon": "lucide-file",
+              "title": "Certificaciones TryHackMe"
             }
           }
         ]
@@ -220,12 +222,17 @@
   },
   "active": "6b8c292b15c16367",
   "lastOpenFiles": [
+    "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
+    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
+    "Ciberseguridad/Index/Certificaciones.md",
+    "Ciberseguridad/TryHackMe/Certs",
+    "Ciberseguridad/Radware/Radware.md",
+    "Ciberseguridad/Windows Server/Windows Server Administration.md",
     "Ciberseguridad/Windows Server/Windows Server.md",
     "Ciberseguridad/Windows Server/Introduction to AD DS.md",
     "Ciberseguridad/TryHackMe/2-10-2026.md",
     "CompTia Networking +/Fase 1/OSI Model1.md",
     "Media/Pasted image 20260212135824.png",
-    "Ciberseguridad/Windows Server/Windows Server Administration.md",
     "Ciberseguridad/PAN/FW Basico.md",
     "C3r71f1{a{c10n3$.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
@@ -246,10 +253,6 @@
     "Troubleshooting/Credenciales invalidas.md",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
-    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md",
-    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
-    "Templates/Drawing.md",
-    "Templates/Drawing.md",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",
@@ -258,8 +261,6 @@
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Libraries/network-topology-icons.excalidrawlib",
-    "Libraries/it-icons.excalidrawlib",
     "Media/Pasted Image 20260113171145_174.png",
     "Media/Pasted Image 20260113170931_592.png",
     "Media/Pasted image 20260112125653.png",
