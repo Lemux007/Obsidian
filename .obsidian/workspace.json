@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Random/2026-01-16.md",
+                "file": "Notas Random/2026-02-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-16"
+              "title": "2026-02-17"
             }
           }
         ]
@@ -222,6 +222,8 @@
   },
   "active": "6b8c292b15c16367",
   "lastOpenFiles": [
+    "Notas Random/2026-01-16.md",
+    "Notas Random/2026-02-17.md",
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Ciberseguridad/Index/Certificaciones.md",
@@ -252,7 +254,6 @@
     "Ciberseguridad/Firewall.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Troubleshooting/Bloqueo de credenciales.md",
-    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",

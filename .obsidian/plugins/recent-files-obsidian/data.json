@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-17",
+      "path": "Notas Random/2026-02-17.md"
+    },
+    {
       "basename": "2026-01-16",
       "path": "Notas Random/2026-01-16.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "XDR for Email",
       "path": "Ciberseguridad/Trend Micro/XDR for Email.md"
-    },
-    {
-      "basename": "Working with Tanium Core",
-      "path": "Ciberseguridad/Tanium/Working with Tanium Core.md"
     }
   ],
   "omittedPaths": [],
