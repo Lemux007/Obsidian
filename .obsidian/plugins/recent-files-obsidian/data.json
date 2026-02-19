@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Putty",
-      "path": "Troubleshooting/Putty.md"
-    },
-    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
     {
-      "basename": "2026-02-17",
-      "path": "Notas Random/2026-02-17.md"
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
     },
     {
-      "basename": "2026-01-16",
-      "path": "Notas Random/2026-01-16.md"
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
+      "basename": "Allocation Failed",
+      "path": "Troubleshooting/Allocation Failed.md"
+    },
+    {
+      "basename": "Admon. Vulnerabilidades",
+      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
     },
     {
       "basename": "Certificaciones TryHackMe",
@@ -23,6 +27,18 @@
     {
       "basename": "Presecurity-THM-4S6ZUQ73JP",
       "path": "Media/Presecurity-THM-4S6ZUQ73JP.pdf"
+    },
+    {
+      "basename": "Putty",
+      "path": "Troubleshooting/Putty.md"
+    },
+    {
+      "basename": "2026-02-17",
+      "path": "Notas Random/2026-02-17.md"
+    },
+    {
+      "basename": "2026-01-16",
+      "path": "Notas Random/2026-01-16.md"
     },
     {
       "basename": "Certificaciones",
@@ -45,10 +61,6 @@
       "path": "Ciberseguridad/Windows Server/Introduction to AD DS.md"
     },
     {
-      "basename": "2-10-2026",
-      "path": "Ciberseguridad/TryHackMe/2-10-2026.md"
-    },
-    {
       "basename": "OSI Model1",
       "path": "CompTia Networking +/Fase 1/OSI Model1.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "PAN preguntas",
       "path": "Sell/PAN preguntas.md"
-    },
-    {
-      "basename": "Admon. Vulnerabilidades",
-      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
     },
     {
       "basename": "VPN",
@@ -87,14 +95,6 @@
     {
       "basename": "Firewall",
       "path": "Ciberseguridad/Firewall.md"
-    },
-    {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
     {
       "basename": "Network Security NetSec Professional",
@@ -171,10 +171,6 @@
     {
       "basename": "Cortex",
       "path": "Troubleshooting/Index/Cortex.md"
-    },
-    {
-      "basename": "Allocation Failed",
-      "path": "Troubleshooting/Allocation Failed.md"
     },
     {
       "basename": "Listing files",
