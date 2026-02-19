@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Putty",
+      "path": "Troubleshooting/Putty.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
       "basename": "2026-02-17",
       "path": "Notas Random/2026-02-17.md"
     },
@@ -57,16 +65,8 @@
       "path": "Sell/PAN preguntas.md"
     },
     {
-      "basename": "Putty",
-      "path": "Troubleshooting/Putty.md"
-    },
-    {
       "basename": "Admon. Vulnerabilidades",
       "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "VPN",
@@ -195,10 +195,6 @@
     {
       "basename": "Zero Trust",
       "path": "Ciberseguridad/Zero Trust.md"
-    },
-    {
-      "basename": "XDR for Email",
-      "path": "Ciberseguridad/Trend Micro/XDR for Email.md"
     }
   ],
   "omittedPaths": [],

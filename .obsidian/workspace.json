@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Random/2026-02-17.md",
+                "file": "Troubleshooting/Putty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-17"
+              "title": "Putty"
             }
           }
         ]
@@ -222,8 +222,11 @@
   },
   "active": "6b8c292b15c16367",
   "lastOpenFiles": [
-    "Notas Random/2026-01-16.md",
+    "Excalidraw/Drawing 2026-02-17 17.39.39.excalidraw.md",
+    "Troubleshooting/Putty.md",
+    "Configuration.md",
     "Notas Random/2026-02-17.md",
+    "Notas Random/2026-01-16.md",
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Ciberseguridad/Index/Certificaciones.md",
@@ -244,16 +247,13 @@
     "Sell",
     "Ciberseguridad/Radware/Untitled.md",
     "Media/Pasted Image 20260209160938_091.png",
-    "Troubleshooting/Putty.md",
     "Ciberseguridad/Admon. Vulnerabilidades.md",
-    "Configuration.md",
     "Troubleshooting/VPN.md",
     "Troubleshooting/Reducción de tamaño VM.md",
     "Troubleshooting/Preguntas seguridad.md",
     "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
     "Ciberseguridad/Firewall.md",
     "Troubleshooting/Credenciales invalidas.md",
-    "Troubleshooting/Bloqueo de credenciales.md",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",
