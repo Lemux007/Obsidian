@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration.md",
+                "file": "Notas Random/2026-02-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "2026-02-23"
             }
           }
         ]
@@ -222,16 +222,19 @@
   },
   "active": "6b8c292b15c16367",
   "lastOpenFiles": [
+    "Troubleshooting/Correo ESM.md",
+    "Notas Random/2026-02-23.md",
+    "Troubleshooting/Allocation Failed.md",
+    "Troubleshooting/Index/Cortex.md",
+    "Configuration.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Troubleshooting/Bloqueo de credenciales.md",
-    "Troubleshooting/Allocation Failed.md",
     "Ciberseguridad/Admon. Vulnerabilidades.md",
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Ciberseguridad/TryHackMe/2-10-2026.md",
     "Troubleshooting/Putty.md",
     "Excalidraw/Drawing 2026-02-17 17.39.39.excalidraw.md",
-    "Configuration.md",
     "Notas Random/2026-02-17.md",
     "Notas Random/2026-01-16.md",
     "Ciberseguridad/Index/Certificaciones.md",
@@ -251,9 +254,6 @@
     "Sell",
     "Ciberseguridad/Radware/Untitled.md",
     "Media/Pasted Image 20260209160938_091.png",
-    "Troubleshooting/VPN.md",
-    "Troubleshooting/Reducción de tamaño VM.md",
-    "Troubleshooting/Preguntas seguridad.md",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",

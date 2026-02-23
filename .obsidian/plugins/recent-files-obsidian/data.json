@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-23",
+      "path": "Notas Random/2026-02-23.md"
+    },
+    {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "Allocation Failed",
+      "path": "Troubleshooting/Allocation Failed.md"
+    },
+    {
+      "basename": "Cortex",
+      "path": "Troubleshooting/Index/Cortex.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Bloqueo de credenciales",
       "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
-      "basename": "Allocation Failed",
-      "path": "Troubleshooting/Allocation Failed.md"
     },
     {
       "basename": "Admon. Vulnerabilidades",
@@ -167,10 +179,6 @@
     {
       "basename": "1-15-26",
       "path": "Ciberseguridad/Linux/1-15-26.md"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Troubleshooting/Index/Cortex.md"
     },
     {
       "basename": "Listing files",
