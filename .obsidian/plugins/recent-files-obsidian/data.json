@@ -5,6 +5,18 @@
       "path": "Notas Random/2026-02-23.md"
     },
     {
+      "basename": "Memorias Tecnicas",
+      "path": "Ciberseguridad/PAN/Memorias Tecnicas.md"
+    },
+    {
+      "basename": "Presecurity-THM-4S6ZUQ73JP",
+      "path": "Media/Presecurity-THM-4S6ZUQ73JP.pdf"
+    },
+    {
+      "basename": "Certificaciones TryHackMe",
+      "path": "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md"
+    },
+    {
       "basename": "Correo ESM",
       "path": "Troubleshooting/Correo ESM.md"
     },
@@ -31,14 +43,6 @@
     {
       "basename": "Admon. Vulnerabilidades",
       "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
-    },
-    {
-      "basename": "Certificaciones TryHackMe",
-      "path": "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md"
-    },
-    {
-      "basename": "Presecurity-THM-4S6ZUQ73JP",
-      "path": "Media/Presecurity-THM-4S6ZUQ73JP.pdf"
     },
     {
       "basename": "Putty",
@@ -195,10 +199,6 @@
     {
       "basename": "WEB SSO",
       "path": "Ciberseguridad/WEB SSO.md"
-    },
-    {
-      "basename": "Zero Trust",
-      "path": "Ciberseguridad/Zero Trust.md"
     }
   ],
   "omittedPaths": [],

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86f53a296b2465b1",
+        "id": "d33bb04515c51c32",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8c292b15c16367",
+            "id": "996301fd2f10309e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -220,18 +220,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b8c292b15c16367",
+  "active": "996301fd2f10309e",
   "lastOpenFiles": [
-    "Troubleshooting/Correo ESM.md",
+    "Ciberseguridad/PAN/Memorias Tecnicas.md",
+    "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
+    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Notas Random/2026-02-23.md",
+    "Troubleshooting/Correo ESM.md",
     "Troubleshooting/Allocation Failed.md",
     "Troubleshooting/Index/Cortex.md",
     "Configuration.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Ciberseguridad/Admon. Vulnerabilidades.md",
-    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
-    "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Ciberseguridad/TryHackMe/2-10-2026.md",
     "Troubleshooting/Putty.md",
     "Excalidraw/Drawing 2026-02-17 17.39.39.excalidraw.md",
@@ -252,7 +253,6 @@
     "Ciberseguridad/TryHackMe",
     "Ciberseguridad/Untitled.md",
     "Sell",
-    "Ciberseguridad/Radware/Untitled.md",
     "Media/Pasted Image 20260209160938_091.png",
     "Ciberseguridad/PAN/Certs",
     "Ciberseguridad/PAN/C",
