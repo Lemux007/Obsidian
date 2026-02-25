@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Random/2026-02-23.md",
+                "file": "Ciberseguridad/PAN/Memorias Tecnicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-23"
+              "title": "Memorias Tecnicas"
             }
           }
         ]
@@ -222,10 +222,10 @@
   },
   "active": "996301fd2f10309e",
   "lastOpenFiles": [
+    "Notas Random/2026-02-23.md",
     "Ciberseguridad/PAN/Memorias Tecnicas.md",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
-    "Notas Random/2026-02-23.md",
     "Troubleshooting/Correo ESM.md",
     "Troubleshooting/Allocation Failed.md",
     "Troubleshooting/Index/Cortex.md",
