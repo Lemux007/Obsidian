@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "N8N",
+      "path": "N8N.md"
+    },
+    {
       "basename": "Memorias Tecnicas",
       "path": "Ciberseguridad/PAN/Memorias Tecnicas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PBX Conmutador",
       "path": "PBX Conmutador.canvas"
-    },
-    {
-      "basename": "WEB SSO",
-      "path": "Ciberseguridad/WEB SSO.md"
     }
   ],
   "omittedPaths": [],
