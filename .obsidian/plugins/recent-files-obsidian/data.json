@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Reporte Final",
+      "path": "Practicas/Reporte Final.pdf"
+    },
+    {
+      "basename": "Carta de Termino ",
+      "path": "Practicas/Carta de Termino .pdf"
+    },
+    {
+      "basename": "Reportes mensuales",
+      "path": "Practicas/Reportes mensuales.pdf"
+    },
+    {
       "basename": "N8N",
       "path": "N8N.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1-15-26",
       "path": "Ciberseguridad/Linux/1-15-26.md"
-    },
-    {
-      "basename": "Listing files",
-      "path": "Ciberseguridad/Linux/Listing files.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Templates/Index.md"
-    },
-    {
-      "basename": "PBX Conmutador",
-      "path": "PBX Conmutador.canvas"
     }
   ],
   "omittedPaths": [],

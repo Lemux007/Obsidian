@@ -37,14 +37,12 @@
             "id": "a1600e10eb4d59e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "N8N.md",
-                "mode": "source",
-                "source": false
+                "file": "Practicas/Reporte Final.pdf"
               },
-              "icon": "lucide-file",
-              "title": "N8N"
+              "icon": "lucide-file-text",
+              "title": "Reporte Final"
             }
           }
         ],
@@ -249,7 +247,15 @@
   },
   "active": "a1600e10eb4d59e0",
   "lastOpenFiles": [
+    "Practicas/Carta de Termino .pdf",
+    "Practicas/Practicas.rar",
+    "Practicas/Reportes mensuales.pdf",
+    "Practicas/Reporte Final.pdf",
     "N8N.md",
+    "Practicas/Reportes_Mensuales.xlsx",
+    "Practicas/Informe Final.docx",
+    "Practicas/Formato de Registro de Actividades para Prácticas Profesionales 2025.xlsx",
+    "Practicas",
     "Ciberseguridad/PAN/Memorias Tecnicas.md",
     "Notas Random/2026-02-23.md",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
@@ -277,18 +283,10 @@
     "Ciberseguridad/PAN/FW Basico.md",
     "C3r71f1{a{c10n3$.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
-    "Sell/PAN preguntas.md",
     "Ciberseguridad/TryHackMe",
-    "Sell",
     "Media/Pasted Image 20260209160938_091.png",
-    "Ciberseguridad/PAN/Certs",
-    "Ciberseguridad/PAN/C",
-    "Ciberseguridad/PAN/Network Security_ NetSec Professional",
     "PBX Conmutador.canvas",
-    "Ciberseguridad/PAN",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Media/Pasted Image 20260113171145_174.png",
     "Media/Pasted Image 20260113170931_592.png",
     "Media/Pasted image 20260112125653.png",
