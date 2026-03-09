@@ -5,6 +5,10 @@
       "path": "Notas Random/2026-03-09.md"
     },
     {
+      "basename": "Memorias Tecnicas",
+      "path": "Ciberseguridad/PAN/Memorias Tecnicas.md"
+    },
+    {
       "basename": "Reporte Final",
       "path": "Practicas/Reporte Final.pdf"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "N8N",
       "path": "N8N.md"
-    },
-    {
-      "basename": "Memorias Tecnicas",
-      "path": "Ciberseguridad/PAN/Memorias Tecnicas.md"
     },
     {
       "basename": "2026-02-23",
