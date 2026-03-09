@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-03-09",
+      "path": "Notas Random/2026-03-09.md"
+    },
+    {
       "basename": "Reporte Final",
       "path": "Practicas/Reporte Final.pdf"
     },
@@ -11,6 +15,10 @@
     {
       "basename": "Reportes mensuales",
       "path": "Practicas/Reportes mensuales.pdf"
+    },
+    {
+      "basename": "PAN preguntas",
+      "path": "Sell/PAN preguntas.md"
     },
     {
       "basename": "N8N",
@@ -105,10 +113,6 @@
       "path": "Ciberseguridad/PAN/Firewall Basico.md"
     },
     {
-      "basename": "PAN preguntas",
-      "path": "Sell/PAN preguntas.md"
-    },
-    {
       "basename": "VPN",
       "path": "Troubleshooting/VPN.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Introduction to SecOps",
       "path": "Ciberseguridad/PAN/Certs/Introduction to SecOps.md"
-    },
-    {
-      "basename": "1-15-26",
-      "path": "Ciberseguridad/Linux/1-15-26.md"
     }
   ],
   "omittedPaths": [],

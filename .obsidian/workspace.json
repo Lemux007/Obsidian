@@ -22,31 +22,21 @@
             }
           },
           {
-            "id": "f8b0ef7fa23e5182",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "a1600e10eb4d59e0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Practicas/Reporte Final.pdf"
+                "file": "Notas Random/2026-03-09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Reporte Final"
+              "icon": "lucide-file",
+              "title": "2026-03-09"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +237,12 @@
   },
   "active": "a1600e10eb4d59e0",
   "lastOpenFiles": [
-    "Practicas/Carta de Termino .pdf",
-    "Practicas/Practicas.rar",
-    "Practicas/Reportes mensuales.pdf",
     "Practicas/Reporte Final.pdf",
+    "Notas Random/2026-03-09.md",
+    "Practicas/Carta de Termino .pdf",
+    "Practicas/Reportes mensuales.pdf",
+    "Sell/PAN preguntas.md",
+    "Practicas/Practicas.rar",
     "N8N.md",
     "Practicas/Reportes_Mensuales.xlsx",
     "Practicas/Informe Final.docx",
@@ -281,9 +273,6 @@
     "CompTia Networking +/Fase 1/OSI Model1.md",
     "Media/Pasted image 20260212135824.png",
     "Ciberseguridad/PAN/FW Basico.md",
-    "C3r71f1{a{c10n3$.md",
-    "Ciberseguridad/PAN/Firewall Basico.md",
-    "Ciberseguridad/TryHackMe",
     "Media/Pasted Image 20260209160938_091.png",
     "PBX Conmutador.canvas",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
