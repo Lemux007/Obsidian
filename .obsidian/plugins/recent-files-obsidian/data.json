@@ -1,84 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-03-09",
-      "path": "Notas Random/2026-03-09.md"
-    },
-    {
-      "basename": "Memorias Tecnicas",
-      "path": "Ciberseguridad/PAN/Memorias Tecnicas.md"
-    },
-    {
-      "basename": "Reporte Final",
-      "path": "Practicas/Reporte Final.pdf"
-    },
-    {
-      "basename": "Carta de Termino ",
-      "path": "Practicas/Carta de Termino .pdf"
-    },
-    {
-      "basename": "Reportes mensuales",
-      "path": "Practicas/Reportes mensuales.pdf"
-    },
-    {
-      "basename": "PAN preguntas",
-      "path": "Sell/PAN preguntas.md"
-    },
-    {
-      "basename": "N8N",
-      "path": "N8N.md"
-    },
-    {
-      "basename": "2026-02-23",
-      "path": "Notas Random/2026-02-23.md"
-    },
-    {
-      "basename": "Presecurity-THM-4S6ZUQ73JP",
-      "path": "Media/Presecurity-THM-4S6ZUQ73JP.pdf"
-    },
-    {
-      "basename": "Certificaciones TryHackMe",
-      "path": "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
-      "basename": "Allocation Failed",
-      "path": "Troubleshooting/Allocation Failed.md"
-    },
-    {
-      "basename": "Cortex",
-      "path": "Troubleshooting/Index/Cortex.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
-    },
-    {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
       "basename": "Bloqueo de credenciales",
       "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
     {
-      "basename": "Admon. Vulnerabilidades",
-      "path": "Ciberseguridad/Admon. Vulnerabilidades.md"
-    },
-    {
-      "basename": "Putty",
-      "path": "Troubleshooting/Putty.md"
-    },
-    {
-      "basename": "2026-02-17",
-      "path": "Notas Random/2026-02-17.md"
-    },
-    {
-      "basename": "2026-01-16",
-      "path": "Notas Random/2026-01-16.md"
+      "basename": "ADO",
+      "path": "Ciberseguridad/Radware/ADO.md"
     },
     {
       "basename": "Certificaciones",
@@ -89,28 +17,28 @@
       "path": "Ciberseguridad/Radware/Radware.md"
     },
     {
-      "basename": "Windows Server Administration",
-      "path": "Ciberseguridad/Windows Server/Windows Server Administration.md"
+      "basename": "300-101E",
+      "path": "Ciberseguridad/Radware/300-101E.md"
     },
     {
-      "basename": "Windows Server",
-      "path": "Ciberseguridad/Windows Server/Windows Server.md"
+      "basename": "Application Protection Training for Partners",
+      "path": "Ciberseguridad/Radware/Application Protection Training for Partners.md"
     },
     {
-      "basename": "Introduction to AD DS",
-      "path": "Ciberseguridad/Windows Server/Introduction to AD DS.md"
+      "basename": "Pre-Sales Certification",
+      "path": "Ciberseguridad/Radware/Pre-Sales Certification.md"
     },
     {
-      "basename": "OSI Model1",
-      "path": "CompTia Networking +/Fase 1/OSI Model1.md"
+      "basename": "MITRE Understanding the Basics",
+      "path": "Ciberseguridad/Cortex XDR/MITRE Understanding the Basics.md"
     },
     {
-      "basename": "FW Basico",
-      "path": "Ciberseguridad/PAN/FW Basico.md"
+      "basename": "2026-01-16",
+      "path": "Notas Random/2026-01-16.md"
     },
     {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/PAN/Firewall Basico.md"
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
     },
     {
       "basename": "VPN",
@@ -121,84 +49,40 @@
       "path": "Troubleshooting/Reducción de tamaño VM.md"
     },
     {
-      "basename": "Preguntas seguridad",
-      "path": "Troubleshooting/Preguntas seguridad.md"
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
     },
     {
-      "basename": "Levantamiento Servidor Y VM_PanOS",
-      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
+      "basename": "Trend Micro",
+      "path": "Ciberseguridad/Index/Trend Micro.md"
     },
     {
-      "basename": "Firewall",
-      "path": "Ciberseguridad/Firewall.md"
+      "basename": "Attack Index",
+      "path": "Ciberseguridad/Attack Index.md"
     },
     {
-      "basename": "Network Security NetSec Professional",
-      "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md"
+      "basename": "1-15-26",
+      "path": "Ciberseguridad/Linux/1-15-26.md"
     },
     {
-      "basename": "Network Security Professional",
-      "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md"
+      "basename": "Reglas de prevención personalizadas",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
     },
     {
-      "basename": "Network Based Attacks",
-      "path": "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md"
+      "basename": "WEB SSO",
+      "path": "Ciberseguridad/WEB SSO.md"
     },
     {
-      "basename": "Drawing",
-      "path": "Templates/Drawing.md"
+      "basename": "Perfiles",
+      "path": "Ciberseguridad/Cortex XDR/Perfiles.md"
     },
     {
-      "basename": "Firewall Avanzado",
-      "path": "Ciberseguridad/PAN/Firewall Avanzado.md"
+      "basename": "Teoría de la información",
+      "path": "Ciberseguridad/Teoría de la información.md"
     },
     {
-      "basename": "MAC",
-      "path": "CompTia Networking +/Fase 1/MAC.md"
-    },
-    {
-      "basename": "Layer 3 Network",
-      "path": "CompTia Networking +/Fase 1/Layer 3 Network.md"
-    },
-    {
-      "basename": "Layer 2 Data Link",
-      "path": "CompTia Networking +/Fase 1/Layer 2 Data Link.md"
-    },
-    {
-      "basename": "Layer 1 Physical",
-      "path": "CompTia Networking +/Fase 1/Layer 1 Physical.md"
-    },
-    {
-      "basename": "Fase 1",
-      "path": "CompTia Networking +/Fase 1/Fase 1.md"
-    },
-    {
-      "basename": "Layer 4 Transport",
-      "path": "CompTia Networking +/Fase 1/Layer 4 Transport.md"
-    },
-    {
-      "basename": "Study Plan",
-      "path": "CompTia Networking +/Study Plan.md"
-    },
-    {
-      "basename": "Index CompTia Network +",
-      "path": "CompTia Networking +/Index CompTia Network +.md"
-    },
-    {
-      "basename": "Diagrama OSI Model",
-      "path": "CompTia Networking +/Diagrama OSI Model.md"
-    },
-    {
-      "basename": "SOC Processes",
-      "path": "Ciberseguridad/PAN/Certs/SOC Processes.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN/Certs/PAN Certificaciones.md"
-    },
-    {
-      "basename": "Introduction to SecOps",
-      "path": "Ciberseguridad/PAN/Certs/Introduction to SecOps.md"
+      "basename": "SOC",
+      "path": "Ciberseguridad/SOC.md"
     }
   ],
   "omittedPaths": [],

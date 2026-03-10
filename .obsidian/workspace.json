@@ -11,10 +11,14 @@
             "id": "cfb9106d9dc6c484",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -215,8 +219,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cfb9106d9dc6c484",
+  "active": "f57143b7aba96585",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ciberseguridad/Radware/ADO.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
@@ -248,8 +254,6 @@
     "Ciberseguridad/Trend Micro/Containers Understanding the Basics.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Tanium/Working with Tanium Core.md",
-    "Ciberseguridad/Tanium/Tanium Cloud Deployment.md",
-    "Ciberseguridad/Tanium/Tanium Certificaciones.md",
     "Ciberseguridad/Tanium",
     "Ciberseguridad/Radware",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",
