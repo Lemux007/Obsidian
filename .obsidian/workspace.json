@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Index/Certificaciones.md",
+                "file": "Troubleshooting/Bloqueo de credenciales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificaciones"
+              "title": "Bloqueo de credenciales"
             }
           }
         ]
@@ -220,11 +220,12 @@
   },
   "active": "fde865be0125880c",
   "lastOpenFiles": [
+    "Ciberseguridad/Radware/ADO.md",
+    "Ciberseguridad/Index/Certificaciones.md",
     "Ciberseguridad/Radware/Radware.md",
     "Ciberseguridad/Radware/300-101E.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
-    "Ciberseguridad/Index/Certificaciones.md",
     "Ciberseguridad/Tanium Certificaciones.md",
     "Ciberseguridad/Working with Tanium Core.md",
     "Ciberseguridad/Tanium Cloud Deployment.md",
@@ -245,7 +246,6 @@
     "Ciberseguridad/Trend Vision One Understanding the Basics.md",
     "Ciberseguridad/Trend Campus Foundation.md",
     "Ciberseguridad/PAN Certificaciones.md",
-    "Ciberseguridad/Cortex Foundations - The Learning Center.md",
     "Notas Random",
     "Media/Pasted Image 20260113171145_174.png",
     "Media/Pasted Image 20260113170931_592.png",

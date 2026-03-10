@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
+      "basename": "ADO",
+      "path": "Ciberseguridad/Radware/ADO.md"
+    },
+    {
       "basename": "Certificaciones",
       "path": "Ciberseguridad/Index/Certificaciones.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "SecOps",
       "path": "Ciberseguridad/SecOps.md"
-    },
-    {
-      "basename": "Qualys",
-      "path": "Ciberseguridad/Qualys.md"
-    },
-    {
-      "basename": "Proxy",
-      "path": "Ciberseguridad/Proxy.md"
     }
   ],
   "omittedPaths": [],
