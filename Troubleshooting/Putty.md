@@ -1,5 +1,5 @@
 #Nodo
-Configuraciones [[PAN]] en Putty
+Configuraciones [[Ciberseguridad/Index/PAN]] en Putty
 # Factory reset
 Entrar al CLI por serial y administrador de servidores
 - debug system maintenance-mode
@@ -25,7 +25,7 @@ Si la queremos colocar por DHCP le damos:
 - set deviceconfig system dhcp-client-options send-hostname no
 - commit
 - set deviceconfig system type dhcp-client
-- 
+
 Configurar los servicios DNS en DEVICE/Setup/services y colocamos el primario y secundario
 
 Firewall de inspección de paquetes de estado: Basados en puertos y dependen en gran medida de la confiabilidad de los dos host, ya que los paquetes no se inspeccionan despues de establecer la conexion.

@@ -29,96 +29,8 @@
       "path": "Ciberseguridad/Radware/Pre-Sales Certification.md"
     },
     {
-      "basename": "Tanium Certificaciones",
-      "path": "Ciberseguridad/Tanium Certificaciones.md"
-    },
-    {
-      "basename": "Working with Tanium Core",
-      "path": "Ciberseguridad/Working with Tanium Core.md"
-    },
-    {
-      "basename": "Tanium Cloud Deployment",
-      "path": "Ciberseguridad/Tanium Cloud Deployment.md"
-    },
-    {
-      "basename": "Delivering Tanium Support Services",
-      "path": "Ciberseguridad/Delivering Tanium Support Services.md"
-    },
-    {
-      "basename": "Tanium Essentials (TANE) 7.4.5",
-      "path": "Ciberseguridad/Tanium Essentials (TANE) 7.4.5.md"
-    },
-    {
-      "basename": "Getting Started with Tanium WBT",
-      "path": "Ciberseguridad/Getting Started with Tanium WBT.md"
-    },
-    {
-      "basename": "Trend Micro Certificaciones",
-      "path": "Ciberseguridad/Trend Micro Certificaciones.md"
-    },
-    {
-      "basename": "Email Risk Management",
-      "path": "Ciberseguridad/Email Risk Management.md"
-    },
-    {
-      "basename": "XDR for Email",
-      "path": "Ciberseguridad/XDR for Email.md"
-    },
-    {
-      "basename": "Email and Collaboration Security",
-      "path": "Ciberseguridad/Email and Collaboration Security.md"
-    },
-    {
-      "basename": "Trend Vision One XDR for Cloud",
-      "path": "Ciberseguridad/Trend Vision One XDR for Cloud.md"
-    },
-    {
-      "basename": "Containers Understanding the Basics",
-      "path": "Ciberseguridad/Containers Understanding the Basics.md"
-    },
-    {
-      "basename": "Vision One for Administrators",
-      "path": "Ciberseguridad/Vision One for Administrators.md"
-    },
-    {
       "basename": "MITRE Understanding the Basics",
       "path": "Ciberseguridad/Cortex XDR/MITRE Understanding the Basics.md"
-    },
-    {
-      "basename": "Trend Vision One Credits 101",
-      "path": "Ciberseguridad/Trend Vision One Credits 101.md"
-    },
-    {
-      "basename": "Forensics Understanding the Basics",
-      "path": "Ciberseguridad/Forensics Understanding the Basics.md"
-    },
-    {
-      "basename": "Operational Technology Understanding the Basics",
-      "path": "Ciberseguridad/Operational Technology Understanding the Basics.md"
-    },
-    {
-      "basename": "Trend Vision One Understanding the Basics",
-      "path": "Ciberseguridad/Trend Vision One Understanding the Basics.md"
-    },
-    {
-      "basename": "Trend Campus Foundation",
-      "path": "Ciberseguridad/Trend Campus Foundation.md"
-    },
-    {
-      "basename": "PAN Certificaciones",
-      "path": "Ciberseguridad/PAN Certificaciones.md"
-    },
-    {
-      "basename": "Cortex Foundations - The Learning Center",
-      "path": "Ciberseguridad/Cortex Foundations - The Learning Center.md"
-    },
-    {
-      "basename": "SOC Processes",
-      "path": "Ciberseguridad/SOC Processes.md"
-    },
-    {
-      "basename": "Introduction to SecOps",
-      "path": "Ciberseguridad/Introduction to SecOps.md"
     },
     {
       "basename": "2026-01-16",
@@ -141,24 +53,8 @@
       "path": "Troubleshooting/Correo ESM.md"
     },
     {
-      "basename": "Credits",
-      "path": "Ciberseguridad/Credits.md"
-    },
-    {
       "basename": "Trend Micro",
       "path": "Ciberseguridad/Index/Trend Micro.md"
-    },
-    {
-      "basename": "RootKitBuster",
-      "path": "Ciberseguridad/RootKitBuster.md"
-    },
-    {
-      "basename": "Fake AVV & ATTK",
-      "path": "Ciberseguridad/Fake AVV & ATTK.md"
-    },
-    {
-      "basename": "HouseCall",
-      "path": "Ciberseguridad/HouseCall.md"
     },
     {
       "basename": "Attack Index",
@@ -167,14 +63,6 @@
     {
       "basename": "1-15-26",
       "path": "Ciberseguridad/Linux/1-15-26.md"
-    },
-    {
-      "basename": "2026-01-15",
-      "path": "Notas Random/2026-01-15.md"
-    },
-    {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/Firewall Basico.md"
     },
     {
       "basename": "Reglas de prevención personalizadas",
@@ -195,10 +83,6 @@
     {
       "basename": "SOC",
       "path": "Ciberseguridad/SOC.md"
-    },
-    {
-      "basename": "SecOps",
-      "path": "Ciberseguridad/SecOps.md"
     }
   ],
   "omittedPaths": [],
