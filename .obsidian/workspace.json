@@ -35,8 +35,7 @@
               "title": "2026-03-09"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,10 +234,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1600e10eb4d59e0",
+  "active": "996301fd2f10309e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Notas Random/2026-03-09.md",
+    "conflict-files-obsidian-git.md",
     "Ciberseguridad/Radware/ADO.md",
     "Ciberseguridad/PAN/Memorias Tecnicas.md",
     "Practicas/Reporte Final.pdf",
