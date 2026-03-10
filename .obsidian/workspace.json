@@ -1,74 +1,59 @@
 {
   "main": {
-    "id": "36243f34e3b02f85",
+    "id": "7b0e8ed45895098d",
     "type": "split",
     "children": [
       {
-        "id": "d33bb04515c51c32",
+        "id": "58c7c1ad77fe53f5",
         "type": "tabs",
         "children": [
           {
-            "id": "996301fd2f10309e",
+            "id": "6b7d8b4d34e8578d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/PAN/Memorias Tecnicas.md",
+                "file": "Troubleshooting/Credenciales invalidas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memorias Tecnicas"
-            }
-          },
-          {
-            "id": "a1600e10eb4d59e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Random/2026-03-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-09"
+              "title": "Credenciales invalidas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "be81bb4665014839",
+    "id": "368b2968a85cc6fc",
     "type": "split",
     "children": [
       {
-        "id": "1aa785ec416d7b6e",
+        "id": "0c846cec96874d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "a3e6c54a14b814d7",
+            "id": "3139ebbbf901fd0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "4a6a9ae491db0f02",
+            "id": "4e61ef98b3125028",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ideas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,21 +61,21 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "46cc15c8e27a1cbc",
+            "id": "5bc1a8399f0982f9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           },
           {
-            "id": "ab85f69759d10874",
+            "id": "3a3970585581df83",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -103,34 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5
   },
   "right": {
-    "id": "3b51eabc682af302",
+    "id": "81c6078d26183ead",
     "type": "split",
     "children": [
       {
-        "id": "2fc63a201f8e938a",
+        "id": "d6c77388e387e999",
         "type": "tabs",
-        "dimension": 53.8563829787234,
+        "dimension": 61.143410852713174,
         "children": [
           {
-            "id": "a361c99cb4766eea",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "3c1c6e1680d9e593",
+            "id": "eda9e7c086abeb64",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/PAN/Network Based Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Network Based Attacks"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "7d65a2e781c73abb",
+            "id": "ddc9fa47031af038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "1c77a899b60b06ed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,36 +147,31 @@
             }
           },
           {
-            "id": "7e7921f06e56ef02",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Excalidraw/Listing files.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Listing files"
-            }
-          },
-          {
-            "id": "4872dc76667c5807",
+            "id": "d88a58e1fd79b407",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Listing files.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Listing files"
+              "title": "Outline"
             }
           },
           {
-            "id": "1dc494b3ef9204fe",
+            "id": "f57143b7aba96585",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "520e47cac19ad4f7",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -197,15 +180,16 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "77f2903fd4791bbf",
+        "id": "e6b64c424e826221",
         "type": "tabs",
-        "dimension": 46.1436170212766,
+        "dimension": 38.856589147286826,
         "children": [
           {
-            "id": "b33ec432ce3104d8",
+            "id": "39ce12028540f207",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -218,71 +202,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1600e10eb4d59e0",
+  "active": "3139ebbbf901fd0d",
   "lastOpenFiles": [
-    "Ciberseguridad/PAN/Memorias Tecnicas.md",
-    "Notas Random/2026-03-09.md",
-    "Practicas/Reporte Final.pdf",
-    "Practicas/Carta de Termino .pdf",
-    "Practicas/Reportes mensuales.pdf",
-    "Sell/PAN preguntas.md",
-    "Practicas/Practicas.rar",
-    "N8N.md",
-    "Practicas/Reportes_Mensuales.xlsx",
-    "Practicas/Informe Final.docx",
-    "Practicas/Formato de Registro de Actividades para Prácticas Profesionales 2025.xlsx",
-    "Practicas",
-    "Notas Random/2026-02-23.md",
-    "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
-    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
-    "Troubleshooting/Correo ESM.md",
-    "Troubleshooting/Allocation Failed.md",
-    "Troubleshooting/Index/Cortex.md",
-    "Configuration.md",
-    "Troubleshooting/Credenciales invalidas.md",
-    "Troubleshooting/Bloqueo de credenciales.md",
-    "Ciberseguridad/Admon. Vulnerabilidades.md",
-    "Ciberseguridad/TryHackMe/2-10-2026.md",
-    "Troubleshooting/Putty.md",
-    "Excalidraw/Drawing 2026-02-17 17.39.39.excalidraw.md",
-    "Notas Random/2026-02-17.md",
-    "Notas Random/2026-01-16.md",
-    "Ciberseguridad/Index/Certificaciones.md",
-    "Ciberseguridad/TryHackMe/Certs",
-    "Ciberseguridad/Radware/Radware.md",
-    "Ciberseguridad/Windows Server/Windows Server Administration.md",
-    "Ciberseguridad/Windows Server/Windows Server.md",
-    "Ciberseguridad/Windows Server/Introduction to AD DS.md",
-    "CompTia Networking +/Fase 1/OSI Model1.md",
-    "Media/Pasted image 20260212135824.png",
-    "Ciberseguridad/PAN/FW Basico.md",
-    "Media/Pasted Image 20260209160938_091.png",
-    "PBX Conmutador.canvas",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Media/Pasted Image 20260113171145_174.png",
-    "Media/Pasted Image 20260113170931_592.png",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Ciberseguridad/Windows Server/Windows Server.md",
+    "Ciberseguridad/Windows Server/Windows Server Administration.md",
+    "Ciberseguridad/Windows Server/Introduction to AD DS.md",
+    "Ciberseguridad/Windows Server",
+    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
+    "Ciberseguridad/TryHackMe/Certs",
+    "Ciberseguridad/TryHackMe",
+    "Ciberseguridad/Trend Micro/XDR for Email.md",
+    "Ciberseguridad/Trend Micro/Trend Vision One XDR for Cloud.md",
+    "Ciberseguridad/Trend Micro/Vision One for Administrators.md",
+    "Ciberseguridad/Trend Micro/Trend Vision One Understanding the Basics.md",
+    "Ciberseguridad/Trend Micro/Trend Vision One Credits 101.md",
+    "Ciberseguridad/Trend Micro/Trend Micro Certificaciones.md",
+    "Ciberseguridad/Trend Micro/Trend Campus Foundation.md",
+    "Ciberseguridad/Trend Micro/RootKitBuster.md",
+    "Ciberseguridad/Trend Micro/Operational Technology Understanding the Basics.md",
+    "Ciberseguridad/Trend Micro/HouseCall.md",
+    "Ciberseguridad/Trend Micro/Glosario Trend Micro.md",
+    "Ciberseguridad/Trend Micro/Forensics Understanding the Basics.md",
+    "Ciberseguridad/Trend Micro/Fake AVV & ATTK.md",
+    "Ciberseguridad/Trend Micro/Email Risk Management.md",
+    "Ciberseguridad/Trend Micro/Email and Collaboration Security.md",
+    "Ciberseguridad/Trend Micro/Credits.md",
+    "Ciberseguridad/Trend Micro/Containers Understanding the Basics.md",
+    "Ciberseguridad/Trend Micro",
+    "Ciberseguridad/Tanium/Working with Tanium Core.md",
+    "Ciberseguridad/Tanium/Tanium Cloud Deployment.md",
+    "Ciberseguridad/Tanium/Tanium Certificaciones.md",
+    "Ciberseguridad/Tanium",
+    "Ciberseguridad/Radware",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional",
+    "Ciberseguridad/PAN/Certs",
+    "Media/Pasted image 20260212135824.png",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
-    "Media/300 101E  DefensePro X Level 1 Technical.png",
-    "Media/300 101E  DefensePro X Level 1 Technical 1.png",
-    "Media/1764889433920appoutputcertificate1PfANjOgsc.png",
-    "Untitled.canvas"
+    "Media/Pasted image 20251002121341.png",
+    "Media/Pasted image 20251002121231.png",
+    "Media/Pasted Image 20260209160938_091.png",
+    "Media/Pasted Image 20260113171145_174.png",
+    "Media/Pasted Image 20260113170931_592.png",
+    "Media/IMG_1837.jpeg",
+    "Media/IMG_1836.jpeg",
+    "PBX Conmutador.canvas"
   ]
 }
