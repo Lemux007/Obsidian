@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ee6465025d9bc840",
+        "id": "fed382630decb5ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a14b939c4a943fc8",
+            "id": "bf62ecd137c8407a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "N8N.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "N8N"
+            }
+          },
+          {
+            "id": "3bced20428a8d48e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ideas",
+                "query": "N8N",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -84,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "81c6078d26183ead",
@@ -215,8 +230,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f57143b7aba96585",
+  "active": "bf62ecd137c8407a",
   "lastOpenFiles": [
+    "N8N.md",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Ciberseguridad/Radware/ADO.md",
     "Troubleshooting/Credenciales invalidas.md",
@@ -247,9 +264,7 @@
     "Ciberseguridad/Trend Micro/Email Risk Management.md",
     "Ciberseguridad/Trend Micro/Email and Collaboration Security.md",
     "Ciberseguridad/Trend Micro/Credits.md",
-    "Ciberseguridad/Trend Micro/Containers Understanding the Basics.md",
     "Ciberseguridad/Trend Micro",
-    "Ciberseguridad/Tanium/Working with Tanium Core.md",
     "Ciberseguridad/Tanium",
     "Ciberseguridad/Radware",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional",
