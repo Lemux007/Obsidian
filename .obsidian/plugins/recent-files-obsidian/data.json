@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "N8N",
+      "path": "N8N.md"
+    },
+    {
       "basename": "2026-03-10",
       "path": "Notas Random/2026-03-10.md"
+    },
+    {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "Reducción de tamaño VM",
+      "path": "Troubleshooting/Reducción de tamaño VM.md"
+    },
+    {
+      "basename": "Preguntas seguridad",
+      "path": "Troubleshooting/Preguntas seguridad.md"
+    },
+    {
+      "basename": "Levantamiento Servidor Y VM_PanOS",
+      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
+    },
+    {
+      "basename": "Error de conexión",
+      "path": "Troubleshooting/Error de conexión.md"
+    },
+    {
+      "basename": "Dos contraseñas para inicio de sesion",
+      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
+    },
+    {
+      "basename": "Allocation Failed",
+      "path": "Troubleshooting/Allocation Failed.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
+      "basename": "Creación VPN",
+      "path": "Troubleshooting/Creación VPN.md"
+    },
+    {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
     },
     {
       "basename": "Firewall Avanzado",
@@ -37,10 +85,6 @@
       "path": "Ciberseguridad/PAN/Memorias Tecnicas.md"
     },
     {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
       "basename": "ADO",
       "path": "Ciberseguridad/Radware/ADO.md"
     },
@@ -73,20 +117,8 @@
       "path": "Notas Random/2026-01-16.md"
     },
     {
-      "basename": "Credenciales invalidas",
-      "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
       "basename": "VPN",
       "path": "Troubleshooting/VPN.md"
-    },
-    {
-      "basename": "Reducción de tamaño VM",
-      "path": "Troubleshooting/Reducción de tamaño VM.md"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
     },
     {
       "basename": "Trend Micro",

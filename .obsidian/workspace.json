@@ -13,26 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Random/2026-03-10.md",
+                "file": "N8N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-10"
+              "title": "N8N"
             }
           },
           {
             "id": "3755cd9f00ec34d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting/Credenciales invalidas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credenciales invalidas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,9 +234,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3755cd9f00ec34d6",
+  "active": "a1600e10eb4d59e0",
   "lastOpenFiles": [
     "Notas Random/2026-03-10.md",
+    "Troubleshooting/Credenciales invalidas.md",
+    "Troubleshooting/Reducción de tamaño VM.md",
+    "Troubleshooting/Preguntas seguridad.md",
+    "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
+    "Troubleshooting/Error de conexión.md",
+    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
+    "Troubleshooting/Allocation Failed.md",
+    "Troubleshooting/Bloqueo de credenciales.md",
+    "Troubleshooting/Creación VPN.md",
+    "Troubleshooting/Correo ESM.md",
+    "Configuration.md",
     "Ciberseguridad/PAN/Firewall Avanzado.md",
     "Notas Random/2026-03-09.md",
     "Untitled.md",
@@ -257,17 +271,6 @@
     "Notas Random/2026-02-23.md",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
-    "Troubleshooting/Correo ESM.md",
-    "Troubleshooting/Allocation Failed.md",
-    "Troubleshooting/Index/Cortex.md",
-    "Configuration.md",
-    "Troubleshooting/Credenciales invalidas.md",
-    "Troubleshooting/Bloqueo de credenciales.md",
-    "Ciberseguridad/Admon. Vulnerabilidades.md",
-    "Ciberseguridad/TryHackMe/2-10-2026.md",
-    "Troubleshooting/Putty.md",
-    "Excalidraw/Drawing 2026-02-17 17.39.39.excalidraw.md",
-    "Notas Random/2026-02-17.md",
     "Ciberseguridad/TryHackMe/Certs",
     "Media/Pasted image 20260212135824.png",
     "Media/Pasted Image 20260209160938_091.png",
