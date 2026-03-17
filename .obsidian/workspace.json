@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "6418c4aadf68e318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "3bced20428a8d48e",
             "type": "leaf",
             "state": {
@@ -31,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,11 +245,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bf62ecd137c8407a",
+  "active": "6418c4aadf68e318",
   "lastOpenFiles": [
     "N8N.md",
-    "Untitled.md",
     "conflict-files-obsidian-git.md",
+    "Notas Random/2026-03-10.md",
+    "Untitled.md",
     "Ciberseguridad/Radware/ADO.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
@@ -263,7 +279,6 @@
     "Ciberseguridad/Trend Micro/Fake AVV & ATTK.md",
     "Ciberseguridad/Trend Micro/Email Risk Management.md",
     "Ciberseguridad/Trend Micro/Email and Collaboration Security.md",
-    "Ciberseguridad/Trend Micro/Credits.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Tanium",
     "Ciberseguridad/Radware",
