@@ -256,4 +256,76 @@ Marketplace interno:
     - Alertas
         
     - Dashboards
+
+
+## Fase 1: Cimientos y Gobernanza (Nivel 0)
+
+
+- **Infraestructura (On-Premise):** Implementación de n8n en Docker o Kubernetes para control total de datos.
     
+- **Seguridad y Red:** Configuración de la lista blanca de endpoints y gestión de certificados (SSL para webhooks).
+    
+- **Definición de Stack:** Confirmar accesos (API Keys/OAuth) para el ecosistema (Palo Alto, Tanium, Notion, Teams).
+    
+- **Wiki Central (Notion):** Crear el espacio donde n8n escribirá las memorias técnicas y resultados de BPA.
+    
+
+## Fase 2: Estandarización de Procesos (Documentación)
+
+
+- **Cosecha de Datos:** Automatizar la recolección de configuraciones (ej. Palo Alto) para comparar contra el estándar.
+    
+- **Gestión de Conocimiento:** n8n detecta cambios técnicos y actualiza automáticamente la **Wiki en Notion**.
+    
+- **Base de Activos:** Integración con Tanium/Qualys para tener un inventario actualizado que servirá de base para el cálculo de riesgos.
+    
+
+## Fase 3: Integración y Canales de Atención (MSSP)
+
+
+- **Orquestación de Tickets:** n8n actúa como puente entre los programas de monitoreo y **Proactivanet/Teams**.
+    
+- **Interfaz de Usuario (Teams/Buttons):** Implementación de webhooks interactivos. El operador no entra a n8n; recibe un mensaje en Teams con botones de **"Autorizar"** o **"Rechazar"**.
+    
+- **Lógica de Intervención:** Definir el umbral donde un flujo es 100% autónomo vs. donde requiere aprobación humana.
+    
+
+## Fase 4: Despliegue de Casos de Uso Críticos
+
+Ejecución de las "joyas de la corona" que mencionaste.
+
+## 4.1. Auto-remediation y Score de Riesgo
+
+
+1. **Detección:** Qualys reporta vulnerabilidad.
+    
+2. **Enriquecimiento:** n8n calcula el score (CVSS + Criticidad del activo + Exposición).
+    
+3. **Acción:** Si el score > X, abre ticket y pide aprobación en Teams para que Tanium aplique el parche.
+    
+
+## 4.2. Administración y Soporte
+
+- Automatización de viáticos y flujos administrativos para liberar carga operativa al equipo técnico.
+    
+
+## Fase 5: Medición y Marketplace Interno (Escala)
+
+
+
+- **Dashboard de KPIs y ROI:** Crear un flujo que cuente cada ejecución exitosa y la traduzca a **"Horas Hombre Ahorradas"**.
+    
+- **Marketplace Interno:** Catálogo de flujos listos para usar (Reset de usuarios, Bloqueo de IPs).
+    
+
+---
+
+## Resumen de la Estructura Operativa
+
+|**Fase**|**Enfoque Principal**|**Herramientas Clave**|
+|---|---|---|
+|**0. Setup**|Seguridad y Despliegue|Docker, Certificados, Red|
+|**1. Info**|Documentación y Inventario|Notion, Palo Alto, Tanium|
+|**2. Chat**|Comunicación y Autorización|Teams (Webhooks), Proactivanet|
+|**3. Acción**|Auto-remediation|Qualys, Tanium, n8n Logic|
+|**4. Valor**|Medición de ROI y KPIs|Dashboards de n8n|

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
       "basename": "N8N Estructura",
       "path": "N8N Estructura.md"
+    },
+    {
+      "basename": "Preguntas",
+      "path": "Preguntas.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
     },
     {
       "basename": "N8N",
@@ -41,20 +53,12 @@
       "path": "Troubleshooting/Allocation Failed.md"
     },
     {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
-    },
-    {
       "basename": "Creación VPN",
       "path": "Troubleshooting/Creación VPN.md"
     },
     {
       "basename": "Correo ESM",
       "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "Firewall Avanzado",
