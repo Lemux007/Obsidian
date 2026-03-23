@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Bloqueo de credenciales",
-      "path": "Troubleshooting/Bloqueo de credenciales.md"
+      "basename": "To do",
+      "path": "To do.md"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
     },
     {
       "basename": "N8N Estructura",
       "path": "N8N Estructura.md"
     },
     {
-      "basename": "Preguntas",
-      "path": "Preguntas.md"
-    },
-    {
       "basename": "Configuration",
       "path": "Configuration.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
     {
       "basename": "N8N",
@@ -67,10 +71,6 @@
     {
       "basename": "2026-03-09",
       "path": "Notas Random/2026-03-09.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Firewall Basico",

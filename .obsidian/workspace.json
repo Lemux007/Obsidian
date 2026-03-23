@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting/Bloqueo de credenciales.md",
+                "file": "To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloqueo de credenciales"
+              "title": "To do"
             }
           }
         ]
@@ -222,9 +222,12 @@
   },
   "active": "ed26d295099d862a",
   "lastOpenFiles": [
+    "PBX Conmutador.canvas",
     "N8N Estructura.md",
-    "Preguntas.md",
+    "To do.md",
     "Configuration.md",
+    "Troubleshooting/Bloqueo de credenciales.md",
+    "Preguntas.md",
     "N8N.md",
     "conflict-files-obsidian-git.md",
     "Troubleshooting/Credenciales invalidas.md",
@@ -235,12 +238,10 @@
     "Troubleshooting/Error de conexión.md",
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
     "Troubleshooting/Allocation Failed.md",
-    "Troubleshooting/Bloqueo de credenciales.md",
     "Troubleshooting/Creación VPN.md",
     "Troubleshooting/Correo ESM.md",
     "Ciberseguridad/PAN/Firewall Avanzado.md",
     "Notas Random/2026-03-09.md",
-    "Untitled.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
     "Ciberseguridad/PAN/Certs/Introduction to SecOps.md",
     "Ciberseguridad/PAN/Certs/SOC Processes.md",
@@ -250,7 +251,6 @@
     "Practicas/Reporte Final.pdf",
     "Practicas/Carta de Termino .pdf",
     "Practicas/Reportes mensuales.pdf",
-    "Sell/PAN preguntas.md",
     "Practicas/Practicas.rar",
     "Practicas/Reportes_Mensuales.xlsx",
     "Practicas/Informe Final.docx",
@@ -260,7 +260,6 @@
     "Ciberseguridad/TryHackMe/Certs",
     "Media/Pasted image 20260212135824.png",
     "Media/Pasted Image 20260209160938_091.png",
-    "PBX Conmutador.canvas",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Media/Pasted Image 20260113171145_174.png",
     "Media/Pasted Image 20260113170931_592.png",
