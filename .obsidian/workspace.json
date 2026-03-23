@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do.md",
+                "file": "N8N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do"
+              "title": "N8N"
             }
           }
         ]
@@ -223,15 +223,15 @@
   "active": "ed26d295099d862a",
   "lastOpenFiles": [
     "Notas Random/2026-03-23.md",
+    "N8N.md",
+    "Configuration.md",
+    "To do.md",
     "Media/Pasted image 20260323102916.png",
     "Notas Random/2026-02-17.md",
     "Notas Random/2026-01-16.md",
-    "To do.md",
-    "N8N.md",
     "Media/Pasted image 20260323101304.png",
     "PBX Conmutador.canvas",
     "N8N Estructura.md",
-    "Configuration.md",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Preguntas.md",
     "conflict-files-obsidian-git.md",

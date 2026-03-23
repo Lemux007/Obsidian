@@ -5,14 +5,7 @@
 
 - Computer name: ubuntu-n8n
 
-- **LAN:** 163 Mbps (Red de Área Local)
-    
-- **TX:** 55 Mbps (Transmisión / Subida)
-    
-- **RX:** 189 GB (Recepción / Descarga total)
-    
-- **WAN:** 24.8 Mbps (Red de Área Amplia / Internet)
-  |**Domain**|**Rating**|**Observation**|
+N8N Local:
 
-
-![[Pasted image 20260323101304.png]]
+shorta@novasistemas.com.mx
+N0v4n8nauto!!
