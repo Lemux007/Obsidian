@@ -1,3 +1,4 @@
 - Ubuntu N8N ISO
 - Examen Firewall
 - TryHackme
+- Calculadora de riesgo
