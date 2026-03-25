@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "N8N",
+      "path": "N8N.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
       "basename": "To do",
       "path": "To do.md"
+    },
+    {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/PAN/Firewall Basico.md"
     },
     {
       "basename": "PBX Conmutador",
@@ -13,16 +25,8 @@
       "path": "N8N Estructura.md"
     },
     {
-      "basename": "N8N",
-      "path": "N8N.md"
-    },
-    {
       "basename": "2026-03-23",
       "path": "Notas Random/2026-03-23.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "2026-02-17",
@@ -83,10 +87,6 @@
     {
       "basename": "2026-03-09",
       "path": "Notas Random/2026-03-09.md"
-    },
-    {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/PAN/Firewall Basico.md"
     },
     {
       "basename": "Introduction to SecOps",
