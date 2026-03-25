@@ -218,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f656aa5d34a137e7",
+  "active": "a361c99cb4766eea",
   "lastOpenFiles": [
     "Ciberseguridad/PAN/Firewall Basico.md",
     "N8N.md",
