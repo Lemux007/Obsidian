@@ -5,16 +5,16 @@
       "path": "N8N.md"
     },
     {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/PAN/Firewall Basico.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
     {
       "basename": "To do",
       "path": "To do.md"
-    },
-    {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/PAN/Firewall Basico.md"
     },
     {
       "basename": "PBX Conmutador",
