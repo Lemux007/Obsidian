@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "To do",
+      "path": "To do.md"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "N8N Estructura",
+      "path": "N8N Estructura.md"
+    },
+    {
       "basename": "N8N",
       "path": "N8N.md"
     },
@@ -13,24 +25,12 @@
       "path": "Configuration.md"
     },
     {
-      "basename": "To do",
-      "path": "To do.md"
-    },
-    {
       "basename": "2026-02-17",
       "path": "Notas Random/2026-02-17.md"
     },
     {
       "basename": "2026-01-16",
       "path": "Notas Random/2026-01-16.md"
-    },
-    {
-      "basename": "PBX Conmutador",
-      "path": "PBX Conmutador.canvas"
-    },
-    {
-      "basename": "N8N Estructura",
-      "path": "N8N Estructura.md"
     },
     {
       "basename": "Bloqueo de credenciales",
