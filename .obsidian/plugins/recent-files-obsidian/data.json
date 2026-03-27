@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Upgrade",
+      "path": "Upgrade.md"
+    },
+    {
+      "basename": "Firewall Avanzado",
+      "path": "Ciberseguridad/PAN/Firewall Avanzado.md"
+    },
+    {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/PAN/Firewall Basico.md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "Ciberseguridad/Firewall.md"
+    },
+    {
       "basename": "N8N Estructura",
       "path": "N8N Estructura.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "To do",
       "path": "To do.md"
-    },
-    {
-      "basename": "Firewall Basico",
-      "path": "Ciberseguridad/PAN/Firewall Basico.md"
     },
     {
       "basename": "2026-03-23",
@@ -79,10 +91,6 @@
     {
       "basename": "Correo ESM",
       "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
-      "basename": "Firewall Avanzado",
-      "path": "Ciberseguridad/PAN/Firewall Avanzado.md"
     },
     {
       "basename": "2026-03-09",
