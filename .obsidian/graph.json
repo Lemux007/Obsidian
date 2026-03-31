@@ -1,62 +1,22 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#Nodo  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#index  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#subindex",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#subnodo",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 1.6386678200692,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.427083333333333,
-  "repelStrength": 13.8062283737024,
-  "linkStrength": 0.880622837370242,
-  "linkDistance": 255,
-<<<<<<< HEAD
-  "scale": 0.38874742039957927,
-=======
-  "scale": 0.4620948476315504,
->>>>>>> origin/main
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3628873693012117,
   "close": true
 }

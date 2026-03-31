@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N8N.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N8N"
+              "title": "Untitled"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "81c6078d26183ead",
@@ -231,7 +229,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f57143b7aba96585",
+  "active": "bf62ecd137c8407a",
   "lastOpenFiles": [
     "N8N.md",
     "conflict-files-obsidian-git.md",
