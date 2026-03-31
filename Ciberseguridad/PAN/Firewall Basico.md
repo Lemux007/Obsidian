@@ -364,4 +364,4 @@ No necesitas crearla, PAN la trae por defecto 👍
 - Action: **Allow**
     
 
-👉 Commit 🔄
+ Commit 🔄

@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "N8N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "N8N"
             }
           },
           {
             "id": "3bced20428a8d48e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,12 +234,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bf62ecd137c8407a",
+  "active": "3bced20428a8d48e",
   "lastOpenFiles": [
-    "N8N.md",
     "conflict-files-obsidian-git.md",
-    "Notas Random/2026-03-10.md",
+    "N8N.md",
     "Untitled.md",
+    "Upgrade.md",
+    "To do.md",
+    "Notas Random/2026-03-23.md",
+    "N8N Estructura.md",
+    "Media/Pasted image 20260327113444.png",
+    "Media/Pasted image 20260323102916.png",
+    "Notas Random/2026-03-10.md",
     "Ciberseguridad/Radware/ADO.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
@@ -259,10 +270,6 @@
     "Ciberseguridad/Trend Micro/Operational Technology Understanding the Basics.md",
     "Ciberseguridad/Trend Micro/HouseCall.md",
     "Ciberseguridad/Trend Micro/Glosario Trend Micro.md",
-    "Ciberseguridad/Trend Micro/Forensics Understanding the Basics.md",
-    "Ciberseguridad/Trend Micro/Fake AVV & ATTK.md",
-    "Ciberseguridad/Trend Micro/Email Risk Management.md",
-    "Ciberseguridad/Trend Micro/Email and Collaboration Security.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Tanium",
     "Ciberseguridad/Radware",
@@ -275,8 +282,6 @@
     "Media/Pasted image 20251002121231.png",
     "Media/Pasted Image 20260209160938_091.png",
     "Media/Pasted Image 20260113171145_174.png",
-    "Media/Pasted Image 20260113170931_592.png",
-    "Media/IMG_1837.jpeg",
     "PBX Conmutador.canvas"
   ]
 }
