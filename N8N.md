@@ -10,8 +10,17 @@ N8N Local:
 
 shorta@novasistemas.com.mx
 N0v4n8nauto!!
-N0v4n8nauto!!
 
+openssl req -x509 -nodes -days 180 -newkey rsa:2048 \
+-keyout n8n.key \
+-out n8n.crt \
+-subj "/CN=n8n.local" \
+-addext "subjectAltName=DNS:n8n.local"
+
+kubectl create secret tls n8n-tls \
+--key n8n.key \
+--cert n8n.crt \
+-n n8n
 
 # SET UP Ubuntu server:
 
@@ -276,3 +285,6 @@ FIX LOAD:
 	
 		
 5. npm install -g n8n
+
+
+´´

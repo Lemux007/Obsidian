@@ -330,3 +330,8 @@ Ejecución de las "joyas de la corona" que mencionaste.
 |**3. Acción**|Auto-remediation|Qualys, Tanium, n8n Logic|
 |**4. Valor**|Medición de ROI y KPIs|Dashboards de n8n|
 
+Outlook
+Se pierde avance
+Tiempo de sesion [Setting to limit session time for users logged into n8n management console [GOT CREATED] - Feature Requests (done) - n8n Community](https://community.n8n.io/t/setting-to-limit-session-time-for-users-logged-into-n8n-management-console-got-created/30227)
+Bakcups
+Actividades que no se se han realizado
