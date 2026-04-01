@@ -220,10 +220,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5a33ff252b6580c",
+  "active": "a361c99cb4766eea",
   "lastOpenFiles": [
-    "To do.md",
     "N8N.md",
+    "conflict-files-obsidian-git.md",
+    "To do.md",
     "N8N Estructura.md",
     "Upgrade.md",
     "Ciberseguridad/PAN/Firewall Avanzado.md",
@@ -240,7 +241,6 @@
     "Media/Pasted image 20260323101304.png",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Preguntas.md",
-    "conflict-files-obsidian-git.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Notas Random/2026-03-10.md",
     "Troubleshooting/Reducción de tamaño VM.md",
