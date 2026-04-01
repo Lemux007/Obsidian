@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upgrade.md",
+                "file": "N8N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upgrade"
+              "title": "N8N"
             }
           }
         ]
@@ -222,14 +222,14 @@
   },
   "active": "d5a33ff252b6580c",
   "lastOpenFiles": [
+    "To do.md",
+    "N8N.md",
+    "N8N Estructura.md",
     "Upgrade.md",
     "Ciberseguridad/PAN/Firewall Avanzado.md",
     "Ciberseguridad/PAN/Firewall Basico.md",
     "Media/Pasted image 20260327113444.png",
     "Ciberseguridad/Firewall.md",
-    "N8N Estructura.md",
-    "N8N.md",
-    "To do.md",
     "Notas Random/2026-03-23.md",
     "Configuration.md",
     "Risk Assessment Excel.md",

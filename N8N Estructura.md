@@ -329,3 +329,4 @@ Ejecución de las "joyas de la corona" que mencionaste.
 |**2. Chat**|Comunicación y Autorización|Teams (Webhooks), Proactivanet|
 |**3. Acción**|Auto-remediation|Qualys, Tanium, n8n Logic|
 |**4. Valor**|Medición de ROI y KPIs|Dashboards de n8n|
+

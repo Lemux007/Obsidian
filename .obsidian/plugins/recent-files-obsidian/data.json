@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "N8N",
+      "path": "N8N.md"
+    },
+    {
+      "basename": "To do",
+      "path": "To do.md"
+    },
+    {
+      "basename": "N8N Estructura",
+      "path": "N8N Estructura.md"
+    },
+    {
       "basename": "Upgrade",
       "path": "Upgrade.md"
     },
@@ -15,18 +27,6 @@
     {
       "basename": "Firewall",
       "path": "Ciberseguridad/Firewall.md"
-    },
-    {
-      "basename": "N8N Estructura",
-      "path": "N8N Estructura.md"
-    },
-    {
-      "basename": "N8N",
-      "path": "N8N.md"
-    },
-    {
-      "basename": "To do",
-      "path": "To do.md"
     },
     {
       "basename": "2026-03-23",
