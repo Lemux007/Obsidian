@@ -13,7 +13,6 @@ N0v4n8nauto!!
 N0v4n8nauto!!
 
 
-
 # SET UP Ubuntu server:
 
 # 1. Preparar el servidor (Ubuntu)
