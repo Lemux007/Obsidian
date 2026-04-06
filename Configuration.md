@@ -14,5 +14,6 @@ Calendar
 Data view
 Git
 Excalidraw
-Recent Files
-![[Pasted image 20250901121459.png]]
+Recent File
+
+![[Pasted image 20260406125348.png]]
