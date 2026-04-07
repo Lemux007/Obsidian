@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b56aa3910c189f2b",
+        "id": "53f23e20510d80b5",
         "type": "tabs",
         "children": [
           {
-            "id": "6ed4aed252fb8705",
+            "id": "cf89fa58ca436043",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "To do"
             }
           }
         ]
@@ -215,7 +219,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f57143b7aba96585",
+  "active": "cf89fa58ca436043",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "To do.md",
