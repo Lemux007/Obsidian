@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do.md",
+                "file": "Ciberseguridad/Radware/2025-09-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do"
+              "title": "2025-09-29"
             }
           }
         ]
@@ -221,8 +221,14 @@
   },
   "active": "cf89fa58ca436043",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Ciberseguridad/Radware/Radware.md",
+    "Ciberseguridad/Radware/ADO.md",
+    "Ciberseguridad/Radware/Pre-Sales Certification.md",
+    "Ciberseguridad/Radware/Application Protection Training for Partners.md",
+    "Ciberseguridad/Radware/2025-09-29.md",
+    "Ciberseguridad/Radware/300-101E.md",
     "To do.md",
+    "conflict-files-obsidian-git.md",
     "Upgrade.md",
     "Media/Pasted image 20260406125348.png",
     "N8N.md",
@@ -232,7 +238,6 @@
     "Media/Pasted image 20260327113444.png",
     "Media/Pasted image 20260323102916.png",
     "Notas Random/2026-03-10.md",
-    "Ciberseguridad/Radware/ADO.md",
     "Troubleshooting/Credenciales invalidas.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
@@ -251,10 +256,6 @@
     "Ciberseguridad/Trend Micro/Trend Vision One Understanding the Basics.md",
     "Ciberseguridad/Trend Micro/Trend Vision One Credits 101.md",
     "Ciberseguridad/Trend Micro/Trend Micro Certificaciones.md",
-    "Ciberseguridad/Trend Micro/Trend Campus Foundation.md",
-    "Ciberseguridad/Trend Micro/RootKitBuster.md",
-    "Ciberseguridad/Trend Micro/Operational Technology Understanding the Basics.md",
-    "Ciberseguridad/Trend Micro/HouseCall.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Tanium",
     "Ciberseguridad/Radware",
