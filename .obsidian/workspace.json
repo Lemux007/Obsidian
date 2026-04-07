@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "To do"
             }
+          },
+          {
+            "id": "8b2676970b8f5100",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63d7f2c49ede1543",
+  "active": "8b2676970b8f5100",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "To do.md",
+    "conflict-files-obsidian-git.md",
     "Configuration.md",
     "Ciberseguridad/Radware/2025-09-29.md",
     "Media/Pasted image 20260406125348.png",
