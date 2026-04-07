@@ -5,6 +5,10 @@
       "path": "To do.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Memorias Tecnicas",
       "path": "Ciberseguridad/PAN/Memorias Tecnicas.md"
-    },
-    {
-      "basename": "ADO",
-      "path": "Ciberseguridad/Radware/ADO.md"
     },
     {
       "basename": "Certificaciones",
