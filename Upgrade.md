@@ -7,3 +7,4 @@ AWS/AZURE
 Contenedores/Kubernets
 Qualys
 IAM
+Tutoring, teamwork, proyects leading

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "N8N",
+      "path": "N8N.md"
+    },
+    {
+      "basename": "N8N Estructura",
+      "path": "N8N Estructura.md"
+    },
+    {
       "basename": "To do",
       "path": "To do.md"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "Upgrade",
+      "path": "Upgrade.md"
     },
     {
       "basename": "Configuration",
@@ -11,18 +27,6 @@
     {
       "basename": "2025-09-29",
       "path": "Ciberseguridad/Radware/2025-09-29.md"
-    },
-    {
-      "basename": "N8N Estructura",
-      "path": "N8N Estructura.md"
-    },
-    {
-      "basename": "N8N",
-      "path": "N8N.md"
-    },
-    {
-      "basename": "Upgrade",
-      "path": "Upgrade.md"
     },
     {
       "basename": "Firewall Avanzado",
@@ -39,10 +43,6 @@
     {
       "basename": "2026-03-23",
       "path": "Notas Random/2026-03-23.md"
-    },
-    {
-      "basename": "PBX Conmutador",
-      "path": "PBX Conmutador.canvas"
     },
     {
       "basename": "2026-02-17",
