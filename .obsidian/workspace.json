@@ -122,7 +122,7 @@
       {
         "id": "2fc63a201f8e938a",
         "type": "tabs",
-        "dimension": 53.8563829787234,
+        "dimension": 53.88026607538803,
         "children": [
           {
             "id": "a361c99cb4766eea",
@@ -212,7 +212,7 @@
       {
         "id": "77f2903fd4791bbf",
         "type": "tabs",
-        "dimension": 46.1436170212766,
+        "dimension": 46.11973392461197,
         "children": [
           {
             "id": "b33ec432ce3104d8",
@@ -249,6 +249,9 @@
   "lastOpenFiles": [
     "N8N Estructura.md",
     "N8N.md",
+    "Media/Pasted image 20260409104446.png",
+    "Media/Pasted image 20260409104435.png",
+    "Media/Pasted image 20260409104421.png",
     "To do.md",
     "PBX Conmutador.canvas",
     "Upgrade.md",
@@ -290,9 +293,6 @@
     "Media/Pasted image 20260212135824.png",
     "Media/Pasted Image 20260209160938_091.png",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Media/Pasted Image 20260113171145_174.png",
-    "Media/Pasted Image 20260113170931_592.png",
-    "Media/Pasted image 20260112125653.png",
     "Untitled.canvas"
   ]
 }

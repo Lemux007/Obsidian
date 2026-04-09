@@ -191,4 +191,85 @@ Actividades que no se se han realizado
 	2. **Datadog:** Es la herramienta de observabilidad más completa. n8n tiene un nodo oficial de Datadog, lo que facilita enviar eventos, métricas de éxito/error y logs directamente desde tus flujos.
 	3. Free: SigNoz
 	4. Insigths
-7. 
+7.  URL publica. 
+8. Modelo Claude
+
+
+
+
+- **Trend Micro / Tanium / Palo Alto Networks**
+    
+- **VirusTotal /  CrowdStrike**
+    
+- **Qualys /  (Autenticación y MFA)
+    
+
+###  Bases de Datos y Almacenamiento
+
+- **Google Sheets / Microsoft Excel**
+    
+- **PostgreSQL / MySQL / MongoDB / MariaDB**
+    
+- **Airtable / Supabase**
+    
+- **Redis** (Cache y listas de bloqueo rápidas)
+    
+- **Snowflake** (Data Warehouse para analítica)
+    
+
+###  Documentación y Reportes
+
+- **Google Docs / Microsoft Word**
+    
+- **Confluence / Notion / Obsidian**
+    
+- **Markdown / HTML a PDF**
+    
+- **Google Drive / OneDrive / Dropbox**
+    
+- **Adobe Acrobat Sign / DocuSign** (Para firmas de aprobación legal)
+    
+
+###  Comunicación y Colaboración
+
+- **Microsoft Teams / Slack / Discord /
+    
+- **Telegram / WhatsApp (vía Twilio o Z-API)**
+    
+- **Outlook / Gmail 
+    
+- **Twilio** (Llamadas de voz y SMS de emergencia)
+    
+- Outlook (Para crear salas de "War Room" automáticamente)
+    
+
+ Operaciones e Infraestructura
+
+    
+- **Active Directory / LDAP / Azure AD**
+    
+-  AWS / Azure / GCP**
+    
+- **GitHub / GitLab / Bitbucket** (GitOps y gestión de scripts)
+    
+
+    
+
+### Inteligencia Artificial y Lenguaje
+
+- **OpenAI (GPT) / Anthropic (Claude) / Mistral**
+
+    
+- **LangChain** (Integración de cadenas de pensamiento de IA)
+    
+
+### Monitorización y Logs (Observabilidad)
+
+- **Splunk / ELK Stack (Elasticsearch)**
+    
+- **Datadog / Dynatrace / New Relic**
+    
+- **Grafana / Prometheus**
+    
+- **Zabbix / Nagios**
+    
