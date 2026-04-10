@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c43b87e63b848c9",
+        "id": "c2c82cb0d8579b1b",
         "type": "tabs",
         "children": [
           {
-            "id": "e208930195dd204c",
+            "id": "35301c54799bda55",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -217,8 +217,8 @@
   },
   "active": "f57143b7aba96585",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "To do.md",
+    "conflict-files-obsidian-git.md",
     "Media/Pasted image 20260409104446.png",
     "Media/Pasted image 20260409104435.png",
     "Media/Pasted image 20260409104421.png",
