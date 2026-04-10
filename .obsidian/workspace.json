@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e72e7234cd0cb1c6",
+        "id": "610dd39febda9d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9f3025fc13a209",
+            "id": "d402213f9d8dd713",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -215,16 +219,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9d9f3025fc13a209",
+  "active": "d402213f9d8dd713",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "To do.md",
+    "Media/Pasted image 20260409104446.png",
+    "Media/Pasted image 20260409104435.png",
+    "Media/Pasted image 20260409104421.png",
     "Ciberseguridad/Radware/2025-09-29.md",
     "Ciberseguridad/Radware/Radware.md",
     "Ciberseguridad/Radware/ADO.md",
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
     "Ciberseguridad/Radware/300-101E.md",
-    "conflict-files-obsidian-git.md",
     "Upgrade.md",
     "Media/Pasted image 20260406125348.png",
     "N8N.md",
@@ -251,7 +258,6 @@
     "Ciberseguridad/Trend Micro/Vision One for Administrators.md",
     "Ciberseguridad/Trend Micro/Trend Vision One Understanding the Basics.md",
     "Ciberseguridad/Trend Micro/Trend Vision One Credits 101.md",
-    "Ciberseguridad/Trend Micro/Trend Micro Certificaciones.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Tanium",
     "Ciberseguridad/Radware",
@@ -260,9 +266,6 @@
     "Media/Pasted image 20260212135824.png",
     "Media/Pasted image 20260112125653.png",
     "Media/Pasted image 20260112125618.png",
-    "Media/Pasted image 20251002121341.png",
-    "Media/Pasted image 20251002121231.png",
-    "Media/Pasted Image 20260209160938_091.png",
     "PBX Conmutador.canvas"
   ]
 }

@@ -226,7 +226,7 @@ spec:
 ```
 
 ---
-
+l
 # 7. Exponer el servicio
 
 ```yaml

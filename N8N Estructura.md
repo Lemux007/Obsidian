@@ -169,169 +169,94 @@ Marketplace interno:
     
 - Manejo de dependencias externas
 
-## Preguntas  Yisus
-
-- ¿Cómo se va a desplegar en el servidor? Instancia nube stratosphere
-
-- ¿Alguna configuración necesaria?
-    
-- ¿Están en algún segmento los MSSP que no permitan que n8n recabe información?     Zona aislada 
-    
-- ¿Log inalterable de qué aprobó qué acción?
-    
-- ¿Posible uso de Queue Mode?HTTPS request saturacion de consola
-  
-  
-
-
-##  Preguntas al equipo de n8n
-
-### Arquitectura y despliegue
-
-    
-- Si aumenta la carga en self-hosted, ¿depende completamente de nuestra infraestructura o n8n gestiona algo?
-    
-- ¿Es posible generar una DB externa con mirroring para backups? ¿Git?
-    
-- ¿Se puede integrar CyberArk o vaults externos?
-    
-- ¿Es posible hacer una instalación air-gapped (sin acceso a internet)?
-    
-- ¿Cómo manejan updates sin internet?
-    
-
----
-
-### Operación y escalabilidad
-
-- ¿Cómo implementan High Availability en self-hosted?
-    
-- ¿Cuál es el límite práctico de workflows concurrentes?
-    
-- ¿Cómo funciona el queue mode con Redis en producción?
-    
-- ¿Se puede hacer horizontal scaling automático?
-    
-
----
-
-### Gobierno y control
-
-- ¿Hay separación de roles real? (Ej. Capital Humano vs Seguridad)
-    
-- ¿Soportan RBAC granular por workflow?
-    
-- ¿Quién crea flujos?
-    
-- ¿Quién los aprueba?
-    
-- ¿Cómo se versionan?
-    
-- ¿Cómo se despliegan?
-    
-
----
-
-### Desarrollo e integración
-
-- ¿Qué hacen cuando no hay nodo nativo?
-    
-- ¿Tienen nodos para Proactivanet?
-    
-- ¿Buenas prácticas para APIs con rate limit?
-    
-- ¿Cómo manejan retries y backoff?
-    
-- ¿Cómo funcionan los error triggers realmente?
-    
-
----
-
-### Observabilidad
-
-- ¿Cómo sabes si n8n está funcionando bien?
-    
-    - Métricas
-        
-    - Alertas
-        
-    - Dashboards
-
-
-## Fase 1: Cimientos y Gobernanza (Nivel 0)
-
-
-- **Infraestructura (On-Premise):** Implementación de n8n en Docker o Kubernetes para control total de datos.
-    
-- **Seguridad y Red:** Configuración de la lista blanca de endpoints y gestión de certificados (SSL para webhooks).
-    
-- **Definición de Stack:** Confirmar accesos (API Keys/OAuth) para el ecosistema (Palo Alto, Tanium, Notion, Teams).
-    
-- **Wiki Central (Notion):** Crear el espacio donde n8n escribirá las memorias técnicas y resultados de BPA.
-    
-
-## Fase 2: Estandarización de Procesos (Documentación)
-
-
-- **Cosecha de Datos:** Automatizar la recolección de configuraciones (ej. Palo Alto) para comparar contra el estándar.
-    
-- **Gestión de Conocimiento:** n8n detecta cambios técnicos y actualiza automáticamente la **Wiki en Notion**.
-    
-- **Base de Activos:** Integración con Tanium/Qualys para tener un inventario actualizado que servirá de base para el cálculo de riesgos.
-    
-
-## Fase 3: Integración y Canales de Atención (MSSP)
-
-
-- **Orquestación de Tickets:** n8n actúa como puente entre los programas de monitoreo y **Proactivanet/Teams**.
-    
-- **Interfaz de Usuario (Teams/Buttons):** Implementación de webhooks interactivos. El operador no entra a n8n; recibe un mensaje en Teams con botones de **"Autorizar"** o **"Rechazar"**.
-    
-- **Lógica de Intervención:** Definir el umbral donde un flujo es 100% autónomo vs. donde requiere aprobación humana.
-    
-
-## Fase 4: Despliegue de Casos de Uso Críticos
-
-Ejecución de las "joyas de la corona" que mencionaste.
-
-## 4.1. Auto-remediation y Score de Riesgo
-
-
-1. **Detección:** Qualys reporta vulnerabilidad.
-    
-2. **Enriquecimiento:** n8n calcula el score (CVSS + Criticidad del activo + Exposición).
-    
-3. **Acción:** Si el score > X, abre ticket y pide aprobación en Teams para que Tanium aplique el parche.
-    
-
-## 4.2. Administración y Soporte
-
-- Automatización de viáticos y flujos administrativos para liberar carga operativa al equipo técnico.
-    
-
-## Fase 5: Medición y Marketplace Interno (Escala)
-
-
-
-- **Dashboard de KPIs y ROI:** Crear un flujo que cuente cada ejecución exitosa y la traduzca a **"Horas Hombre Ahorradas"**.
-    
-- **Marketplace Interno:** Catálogo de flujos listos para usar (Reset de usuarios, Bloqueo de IPs).
-    
-
----
-
-## Resumen de la Estructura Operativa
-
-|**Fase**|**Enfoque Principal**|**Herramientas Clave**|
-|---|---|---|
-|**0. Setup**|Seguridad y Despliegue|Docker, Certificados, Red|
-|**1. Info**|Documentación y Inventario|Notion, Palo Alto, Tanium|
-|**2. Chat**|Comunicación y Autorización|Teams (Webhooks), Proactivanet|
-|**3. Acción**|Auto-remediation|Qualys, Tanium, n8n Logic|
-|**4. Valor**|Medición de ROI y KPIs|Dashboards de n8n|
 
 Outlook
 Se pierde avance
 Tiempo de sesion [Setting to limit session time for users logged into n8n management console [GOT CREATED] - Feature Requests (done) - n8n Community](https://community.n8n.io/t/setting-to-limit-session-time-for-users-logged-into-n8n-management-console-got-created/30227)
 Bakcups
 Actividades que no se se han realizado
+
+
+	- dashboard de avances
+	- mapa
+	- Avanzar  con las automatizaciones(las credenciales se eliminan y se regresa a la version community cuando acaba del trial)
+
+1. Se perderan las credencial y las variables globales, se comprara antes?
+2. Integracion completa de Outlook, Outlook o Teams?
+3. Subir cores
+4. Implementacion con Git, Hay un repo de Nova?
+5. silos de trabajo
+6. No recomendario herramientas 
+	1. **Grafana + Loki:** Es probablemente la opción número uno. **Loki** es como "Prometheus pero para logs", muy ligero y diseñado para ser eficiente. Puedes visualizar todo en **Grafana**, creando dashboards que mezclen el estado de tus servidores con los fallos de los flujos.
+	2. **Datadog:** Es la herramienta de observabilidad más completa. n8n tiene un nodo oficial de Datadog, lo que facilita enviar eventos, métricas de éxito/error y logs directamente desde tus flujos.
+	3. Free: SigNoz
+	4. Insigths
+7.  URL publica. 
+8. Modelo Claude
+
+
+paessler
+
+- **Trend Micro / Tanium / Palo Alto Networks**
+    
+- **VirusTotal /  CrowdStrike**
+    
+- ** Radware/  (Autenticación y MFA)
+    
+    Qualys
+###  Bases de Datos y Almacenamiento
+
+-  Microsoft Excel
+    
+- **PostgreSQL 
+    
+- **PowerBI
+
+###  Documentación y Reportes
+
+- Microsoft Word
+    
+-  Notion
+    
+- **Markdown / HTML a PDF**
+    
+- OneDrive
+    
+
+###  Comunicación y Colaboración
+
+- **Microsoft Teams
+    
+- WhatsApp (vía Twilio o Z-API)** plan licencia
+    
+- **Outlook
+    
+- Outlook (Para crear salas de "War Room" automáticamente)
+    
+
+ Operaciones e Infraestructura
+
+    
+- Entra ID
+    
+- **GitHub 
+    
+
+
+### Inteligencia Artificial y Lenguaje
+
+- **Anthropic (Claude) 
+
+    
+### Seguridad 
+
+- Monitoreo (Trend Micro)
+- Control de flujo PAN
+- Agent server Trend Micro
+- AI Security
+
+
+
+
+blinkops
+tines
