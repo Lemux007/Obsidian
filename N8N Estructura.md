@@ -195,50 +195,41 @@ Actividades que no se se han realizado
 8. Modelo Claude
 
 
-
+paessler
 
 - **Trend Micro / Tanium / Palo Alto Networks**
     
 - **VirusTotal /  CrowdStrike**
     
-- **Qualys /  (Autenticación y MFA)
+- ** Radware/  (Autenticación y MFA)
     
-
+    Qualys
 ###  Bases de Datos y Almacenamiento
 
-- **Google Sheets / Microsoft Excel**
+-  Microsoft Excel
     
-- **PostgreSQL / MySQL / MongoDB / MariaDB**
+- **PostgreSQL 
     
-- **Airtable / Supabase**
-    
-- **Redis** (Cache y listas de bloqueo rápidas)
-    
-- **Snowflake** (Data Warehouse para analítica)
-    
+- **PowerBI
 
 ###  Documentación y Reportes
 
-- **Google Docs / Microsoft Word**
+- Microsoft Word
     
-- **Confluence / Notion / Obsidian**
+-  Notion
     
 - **Markdown / HTML a PDF**
     
-- **Google Drive / OneDrive / Dropbox**
-    
-- **Adobe Acrobat Sign / DocuSign** (Para firmas de aprobación legal)
+- OneDrive
     
 
 ###  Comunicación y Colaboración
 
-- **Microsoft Teams / Slack / Discord /
+- **Microsoft Teams
     
-- **Telegram / WhatsApp (vía Twilio o Z-API)**
+- WhatsApp (vía Twilio o Z-API)** plan licencia
     
-- **Outlook / Gmail 
-    
-- **Twilio** (Llamadas de voz y SMS de emergencia)
+- **Outlook
     
 - Outlook (Para crear salas de "War Room" automáticamente)
     
@@ -246,30 +237,26 @@ Actividades que no se se han realizado
  Operaciones e Infraestructura
 
     
-- **Active Directory / LDAP / Azure AD**
+- Entra ID
     
--  AWS / Azure / GCP**
-    
-- **GitHub / GitLab / Bitbucket** (GitOps y gestión de scripts)
+- **GitHub 
     
 
-    
 
 ### Inteligencia Artificial y Lenguaje
 
-- **OpenAI (GPT) / Anthropic (Claude) / Mistral**
+- **Anthropic (Claude) 
 
     
-- **LangChain** (Integración de cadenas de pensamiento de IA)
-    
+### Seguridad 
 
-### Monitorización y Logs (Observabilidad)
+- Monitoreo (Trend Micro)
+- Control de flujo PAN
+- Agent server Trend Micro
+- AI Security
 
-- **Splunk / ELK Stack (Elasticsearch)**
-    
-- **Datadog / Dynatrace / New Relic**
-    
-- **Grafana / Prometheus**
-    
-- **Zabbix / Nagios**
-    
+
+
+
+blinkops
+tines
