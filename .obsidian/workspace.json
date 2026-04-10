@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "53f23e20510d80b5",
+        "id": "e72e7234cd0cb1c6",
         "type": "tabs",
         "children": [
           {
-            "id": "cf89fa58ca436043",
+            "id": "9d9f3025fc13a209",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Radware/2025-09-29.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-29"
+              "title": "New tab"
             }
           }
         ]
@@ -219,15 +215,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf89fa58ca436043",
+  "active": "9d9f3025fc13a209",
   "lastOpenFiles": [
+    "To do.md",
+    "Ciberseguridad/Radware/2025-09-29.md",
     "Ciberseguridad/Radware/Radware.md",
     "Ciberseguridad/Radware/ADO.md",
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
-    "Ciberseguridad/Radware/2025-09-29.md",
     "Ciberseguridad/Radware/300-101E.md",
-    "To do.md",
     "conflict-files-obsidian-git.md",
     "Upgrade.md",
     "Media/Pasted image 20260406125348.png",
