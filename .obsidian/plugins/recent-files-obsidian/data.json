@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "N8N Estructura",
-      "path": "N8N Estructura.md"
+      "basename": "2026-03-09",
+      "path": "Notas Random/2026-03-09.md"
     },
     {
-      "basename": "N8N",
-      "path": "N8N.md"
+      "basename": "2026-02-23",
+      "path": "Notas Random/2026-02-23.md"
     },
     {
-      "basename": "To do",
-      "path": "To do.md"
+      "basename": "280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion",
+      "path": "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf"
     },
     {
       "basename": "PBX Conmutador",
       "path": "PBX Conmutador.canvas"
     },
     {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
       "basename": "Upgrade",
       "path": "Upgrade.md"
     },
     {
-      "basename": "Configuration",
-      "path": "Configuration.md"
+      "basename": "N8N Config",
+      "path": "N8N/N8N Config.md"
+    },
+    {
+      "basename": "N8N Estructura",
+      "path": "N8N/N8N Estructura.md"
     },
     {
       "basename": "2025-09-29",
@@ -41,28 +49,12 @@
       "path": "Ciberseguridad/Firewall.md"
     },
     {
-      "basename": "2026-03-23",
-      "path": "Notas Random/2026-03-23.md"
-    },
-    {
-      "basename": "2026-02-17",
-      "path": "Notas Random/2026-02-17.md"
-    },
-    {
-      "basename": "2026-01-16",
-      "path": "Notas Random/2026-01-16.md"
-    },
-    {
       "basename": "Bloqueo de credenciales",
       "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
     {
       "basename": "Credenciales invalidas",
       "path": "Troubleshooting/Credenciales invalidas.md"
-    },
-    {
-      "basename": "2026-03-10",
-      "path": "Notas Random/2026-03-10.md"
     },
     {
       "basename": "Reducción de tamaño VM",
@@ -95,10 +87,6 @@
     {
       "basename": "Correo ESM",
       "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
-      "basename": "2026-03-09",
-      "path": "Notas Random/2026-03-09.md"
     },
     {
       "basename": "Introduction to SecOps",
