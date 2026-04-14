@@ -22,6 +22,8 @@ kubectl create secret tls n8n-tls \
 --cert n8n.crt \
 -n n8n
 
+## Restart
+kubectl rollout restart deployment n8n -n n8n
 # SET UP Ubuntu server:
 
 # 1. Preparar el servidor (Ubuntu)
