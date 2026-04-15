@@ -1,5 +1,182 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Certificaciones TryHackMe",
+      "path": "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md"
+    },
+    {
+      "basename": "Presecurity-THM-4S6ZUQ73JP",
+      "path": "Media/Presecurity-THM-4S6ZUQ73JP.pdf"
+    },
+    {
+      "basename": "N8N Config",
+      "path": "N8N/N8N Config.md"
+    },
+    {
+      "basename": "2026-03-09",
+      "path": "Notas Random/2026-03-09.md"
+    },
+    {
+      "basename": "2026-02-23",
+      "path": "Notas Random/2026-02-23.md"
+    },
+    {
+      "basename": "280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion",
+      "path": "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "Upgrade",
+      "path": "Upgrade.md"
+    },
+    {
+      "basename": "N8N Estructura",
+      "path": "N8N/N8N Estructura.md"
+    },
+    {
+      "basename": "2025-09-29",
+      "path": "Ciberseguridad/Radware/2025-09-29.md"
+    },
+    {
+      "basename": "Firewall Avanzado",
+      "path": "Ciberseguridad/PAN/Firewall Avanzado.md"
+    },
+    {
+      "basename": "Firewall Basico",
+      "path": "Ciberseguridad/PAN/Firewall Basico.md"
+    },
+    {
+      "basename": "Firewall",
+      "path": "Ciberseguridad/Firewall.md"
+    },
+    {
+      "basename": "Bloqueo de credenciales",
+      "path": "Troubleshooting/Bloqueo de credenciales.md"
+    },
+    {
+      "basename": "Credenciales invalidas",
+      "path": "Troubleshooting/Credenciales invalidas.md"
+    },
+    {
+      "basename": "Reducción de tamaño VM",
+      "path": "Troubleshooting/Reducción de tamaño VM.md"
+    },
+    {
+      "basename": "Preguntas seguridad",
+      "path": "Troubleshooting/Preguntas seguridad.md"
+    },
+    {
+      "basename": "Levantamiento Servidor Y VM_PanOS",
+      "path": "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md"
+    },
+    {
+      "basename": "Error de conexión",
+      "path": "Troubleshooting/Error de conexión.md"
+    },
+    {
+      "basename": "Dos contraseñas para inicio de sesion",
+      "path": "Troubleshooting/Dos contraseñas para inicio de sesion.md"
+    },
+    {
+      "basename": "Allocation Failed",
+      "path": "Troubleshooting/Allocation Failed.md"
+    },
+    {
+      "basename": "Creación VPN",
+      "path": "Troubleshooting/Creación VPN.md"
+    },
+    {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "Introduction to SecOps",
+      "path": "Ciberseguridad/PAN/Certs/Introduction to SecOps.md"
+    },
+    {
+      "basename": "SOC Processes",
+      "path": "Ciberseguridad/PAN/Certs/SOC Processes.md"
+    },
+    {
+      "basename": "PAN Certificaciones",
+      "path": "Ciberseguridad/PAN/Certs/PAN Certificaciones.md"
+    },
+    {
+      "basename": "Memorias Tecnicas",
+      "path": "Ciberseguridad/PAN/Memorias Tecnicas.md"
+    },
+    {
+      "basename": "Certificaciones",
+      "path": "Ciberseguridad/Index/Certificaciones.md"
+    },
+    {
+      "basename": "Radware",
+      "path": "Ciberseguridad/Radware/Radware.md"
+    },
+    {
+      "basename": "300-101E",
+      "path": "Ciberseguridad/Radware/300-101E.md"
+    },
+    {
+      "basename": "Application Protection Training for Partners",
+      "path": "Ciberseguridad/Radware/Application Protection Training for Partners.md"
+    },
+    {
+      "basename": "Pre-Sales Certification",
+      "path": "Ciberseguridad/Radware/Pre-Sales Certification.md"
+    },
+    {
+      "basename": "MITRE Understanding the Basics",
+      "path": "Ciberseguridad/Cortex XDR/MITRE Understanding the Basics.md"
+    },
+    {
+      "basename": "VPN",
+      "path": "Troubleshooting/VPN.md"
+    },
+    {
+      "basename": "Trend Micro",
+      "path": "Ciberseguridad/Index/Trend Micro.md"
+    },
+    {
+      "basename": "Attack Index",
+      "path": "Ciberseguridad/Attack Index.md"
+    },
+    {
+      "basename": "1-15-26",
+      "path": "Ciberseguridad/Linux/1-15-26.md"
+    },
+    {
+      "basename": "Reglas de prevención personalizadas",
+      "path": "Ciberseguridad/Cortex XDR/Reglas de prevención personalizadas.md"
+    },
+    {
+      "basename": "WEB SSO",
+      "path": "Ciberseguridad/WEB SSO.md"
+    },
+    {
+      "basename": "Perfiles",
+      "path": "Ciberseguridad/Cortex XDR/Perfiles.md"
+    },
+    {
+      "basename": "Teoría de la información",
+      "path": "Ciberseguridad/Teoría de la información.md"
+    },
+    {
+      "basename": "SOC",
+      "path": "Ciberseguridad/SOC.md"
+    }
+  ],
   "omittedPaths": [],
   "omittedTags": [],
   "updateOn": "file-open",
