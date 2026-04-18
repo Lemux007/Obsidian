@@ -11,10 +11,14 @@
             "id": "35301c54799bda55",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "N8N/N8N Estructura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N8N Estructura"
             }
           }
         ]
@@ -215,11 +219,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f57143b7aba96585",
+  "active": "35301c54799bda55",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "N8N/N8N Estructura.md",
     "N8N/N8N Config.md",
+    "Configuration.md",
+    "PBX Conmutador.canvas",
+    "Upgrade.md",
+    "Notas Random/2026-04-15.md",
+    "N8N/N8N Estructura.md",
+    "conflict-files-obsidian-git.md",
     "N8N",
     "Media/THM-UKIPF9RXLM.pdf",
     "To do.md",
@@ -232,7 +240,6 @@
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
     "Ciberseguridad/Radware/300-101E.md",
-    "Upgrade.md",
     "Media/Pasted image 20260406125348.png",
     "N8N.md",
     "Untitled.md",
@@ -255,14 +262,11 @@
     "Ciberseguridad/TryHackMe",
     "Ciberseguridad/Trend Micro/XDR for Email.md",
     "Ciberseguridad/Trend Micro/Trend Vision One XDR for Cloud.md",
-    "Ciberseguridad/Trend Micro/Vision One for Administrators.md",
-    "Ciberseguridad/Trend Micro/Trend Vision One Understanding the Basics.md",
     "Ciberseguridad/Trend Micro",
     "Ciberseguridad/Tanium",
     "Ciberseguridad/Radware",
     "Media/Pasted image 20260212135824.png",
     "Media/Pasted image 20260112125653.png",
-    "Media/Pasted image 20260112125618.png",
-    "PBX Conmutador.canvas"
+    "Media/Pasted image 20260112125618.png"
   ]
 }
