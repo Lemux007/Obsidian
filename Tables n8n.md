@@ -8,6 +8,4 @@
 | **Claude (Pro + API)** | **$480.00**                              | 1 Lic. Pro ($240) + Consumo API est. ($240). |
 | N8N                    | 25000                                    |                                              |
 | Servidor               | Estratosphere                            |                                              |
-|                        |                                          |                                              |
-|                        |                                          |                                              |
 | **SUMA TOTAL**         | **$1,432.00 USD**                        | **Total (Sin considerar VirusTotal)**        |
