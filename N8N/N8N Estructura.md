@@ -247,7 +247,6 @@ paessler
 
 - **Anthropic (Claude) 
 
-    
 ### Seguridad 
 
 - Monitoreo (Trend Micro)

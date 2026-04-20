@@ -40,8 +40,8 @@
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
-  "desktopUIMode": "tray",
-  "tabletUIMode": "compact",
+  "desktopUIMode": "full",
+  "tabletUIMode": "tray",
   "iframeMatchExcalidrawTheme": false,
   "matchTheme": false,
   "matchThemeAlways": false,
@@ -36893,7 +36893,27 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Convert freedraw to line": {
+      "Point density": {
+        "value": "7:1",
+        "valueset": [
+          "1:1",
+          "2:1",
+          "3:1",
+          "4:1",
+          "5:1",
+          "6:1",
+          "7:1",
+          "8:1",
+          "9:1",
+          "10:1",
+          "11:1"
+        ],
+        "description": "A freedraw object has many points. Converting freedraw to a line with too many points will result in an impractical object that is hard to edit. This setting sepcifies how many points from freedraw should be averaged to form a point on the line"
+      }
+    }
+  },
   "previousRelease": "2.19.2",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,

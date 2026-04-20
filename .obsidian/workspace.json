@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
+                "file": "N8N/N8N Config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificaciones TryHackMe"
+              "title": "N8N Config"
+            }
+          },
+          {
+            "id": "e6d473e3e2f6c7bb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "N8N.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "N8N"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,12 +233,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63d7f2c49ede1543",
+  "active": "e6d473e3e2f6c7bb",
   "lastOpenFiles": [
+    "N8N/N8N Config.md",
+    "N8N/N8N Estructura.md",
+    "N8N.md",
+    "N8N Licencias.md",
+    "Tables n8n.md",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
+    "Media/Pasted Image 20260416153908_483.png",
+    "Media/Pasted Image 20260416153831_388.png",
+    "Media/Pasted image 20260416153809.png",
+    "Tables N8N 2.md",
+    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Media/THM-UKIPF9RXLM.pdf",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
-    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
-    "N8N/N8N Config.md",
     "Notas Random/2026-03-09.md",
     "conflict-files-obsidian-git.md",
     "Notas Random/2026-02-23.md",
@@ -238,7 +261,6 @@
     "Configuration.md",
     "Upgrade.md",
     "N8N",
-    "N8N/N8N Estructura.md",
     "To do.md",
     "Media/Pasted image 20260409104446.png",
     "Media/Pasted image 20260409104435.png",
@@ -251,24 +273,14 @@
     "Ciberseguridad/Firewall.md",
     "Risk Assessment Excel.md",
     "Media/Pasted image 20260323102916.png",
-    "Media/Pasted image 20260323101304.png",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Preguntas.md",
-    "Troubleshooting/Credenciales invalidas.md",
-    "Troubleshooting/Reducción de tamaño VM.md",
-    "Troubleshooting/Preguntas seguridad.md",
-    "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
-    "Troubleshooting/Error de conexión.md",
     "Practicas/Reporte Final.pdf",
     "Practicas/Carta de Termino .pdf",
     "Practicas/Reportes mensuales.pdf",
     "Practicas/Practicas.rar",
     "Practicas/Reportes_Mensuales.xlsx",
     "Practicas/Informe Final.docx",
-    "Practicas/Formato de Registro de Actividades para Prácticas Profesionales 2025.xlsx",
-    "Media/Pasted image 20260212135824.png",
-    "Media/Pasted Image 20260209160938_091.png",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Untitled.canvas"
   ]
 }
