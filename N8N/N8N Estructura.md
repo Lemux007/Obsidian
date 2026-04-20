@@ -4,6 +4,7 @@ Automatización y Mejora de Procesos con n8n
 
 Mejora de procesos, hacer más fácil el trabajo de cada individuo.
 
+
 # 1. Campos de trabajo
 
 ## 1.1 Operación y Procesos
