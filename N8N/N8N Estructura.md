@@ -171,32 +171,6 @@ Marketplace interno:
 - Manejo de dependencias externas
 
 
-Outlook
-Se pierde avance
-Tiempo de sesion [Setting to limit session time for users logged into n8n management console [GOT CREATED] - Feature Requests (done) - n8n Community](https://community.n8n.io/t/setting-to-limit-session-time-for-users-logged-into-n8n-management-console-got-created/30227)
-Bakcups
-Actividades que no se se han realizado
-
-
-	- dashboard de avances
-	- mapa
-	- Avanzar  con las automatizaciones(las credenciales se eliminan y se regresa a la version community cuando acaba del trial)
-
-1. Se perderan las credencial y las variables globales, se comprara antes?
-2. Integracion completa de Outlook, Outlook o Teams?
-3. Subir cores
-4. Implementacion con Git, Hay un repo de Nova?
-5. silos de trabajo
-6. No recomendario herramientas 
-	1. **Grafana + Loki:** Es probablemente la opción número uno. **Loki** es como "Prometheus pero para logs", muy ligero y diseñado para ser eficiente. Puedes visualizar todo en **Grafana**, creando dashboards que mezclen el estado de tus servidores con los fallos de los flujos.
-	2. **Datadog:** Es la herramienta de observabilidad más completa. n8n tiene un nodo oficial de Datadog, lo que facilita enviar eventos, métricas de éxito/error y logs directamente desde tus flujos.
-	3. Free: SigNoz
-	4. Insigths
-7.  URL publica. 
-8. Modelo Claude
-
-
-paessler
 
 - **Trend Micro / Tanium / Palo Alto Networks**
     
