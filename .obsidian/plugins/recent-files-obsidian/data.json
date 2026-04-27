@@ -5,16 +5,16 @@
       "path": "AI iniciatives.md"
     },
     {
+      "basename": "N8N",
+      "path": "N8N/N8N.md"
+    },
+    {
       "basename": "Configuration",
       "path": "Configuration.md"
     },
     {
       "basename": "Drawing 2026-04-23 16.06.27.excalidraw",
       "path": "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md"
-    },
-    {
-      "basename": "N8N",
-      "path": "N8N/N8N.md"
     },
     {
       "basename": "N8N Estructura",

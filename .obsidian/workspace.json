@@ -95,7 +95,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -233,11 +234,11 @@
   },
   "active": "cfb2430c366ed5a0",
   "lastOpenFiles": [
+    "AI iniciatives.md",
+    "N8N/N8N.md",
     "Configuration.md",
     "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "AI iniciatives.md",
-    "N8N/N8N.md",
     "N8N/N8N Estructura.md",
     "Ciberseguridad/Radware/300-101E.md",
     "Ciberseguridad/Radware/2025-09-29.md",

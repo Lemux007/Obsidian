@@ -2,6 +2,7 @@
   "copyLinkToElemenetAnchorTo100": false,
   "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
+  "phoneFooterSafeAreaPadding": false,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -29,6 +30,7 @@
   "annotateSuffix": "",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
+  "displaySVGInPreview": false,
   "previewImageType": "SVGIMG",
   "renderingConcurrency": 3,
   "allowImageCache": true,
@@ -42,6 +44,7 @@
   "isLeftHanded": false,
   "desktopUIMode": "full",
   "tabletUIMode": "tray",
+  "phoneUIMode": "mobile",
   "iframeMatchExcalidrawTheme": false,
   "matchTheme": false,
   "matchThemeAlways": false,
@@ -112,7 +115,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.19.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.22.1",
     "libraryItems": [
       {
         "status": "published",
@@ -10395,9 +10398,6 @@
             "height": 25,
             "seed": 1822531917,
             "groupIds": [
-              "zEWRSoiMYJdtjaWo30CrG",
-              "w9iH1yVL9pL00kFbguP0u",
-              "LEn_KUdgqmzdfSC1x1YPL",
               "QG2aad_YKwbziAutBdAsP"
             ],
             "frameId": null,
@@ -10448,7 +10448,6 @@
             "height": 116.75732316367123,
             "seed": 1039050076,
             "groupIds": [
-              "v-02bxUWls1N109CUiOGm",
               "o8Gpff5shIxpWAwz1r1Gz"
             ],
             "frameId": null,
@@ -10654,11 +10653,6 @@
             "height": 25,
             "seed": 734369764,
             "groupIds": [
-              "4KMABhWZigq-W9UdCv5za",
-              "T323aZT3Rpzggt559zbF4",
-              "ZF5S0Si688Y9iaRPixExJ",
-              "yAQFEtBF34Lk6yqA5fYyM",
-              "iPdSJfvlEj_nv0dzHptg_",
               "o8Gpff5shIxpWAwz1r1Gz"
             ],
             "frameId": null,
@@ -10740,10 +10734,6 @@
             "height": 25,
             "seed": 526071772,
             "groupIds": [
-              "0yuHM1o4XcRsXNLgOja8u",
-              "JPjk1YlBgYN_BpjYIRqF8",
-              "ywbHgfQWUWBi84VEhI5AU",
-              "iCL-OO_2gyWLmAqzZLA79",
               "5UxVC4XIofHCVAplha0Aj",
               "qMkXAyhANrMo1_OJgaDYK"
             ],
@@ -11158,7 +11148,6 @@
             "height": 116.75732316367123,
             "seed": 1801533987,
             "groupIds": [
-              "Qk3hLZLwJ2l8jwWmic_y5",
               "J42DklC1z46qOJYy7xbZq"
             ],
             "frameId": null,
@@ -11524,7 +11513,6 @@
             "height": 116.75732316367123,
             "seed": 2111643683,
             "groupIds": [
-              "lrUIL5-7t07YqXrV9HNh4",
               "F1VuRbR1sz1z1h0UEXFKM"
             ],
             "frameId": null,
@@ -11556,7 +11544,6 @@
             "height": 25,
             "seed": 1794269869,
             "groupIds": [
-              "oq1zmFH8TsfR5mJ4MEnu8",
               "VXfry1aKJwRpbz2c1w0xY",
               "F1VuRbR1sz1z1h0UEXFKM"
             ],
@@ -11923,7 +11910,6 @@
             "height": 116.75732316367123,
             "seed": 1745288974,
             "groupIds": [
-              "B2cX262p0twcIs9ufDOhL",
               "Y46TSjVdkB5TaRojwLOb4"
             ],
             "frameId": null,
@@ -12141,7 +12127,6 @@
             "height": 25,
             "seed": 2018897614,
             "groupIds": [
-              "hNTkM-7GQJiIXVqt5G4gB",
               "Y46TSjVdkB5TaRojwLOb4"
             ],
             "frameId": null,
@@ -12192,7 +12177,6 @@
             "height": 116.75732316367123,
             "seed": 624578642,
             "groupIds": [
-              "1oscA9ug6o3pCgTvJ909S",
               "zWHIXnqCekkqSyX4Dyn1q"
             ],
             "frameId": null,
@@ -12359,7 +12343,6 @@
             "height": 25,
             "seed": 1082702798,
             "groupIds": [
-              "v9fWMpe3qqdTXO5RnMRr6",
               "zWHIXnqCekkqSyX4Dyn1q"
             ],
             "frameId": null,
@@ -12410,7 +12393,6 @@
             "height": 116.75732316367123,
             "seed": 76470542,
             "groupIds": [
-              "m5ROsaLsAUdlNaEVMiPrk",
               "abLuScyTYW9vfHAFxWiBH"
             ],
             "frameId": null,
@@ -12653,7 +12635,6 @@
             "height": 25,
             "seed": 145776590,
             "groupIds": [
-              "ulULkWbzE1Gcy69aHWHV6",
               "abLuScyTYW9vfHAFxWiBH"
             ],
             "frameId": null,
@@ -12704,7 +12685,6 @@
             "height": 116.75732316367123,
             "seed": 324149325,
             "groupIds": [
-              "y5qZVgcUkTA4rO94HzHAJ",
               "_Bsnajn068WKHC3pKgCTe"
             ],
             "frameId": null,
@@ -13360,7 +13340,6 @@
             "height": 25,
             "seed": 1613046733,
             "groupIds": [
-              "N8b7ug5BNuOt_udp4OiPM",
               "_Bsnajn068WKHC3pKgCTe"
             ],
             "frameId": null,
@@ -13411,7 +13390,6 @@
             "height": 116.75732316367123,
             "seed": 1079725699,
             "groupIds": [
-              "0PahZsxdHTTTbLiYuUsLQ",
               "gzQPgZUJT5AlLMXJwCUUK"
             ],
             "frameId": null,
@@ -13685,7 +13663,6 @@
             "height": 25,
             "seed": 1402462179,
             "groupIds": [
-              "7iXgMeLJunlQgKUS3T_PV",
               "gzQPgZUJT5AlLMXJwCUUK"
             ],
             "frameId": null,
@@ -13736,7 +13713,6 @@
             "height": 116.75732316367123,
             "seed": 1233976338,
             "groupIds": [
-              "ocQBWp4ulu997l0DvhEqy",
               "A3go9uDDTZT9T2Fz_JcFv"
             ],
             "frameId": null,
@@ -14039,7 +14015,6 @@
             "height": 25,
             "seed": 926746578,
             "groupIds": [
-              "0o5p5xEaT3tF0GSaT0ixb",
               "A3go9uDDTZT9T2Fz_JcFv"
             ],
             "frameId": null,
@@ -14219,7 +14194,6 @@
             "height": 25,
             "seed": 1639274076,
             "groupIds": [
-              "ZeAqIGHwRP99CGfTp34p1",
               "5o9KTuVogl4gd1jFC3i0p"
             ],
             "frameId": null,
@@ -14270,7 +14244,6 @@
             "height": 116.75732316367123,
             "seed": 1390164515,
             "groupIds": [
-              "5Uk_C8ChibBPm5Jf4JHQc",
               "4INlnzPrKWN-SAl_y44Cg"
             ],
             "frameId": null,
@@ -14405,7 +14378,6 @@
             "height": 25,
             "seed": 267260995,
             "groupIds": [
-              "QuZ52S82niqOrIjuhUuGG",
               "4INlnzPrKWN-SAl_y44Cg"
             ],
             "frameId": null,
@@ -14456,7 +14428,6 @@
             "height": 116.75732316367123,
             "seed": 1215071565,
             "groupIds": [
-              "fLrnpTMRF5zbtt0UC-Bl5",
               "3Gminxun1NpLVfY5PLDHL"
             ],
             "frameId": null,
@@ -14622,7 +14593,6 @@
             "height": 25,
             "seed": 1478265869,
             "groupIds": [
-              "D2fgnnHmbg2PvNQkyg8Gs",
               "3Gminxun1NpLVfY5PLDHL"
             ],
             "frameId": null,
@@ -14673,7 +14643,6 @@
             "height": 116.75732316367123,
             "seed": 552968493,
             "groupIds": [
-              "Z1r0MRyp1mSbA8Ew6GU-v",
               "xAgn3etQMSBjLpN8C5FrM"
             ],
             "frameId": null,
@@ -14849,7 +14818,6 @@
             "height": 25,
             "seed": 842198499,
             "groupIds": [
-              "xvwwIIQhfbv0gYElyY0Tw",
               "xAgn3etQMSBjLpN8C5FrM"
             ],
             "frameId": null,
@@ -14900,8 +14868,6 @@
             "height": 116.75732316367123,
             "seed": 511616525,
             "groupIds": [
-              "XqzbZ3uitnKGve-_G0wfk",
-              "5sh_LUXzMKqf5ChFZ1gTP",
               "nMOJzRm20vP5DNX7zStL9"
             ],
             "frameId": null,
@@ -15089,7 +15055,6 @@
             "height": 25,
             "seed": 128493613,
             "groupIds": [
-              "OMYvda0IorHSbJFTQ83T6",
               "nMOJzRm20vP5DNX7zStL9"
             ],
             "frameId": null,
@@ -15272,8 +15237,6 @@
             "height": 25,
             "seed": 918258532,
             "groupIds": [
-              "tb8MkintmB4XyngMHZW-B",
-              "ayyUh35fcneQxFKoBdeFo",
               "cYH6yTV0AgEuibjm4sAEN"
             ],
             "frameId": null,
@@ -15721,7 +15684,6 @@
             "height": 116.75732316367123,
             "seed": 393222541,
             "groupIds": [
-              "5O9VhmgyuP835cZTFmSVD",
               "OApap_VcpEWFfbwxLHjqB"
             ],
             "frameId": null,
@@ -15913,7 +15875,6 @@
             "height": 25,
             "seed": 1480280355,
             "groupIds": [
-              "IQ25Lu_0yDW90QRSrgc4f",
               "OApap_VcpEWFfbwxLHjqB"
             ],
             "frameId": null,
@@ -16275,8 +16236,6 @@
             "height": 4.82993692748115,
             "seed": 2134719822,
             "groupIds": [
-              "EEEd8bYq-SbRFyx-c79_e",
-              "Hxtz2eEew4Zwf4FC9g65p",
               "y9vI05Oklu976Ig3NKNMb",
               "hxoQgVE5_cD1Ll0BNPdeI",
               "nftO1sie8Y6HerTvyBtlx"
@@ -16519,7 +16478,6 @@
             "height": 25,
             "seed": 546733532,
             "groupIds": [
-              "vG9eGV2LJnXDo_Pteo8CF",
               "BJTb8uwGNwvtPG_I5zpAN"
             ],
             "frameId": null,
@@ -16811,7 +16769,6 @@
             "height": 116.75732316367123,
             "seed": 687889891,
             "groupIds": [
-              "MxbaOzXk_EBycd5Kjm_Zk",
               "0MKklZ9K50V8F89ICfrk9"
             ],
             "frameId": null,
@@ -16953,7 +16910,6 @@
             "height": 25.21715864618886,
             "seed": 1376112269,
             "groupIds": [
-              "d1Kmxk1ErEd3Hdf6dZTzc",
               "fyTI6Cz-xA57mip0OeEWt",
               "0MKklZ9K50V8F89ICfrk9"
             ],
@@ -17102,7 +17058,6 @@
             "height": 116.75732316367123,
             "seed": 1104032786,
             "groupIds": [
-              "V57uhS6D0UDXEHUVkXUme",
               "7K5C_ujN1dRlJU-4g_PM-"
             ],
             "frameId": null,
@@ -17484,7 +17439,6 @@
             "height": 25,
             "seed": 1396893010,
             "groupIds": [
-              "B6dFekMImpTRpJQRI-tGb",
               "7K5C_ujN1dRlJU-4g_PM-"
             ],
             "frameId": null,
@@ -17535,7 +17489,6 @@
             "height": 116.75732316367123,
             "seed": 930295310,
             "groupIds": [
-              "hcbf-vWEq6DmXuoePnUSM",
               "WnM2it2xJ_06M3Zbs07JO"
             ],
             "frameId": null,
@@ -17710,7 +17663,6 @@
             "height": 25,
             "seed": 319175826,
             "groupIds": [
-              "zhABboDZF9n8d_u66LPzs",
               "WnM2it2xJ_06M3Zbs07JO"
             ],
             "frameId": null,
@@ -17761,7 +17713,6 @@
             "height": 116.75732316367123,
             "seed": 1508371026,
             "groupIds": [
-              "tQuhdKAPP2OzKpLlBA-56",
               "aIin6bBtiI9yEE_Q34u9S"
             ],
             "frameId": null,
@@ -17877,7 +17828,6 @@
             "height": 25,
             "seed": 1901922066,
             "groupIds": [
-              "eTf_K2_mFgF9DfBd1DkYo",
               "aIin6bBtiI9yEE_Q34u9S"
             ],
             "frameId": null,
@@ -17928,7 +17878,6 @@
             "height": 116.75732316367123,
             "seed": 3595666,
             "groupIds": [
-              "UxDF1B5BwPoZ5IsAgn9XL",
               "2Xl3Z9_6Jwzmb49Z8ODhs"
             ],
             "frameId": null,
@@ -18072,7 +18021,6 @@
             "height": 25,
             "seed": 1554116882,
             "groupIds": [
-              "kl6ZNwJYWC4E2KDFH8rdw",
               "2Xl3Z9_6Jwzmb49Z8ODhs"
             ],
             "frameId": null,
@@ -19129,7 +19077,6 @@
             "height": 46.26935497739771,
             "seed": 855338844,
             "groupIds": [
-              "8XpLW7IMJLqc4f6aCRTCT",
               "WhchlhDsrIjx0ICFDzKfu"
             ],
             "frameId": null,
@@ -19436,7 +19383,6 @@
             "height": 19.26913471102605,
             "seed": 839835356,
             "groupIds": [
-              "3onlLA3w_RjvDyVPvMHGw",
               "5dsOqkN66W57T7xaKcdLC"
             ],
             "frameId": null,
@@ -19492,7 +19438,6 @@
             "height": 19.26913471102605,
             "seed": 268744804,
             "groupIds": [
-              "gX5_wP4Dx1cem6YRgKQTD",
               "5dsOqkN66W57T7xaKcdLC"
             ],
             "frameId": null,
@@ -19589,7 +19534,6 @@
             "height": 53.79496156552523,
             "seed": 632422307,
             "groupIds": [
-              "OtfPE47S7_U465QjDQHEG",
               "AIZ0k8dXDwWndtV3pcKcT"
             ],
             "frameId": null,
@@ -19828,7 +19772,6 @@
             "height": 52.042586052452876,
             "seed": 898764067,
             "groupIds": [
-              "RSVaXyTQkHdYiSh-o3Lxh",
               "C9Qa9nyohmY2mgisu0dbI"
             ],
             "frameId": null,
@@ -20955,13 +20898,6 @@
             "height": 22.532361289552,
             "seed": 539702569,
             "groupIds": [
-              "5purl9BoND7NXhiMXF9cM",
-              "V-hjSo34OTs-jaMRC-hEf",
-              "BGzat0f4Y_e02QvOP8OcQ",
-              "pEDBz-hBD-zOF5KsOL3pz",
-              "ivoCrcC5n5epS3mj1qrak",
-              "Uqv0gcShxvvrxqsiF8PmJ",
-              "mhQ4rJw8rYYn7fO_eTrqG",
               "VuCd3MppLcSWNmK7E1Z5_",
               "ltqLZSi-VIOrARklaLCH_"
             ],
@@ -21267,9 +21203,6 @@
             "height": 36.95026404079046,
             "seed": 1683479433,
             "groupIds": [
-              "lai0Kol4niIsO_hgIjQjC",
-              "-81_Bp1__AdSIG61J6TGI",
-              "Xtp1teGVG3oRzwwXx4jgB",
               "MWnVP8icb3QIpR9WEpyLo",
               "ltqLZSi-VIOrARklaLCH_"
             ],
@@ -21338,9 +21271,6 @@
             "height": 22.437421346334304,
             "seed": 902136425,
             "groupIds": [
-              "d-1yXIwlN_jeJQhtmyO7P",
-              "fPIrm57qkC5CUerJZ9I7B",
-              "A9bUc9PIEOjHAksLC-shv",
               "MWnVP8icb3QIpR9WEpyLo",
               "ltqLZSi-VIOrARklaLCH_"
             ],
@@ -21393,9 +21323,6 @@
             "height": 2.9953646072644915,
             "seed": 479939913,
             "groupIds": [
-              "QFTHA2CdYjv_HPRZMGx9b",
-              "enmuwS98ilZyh9JO5WSnk",
-              "AgqdWls5jHa_qOeDvkooJ",
               "MWnVP8icb3QIpR9WEpyLo",
               "ltqLZSi-VIOrARklaLCH_"
             ],
@@ -21816,9 +21743,6 @@
             "height": 36.95026404079046,
             "seed": 915328265,
             "groupIds": [
-              "2Ew-7P8hVpBD-Q02sHfSs",
-              "2K0vocoH4zfmpLvubLXCl",
-              "_PM-aTbw8epgx0UNa_he4",
               "2iMbDtckct82xsaAmGzXW",
               "SNF_eEqkxNqfPUwA_AMzP"
             ],
@@ -21887,9 +21811,6 @@
             "height": 22.437421346334304,
             "seed": 1396598855,
             "groupIds": [
-              "kw5ZA-2DO74EZzck_qf5V",
-              "h0ZigjUBlDdWqAuSQB75B",
-              "Z5XzlYj5-EUYVkWehTgQE",
               "2iMbDtckct82xsaAmGzXW",
               "SNF_eEqkxNqfPUwA_AMzP"
             ],
@@ -21942,9 +21863,6 @@
             "height": 2.9953646072644915,
             "seed": 1416651689,
             "groupIds": [
-              "2bGpT1wxGHyuA4DExzJio",
-              "iK9CAKWOyUiQvPduzXb6o",
-              "dVeQ6J3GxD7TkDZbcszt7",
               "2iMbDtckct82xsaAmGzXW",
               "SNF_eEqkxNqfPUwA_AMzP"
             ],
@@ -22173,9 +22091,6 @@
             "height": 8.12204795062289,
             "seed": 487974089,
             "groupIds": [
-              "fTdHG6Ou5-v9aBw4N9erv",
-              "5an3tFgaPCWO_0HSopInm",
-              "qo7kLLFkXkl0GqJRQNHrp",
               "2iMbDtckct82xsaAmGzXW",
               "SNF_eEqkxNqfPUwA_AMzP"
             ],
@@ -22240,13 +22155,6 @@
             "height": 22.532361289552,
             "seed": 1942820617,
             "groupIds": [
-              "uB60HqqWtCsFHxrHUmFWC",
-              "wIUOWRTdekebXk7Jljxv-",
-              "ur78pjNIHy8ITL-u6fUHl",
-              "jFe3CsabCdY7SXDHszcoM",
-              "f6rtEjYsu1hOAfUTuogtb",
-              "8B83yFyqQm9gBqPgJ38c0",
-              "GE7bwGm-b58PSw7nRppkB",
               "Qxs1S6okN7KJ7fwweLG1c",
               "SNF_eEqkxNqfPUwA_AMzP"
             ],
@@ -22616,9 +22524,6 @@
             "height": 36.31614507333556,
             "seed": 49431131,
             "groupIds": [
-              "yIcMnOeR3bjRRltEeCtlX",
-              "HfCNRiO2A3dofpvOzUk00",
-              "ckPP0jOzyw8Y69TOyORui",
               "nuj5B6_54Zgm1WrTJsKLf",
               "NpXcx3K-rzYdIaRT9eJrt",
               "7l2Q9XN2te4A5V1-ukkM1"
@@ -22688,9 +22593,6 @@
             "height": 20.383549292462444,
             "seed": 231685883,
             "groupIds": [
-              "B5Qpr80nagvt-IRj7r3m1",
-              "yN08vbwQWF-jDfZI2bZXQ",
-              "unQ03tmcyPo5Qnx-a0ch-",
               "nuj5B6_54Zgm1WrTJsKLf",
               "NpXcx3K-rzYdIaRT9eJrt",
               "7l2Q9XN2te4A5V1-ukkM1"
@@ -22744,9 +22646,6 @@
             "height": 8.031860957629895,
             "seed": 2032379803,
             "groupIds": [
-              "FiWsfChbmcpO65GYi0QmN",
-              "OD5qu-CAforPCHX1W2-Yx",
-              "vzAEsAUqLvci5VWLBkeDh",
               "nuj5B6_54Zgm1WrTJsKLf",
               "NpXcx3K-rzYdIaRT9eJrt",
               "7l2Q9XN2te4A5V1-ukkM1"
@@ -25380,9 +25279,6 @@
             "height": 55.40705416424723,
             "seed": 1821530742,
             "groupIds": [
-              "MW1eiMqIKH222pe40r4zr",
-              "gTkEm_EYiUZomaD2HFw6H",
-              "2TJOc_9EbaostvkzC9NwU",
               "V0cc2eUfmmK6UKS9DKIPJ",
               "tdbzopY_7HgeN1Z3l2FHl"
             ],
@@ -25451,9 +25347,6 @@
             "height": 23.965648782208696,
             "seed": 562797494,
             "groupIds": [
-              "zCMelFQ0seH-lcRrfov2H",
-              "U8L4yPZ8eIaCLASovkAg5",
-              "05RNZ38_swo9x-A2sYpk6",
               "V0cc2eUfmmK6UKS9DKIPJ",
               "tdbzopY_7HgeN1Z3l2FHl"
             ],
@@ -25506,9 +25399,6 @@
             "height": 8.031860957629895,
             "seed": 4895990,
             "groupIds": [
-              "doW5sXlhMXphmhBlc0FaD",
-              "y1CkIEp8wVE46mxKRjO94",
-              "Cj8XAEQmG4I253_qWIPoW",
               "V0cc2eUfmmK6UKS9DKIPJ",
               "tdbzopY_7HgeN1Z3l2FHl"
             ],
@@ -25557,7 +25447,6 @@
             "height": 11.844837249656242,
             "seed": 182697962,
             "groupIds": [
-              "p2V-4PiJ-X53LL4xyir1S",
               "tdbzopY_7HgeN1Z3l2FHl"
             ],
             "boundElements": [],
@@ -25629,8 +25518,6 @@
             "height": 11.844837249656242,
             "seed": 1622381482,
             "groupIds": [
-              "PYKaNZXb_1UQjNytWwFhS",
-              "Xy5iABKeKH6JJafWUhHVx",
               "tdbzopY_7HgeN1Z3l2FHl"
             ],
             "boundElements": [],
@@ -25702,8 +25589,6 @@
             "height": 11.844837249656242,
             "seed": 948885558,
             "groupIds": [
-              "vQQzmUbXa4pwco5BqxVRi",
-              "sMx_oy89ohEBnZdL3UCSB",
               "tdbzopY_7HgeN1Z3l2FHl"
             ],
             "boundElements": [],
@@ -25775,8 +25660,6 @@
             "height": 11.844837249656242,
             "seed": 1545854570,
             "groupIds": [
-              "qvGobvI1rVq5hJST5kqsL",
-              "EGsgbfKzTqBYKJrG-gNcw",
               "tdbzopY_7HgeN1Z3l2FHl"
             ],
             "boundElements": [],
@@ -25856,7 +25739,6 @@
             "height": 54.254461828760434,
             "seed": 1835378614,
             "groupIds": [
-              "fc2e80KGVCeY-7cDum9PW",
               "C1oqEGy1F0vlKjgWH7teL"
             ],
             "boundElements": [
@@ -25893,9 +25775,6 @@
             "height": 55.54349997225772,
             "seed": 1649520630,
             "groupIds": [
-              "9JiM6DBqJIc9wLd4dTS-Y",
-              "Awy1_SuRBMkWpZ7bi_X1j",
-              "NmHECAPDRa_q5JE7T2RDF",
               "nh2Tjdhs7Esx4kFD66uC4",
               "C1oqEGy1F0vlKjgWH7teL"
             ],
@@ -25964,9 +25843,6 @@
             "height": 23.61661944585713,
             "seed": 532955446,
             "groupIds": [
-              "GWCzjoT4GlKYCQUnAJW_Z",
-              "1IfW_i3fPa4hZzNwzjq81",
-              "iARbaunoQM4z7CPbuvoMq",
               "nh2Tjdhs7Esx4kFD66uC4",
               "C1oqEGy1F0vlKjgWH7teL"
             ],
@@ -26019,9 +25895,6 @@
             "height": 7.005649955186515,
             "seed": 1263708790,
             "groupIds": [
-              "muhCXjgZjCqlp0x0ddoSN",
-              "iHchyEjuIDlTz5hpPgTtN",
-              "8dlxF2z7VgQx6ihjUV6Tg",
               "nh2Tjdhs7Esx4kFD66uC4",
               "C1oqEGy1F0vlKjgWH7teL"
             ],
@@ -26314,9 +26187,6 @@
             "height": 12.67339451086911,
             "seed": 1243818538,
             "groupIds": [
-              "XFovFFIYEpC-2mWcOR_c3",
-              "VedjVP42Ao_Z63AvGT6tl",
-              "w_kgJJBk7gCkQVwiG-GHj",
               "gp5CZ3wMd2uvskCSc0H0O"
             ],
             "boundElements": [],
@@ -26388,9 +26258,6 @@
             "height": 12.96922317330706,
             "seed": 2035307754,
             "groupIds": [
-              "8KTZOkkgXoATwqc7g5s-X",
-              "pnXARYRovx6kXWMPjGM0m",
-              "YtVJBUCUaZ9CSr50uHsgX",
               "gp5CZ3wMd2uvskCSc0H0O"
             ],
             "boundElements": [],
@@ -26462,9 +26329,6 @@
             "height": 12.96922317330706,
             "seed": 118106026,
             "groupIds": [
-              "pSCwL0IKCZi5cHGnFL_QO",
-              "dp5bxxPZHj3HfkTBXu1Kp",
-              "3zf1iVvO9MwFzuXvaIxRA",
               "gp5CZ3wMd2uvskCSc0H0O"
             ],
             "boundElements": [],
@@ -26536,9 +26400,6 @@
             "height": 12.96922317330706,
             "seed": 1266393706,
             "groupIds": [
-              "1GULz7zvYYB5cKVAXUMrj",
-              "1HeSHGFlmus-Usywcw76F",
-              "-9ckWEY05snMU5mxB8tLX",
               "gp5CZ3wMd2uvskCSc0H0O"
             ],
             "boundElements": [],
@@ -26799,9 +26660,7 @@
             "width": 97.35601825028085,
             "height": 98.60970239702232,
             "seed": 1536978666,
-            "groupIds": [
-              "tyj-AElb6Y4StDgSVjXjO"
-            ],
+            "groupIds": [],
             "index": "a0",
             "frameId": null,
             "roundness": null,
@@ -36914,7 +36773,7 @@
       }
     }
   },
-  "previousRelease": "2.19.2",
+  "previousRelease": "2.22.1",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
