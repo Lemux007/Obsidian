@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N8N/N8N.md",
+                "file": "AI iniciatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for N8N"
+              "title": "Backlinks for AI iniciatives"
             }
           },
           {
@@ -161,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N8N/N8N.md",
+                "file": "AI iniciatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from N8N"
+              "title": "Outgoing links from AI iniciatives"
             }
           },
           {
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N8N/N8N.md",
+                "file": "AI iniciatives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of N8N"
+              "title": "Outline of AI iniciatives"
             }
           },
           {
@@ -215,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
