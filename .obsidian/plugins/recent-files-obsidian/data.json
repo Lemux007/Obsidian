@@ -5,6 +5,18 @@
       "path": "AI iniciatives.md"
     },
     {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "Drawing 2026-04-23 16.06.27.excalidraw",
+      "path": "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "N8N",
       "path": "N8N/N8N.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "300-101E",
       "path": "Ciberseguridad/Radware/300-101E.md"
-    },
-    {
-      "basename": "Drawing 2026-04-23 16.06.27.excalidraw",
-      "path": "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md"
     },
     {
       "basename": "2025-09-29",
@@ -53,10 +61,6 @@
       "path": "Sell/PAN preguntas.md"
     },
     {
-      "basename": "Drawing 2026-04-20 12.21.25.excalidraw",
-      "path": "Excalidraw/Drawing 2026-04-20 12.21.25.excalidraw.md"
-    },
-    {
       "basename": "Certificaciones TryHackMe",
       "path": "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion",
       "path": "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "Firewall Avanzado",

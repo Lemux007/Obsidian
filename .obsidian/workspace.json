@@ -25,18 +25,6 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-23 16.06.27.excalidraw"
-            }
-          },
-          {
-            "id": "4a8670083de5e546",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "AI iniciatives.md"
               },
               "icon": "excalidraw-icon",
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,13 +231,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a8670083de5e546",
+  "active": "cfb2430c366ed5a0",
   "lastOpenFiles": [
+    "Configuration.md",
+    "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "AI iniciatives.md",
     "N8N/N8N.md",
     "N8N/N8N Estructura.md",
     "Ciberseguridad/Radware/300-101E.md",
-    "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
     "Ciberseguridad/Radware/2025-09-29.md",
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
@@ -269,7 +259,6 @@
     "N8N/N8N Config.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
-    "conflict-files-obsidian-git.md",
     "Notas Random/2026-04-15.md",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
@@ -279,7 +268,6 @@
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Media/THM-UKIPF9RXLM.pdf",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
-    "Notas Random/2026-03-09.md",
     "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf",
     "N8N",
     "Media/Pasted image 20260409104446.png",
