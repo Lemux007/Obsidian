@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "N8N",
+      "path": "N8N/N8N.md"
+    },
+    {
       "basename": "Upgrade",
       "path": "Upgrade.md"
+    },
+    {
+      "basename": "AI iniciatives",
+      "path": "AI iniciatives.md"
     },
     {
       "basename": "Configuration",
@@ -15,14 +23,6 @@
     {
       "basename": "Splunk",
       "path": "Ciberseguridad/TryHackMe/Splunk.md"
-    },
-    {
-      "basename": "AI iniciatives",
-      "path": "AI iniciatives.md"
-    },
-    {
-      "basename": "N8N",
-      "path": "N8N/N8N.md"
     },
     {
       "basename": "Drawing 2026-04-23 16.06.27.excalidraw",
