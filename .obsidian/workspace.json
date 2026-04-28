@@ -95,8 +95,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
       {
         "id": "2fc63a201f8e938a",
         "type": "tabs",
-        "dimension": 53.88026607538803,
+        "dimension": 60.86474501108648,
         "children": [
           {
             "id": "a361c99cb4766eea",
@@ -199,7 +198,7 @@
       {
         "id": "77f2903fd4791bbf",
         "type": "tabs",
-        "dimension": 46.11973392461197,
+        "dimension": 39.13525498891352,
         "children": [
           {
             "id": "b33ec432ce3104d8",
@@ -232,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cfb2430c366ed5a0",
+  "active": "a3e6c54a14b814d7",
   "lastOpenFiles": [
     "AI iniciatives.md",
     "N8N/N8N.md",
