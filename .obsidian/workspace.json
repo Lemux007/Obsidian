@@ -18,8 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "N8N"
             }
+          },
+          {
+            "id": "20a3a19dfa54c891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N8N/Paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paquetes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,18 +233,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b5d24fff85eda45",
+  "active": "a361c99cb4766eea",
   "lastOpenFiles": [
+    "N8N/N8N.md",
+    "N8N/Paquetes.md",
+    "N8N/N8N Estructura.md",
+    "Ciberseguridad/TryHackMe/AI.md",
     "Upgrade.md",
     "AI iniciatives.md",
     "Configuration.md",
     "PBX Conmutador.canvas",
     "Ciberseguridad/TryHackMe/Splunk.md",
     "Ciberseguridad/TryHackMe/Drawing 2026-04-28 10.35.35.excalidraw.md",
-    "N8N/N8N.md",
     "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "N8N/N8N Estructura.md",
     "Ciberseguridad/Radware/300-101E.md",
     "Ciberseguridad/Radware/2025-09-29.md",
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
@@ -247,7 +264,6 @@
     "Excalidraw/Drawing 2026-04-20 12.21.25.excalidraw.md",
     "N8N/N8N Config.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
-    "Excalidraw/Scripts/Downloaded/Text Aura.md",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Media/Pasted Image 20260416153908_483.png",
     "Media/Pasted Image 20260416153831_388.png",

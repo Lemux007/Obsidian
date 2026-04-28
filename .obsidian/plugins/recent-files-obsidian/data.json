@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Paquetes",
+      "path": "N8N/Paquetes.md"
+    },
+    {
       "basename": "N8N",
       "path": "N8N/N8N.md"
+    },
+    {
+      "basename": "N8N Estructura",
+      "path": "N8N/N8N Estructura.md"
+    },
+    {
+      "basename": "AI",
+      "path": "Ciberseguridad/TryHackMe/AI.md"
     },
     {
       "basename": "Upgrade",
@@ -27,10 +39,6 @@
     {
       "basename": "Drawing 2026-04-23 16.06.27.excalidraw",
       "path": "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md"
-    },
-    {
-      "basename": "N8N Estructura",
-      "path": "N8N/N8N Estructura.md"
     },
     {
       "basename": "300-101E",
