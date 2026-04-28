@@ -214,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3e6c54a14b814d7",
+  "active": "a361c99cb4766eea",
   "lastOpenFiles": [
     "AI iniciatives.md",
     "N8N/N8N.md",
