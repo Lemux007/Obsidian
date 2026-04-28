@@ -8,3 +8,9 @@ Contenedores/Kubernets
 Qualys
 IAM
 Tutoring, teamwork, proyects leading
+N8N
+Automatization
+Trend Micro
+Tanium
+
+

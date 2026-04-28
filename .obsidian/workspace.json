@@ -23,12 +23,14 @@
             "id": "cfb2430c366ed5a0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "AI iniciatives.md"
+                "file": "Upgrade.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "AI iniciatives"
+              "icon": "lucide-file",
+              "title": "Upgrade"
             }
           }
         ],
@@ -231,11 +233,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a361c99cb4766eea",
+  "active": "cfb2430c366ed5a0",
   "lastOpenFiles": [
+    "Configuration.md",
+    "PBX Conmutador.canvas",
+    "Upgrade.md",
+    "Ciberseguridad/TryHackMe/Splunk.md",
+    "Ciberseguridad/TryHackMe/Drawing 2026-04-28 10.35.35.excalidraw.md",
     "AI iniciatives.md",
     "N8N/N8N.md",
-    "Configuration.md",
     "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "N8N/N8N Estructura.md",
@@ -244,8 +250,6 @@
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
     "Ciberseguridad/Radware/Radware.md",
-    "PBX Conmutador.canvas",
-    "Upgrade.md",
     "N8N Licencias.md",
     "Drawing 2026-04-20 12.30.05.excalidraw.md",
     "Matriz.md",
@@ -259,13 +263,10 @@
     "N8N/N8N Config.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
-    "Notas Random/2026-04-15.md",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
     "Media/Pasted Image 20260416153908_483.png",
     "Media/Pasted Image 20260416153831_388.png",
     "Media/Pasted image 20260416153809.png",
-    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Media/THM-UKIPF9RXLM.pdf",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf",
