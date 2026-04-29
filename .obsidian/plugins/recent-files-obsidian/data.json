@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Paquetes",
-      "path": "N8N/Paquetes.md"
-    },
-    {
       "basename": "N8N",
       "path": "N8N/N8N.md"
     },
     {
-      "basename": "N8N Estructura",
-      "path": "N8N/N8N Estructura.md"
-    },
-    {
       "basename": "AI",
       "path": "Ciberseguridad/TryHackMe/AI.md"
+    },
+    {
+      "basename": "Paquetes",
+      "path": "N8N/Paquetes.md"
+    },
+    {
+      "basename": "N8N Estructura",
+      "path": "N8N/N8N Estructura.md"
     },
     {
       "basename": "Upgrade",
