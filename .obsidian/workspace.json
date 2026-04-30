@@ -11,12 +11,14 @@
             "id": "4b5d24fff85eda45",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "N8N/N8N.md"
+                "file": "N8N/Paquetes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "N8N"
+              "icon": "lucide-file",
+              "title": "Paquetes"
             }
           },
           {
@@ -25,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ciberseguridad/TryHackMe/AI.md"
+                "file": "AI iniciatives.md"
               },
               "icon": "excalidraw-icon",
-              "title": "AI"
+              "title": "AI iniciatives"
             }
           }
         ]
@@ -232,12 +234,12 @@
   },
   "active": "4b5d24fff85eda45",
   "lastOpenFiles": [
-    "Ciberseguridad/TryHackMe/AI.md",
     "N8N/N8N.md",
+    "AI iniciatives.md",
+    "Ciberseguridad/TryHackMe/AI.md",
     "N8N/Paquetes.md",
     "N8N/N8N Estructura.md",
     "Upgrade.md",
-    "AI iniciatives.md",
     "Configuration.md",
     "PBX Conmutador.canvas",
     "Ciberseguridad/TryHackMe/Splunk.md",
