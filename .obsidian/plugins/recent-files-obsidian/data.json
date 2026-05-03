@@ -195,10 +195,6 @@
     {
       "basename": "Teoría de la información",
       "path": "Ciberseguridad/Teoría de la información.md"
-    },
-    {
-      "basename": "SOC",
-      "path": "Ciberseguridad/SOC.md"
     }
   ],
   "omittedPaths": [],

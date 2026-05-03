@@ -1,7 +1,7 @@
-| **SOC Nivel 1**                                                             | **CROC & Vulnerability**                                                            | **SOAR Elite (Full)**                                                               |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| _Monitoreo Inteligente de Consola_                                          | _Gestión Proactiva de Riesgo y Parcheo_                                             | _Orquestación Total y Respuesta Autónoma_                                           |
-| $$$                                                                         | $$$                                                                                 | $$$                                                                                 |
+| **SOC Nivel 1**                    | **CROC & Vulnerability**                | **SOAR Elite (Full)**                     |
+| ---------------------------------- | --------------------------------------- | ----------------------------------------- |
+| _Monitoreo Inteligente de Consola_ | _Gestión Proactiva de Riesgo y Parcheo_ | _Orquestación Total y Respuesta Autónoma_ |
+| $$$                                | $$$                                     | $$$                                       |
 | **Enfoque:** Reducción de ruido y visibilidad.                              | **Enfoque:** Inteligencia de riesgo y prevención.                                   | **Enfoque:** Autonomía total y Service Desk.                                        |
 | **Monitoreo Multivendor:** Trend Micro, Firewalls y Logs de sistema.        | **Todo lo de SOC Lvl 1, más:**                                                      | **Todo lo de CROC, más:**                                                           |
 | **Triage por IA:** Filtrado del +80% de falsos positivos automáticamente.   | **Unified Risk Score:** Cálculo de riesgo cruzado (Trend + otras herramientas).     | **Service Desk Autónomo:** Integración bidireccional con **Proactivanet**.          |
