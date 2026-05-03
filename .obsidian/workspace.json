@@ -25,10 +25,12 @@
             "id": "c0aa5e99e3f09837",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Media/THM-UKIPF9RXLM.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "THM-UKIPF9RXLM"
             }
           }
         ],
@@ -232,8 +234,10 @@
   },
   "active": "c0aa5e99e3f09837",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
+    "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Troubleshooting/Correo ESM.md",
+    "conflict-files-obsidian-git.md",
     "Troubleshooting/Creación VPN.md",
     "N8N/Paquetes.md",
     "Ciberseguridad/TryHackMe/Splunk.md",
@@ -267,9 +271,7 @@
     "Ciberseguridad/Radware/ADO.md",
     "Ciberseguridad/Radware/Pre-Sales Certification.md",
     "Ciberseguridad/Radware/Application Protection Training for Partners.md",
-    "Ciberseguridad/Radware/300-101E.md",
     "Media/Pasted image 20260406125348.png",
-    "N8N.md",
     "Media/Pasted image 20260327113444.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -277,7 +279,6 @@
     "Ciberseguridad/TryHackMe/Certs",
     "Ciberseguridad/TryHackMe",
     "Ciberseguridad/Trend Micro",
-    "Ciberseguridad/Tanium",
-    "Ciberseguridad/Radware"
+    "Ciberseguridad/Tanium"
   ]
 }
