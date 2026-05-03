@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "Creación VPN",
+      "path": "Troubleshooting/Creación VPN.md"
+    },
+    {
       "basename": "N8N",
       "path": "N8N/N8N.md"
     },
@@ -131,14 +139,6 @@
     {
       "basename": "Allocation Failed",
       "path": "Troubleshooting/Allocation Failed.md"
-    },
-    {
-      "basename": "Creación VPN",
-      "path": "Troubleshooting/Creación VPN.md"
-    },
-    {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
     },
     {
       "basename": "Introduction to SecOps",
