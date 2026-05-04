@@ -25,15 +25,21 @@
             "id": "20a3a19dfa54c891",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "AI iniciatives.md"
+                "file": "PBX Conmutador.canvas",
+                "viewState": {
+                  "x": 63.5,
+                  "y": 75,
+                  "zoom": -0.48749286903657135
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "AI iniciatives"
+              "icon": "lucide-layout-dashboard",
+              "title": "PBX Conmutador"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,16 +238,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a361c99cb4766eea",
+  "active": "20a3a19dfa54c891",
   "lastOpenFiles": [
+    "Upgrade.md",
+    "PBX Conmutador.canvas",
+    "Configuration.md",
     "AI iniciatives.md",
     "N8N/Paquetes.md",
     "N8N/N8N.md",
     "Ciberseguridad/TryHackMe/AI.md",
     "N8N/N8N Estructura.md",
-    "Upgrade.md",
-    "Configuration.md",
-    "PBX Conmutador.canvas",
     "Ciberseguridad/TryHackMe/Splunk.md",
     "Ciberseguridad/TryHackMe/Drawing 2026-04-28 10.35.35.excalidraw.md",
     "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
@@ -261,7 +267,6 @@
     "Templates/Drawing.md",
     "Sell/PAN preguntas.md",
     "Excalidraw/Drawing 2026-04-20 12.21.25.excalidraw.md",
-    "N8N/N8N Config.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Media/Pasted Image 20260416153908_483.png",

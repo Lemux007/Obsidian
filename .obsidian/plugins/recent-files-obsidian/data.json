@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Paquetes",
-      "path": "N8N/Paquetes.md"
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "Upgrade",
+      "path": "Upgrade.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
     },
     {
       "basename": "AI iniciatives",
       "path": "AI iniciatives.md"
+    },
+    {
+      "basename": "Paquetes",
+      "path": "N8N/Paquetes.md"
     },
     {
       "basename": "N8N",
@@ -19,18 +31,6 @@
     {
       "basename": "N8N Estructura",
       "path": "N8N/N8N Estructura.md"
-    },
-    {
-      "basename": "Upgrade",
-      "path": "Upgrade.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
-    },
-    {
-      "basename": "PBX Conmutador",
-      "path": "PBX Conmutador.canvas"
     },
     {
       "basename": "Splunk",
