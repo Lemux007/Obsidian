@@ -11,14 +11,12 @@
             "id": "825f579efd004bfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ESM.md",
-                "mode": "source",
-                "source": false
+                "file": "Ciberseguridad/PAN/PAN-OS Features.md"
               },
-              "icon": "lucide-file",
-              "title": "ESM"
+              "icon": "excalidraw-icon",
+              "title": "PAN-OS Features"
             }
           }
         ]
@@ -222,8 +220,9 @@
   },
   "active": "825f579efd004bfc",
   "lastOpenFiles": [
-    "Media/Pasted image 20260505100324.png",
     "ESM.md",
+    "conflict-files-obsidian-git.md",
+    "Media/Pasted image 20260505100324.png",
     "Troubleshooting/Bloqueo de credenciales.md",
     "Troubleshooting/Correo ESM.md",
     "Troubleshooting/Allocation Failed.md",
@@ -263,7 +262,6 @@
     "Media/Pasted image 20260409104435.png",
     "Media/Pasted image 20260409104421.png",
     "Media/Pasted image 20260406125348.png",
-    "Media/Pasted image 20260327113444.png",
     "Practicas/Reporte Final.pdf",
     "Practicas/Carta de Termino .pdf",
     "Practicas/Reportes mensuales.pdf",

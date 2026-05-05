@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "PAN-OS Features",
+      "path": "Ciberseguridad/PAN/PAN-OS Features.md"
+    },
+    {
       "basename": "ESM",
       "path": "ESM.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Bloqueo de credenciales",
@@ -55,10 +63,6 @@
     {
       "basename": "AI",
       "path": "Ciberseguridad/TryHackMe/AI.md"
-    },
-    {
-      "basename": "PAN-OS Features",
-      "path": "Ciberseguridad/PAN/PAN-OS Features.md"
     },
     {
       "basename": "Network Security NetSec Professional",
@@ -195,10 +199,6 @@
     {
       "basename": "Attack Index",
       "path": "Ciberseguridad/Attack Index.md"
-    },
-    {
-      "basename": "1-15-26",
-      "path": "Ciberseguridad/Linux/1-15-26.md"
     }
   ],
   "omittedPaths": [],
