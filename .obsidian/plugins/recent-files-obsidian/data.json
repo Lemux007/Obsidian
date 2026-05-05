@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ESM",
+      "path": "ESM.md"
+    },
+    {
       "basename": "Bloqueo de credenciales",
       "path": "Troubleshooting/Bloqueo de credenciales.md"
     },
