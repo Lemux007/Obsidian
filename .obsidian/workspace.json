@@ -13,33 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N8N/Paquetes.md",
+                "file": "Troubleshooting/Bloqueo de credenciales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paquetes"
+              "title": "Bloqueo de credenciales"
             }
           },
           {
             "id": "20a3a19dfa54c891",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "PBX Conmutador.canvas",
-                "viewState": {
-                  "x": 63.5,
-                  "y": 75,
-                  "zoom": -0.48749286903657135
-                }
+                "file": "Troubleshooting/Bloqueo de credenciales.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "PBX Conmutador"
+              "icon": "lucide-file",
+              "title": "Bloqueo de credenciales"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,35 +234,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20a3a19dfa54c891",
+  "active": "4b5d24fff85eda45",
   "lastOpenFiles": [
+    "Troubleshooting/Correo ESM.md",
+    "Troubleshooting/Bloqueo de credenciales.md",
+    "Troubleshooting/Allocation Failed.md",
+    "Troubleshooting/Credenciales invalidas.md",
+    "Troubleshooting/Error de conexión.md",
+    "Troubleshooting/VPN.md",
+    "Troubleshooting/Creación VPN.md",
     "Upgrade.md",
-    "PBX Conmutador.canvas",
-    "Configuration.md",
-    "AI iniciatives.md",
+    "Troubleshooting/Dos contraseñas para inicio de sesion.md",
+    "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
     "N8N/Paquetes.md",
-    "N8N/N8N.md",
+    "Configuration.md",
     "Ciberseguridad/TryHackMe/AI.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2026-05-04 13.38.46.excalidraw.md",
+    "Ciberseguridad/PAN/PAN-OS Features.md",
+    "Ciberseguridad/PAN/Drawing 2026-05-04 11.04.40.excalidraw.md",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md",
+    "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
+    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
+    "PBX Conmutador.canvas",
+    "AI iniciatives.md",
+    "N8N/N8N.md",
     "N8N/N8N Estructura.md",
     "Ciberseguridad/TryHackMe/Splunk.md",
     "Ciberseguridad/TryHackMe/Drawing 2026-04-28 10.35.35.excalidraw.md",
-    "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Ciberseguridad/Radware/300-101E.md",
-    "Ciberseguridad/Radware/2025-09-29.md",
-    "Ciberseguridad/Radware/Pre-Sales Certification.md",
-    "Ciberseguridad/Radware/Application Protection Training for Partners.md",
-    "Ciberseguridad/Radware/Radware.md",
-    "N8N Licencias.md",
-    "Drawing 2026-04-20 12.30.05.excalidraw.md",
-    "Matriz.md",
     "Untitled.canvas",
-    "N8N/Matriz.md",
-    "Tables N8N 2.md",
-    "Tables n8n.md",
-    "Templates/Drawing.md",
-    "Sell/PAN preguntas.md",
-    "Excalidraw/Drawing 2026-04-20 12.21.25.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Media/Pasted Image 20260416153908_483.png",
