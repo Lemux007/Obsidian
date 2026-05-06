@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "N8N",
+      "path": "N8N/N8N.md"
+    },
+    {
+      "basename": "Paquetes",
+      "path": "N8N/Paquetes.md"
+    },
+    {
+      "basename": "N8N Estructura",
+      "path": "N8N/N8N Estructura.md"
+    },
+    {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "2026-05-06",
+      "path": "Notas Random/2026-05-06.md"
+    },
+    {
+      "basename": "Drawing 2026-05-03 21.32.08.excalidraw",
+      "path": "Excalidraw/Drawing 2026-05-03 21.32.08.excalidraw.md"
+    },
+    {
       "basename": "THM-UKIPF9RXLM",
       "path": "Media/THM-UKIPF9RXLM.pdf"
     },
@@ -13,28 +37,12 @@
       "path": "Media/Presecurity-THM-4S6ZUQ73JP.pdf"
     },
     {
-      "basename": "Correo ESM",
-      "path": "Troubleshooting/Correo ESM.md"
-    },
-    {
       "basename": "Creación VPN",
       "path": "Troubleshooting/Creación VPN.md"
     },
     {
-      "basename": "N8N",
-      "path": "N8N/N8N.md"
-    },
-    {
       "basename": "AI",
       "path": "Ciberseguridad/TryHackMe/AI.md"
-    },
-    {
-      "basename": "Paquetes",
-      "path": "N8N/Paquetes.md"
-    },
-    {
-      "basename": "N8N Estructura",
-      "path": "N8N/N8N Estructura.md"
     },
     {
       "basename": "Upgrade",
@@ -191,14 +199,6 @@
     {
       "basename": "WEB SSO",
       "path": "Ciberseguridad/WEB SSO.md"
-    },
-    {
-      "basename": "Perfiles",
-      "path": "Ciberseguridad/Cortex XDR/Perfiles.md"
-    },
-    {
-      "basename": "Teoría de la información",
-      "path": "Ciberseguridad/Teoría de la información.md"
     }
   ],
   "omittedPaths": [],
