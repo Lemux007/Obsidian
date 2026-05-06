@@ -33,7 +33,8 @@
               "title": "2026-05-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,8 +232,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "35301c54799bda55",
+  "active": "1af02c74790d36bb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "N8N/N8N.md",
+    "Media/Pasted image 20260505100324.png",
+    "Media/Pasted Image 20260505175605_517.png",
+    "Media/Pasted Image 20260505160814_440.png",
+    "Media/Pasted Image 20260505155943_759.png",
+    "ESM.md",
+    "Ciberseguridad/PAN/PAN-OS Features.md",
     "N8N/Paquetes.md",
     "N8N/N8N Estructura.md",
     "Troubleshooting/Correo ESM.md",
@@ -240,7 +249,6 @@
     "Excalidraw/Drawing 2026-05-03 21.32.08.excalidraw.md",
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
-    "conflict-files-obsidian-git.md",
     "Troubleshooting/Creación VPN.md",
     "Ciberseguridad/TryHackMe/Splunk.md",
     "Ciberseguridad/TryHackMe/AI.md",
@@ -248,7 +256,6 @@
     "AI iniciatives.md",
     "Excalidraw/Drawing 2026-04-22 15.56.39.excalidraw.md",
     "Excalidraw/Drawing 2026-04-20 12.21.25.excalidraw.md",
-    "N8N/N8N.md",
     "Media/Pasted image 20260416153809.png",
     "Media/Pasted Image 20260416153908_483.png",
     "Media/Pasted Image 20260416153831_388.png",
@@ -265,14 +272,7 @@
     "Media/THM-UKIPF9RXLM.pdf",
     "To do.md",
     "Media/Pasted image 20260409104446.png",
-    "Media/Pasted image 20260409104435.png",
-    "Media/Pasted image 20260409104421.png",
     "Ciberseguridad/Radware/2025-09-29.md",
-    "Ciberseguridad/Radware/Radware.md",
-    "Ciberseguridad/Radware/ADO.md",
-    "Ciberseguridad/Radware/Pre-Sales Certification.md",
-    "Media/Pasted image 20260406125348.png",
-    "Media/Pasted image 20260327113444.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Ciberseguridad/Windows Server",
