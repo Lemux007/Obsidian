@@ -5,6 +5,10 @@
       "path": "Ciberseguridad/PAN/PAN-OS Features.md"
     },
     {
+      "basename": "N8N",
+      "path": "N8N/N8N.md"
+    },
+    {
       "basename": "ESM",
       "path": "ESM.md"
     },
@@ -83,14 +87,6 @@
     {
       "basename": "AI iniciatives",
       "path": "AI iniciatives.md"
-    },
-    {
-      "basename": "N8N",
-      "path": "N8N/N8N.md"
-    },
-    {
-      "basename": "N8N Estructura",
-      "path": "N8N/N8N Estructura.md"
     },
     {
       "basename": "Splunk",

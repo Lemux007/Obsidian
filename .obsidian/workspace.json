@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -218,8 +219,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "825f579efd004bfc",
+  "active": "a361c99cb4766eea",
   "lastOpenFiles": [
+    "Media/Pasted Image 20260505175605_517.png",
+    "N8N/N8N.md",
+    "Ciberseguridad/PAN/PAN-OS Features.md",
+    "N8N/N8N Estructura.md",
     "Media/Pasted Image 20260505160814_440.png",
     "Media/Pasted Image 20260505155943_759.png",
     "ESM.md",
@@ -240,15 +245,12 @@
     "Ciberseguridad/TryHackMe/AI.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Drawing 2026-05-04 13.38.46.excalidraw.md",
-    "Ciberseguridad/PAN/PAN-OS Features.md",
     "Ciberseguridad/PAN/Drawing 2026-05-04 11.04.40.excalidraw.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "PBX Conmutador.canvas",
-    "AI iniciatives.md",
-    "N8N/N8N.md",
     "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
@@ -261,7 +263,6 @@
     "N8N",
     "Media/Pasted image 20260409104446.png",
     "Media/Pasted image 20260409104435.png",
-    "Media/Pasted image 20260409104421.png",
     "Practicas/Reporte Final.pdf",
     "Practicas/Carta de Termino .pdf",
     "Practicas/Reportes mensuales.pdf",
