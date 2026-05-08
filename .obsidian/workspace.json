@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ciberseguridad/PAN/PAN-OS Features.md"
+                "file": "N8N/N8N.md"
               },
               "icon": "excalidraw-icon",
-              "title": "PAN-OS Features"
+              "title": "N8N"
+            }
+          },
+          {
+            "id": "91866055cf444c96",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "N8N/N8N.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "N8N"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -219,11 +231,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "825f579efd004bfc",
+  "active": "91866055cf444c96",
   "lastOpenFiles": [
-    "Media/Pasted Image 20260505175605_517.png",
+    "Untitled.md",
+    "Media/Pasted Image 20260507133153_102.svg",
     "N8N/N8N.md",
     "Ciberseguridad/PAN/PAN-OS Features.md",
+    "Media/Pasted Image 20260505175605_517.png",
     "N8N/N8N Estructura.md",
     "Media/Pasted Image 20260505160814_440.png",
     "Media/Pasted Image 20260505155943_759.png",
@@ -249,7 +263,6 @@
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security NetSec Professional.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Security Professional.md",
     "Ciberseguridad/PAN/Network Security_ NetSec Professional/Network Based Attacks.md",
-    "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "PBX Conmutador.canvas",
     "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
@@ -261,8 +274,6 @@
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Media/280_3_442400_1755210058_Palo Alto Networks Course Certificate of Completion.pdf",
     "N8N",
-    "Media/Pasted image 20260409104446.png",
-    "Media/Pasted image 20260409104435.png",
     "Practicas/Reporte Final.pdf",
     "Practicas/Carta de Termino .pdf",
     "Practicas/Reportes mensuales.pdf",
