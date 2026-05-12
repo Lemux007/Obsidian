@@ -5,6 +5,10 @@
       "path": "N8N/N8N.md"
     },
     {
+      "basename": "AI iniciatives",
+      "path": "AI iniciatives.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "PBX Conmutador",
       "path": "PBX Conmutador.canvas"
-    },
-    {
-      "basename": "AI iniciatives",
-      "path": "AI iniciatives.md"
     },
     {
       "basename": "Splunk",
