@@ -201,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,14 +218,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91866055cf444c96",
+  "active": "a361c99cb4766eea",
   "lastOpenFiles": [
-    "AI iniciatives.md",
+    "N8N/Paquetes.md",
+    "Upgrade.md",
+    "Untitled.md",
     "N8N/N8N.md",
+    "AI iniciatives.md",
     "conflict-files-obsidian-git.md",
     "Notas Random/2026-05-06.md",
     "Excalidraw/Drawing 2026-05-03 21.32.08.excalidraw.md",
-    "Untitled.md",
     "Media/Pasted Image 20260507133153_102.svg",
     "Ciberseguridad/PAN/PAN-OS Features.md",
     "Media/Pasted Image 20260505175605_517.png",
@@ -241,10 +243,8 @@
     "Troubleshooting/Error de conexión.md",
     "Troubleshooting/VPN.md",
     "Troubleshooting/Creación VPN.md",
-    "Upgrade.md",
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
     "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
-    "N8N/Paquetes.md",
     "Configuration.md",
     "Ciberseguridad/TryHackMe/AI.md",
     "Excalidraw/Untitled.md",
