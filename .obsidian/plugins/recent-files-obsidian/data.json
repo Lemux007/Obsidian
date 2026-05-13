@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Upgrade",
+      "path": "Upgrade.md"
+    },
+    {
+      "basename": "AI iniciatives",
+      "path": "AI iniciatives.md"
+    },
+    {
       "basename": "2026-05-06",
       "path": "Notas Random/2026-05-06.md"
     },
@@ -39,14 +47,6 @@
     {
       "basename": "AI",
       "path": "Ciberseguridad/TryHackMe/AI.md"
-    },
-    {
-      "basename": "Upgrade",
-      "path": "Upgrade.md"
-    },
-    {
-      "basename": "AI iniciatives",
-      "path": "AI iniciatives.md"
     },
     {
       "basename": "Configuration",
