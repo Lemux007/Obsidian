@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upgrade.md",
+                "file": "N8N/Ideas automatizaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upgrade"
+              "title": "Ideas automatizaciones"
             }
           },
           {
@@ -235,19 +235,20 @@
   },
   "active": "35301c54799bda55",
   "lastOpenFiles": [
+    "N8N/Paquetes.md",
+    "N8N/Ideas automatizaciones.md",
+    "N8N/N8N.md",
     "Notas Random/2026-05-06.md",
-    "conflict-files-obsidian-git.md",
     "Upgrade.md",
+    "conflict-files-obsidian-git.md",
     "Media/Pasted Image 20260507133153_102.svg",
     "AI iniciatives.md",
-    "N8N/N8N.md",
     "Media/Pasted image 20260505100324.png",
     "Media/Pasted Image 20260505175605_517.png",
     "Media/Pasted Image 20260505160814_440.png",
     "Media/Pasted Image 20260505155943_759.png",
     "ESM.md",
     "Ciberseguridad/PAN/PAN-OS Features.md",
-    "N8N/Paquetes.md",
     "N8N/N8N Estructura.md",
     "Troubleshooting/Correo ESM.md",
     "Excalidraw/Drawing 2026-05-03 21.32.08.excalidraw.md",
