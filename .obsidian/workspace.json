@@ -35,7 +35,8 @@
               "title": "2026-05-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,14 +234,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "35301c54799bda55",
+  "active": "f57143b7aba96585",
   "lastOpenFiles": [
-    "N8N/Paquetes.md",
     "N8N/Ideas automatizaciones.md",
+    "conflict-files-obsidian-git.md",
+    "Task N8N.md",
+    "N8N/Paquetes.md",
     "N8N/N8N.md",
     "Notas Random/2026-05-06.md",
     "Upgrade.md",
-    "conflict-files-obsidian-git.md",
     "Media/Pasted Image 20260507133153_102.svg",
     "AI iniciatives.md",
     "Media/Pasted image 20260505100324.png",
@@ -274,7 +276,6 @@
     "N8N",
     "Media/THM-UKIPF9RXLM.pdf",
     "To do.md",
-    "Ciberseguridad/Radware/2025-09-29.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Ciberseguridad/Windows Server",
