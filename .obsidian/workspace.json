@@ -35,8 +35,7 @@
               "title": "2026-05-06"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,10 +233,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f57143b7aba96585",
+  "active": "35301c54799bda55",
   "lastOpenFiles": [
-    "N8N/Ideas automatizaciones.md",
     "conflict-files-obsidian-git.md",
+    "N8N/Ideas automatizaciones.md",
     "Task N8N.md",
     "N8N/Paquetes.md",
     "N8N/N8N.md",
