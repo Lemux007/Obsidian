@@ -25,7 +25,6 @@
 ###  Hardening y Optimización (v1.1.0)
 
 
-
 - **Git hub repos:** Creacion de reporsitorios para configuracion y flujos
     
 - **Network Policies:** Aislar el pod de PostgreSQL para que solo acepte tráfico de n8n.
