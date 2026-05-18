@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91866055cf444c96",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "AI iniciatives.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "AI iniciatives"
-            }
-          },
-          {
             "id": "bb78145e62113d76",
             "type": "leaf",
             "state": {
@@ -32,9 +20,35 @@
               "icon": "lucide-file",
               "title": "Task N8N"
             }
+          },
+          {
+            "id": "91866055cf444c96",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "AI iniciatives.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AI iniciatives"
+            }
+          },
+          {
+            "id": "e7878905f45f1bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iniciativas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iniciativas"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,13 +248,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb78145e62113d76",
+  "active": "e7878905f45f1bce",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "AI iniciatives.md",
+    "Iniciativas.md",
     "Task N8N.md",
+    "conflict-files-obsidian-git.md",
     "A.md",
     "N8N/Ideas automatizaciones.md",
-    "AI iniciatives.md",
     "N8N/N8N.md",
     "N8N/Paquetes.md",
     "Upgrade.md",
@@ -266,7 +281,6 @@
     "Configuration.md",
     "Ciberseguridad/TryHackMe/AI.md",
     "Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2026-05-04 13.38.46.excalidraw.md",
     "PBX Conmutador.canvas",
     "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
