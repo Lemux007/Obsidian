@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Task N8N",
-      "path": "Task N8N.md"
+      "basename": "N8N",
+      "path": "N8N/N8N.md"
     },
     {
       "basename": "AI iniciatives",
       "path": "AI iniciatives.md"
     },
     {
-      "basename": "A",
-      "path": "A.md"
+      "basename": "Paquetes",
+      "path": "N8N/Paquetes.md"
+    },
+    {
+      "basename": "Ideas automatizaciones",
+      "path": "N8N/Ideas automatizaciones.md"
+    },
+    {
+      "basename": "Task N8N",
+      "path": "Task N8N.md"
     }
   ],
   "omittedPaths": [],
