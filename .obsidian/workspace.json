@@ -11,12 +11,14 @@
             "id": "bb78145e62113d76",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "N8N/N8N.md"
+                "file": "Task N8N.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "N8N"
+              "icon": "lucide-file",
+              "title": "Task N8N"
             }
           },
           {
@@ -25,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "AI iniciatives.md"
+                "file": "N8N/N8N.md"
               },
               "icon": "excalidraw-icon",
-              "title": "AI iniciatives"
+              "title": "N8N"
             }
           }
         ]
@@ -98,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -232,12 +235,12 @@
   },
   "active": "bb78145e62113d76",
   "lastOpenFiles": [
-    "AI iniciatives.md",
     "N8N/N8N.md",
-    "A.md",
     "N8N/Paquetes.md",
-    "N8N/Ideas automatizaciones.md",
     "Task N8N.md",
+    "N8N/Ideas automatizaciones.md",
+    "AI iniciatives.md",
+    "A.md",
     "Iniciativas.md",
     "conflict-files-obsidian-git.md",
     "Upgrade.md",

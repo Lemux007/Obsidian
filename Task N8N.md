@@ -27,20 +27,20 @@
 
 - [x] **Git hub repos:** Creacion de reporsitorios para configuracion y flujos   
     
-- [ ] **Network Policies:** Aislar el pod de PostgreSQL para que solo acepte tráfico de n8n.
+- [x] **Network Policies:** Aislar el pod de PostgreSQL para que solo acepte tráfico de n8n.
     
 - [x] **Límites de Recursos:** Configurar topes de CPU y RAM en el YAML para evitar caídas del servidor.
     
-- [ ] **Firewall del Host (UFW):** Restringir puertos en Ubuntu a solo el 22 y 30007.
+- [x] **Firewall del Host (UFW):** Restringir puertos en Ubuntu a solo el 22 y 30007.
     
-- [ ] **HTTPS/TLS:** Migrar de NodePort a Ingress (Traefik) con certificados SSL.
+- [x] **HTTPS/TLS:** Migrar de NodePort a Ingress (Traefik) con certificados SSL.
     
-- [ ] **Cabeceras de Seguridad:** Activar `N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS` y `N8N_BLOCK_XML_EXTERNAL_ENTITY`.
+- [x] **Cabeceras de Seguridad:** Activar `N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS` y `N8N_BLOCK_XML_EXTERNAL_ENTITY`.
     
-- [ ] **Automatización de Backups:** Scripts para exportar la base de datos a una ubicación externa.
+- [x] **Automatización de Backups:** Scripts para exportar la base de datos a una ubicación externa.
     
-- [ ] **Logs de Auditoría:** Activar el registro de auditoría de la API de Kubernetes.
+- [x] **Logs de Auditoría:** Activar el registro de auditoría de la API de Kubernetes.
     
-- [ ] **Security Context:** Configurar el contenedor para que n8n no corra como usuario root.
+- [x] **Security Context:** Configurar el contenedor para que n8n no corra como usuario root.
     
 
