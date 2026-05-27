@@ -11,14 +11,12 @@
             "id": "bb78145e62113d76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Task N8N.md",
-                "mode": "source",
-                "source": false
+                "file": "Ciberseguridad/TryHackMe/AI.md"
               },
-              "icon": "lucide-file",
-              "title": "Task N8N"
+              "icon": "excalidraw-icon",
+              "title": "AI"
             }
           },
           {
@@ -110,7 +108,7 @@
       {
         "id": "2fc63a201f8e938a",
         "type": "tabs",
-        "dimension": 58.758314855875824,
+        "dimension": 60.532150776053214,
         "children": [
           {
             "id": "a361c99cb4766eea",
@@ -200,7 +198,7 @@
       {
         "id": "77f2903fd4791bbf",
         "type": "tabs",
-        "dimension": 41.24168514412417,
+        "dimension": 39.467849223946786,
         "children": [
           {
             "id": "b33ec432ce3104d8",
@@ -235,6 +233,7 @@
   },
   "active": "bb78145e62113d76",
   "lastOpenFiles": [
+    "Ciberseguridad/TryHackMe/AI.md",
     "N8N/N8N.md",
     "Task N8N.md",
     "N8N/Paquetes.md",
@@ -264,7 +263,6 @@
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
     "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
     "Configuration.md",
-    "Ciberseguridad/TryHackMe/AI.md",
     "Excalidraw/Untitled.md",
     "PBX Conmutador.canvas",
     "Untitled.canvas",

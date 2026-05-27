@@ -43,4 +43,3 @@
     
 - [x] **Security Context:** Configurar el contenedor para que n8n no corra como usuario root.
     
-
