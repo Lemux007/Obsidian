@@ -11,12 +11,14 @@
             "id": "0d900e92037de2c4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "N8N/N8N.md"
+                "file": "Task N8N.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "N8N"
+              "icon": "lucide-file",
+              "title": "Task N8N"
             }
           }
         ]
@@ -82,8 +84,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,11 +222,11 @@
   "active": "0d900e92037de2c4",
   "lastOpenFiles": [
     "N8N/N8N.md",
+    "N8N/Paquetes.md",
     "N8N/Ideas automatizaciones.md",
     "Notas Random/2026-05-06.md",
     "conflict-files-obsidian-git.md",
     "Task N8N.md",
-    "N8N/Paquetes.md",
     "Upgrade.md",
     "Media/Pasted Image 20260507133153_102.svg",
     "AI iniciatives.md",
