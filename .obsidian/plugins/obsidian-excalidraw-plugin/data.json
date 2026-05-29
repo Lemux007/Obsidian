@@ -43,8 +43,8 @@
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
-  "desktopUIMode": "full",
-  "tabletUIMode": "tray",
+  "desktopUIMode": "compact",
+  "tabletUIMode": "compact",
   "phoneUIMode": "mobile",
   "iframeMatchExcalidrawTheme": false,
   "matchTheme": false,
@@ -119,7 +119,11 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
+<<<<<<< HEAD
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag2.23.7",
+=======
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag2.23.6",
+>>>>>>> origin/main
     "libraryItems": [
       {
         "status": "published",
@@ -36777,7 +36781,11 @@
       }
     }
   },
+<<<<<<< HEAD
   "previousRelease": "2.23.7",
+=======
+  "previousRelease": "2.23.6",
+>>>>>>> origin/main
   "showReleaseNotes": true,
   "excalidrawMasteryPromoCollapsed": false,
   "compareManifestToPluginVersion": true,
@@ -37272,6 +37280,7 @@
       "providerId": "Google Gemini",
       "model": "gemini-2.5-flash-image",
       "supportedSizes": [
+<<<<<<< HEAD
         "1024x1024",
         "848x1264",
         "1264x848",
@@ -37282,6 +37291,9 @@
         "768x1376",
         "1376x768",
         "1584x672"
+=======
+        "1024x1024"
+>>>>>>> origin/main
       ],
       "supportsPromptImageTransforms": true,
       "supportsMaskImageEdits": false
@@ -37290,6 +37302,7 @@
       "providerId": "Google Gemini",
       "model": "gemini-3.1-flash-image-preview",
       "supportedSizes": [
+<<<<<<< HEAD
         "512x512",
         "1024x1024",
         "2048x2048",
@@ -37346,6 +37359,9 @@
         "3072x384",
         "6144x768",
         "12288x1536"
+=======
+        "1024x1024"
+>>>>>>> origin/main
       ],
       "supportsPromptImageTransforms": true,
       "supportsMaskImageEdits": false
@@ -37354,6 +37370,7 @@
       "providerId": "Google Gemini",
       "model": "gemini-3-pro-image-preview",
       "supportedSizes": [
+<<<<<<< HEAD
         "1024x1024",
         "2048x2048",
         "4096x4096",
@@ -37384,6 +37401,9 @@
         "1584x672",
         "3168x1344",
         "6336x2688"
+=======
+        "1024x1024"
+>>>>>>> origin/main
       ],
       "supportsPromptImageTransforms": true,
       "supportsMaskImageEdits": false
