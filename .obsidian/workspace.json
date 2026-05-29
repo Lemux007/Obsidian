@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea868668855aa6bb",
+        "id": "2541ff4702b0a44a",
         "type": "tabs",
         "children": [
           {
-            "id": "bb78145e62113d76",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ciberseguridad/TryHackMe/AI.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "AI"
-            }
-          },
-          {
-            "id": "91866055cf444c96",
+            "id": "4569620be7fcc6a0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI iniciatives.md",
+                "file": "N8N/N8N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI iniciatives"
+              "title": "Backlinks for N8N"
             }
           },
           {
@@ -231,18 +219,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb78145e62113d76",
+  "active": "4569620be7fcc6a0",
   "lastOpenFiles": [
-    "Ciberseguridad/TryHackMe/AI.md",
     "N8N/N8N.md",
+    "AI iniciatives.md",
+    "Configuration.md",
     "Task N8N.md",
+    "PBX Conmutador.canvas",
+    "Upgrade.md",
     "N8N/Paquetes.md",
     "N8N/Ideas automatizaciones.md",
-    "AI iniciatives.md",
+    "Ciberseguridad/TryHackMe/AI.md",
     "A.md",
     "Iniciativas.md",
     "conflict-files-obsidian-git.md",
-    "Upgrade.md",
     "Notas Random/2026-05-06.md",
     "Excalidraw/Drawing 2026-05-03 21.32.08.excalidraw.md",
     "Media/Pasted Image 20260507133153_102.svg",
@@ -262,9 +252,6 @@
     "Troubleshooting/Creación VPN.md",
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
     "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
-    "Configuration.md",
-    "Excalidraw/Untitled.md",
-    "PBX Conmutador.canvas",
     "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
