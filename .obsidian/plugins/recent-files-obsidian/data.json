@@ -5,36 +5,12 @@
       "path": "N8N/N8N.md"
     },
     {
-      "basename": "AI iniciatives",
-      "path": "AI iniciatives.md"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Task N8N",
       "path": "Task N8N.md"
-    },
-    {
-      "basename": "PBX Conmutador",
-      "path": "PBX Conmutador.canvas"
-    },
-    {
-      "basename": "Upgrade",
-      "path": "Upgrade.md"
-    },
-    {
-      "basename": "Paquetes",
-      "path": "N8N/Paquetes.md"
-    },
-    {
-      "basename": "Ideas automatizaciones",
-      "path": "N8N/Ideas automatizaciones.md"
-    },
-    {
-      "basename": "AI",
-      "path": "Ciberseguridad/TryHackMe/AI.md"
     }
   ],
   "omittedPaths": [],
