@@ -11,12 +11,14 @@
             "id": "4569620be7fcc6a0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "N8N/N8N.md"
+                "file": "Task N8N.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "N8N"
+              "icon": "lucide-file",
+              "title": "Task N8N"
             }
           }
         ]
@@ -86,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b51eabc682af302",
@@ -215,11 +216,11 @@
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4569620be7fcc6a0",
+  "active": "a361c99cb4766eea",
   "lastOpenFiles": [
     "N8N/N8N.md",
     "conflict-files-obsidian-git.md",

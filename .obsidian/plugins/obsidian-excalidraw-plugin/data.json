@@ -15,8 +15,8 @@
   "loadKoreanFonts": false,
   "compress": true,
   "decompressForMDView": false,
-  "onceOffCompressFlagReset": false,
-  "onceOffGPTVersionReset": false,
+  "onceOffCompressFlagReset": true,
+  "onceOffGPTVersionReset": true,
   "autosave": true,
   "autosaveIntervalDesktop": 60000,
   "autosaveIntervalMobile": 30000,
@@ -119,7 +119,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag2.23.6",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag2.23.8",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -130,7 +130,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "previousRelease": "0.0.0",
+  "previousRelease": "2.23.8",
   "showReleaseNotes": true,
   "excalidrawMasteryPromoCollapsed": false,
   "compareManifestToPluginVersion": true,
