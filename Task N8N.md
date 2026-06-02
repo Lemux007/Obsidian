@@ -1,5 +1,4 @@
 
-
 ### Base del Despliegue (v1.0.0)
 
 - [ ] **Aislamiento de Namespace:** Creación y delimitación del entorno lógico dedicado `namespace: n8n` para separar la aplicación de otros servicios del sistema.

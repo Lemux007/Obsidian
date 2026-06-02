@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Task N8N"
             }
+          },
+          {
+            "id": "a9980146a9ba1fce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "N8N/N8N.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "N8N"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +233,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4569620be7fcc6a0",
+  "active": "a9980146a9ba1fce",
   "lastOpenFiles": [
-    "ESM.md",
     "Task N8N.md",
+    "ESM.md",
     "PBX Conmutador.canvas",
     "Upgrade.md",
     "N8N/N8N.md",
