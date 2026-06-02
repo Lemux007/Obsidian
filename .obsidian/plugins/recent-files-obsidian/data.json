@@ -5,6 +5,18 @@
       "path": "Task N8N.md"
     },
     {
+      "basename": "ESM",
+      "path": "ESM.md"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "Upgrade",
+      "path": "Upgrade.md"
+    },
+    {
       "basename": "N8N",
       "path": "N8N/N8N.md"
     }
