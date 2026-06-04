@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4569620be7fcc6a0",
+            "id": "a9980146a9ba1fce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Task N8N"
             }
-          },
-          {
-            "id": "a9980146a9ba1fce",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "N8N/N8N.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "N8N"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,11 +220,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a361c99cb4766eea",
+  "active": "a9980146a9ba1fce",
   "lastOpenFiles": [
     "AI.md",
-    "N8N/N8N.md",
     "Task N8N.md",
+    "A.md",
+    "N8N/N8N.md",
     "ESM.md",
     "PBX Conmutador.canvas",
     "Upgrade.md",
@@ -266,7 +254,6 @@
     "Troubleshooting/VPN.md",
     "Troubleshooting/Creación VPN.md",
     "Troubleshooting/Dos contraseñas para inicio de sesion.md",
-    "Troubleshooting/Levantamiento Servidor Y VM_PanOS.md",
     "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
