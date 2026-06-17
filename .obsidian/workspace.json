@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d900e92037de2c4",
+            "id": "b37b01c88956f6ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task N8N.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Task N8N"
+              "title": "New tab"
             }
           }
         ]
@@ -219,11 +215,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0d900e92037de2c4",
+  "active": "f57143b7aba96585",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-17 10.57.17.excalidraw.md",
+    "Media/Pasted Image 20260617105938_886.png",
+    "Media/Pasted Image 20260617105904_505.png",
+    "Media/Pasted Image 20260617105835_930.png",
+    "Media/Pasted Image 20260617105812_403.png",
+    "Untitled 1.md",
+    "Task N8N.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
-    "Task N8N.md",
     "N8N/N8N.md",
     "N8N/Paquetes.md",
     "N8N/Ideas automatizaciones.md",
@@ -249,16 +251,9 @@
     "Excalidraw/Drawing 2026-04-22 15.56.39.excalidraw.md",
     "Excalidraw/Drawing 2026-04-20 12.21.25.excalidraw.md",
     "Media/Pasted image 20260416153809.png",
-    "Media/Pasted Image 20260416153908_483.png",
-    "Media/Pasted Image 20260416153831_388.png",
-    "Excalidraw/Scripts/Downloaded/Text Aura.svg",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
-    "N8N/N8N Config.md",
-    "Configuration.md",
     "PBX Conmutador.canvas",
-    "Notas Random/2026-04-15.md",
     "N8N",
     "Media/THM-UKIPF9RXLM.pdf",
     "Excalidraw/Scripts/Downloaded",
