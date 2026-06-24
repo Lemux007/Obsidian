@@ -11,10 +11,14 @@
             "id": "b37b01c88956f6ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cuentas Nova.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cuentas Nova"
             }
           }
         ]
@@ -198,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,26 +215,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f57143b7aba96585",
+  "active": "b37b01c88956f6ff",
   "lastOpenFiles": [
+    "Media/Pasted image 20260624154221.png",
+    "Media/Pasted image 20260624153853.png",
+    "Task N8N.md",
+    "Cuentas Nova.md",
+    "Cuentas.md",
+    "Upgrade.md",
     "Excalidraw/Drawing 2026-06-17 10.57.17.excalidraw.md",
     "Media/Pasted Image 20260617105938_886.png",
     "Media/Pasted Image 20260617105904_505.png",
     "Media/Pasted Image 20260617105835_930.png",
     "Media/Pasted Image 20260617105812_403.png",
     "Untitled 1.md",
-    "Task N8N.md",
-    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "N8N/N8N.md",
     "N8N/Paquetes.md",
     "N8N/Ideas automatizaciones.md",
     "Notas Random/2026-05-06.md",
-    "Upgrade.md",
     "Media/Pasted Image 20260507133153_102.svg",
     "AI iniciatives.md",
     "Media/Pasted image 20260505100324.png",
@@ -250,9 +256,7 @@
     "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
     "Excalidraw/Drawing 2026-04-22 15.56.39.excalidraw.md",
     "Excalidraw/Drawing 2026-04-20 12.21.25.excalidraw.md",
-    "Media/Pasted image 20260416153809.png",
     "Excalidraw/Scripts/Downloaded/Text Aura.md",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
     "PBX Conmutador.canvas",
     "N8N",
     "Media/THM-UKIPF9RXLM.pdf",
