@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Cuentas Nova"
             }
+          },
+          {
+            "id": "b538aa58ffc84bd3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Vendors 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vendors 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,35 +228,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b37b01c88956f6ff",
+  "active": "b538aa58ffc84bd3",
   "lastOpenFiles": [
-    "Media/Pasted image 20260624154221.png",
-    "Media/Pasted image 20260624153853.png",
-    "Task N8N.md",
     "Cuentas Nova.md",
-    "Cuentas.md",
+    "Vendors 1.md",
+    "Diagrama de red 1.md",
+    "ESM.md",
+    "Media/Pasted Image 20260626164352_786.png",
+    "Media/Pasted Image 20260625140112_687.png",
+    "Media/Pasted Image 20260625140058_778.png",
+    "Media/Pasted Image 20260625140036_738.png",
+    "Media/Pasted Image 20260625134133_401.png",
+    "Media/Pasted Image 20260625133821_525.png",
+    "Media/Pasted Image 20260625133739_537.png",
+    "Media/Pasted Image 20260625133658_158.png",
+    "Media/Pasted Image 20260625133640_057.png",
+    "Media/Pasted Image 20260625133238_762.png",
+    "Media/Pasted Image 20260625131339_134",
+    "Media/Pasted Image 20260625131339_134.zip",
     "Upgrade.md",
+    "Task N8N.md",
+    "Excalidraw/Drawing 2026-06-28 14.35.47.excalidraw.md",
+    "Cuentas.md",
     "Excalidraw/Drawing 2026-06-17 10.57.17.excalidraw.md",
-    "Media/Pasted Image 20260617105938_886.png",
-    "Media/Pasted Image 20260617105904_505.png",
-    "Media/Pasted Image 20260617105835_930.png",
-    "Media/Pasted Image 20260617105812_403.png",
     "Untitled 1.md",
     "conflict-files-obsidian-git.md",
     "N8N/N8N.md",
     "N8N/Paquetes.md",
     "N8N/Ideas automatizaciones.md",
     "Notas Random/2026-05-06.md",
-    "Media/Pasted Image 20260507133153_102.svg",
     "AI iniciatives.md",
-    "Media/Pasted image 20260505100324.png",
-    "Media/Pasted Image 20260505175605_517.png",
-    "Media/Pasted Image 20260505160814_440.png",
-    "Media/Pasted Image 20260505155943_759.png",
-    "ESM.md",
     "Ciberseguridad/PAN/PAN-OS Features.md",
     "N8N/N8N Estructura.md",
     "Troubleshooting/Correo ESM.md",
@@ -254,9 +272,6 @@
     "Ciberseguridad/TryHackMe/Splunk.md",
     "Ciberseguridad/TryHackMe/AI.md",
     "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-22 15.56.39.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-20 12.21.25.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Text Aura.md",
     "PBX Conmutador.canvas",
     "N8N",
     "Media/THM-UKIPF9RXLM.pdf",
@@ -264,8 +279,6 @@
     "Excalidraw/Scripts",
     "Ciberseguridad/Windows Server",
     "Ciberseguridad/TryHackMe/Certs",
-    "Ciberseguridad/TryHackMe",
-    "Ciberseguridad/Trend Micro",
-    "Ciberseguridad/Tanium"
+    "Ciberseguridad/TryHackMe"
   ]
 }
