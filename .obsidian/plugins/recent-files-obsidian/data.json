@@ -1,44 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "N8N",
-      "path": "N8N/N8N.md"
+      "basename": "Upgrade",
+      "path": "Upgrade.md"
+    },
+    {
+      "basename": "Task N8N",
+      "path": "Nova/Task N8N.md"
+    },
+    {
+      "basename": "PBX Conmutador",
+      "path": "PBX Conmutador.canvas"
+    },
+    {
+      "basename": "ESM",
+      "path": "Nova/ESM.md"
     },
     {
       "basename": "DJ",
       "path": "DJ.md"
     },
     {
-      "basename": "Cuentas Nova",
-      "path": "Cuentas Nova.md"
-    },
-    {
-      "basename": "Vendors 1",
-      "path": "Vendors 1.md"
-    },
-    {
       "basename": "Diagrama de red 1",
-      "path": "Diagrama de red 1.md"
+      "path": "Nova/Diagrama de red 1.md"
     },
     {
-      "basename": "ESM",
-      "path": "ESM.md"
+      "basename": "Cuentas Nova",
+      "path": "Nova/Cuentas Nova.md"
     },
     {
-      "basename": "Upgrade",
-      "path": "Upgrade.md"
+      "basename": "Configuration",
+      "path": "Configuration.md"
     },
     {
-      "basename": "Task N8N",
-      "path": "Task N8N.md"
+      "basename": "N8N",
+      "path": "N8N/N8N.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "N8N/Untitled.md"
     },
     {
       "basename": "Drawing 2026-06-28 14.35.47.excalidraw",
       "path": "Excalidraw/Drawing 2026-06-28 14.35.47.excalidraw.md"
-    },
-    {
-      "basename": "PBX Conmutador",
-      "path": "PBX Conmutador.canvas"
     }
   ],
   "omittedPaths": [],

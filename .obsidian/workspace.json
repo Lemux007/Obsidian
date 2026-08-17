@@ -11,12 +11,10 @@
             "id": "b48f7b576cbc5746",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "N8N/N8N.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "N8N"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -219,14 +217,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b48f7b576cbc5746",
+  "active": "3139ebbbf901fd0d",
   "lastOpenFiles": [
-    "N8N/N8N.md",
-    "DJ.md",
-    "Cuentas Nova.md",
+    "Upgrade.md",
     "Vendors 1.md",
-    "Diagrama de red 1.md",
-    "ESM.md",
+    "Nova/Task N8N.md",
+    "PBX Conmutador.canvas",
+    "Nova/ESM.md",
+    "DJ.md",
+    "Nova/Diagrama de red 1.md",
+    "Nova/Cuentas Nova.md",
+    "Configuration.md",
+    "N8N/N8N.md",
+    "Nova",
+    "N8N/Untitled.md",
+    "Media/8242c32f-931d-4789-9ca1-9d80c1067aef.png",
     "Media/Pasted Image 20260626164352_786.png",
     "Media/Pasted Image 20260625140112_687.png",
     "Media/Pasted Image 20260625140058_778.png",
@@ -236,11 +241,8 @@
     "Media/Pasted Image 20260625133739_537.png",
     "Media/Pasted Image 20260625133658_158.png",
     "Media/Pasted Image 20260625133640_057.png",
-    "Media/Pasted Image 20260625133238_762.png",
     "Media/Pasted Image 20260625131339_134",
     "Media/Pasted Image 20260625131339_134.zip",
-    "Upgrade.md",
-    "Task N8N.md",
     "Excalidraw/Drawing 2026-06-28 14.35.47.excalidraw.md",
     "Cuentas.md",
     "Excalidraw/Drawing 2026-06-17 10.57.17.excalidraw.md",
@@ -249,7 +251,7 @@
     "N8N/Paquetes.md",
     "N8N/Ideas automatizaciones.md",
     "Notas Random/2026-05-06.md",
-    "AI iniciatives.md",
+    "Nova/AI iniciatives.md",
     "Ciberseguridad/PAN/PAN-OS Features.md",
     "N8N/N8N Estructura.md",
     "Troubleshooting/Correo ESM.md",
@@ -257,16 +259,11 @@
     "Ciberseguridad/TryHackMe/Certs/Certificaciones TryHackMe.md",
     "Media/Presecurity-THM-4S6ZUQ73JP.pdf",
     "Troubleshooting/Creación VPN.md",
-    "Ciberseguridad/TryHackMe/Splunk.md",
-    "Ciberseguridad/TryHackMe/AI.md",
-    "Ciberseguridad/Radware/Drawing 2026-04-23 16.06.27.excalidraw.md",
-    "PBX Conmutador.canvas",
     "N8N",
     "Media/THM-UKIPF9RXLM.pdf",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Ciberseguridad/Windows Server",
-    "Ciberseguridad/TryHackMe/Certs",
-    "Ciberseguridad/TryHackMe"
+    "Ciberseguridad/TryHackMe/Certs"
   ]
 }
