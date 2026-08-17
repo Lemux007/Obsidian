@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Thetaray",
+      "path": "Thetaray.md"
+    },
+    {
+      "basename": "BBVA",
+      "path": "BBVA.md"
+    },
+    {
+      "basename": "N8N",
+      "path": "N8N/N8N.md"
+    },
+    {
       "basename": "Upgrade",
       "path": "Upgrade.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Configuration",
       "path": "Configuration.md"
-    },
-    {
-      "basename": "N8N",
-      "path": "N8N/N8N.md"
     },
     {
       "basename": "Untitled",
