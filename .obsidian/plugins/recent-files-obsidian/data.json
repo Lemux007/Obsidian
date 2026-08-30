@@ -1,36 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Thetaray",
-      "path": "Thetaray.md"
+      "basename": "2026-03-09",
+      "path": "Notas Random/2026-03-09.md"
     },
     {
-      "basename": "BBVA",
-      "path": "BBVA.md"
+      "basename": "2026-02-23",
+      "path": "Notas Random/2026-02-23.md"
     },
     {
-      "basename": "N8N",
-      "path": "N8N/N8N.md"
+      "basename": "Reducción de tamaño VM",
+      "path": "Troubleshooting/Reducción de tamaño VM.md"
+    },
+    {
+      "basename": "Putty",
+      "path": "Troubleshooting/Putty.md"
+    },
+    {
+      "basename": "Subindex",
+      "path": "Templates/Subindex.md"
+    },
+    {
+      "basename": "Nodo",
+      "path": "Templates/Nodo.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Templates/Index.md"
+    },
+    {
+      "basename": "Drawing",
+      "path": "Templates/Drawing.md"
     },
     {
       "basename": "Upgrade",
       "path": "Upgrade.md"
     },
     {
-      "basename": "Task N8N",
-      "path": "Nova/Task N8N.md"
-    },
-    {
       "basename": "PBX Conmutador",
       "path": "PBX Conmutador.canvas"
     },
     {
-      "basename": "ESM",
-      "path": "Nova/ESM.md"
+      "basename": "Configuration",
+      "path": "Configuration.md"
     },
     {
-      "basename": "DJ",
-      "path": "DJ.md"
+      "basename": "N8N",
+      "path": "N8N/N8N.md"
+    },
+    {
+      "basename": "Task N8N",
+      "path": "Nova/Task N8N.md"
+    },
+    {
+      "basename": "ESM",
+      "path": "Nova/ESM.md"
     },
     {
       "basename": "Diagrama de red 1",
@@ -41,16 +65,8 @@
       "path": "Nova/Cuentas Nova.md"
     },
     {
-      "basename": "Configuration",
-      "path": "Configuration.md"
-    },
-    {
       "basename": "Untitled",
       "path": "N8N/Untitled.md"
-    },
-    {
-      "basename": "Drawing 2026-06-28 14.35.47.excalidraw",
-      "path": "Excalidraw/Drawing 2026-06-28 14.35.47.excalidraw.md"
     }
   ],
   "omittedPaths": [],
