@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "A",
+      "path": "CompTia Networking +/A.md"
+    },
+    {
+      "basename": "Diagrama OSI Model",
+      "path": "CompTia Networking +/Diagrama OSI Model.md"
+    },
+    {
+      "basename": "Certs and skills",
+      "path": "Certs and skills.md"
+    },
+    {
+      "basename": "Configuration",
+      "path": "Configuration.md"
+    },
+    {
+      "basename": "Upgrade",
+      "path": "Upgrade.md"
+    },
+    {
       "basename": "2026-03-09",
       "path": "Notas Random/2026-03-09.md"
     },
@@ -33,16 +53,8 @@
       "path": "Templates/Drawing.md"
     },
     {
-      "basename": "Upgrade",
-      "path": "Upgrade.md"
-    },
-    {
       "basename": "PBX Conmutador",
       "path": "PBX Conmutador.canvas"
-    },
-    {
-      "basename": "Configuration",
-      "path": "Configuration.md"
     },
     {
       "basename": "N8N",
