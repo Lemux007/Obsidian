@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Correo ESM",
+      "path": "Troubleshooting/Correo ESM.md"
+    },
+    {
+      "basename": "Titulo",
+      "path": "Titulo.md"
+    },
+    {
+      "basename": "2026-03-09",
+      "path": "Notas Random/2026-03-09.md"
+    },
+    {
       "basename": "2026-02-23",
       "path": "Notas Random/2026-02-23.md"
     },
     {
       "basename": "Drawing 2026-09-03 11.51.58.excalidraw",
       "path": "Excalidraw/Drawing 2026-09-03 11.51.58.excalidraw.md"
-    },
-    {
-      "basename": "A",
-      "path": "A.md"
     },
     {
       "basename": "Diagrama OSI Model",
@@ -27,10 +35,6 @@
     {
       "basename": "Upgrade",
       "path": "Upgrade.md"
-    },
-    {
-      "basename": "2026-03-09",
-      "path": "Notas Random/2026-03-09.md"
     },
     {
       "basename": "Reducción de tamaño VM",
